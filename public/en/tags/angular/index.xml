@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angular on mathias wellner</title>
+    <link>http://www.mwellner.de/en/tags/angular/index.xml</link>
+    <description>Recent content in Angular on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/en/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Theater Production and Actor Database</title>
+      <link>http://www.mwellner.de/en/2017/01/theater-production-and-actor-database/</link>
+      <pubDate>Mon, 23 Jan 2017 21:39:44 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/en/2017/01/theater-production-and-actor-database/</guid>
+      <description>
+
+&lt;p&gt;Currently, I am working on a hobby project, a &lt;a href=&#34;https://github.com/mwellner/mwtdb&#34;&gt;theater production and actor database&lt;/a&gt;
+(mwtdb for short). It is visible on GitHub and open source.&lt;/p&gt;
+
+&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
+
+&lt;p&gt;What I want to create is something similar to &lt;a href=&#34;http://www.imdb.com/&#34;&gt;IMDb&lt;/a&gt;, which focuses on
+movies, TV and celebreties, but for amateur theater. A very basic version will contain actors, directors and technicians,
+contributing to productions.&lt;/p&gt;
+
+&lt;p&gt;From a technical point of view, I will create a web application, using &lt;a href=&#34;https://angular.io/&#34;&gt;Angular&lt;/a&gt;
+and &lt;a href=&#34;https://neo4j.com/&#34;&gt;Neo4j&lt;/a&gt;, a &lt;a href=&#34;https://en.wikipedia.org/wiki/Graph_database&#34;&gt;graph database&lt;/a&gt;. The hope is that
+a graphical representation of the data at hand is better suited for retrieving the right data for a particular view.&lt;/p&gt;
+
+&lt;h3 id=&#34;first-steps&#34;&gt;First Steps&lt;/h3&gt;
+
+&lt;p&gt;I have used &lt;a href=&#34;https://cli.angular.io/&#34;&gt;Angular CLI&lt;/a&gt; to initialize my application. &lt;a href=&#34;https://v4-alpha.getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;
+will be my front-end framework, along with &lt;a href=&#34;https://ng-bootstrap.github.io/&#34;&gt;ng-bootstrap&lt;/a&gt; for some interactive components.&lt;/p&gt;
+
+&lt;p&gt;My first Angular components were &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/people/people.component.ts&#34;&gt;people&lt;/a&gt;
+(actors, directors) and &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/productions/productions.component.ts&#34;&gt;productions&lt;/a&gt;,
+showing a list of existing items and allowing to add more entries. For the graph database, I have created a
+&lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/database.service.ts&#34;&gt;database service&lt;/a&gt;, which implements a few basic queries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

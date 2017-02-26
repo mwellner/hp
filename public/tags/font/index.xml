@@ -10,10 +10,10 @@
     
     <item>
       <title>New Theme and Font</title>
-      <link>http://www.mwellner.de/post/2015-03-22-new-theme/</link>
+      <link>http://www.mwellner.de/2015/03/new-theme-and-font/</link>
       <pubDate>Sun, 22 Mar 2015 19:36:45 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-03-22-new-theme/</guid>
+      <guid>http://www.mwellner.de/2015/03/new-theme-and-font/</guid>
       <description>&lt;p&gt;I have changed the appearance of my web site, giving the &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress theme&lt;/a&gt; a chance. My goal was to get away from &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt;, since we use that on &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt; as well. The elements are roughly the same, but the look is slightly different.&lt;/p&gt;
 
 &lt;p&gt;One thing I noted with great delight &amp;ndash; you can use the &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less pre-processor&lt;/a&gt; when typing in your custom CSS. What I actually changed were table styles, they had defined quite large paddings, making my acting overview page look strange.&lt;/p&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Typographie</title>
-      <link>http://www.mwellner.de/post/2009-12-19-typographie/</link>
+      <link>http://www.mwellner.de/2009/12/typographie/</link>
       <pubDate>Sat, 19 Dec 2009 15:58:39 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-12-19-typographie/</guid>
+      <guid>http://www.mwellner.de/2009/12/typographie/</guid>
       <description>&lt;p&gt;Durch meine Tätigkeiten als Redakteur, Gestalter eines Theater-Abendprogramms und Autor eines Weblogs kam ich schon oft mit dem Setzen von Text in Berührung. Aber eigentlich ist mein Wissen recht begrenzt, beziehungsweise geprägt durch die Arbeit mit &lt;a href=&#34;http://en.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt;, einem Textsatzsystem vor allem für wissenschaftliche Publikationen. Von daher waren mir einige typographische Grundsätze in Fleisch und Blut übergegangen, welche bei LaTeX von &lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/koma-script/&#34;&gt;KOMA-Script&lt;/a&gt; umgesetzt werden, unter anderem&lt;/p&gt;
 
 &lt;ul&gt;

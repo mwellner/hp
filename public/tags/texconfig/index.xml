@@ -10,10 +10,10 @@
     
     <item>
       <title>Kleine Helferlein für das wissenschaftliche Schreiben mit LaTeX</title>
-      <link>http://www.mwellner.de/post/2009-11-09-vorbereitungen-fur-das-wissenschaftliche-schreiben-mit-latex/</link>
+      <link>http://www.mwellner.de/2009/11/kleine-helferlein-f%C3%BCr-das-wissenschaftliche-schreiben-mit-latex/</link>
       <pubDate>Mon, 09 Nov 2009 00:03:32 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-11-09-vorbereitungen-fur-das-wissenschaftliche-schreiben-mit-latex/</guid>
+      <guid>http://www.mwellner.de/2009/11/kleine-helferlein-f%C3%BCr-das-wissenschaftliche-schreiben-mit-latex/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Einleitung&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Das Textsatzsystem &lt;a href=&#34;https://de.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt; eignet sich hervorragend für wissenschaftliches Schreiben. Aber welche Komponenten braucht man genau? In diesem Artikel möchte ich beschreiben, wie man auf einem &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu-Linux&lt;/a&gt;-System die notwendigen Programme und Pakete installiert, um seine Publikationen bequem schreiben zu können. Windows-Nutzer können die Schritte genau so ausführen, müssen aber an einigen Stellen abweichend vorgehen.&lt;/p&gt;

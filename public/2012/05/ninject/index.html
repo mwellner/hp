@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta property="og:title" content="Ninject" />
+<meta property="og:description" content="Seit ich meine Brötchen bei einem Ingenieurdienstleister verdiene, sind die beruflichen Einträge recht selten geworden. Somit möchte ich jetzt die Gelegenheit erfreifen, um in allgemeiner und unverfänglicher Art über mein neues Projekt zu berichten.
+Zuerst einmal hat sich mein Arbeitsweg halbiert, vorher war ich in der Nähe von Bern tätig. Das fast tägliche, lange Pendeln hat mich ziemlich angestrengt. Geblieben aus dieser Zeit ist aber noch mein Abo für die 1." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.mwellner.de/2012/05/ninject/" />
+
+
+
+<meta property="article:published_time" content="2012-05-23T21:45:33&#43;00:00"/>
+<meta property="article:modified_time" content="2012-05-23T21:45:33&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Ninject"/>
+<meta name="twitter:description" content="Seit ich meine Brötchen bei einem Ingenieurdienstleister verdiene, sind die beruflichen Einträge recht selten geworden. Somit möchte ich jetzt die Gelegenheit erfreifen, um in allgemeiner und unverfänglicher Art über mein neues Projekt zu berichten.
+Zuerst einmal hat sich mein Arbeitsweg halbiert, vorher war ich in der Nähe von Bern tätig. Das fast tägliche, lange Pendeln hat mich ziemlich angestrengt. Geblieben aus dieser Zeit ist aber noch mein Abo für die 1."/>
+
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  
+  "headline": "Ninject",
+  "url": "http://www.mwellner.de/2012/05/ninject/",
+  "wordCount": "307",
+  
+  
+  "datePublished": "2012-05-23T21:45:33+00:00",
+  
+  
+  "dateModified": "2012-05-23T21:45:33+00:00",
+  
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mathias Wellner"
+  }
+  
+  ,
+  "keywords": "technik,Arbeit,c#,Dependency Injection,Ninject,Projekt,Schaffen,Software"
+  
+}
+</script>
+
+
+
+    <link rel="canonical" href="http://www.mwellner.de/2012/05/ninject/">
+
+    <title>Ninject | mathias wellner</title>
+
+    <!-- combined, minified CSS -->
+    <link href="http://www.mwellner.de/css/style.css" rel="stylesheet" integrity="sha384-Cdt2yG10w21pA8DMpImJIvsLOME686p75OYD9jGCZVWvOol9zkEsaF3ctGEuBXK6" crossorigin="anonymous">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="http://www.mwellner.de/">Startseite</a>
+          
+          
+          <a class="nav-link" href="http://www.mwellner.de/about/">About</a>
+          
+          
+        </nav>
+      </div>
+    </div>
+
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a href="http://www.mwellner.de/" rel="home">mathias wellner</a></h1>
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-9 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="http://www.mwellner.de/2012/05/ninject/">Ninject</a></h2>
+    <p class="blog-post-meta"><time datetime="2012-05-23T21:45:33Z">Wed May 23, 2012</time>  in 
+<i class="fa fa-folder" aria-hidden="true"></i>&nbsp;<a href="/categories/technik" rel="category tag">technik</a>
+
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/tags/arbeit" rel="tag">Arbeit</a>, <a href="/tags/c" rel="tag">c#</a>, <a href="/tags/dependency-injection" rel="tag">Dependency Injection</a>, <a href="/tags/ninject" rel="tag">Ninject</a>, <a href="/tags/projekt" rel="tag">Projekt</a>, <a href="/tags/schaffen" rel="tag">Schaffen</a>, <a href="/tags/software" rel="tag">Software</a>
+
+</p>
+  </header>
+  <p>Seit ich meine Brötchen bei einem Ingenieurdienstleister verdiene, sind die beruflichen Einträge recht selten geworden. Somit möchte ich jetzt die Gelegenheit erfreifen, um in allgemeiner und unverfänglicher Art über mein neues Projekt zu berichten.</p>
+
+<p>Zuerst einmal hat sich mein Arbeitsweg halbiert, vorher war ich in der Nähe von Bern tätig. Das fast tägliche, lange Pendeln hat mich ziemlich angestrengt. Geblieben aus dieser Zeit ist aber noch mein Abo für die 1.&nbsp;Klasse. Im Prinzip brauche ich das nicht mehr, aber irgendwie hänge ich doch noch dran. Und es gibt einfach mehr Platz und damit auch Ruhe in den gelb markierten Wagen der 1.&nbsp;Klasse, nach denen ich jetzt schon gewohnheitsmäßig Ausschau halte. Mein Weg ist deutlich kürzer jetzt und führt durch eine vertraute, schöne Landschaft.</p>
+
+<p>Aber nun zum technischen Teil. Ich arbeite an einem gigantischen, objektorientierten Software-Projekt in einer späten Phase. Vorbei sind die schönen Zeiten des Architekturentwurfs und des Implementierens, jetzt geht es um das Beseitigen von Fehlern und das hoffentlich fristgemäße Ausliefern. Problematisch sind die vielen Abhängigkeiten zwischen den Modulen. Jedesmal, wenn eine Klasse eine andere verwendet, muss sie deren Implementierung kennen. Dadurch entstand Code, der sich nur schlecht testen lässt. Idealerweise möchte man ein Modul isoliert betrachten und testen. Durch die vielen Abhängigkeiten muss man aber quasi immer alles zugleich testen und kann so keine wirklich gute Aussage machen.</p>
+
+<p>Eine Lösung dieses Dilemmas bietet <a href="http://de.wikipedia.org/wiki/Dependency_Injection">Dependency Injection</a>. Wir verwenden als <a href="http://de.wikipedia.org/wiki/C-Sharp">C#</a>-Programmierer das Framework <a href="http://www.ninject.org/">Ninject</a>. Hervorzuheben ist die tolle Webseite dieses Projekts im Ninja-Stil. Und so verbringe ich meine Tage jetzt mit dem <em>ninjecten</em>, wie wir das so nennen. Jedes <em>new</em> wird kritisch überprüft, ob man es nicht durch einen Ninject-Ausdruck ersetzen könnte. Am Ende such Ninject automatisch den passenden Konstruktor heraus und kann auch statt der normalen Implementierung ein <a href="http://de.wikipedia.org/wiki/Mock-Objekt">Mock-Objekt</a> verwenden.</p>
+
+<p>Damit beschäftige ich mich also momentan täglich, und das mit einem wunderschönen Blick auf die Berge.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Teilen</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.mwellner.de%2f2012%2f05%2fninject%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=http%3a%2f%2fwww.mwellner.de%2f2012%2f05%2fninject%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.mwellner.de%2f2012%2f05%2fninject%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=http%3a%2f%2fwww.mwellner.de%2f2012%2f05%2fninject%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>
+      
+      </p>
+      <p>
+      <a href="#">Zurück zum Anfang</a>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

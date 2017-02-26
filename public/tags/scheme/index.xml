@@ -10,10 +10,10 @@
     
     <item>
       <title>First Steps with Scheme and Git</title>
-      <link>http://www.mwellner.de/post/2014-03-01-first-steps-with-scheme-and-git-2/</link>
+      <link>http://www.mwellner.de/2014/03/first-steps-with-scheme-and-git/</link>
       <pubDate>Sat, 01 Mar 2014 11:17:47 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2014-03-01-first-steps-with-scheme-and-git-2/</guid>
+      <guid>http://www.mwellner.de/2014/03/first-steps-with-scheme-and-git/</guid>
       <description>&lt;p&gt;Today, I installed &lt;a href=&#34;http://en.wikipedia.org/wiki/Git_%28software%29&#34;&gt;Git&lt;/a&gt;, joined &lt;a href=&#34;http://github.com&#34;&gt;github.com&lt;/a&gt; and published my first two code snippets in &lt;a href=&#34;http://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt; (&lt;a href=&#34;http://en.wikipedia.org/wiki/Lisp_programming_language&#34;&gt;Lisp&lt;/a&gt; dialect).&lt;/p&gt;
 
 &lt;p&gt;The main reason to study Scheme is the book &lt;a href=&#34;http://mitpress.mit.edu/sicp/&#34;&gt;Structure and Interpretation of Computer Programs&lt;/a&gt;, a computer science classic. And the authors use Scheme to illustrate the concepts throughout the book. The language has a very strange syntax. To illustrate this, I present proudly my first programming exercise, an implementation of &lt;a href=&#34;http://en.wikipedia.org/wiki/Newton%27s_method&#34;&gt;Newton&amp;#8217;s method&lt;/a&gt; to iteratively determine the cube root of a number (also available with syntax highlighting &lt;a href=&#34;https://github.com/mwellner/lisp/blob/master/cbrt.scm&#34;&gt;on github&lt;/a&gt;).&lt;/p&gt;

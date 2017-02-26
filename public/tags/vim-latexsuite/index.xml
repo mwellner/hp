@@ -10,10 +10,10 @@
     
     <item>
       <title>Little Helpers for Scientific Writing with LaTeX</title>
-      <link>http://www.mwellner.de/post/2009-11-11-little-helpers-for-scientific-writing-with-latex/</link>
+      <link>http://www.mwellner.de/2009/11/little-helpers-for-scientific-writing-with-latex/</link>
       <pubDate>Wed, 11 Nov 2009 00:49:04 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-11-11-little-helpers-for-scientific-writing-with-latex/</guid>
+      <guid>http://www.mwellner.de/2009/11/little-helpers-for-scientific-writing-with-latex/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The document preparation system &lt;a href=&#34;http://en.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt; is well-suited for scientific writing. But which additional components are required? In this article, I will describe how to install all the necessary programs and packages on a &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu-Linux&lt;/a&gt; system to write publications conveniently. The tutorial equally applies to Debian systems, Windows users have to modify the installation procedures accordingly.&lt;/p&gt;

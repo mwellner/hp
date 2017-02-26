@@ -10,10 +10,10 @@
     
     <item>
       <title>Matplotlib as alternative to Matlab</title>
-      <link>http://www.mwellner.de/post/2011-01-08-matplotlib-as-alternative-to-matlab/</link>
+      <link>http://www.mwellner.de/2011/01/matplotlib-as-alternative-to-matlab/</link>
       <pubDate>Sat, 08 Jan 2011 23:55:04 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2011-01-08-matplotlib-as-alternative-to-matlab/</guid>
+      <guid>http://www.mwellner.de/2011/01/matplotlib-as-alternative-to-matlab/</guid>
       <description>&lt;p&gt;Back in the old ETH days, I got used to &lt;a href=&#34;http://en.wikipedia.org/wiki/Matlab&#34;&gt;Matlab&lt;/a&gt;, which we used for a variety of tasks, among them data analysis, figure creation and even real-time control. For the task of figure plotting I have recently discovered &lt;a href=&#34;http://matplotlib.sourceforge.net/&#34;&gt;matplotlib&lt;/a&gt; &amp;ndash; an open source alternative, which can be used by python scripts. The plotting functions sound very familiar for Matlab users. So I am again amazed by the progress of open source software.&lt;/p&gt;
 
 &lt;p&gt;For my current project that deals with testing tools (doing functional and repetitive tests) I will probably make use of the matplotlib functionality to provide some output graphs after tests.&lt;/p&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>Paper on Virtual Audience Accepted</title>
-      <link>http://www.mwellner.de/post/2009-03-30-paper-accepted-2/</link>
+      <link>http://www.mwellner.de/2009/03/paper-on-virtual-audience-accepted/</link>
       <pubDate>Mon, 30 Mar 2009 10:29:58 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-03-30-paper-accepted-2/</guid>
+      <guid>http://www.mwellner.de/2009/03/paper-on-virtual-audience-accepted/</guid>
       <description>&lt;p&gt;My second journal paper has been accepted for publication in the &lt;a href=&#34;http://en.wikipedia.org/wiki/Proceedings_of_the_Institution_of_Mechanical_Engineers,_Part_P:_Journal_of_Sports_Engineering_and_Technology&#34;&gt;Journal of Sports Engineering and Technology&lt;/a&gt;. It was about the study with virtual audience in our &lt;a href=&#34;http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html&#34;&gt;M&lt;sup&gt;3&lt;/sup&gt; Rowing Simulator&lt;/a&gt;. The reviewing process was much quicker than last time, I received only a few comments which needed correction. Compared to the reviewing process of my last publication, this was much easier.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Does Virtual Audience Influence Rowing?&lt;/p&gt;

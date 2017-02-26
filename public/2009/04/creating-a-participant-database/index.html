@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta property="og:title" content="Creating a participant database" />
+<meta property="og:description" content="Problem
+The initial intention was to keep track of those people who have participated in one of our rowing studies. The second goal was to keep track of how our raw data is organised. Therefore, I designed a relational database with MS Access. In this article I will focus on general database design issues and how to access the database with Matlab. You could use any other relational database management system, which is compatible to the SQL standard." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.mwellner.de/2009/04/creating-a-participant-database/" />
+
+
+
+<meta property="article:published_time" content="2009-04-24T18:00:26&#43;00:00"/>
+<meta property="article:modified_time" content="2009-04-24T18:00:26&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Creating a participant database"/>
+<meta name="twitter:description" content="Problem
+The initial intention was to keep track of those people who have participated in one of our rowing studies. The second goal was to keep track of how our raw data is organised. Therefore, I designed a relational database with MS Access. In this article I will focus on general database design issues and how to access the database with Matlab. You could use any other relational database management system, which is compatible to the SQL standard."/>
+
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  
+  "headline": "Creating a participant database",
+  "url": "http://www.mwellner.de/2009/04/creating-a-participant-database/",
+  "wordCount": "546",
+  
+  
+  "datePublished": "2009-04-24T18:00:26+00:00",
+  
+  
+  "dateModified": "2009-04-24T18:00:26+00:00",
+  
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mathias Wellner"
+  }
+  
+  ,
+  "keywords": "technik,Database,matlab,SQL"
+  
+}
+</script>
+
+
+
+    <link rel="canonical" href="http://www.mwellner.de/2009/04/creating-a-participant-database/">
+
+    <title>Creating a participant database | mathias wellner</title>
+
+    <!-- combined, minified CSS -->
+    <link href="http://www.mwellner.de/css/style.css" rel="stylesheet" integrity="sha384-Cdt2yG10w21pA8DMpImJIvsLOME686p75OYD9jGCZVWvOol9zkEsaF3ctGEuBXK6" crossorigin="anonymous">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="http://www.mwellner.de/">Startseite</a>
+          
+          
+          <a class="nav-link" href="http://www.mwellner.de/about/">About</a>
+          
+          
+        </nav>
+      </div>
+    </div>
+
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a href="http://www.mwellner.de/" rel="home">mathias wellner</a></h1>
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-9 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="http://www.mwellner.de/2009/04/creating-a-participant-database/">Creating a participant database</a></h2>
+    <p class="blog-post-meta"><time datetime="2009-04-24T18:00:26Z">Fri Apr 24, 2009</time>  in 
+<i class="fa fa-folder" aria-hidden="true"></i>&nbsp;<a href="/categories/technik" rel="category tag">technik</a>
+
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/tags/database" rel="tag">Database</a>, <a href="/tags/matlab" rel="tag">matlab</a>, <a href="/tags/sql" rel="tag">SQL</a>
+
+</p>
+  </header>
+  <p><strong>Problem</strong></p>
+
+<p>The initial intention was to keep track of those people who have participated in one of our rowing studies. The second goal was to keep track of how our raw data is organised. Therefore, I designed a relational database with MS Access. In this article I will focus on general database design issues and how to access the database with Matlab. You could use any other <a href="http://en.wikipedia.org/wiki/Relational_database_management_system">relational database management system</a>, which is compatible to the <a href="http://en.wikipedia.org/wiki/SQL">SQL standard</a>.</p>
+
+<p>A nice side-effect of such a database is their possible integration in Matlab. We can get the names of all participants of a certain study and analyse their data.</p>
+
+<p><strong>Database structure</strong></p>
+
+<p>The first relation contains the <em>participant</em> information.</p>
+
+<ul>
+<li>ID [primary key]</li>
+<li>LastName</li>
+<li>FirstName</li>
+<li>Gender</li>
+<li>BirthDate</li>
+<li>CategoryID [foreign key]</li>
+<li>Comment</li>
+</ul>
+
+<p>The rowing skill of the participant should be identified in a repetible way, therefore a separate relation contains all possible skill levels.</p>
+
+<p><em>Category</em></p>
+
+<ul>
+<li>ID [primary key]</li>
+<li>Label</li>
+<li>Description</li>
+</ul>
+
+<p>The next obvious relation describes our studies.</p>
+
+<p><em>Study</em></p>
+
+<ul>
+<li>ID [primary key]</li>
+<li>Label</li>
+<li>Responsible person(s)</li>
+<li>Data folder</li>
+</ul>
+
+<p>We now need a connection between participants and studies, including the possibility of several runs. This is implemented with the relation <em>Participant takes part</em>. Note that the primary key is a combination of ParticipantID, StudyID, and RunNumber to prevent double-insertion of data.</p>
+
+<ul>
+<li>ParticipantID [primary key, foreign key]</li>
+<li>StudyID [primary key, foreign key]</li>
+<li>RunDate</li>
+<li>RunNumber [primary key]</li>
+<li>DataValid</li>
+</ul>
+
+<p>For our <em>raw variables</em> (oar angles, seat position, physiological data) we also define a relation.</p>
+
+<ul>
+<li>Id [primary key]</li>
+<li>Name</li>
+<li>Description</li>
+<li>Unit</li>
+</ul>
+
+<p>Our raw data comes in a huge matrix, where each row contains the recording at one specific point in time and each column one raw variable. The assignment of raw data to columns can differ for different studies.</p>
+
+<p><em>Raw variable is in column</em></p>
+
+<ul>
+<li>RawVariableID [primary key, foreign key]</li>
+<li>StudyID [primary key, foreign key]</li>
+<li>Column (in xPC output log)</li>
+</ul>
+
+<p><strong>Database access with Matlab</strong></p>
+
+<p>We can now use the power of SQL statements to query the database for a specific participant. As a more complex example, I will demonstrate how to get all participants of one study.</p>
+
+<p>The following Matlab code builds an SQL query and executes it with an existing database connection (<code>database</code> command). You need to define an ODBC connection first, see the Matlab documentation for more details on that.</p>
+
+<p><code>&lt;br /&gt;
+% define parts of SQL statement&lt;br /&gt;
+study = '''Study1'''; % define study, add addition '' because of spaces&lt;br /&gt;
+columns = 'LastName, FirstName'; % define columns for selection&lt;br /&gt;
+from = 'Participant p, TakesPart t, Study s'; % define tables for selection&lt;br /&gt;
+where = ['p.ID = t.ParticipantID AND s.ID = t.StudyID AND s.Label = ', study]; % define inner join conditions&lt;br /&gt;
+order = 'LastName, FirstName'; % define order of results&lt;br /&gt;
+% combine parts to SQL query&lt;br /&gt;
+query = sprintf('SELECT %s FROM %s WHERE %s ORDER BY %s', columns, from, where, order);&lt;br /&gt;
+curs = exec(DatabaseConnection, query); % execute SQL query&lt;br /&gt;
+curs = fetch(curs); % fetch data in same cursor structure&lt;br /&gt;
+curs.Data&lt;br /&gt;
+close(curs);&lt;br /&gt;
+</code></p>
+
+<p>The created query is:</p>
+
+<p><code>SELECT LastName, FirstName FROM Participant p, TakesPart t, Study s WHERE p.ID = t.ParticipantID AND s.ID = t.StudyID AND s.Label = 'Study1' ORDER BY LastName, FirstName</code></p>
+
+<p><strong>Conclusion</strong></p>
+
+<p>I showed how to design a participant database and query it with Matlab.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Teilen</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.mwellner.de%2f2009%2f04%2fcreating-a-participant-database%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=http%3a%2f%2fwww.mwellner.de%2f2009%2f04%2fcreating-a-participant-database%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.mwellner.de%2f2009%2f04%2fcreating-a-participant-database%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=http%3a%2f%2fwww.mwellner.de%2f2009%2f04%2fcreating-a-participant-database%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>
+      
+      </p>
+      <p>
+      <a href="#">Zurück zum Anfang</a>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

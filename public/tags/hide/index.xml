@@ -9,23 +9,11 @@
     <atom:link href="http://www.mwellner.de/tags/hide/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Service Worker Experiments</title>
-      <link>http://www.mwellner.de/post/2016-11-25-service-worker-experiments/</link>
-      <pubDate>Fri, 25 Nov 2016 15:54:04 +0000</pubDate>
-      
-      <guid>http://www.mwellner.de/post/2016-11-25-service-worker-experiments/</guid>
-      <description>&lt;p&gt;I am currently experimenting with service workers (see &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers&#34; target=&#34;_blank&#34;&gt;Using Service Workers&lt;/a&gt; or &lt;a href=&#34;https://developers.google.com/web/fundamentals/getting-started/primers/service-workers&#34; target=&#34;_blank&#34;&gt;Service Workers: an Introduction&lt;/a&gt;). One scenario is to provide mock data when no connection to an external service is available. And by theory, service workers should be able to intercept any request made by the website.&lt;/p&gt;
-
-&lt;p&gt;But there is one exception. If you fetch data with &lt;a href=&#34;http://api.jquery.com/jquery.ajax/&#34; target=&#34;_blank&#34;&gt;jQuery.ajax()&lt;/a&gt; function and use &lt;em&gt;async: false&lt;/em&gt;, the service worker will not be able to intercept any of those requests. I am not quite sure about the underlying cause, but wanted to share my findings.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Implementing simple ajax show/hide effects with cakePHP</title>
-      <link>http://www.mwellner.de/post/2010-04-15-implementing-simple-ajax-showhide-effects-with-cakephp/</link>
+      <link>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</link>
       <pubDate>Thu, 15 Apr 2010 09:56:52 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2010-04-15-implementing-simple-ajax-showhide-effects-with-cakephp/</guid>
+      <guid>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</guid>
       <description>&lt;p&gt;There are quite some tutorials on ajax effects out there [1, 2], but most were too complex for my needs. I simply wanted an enhanced index page for projects, which shows some details for each project and more on demand with a sliding effect. So here is what my solution looks like.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Basics&lt;/strong&gt;&lt;/p&gt;

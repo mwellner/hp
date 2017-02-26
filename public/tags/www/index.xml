@@ -10,10 +10,10 @@
     
     <item>
       <title>Implementing simple ajax show/hide effects with cakePHP</title>
-      <link>http://www.mwellner.de/post/2010-04-15-implementing-simple-ajax-showhide-effects-with-cakephp/</link>
+      <link>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</link>
       <pubDate>Thu, 15 Apr 2010 09:56:52 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2010-04-15-implementing-simple-ajax-showhide-effects-with-cakephp/</guid>
+      <guid>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</guid>
       <description>&lt;p&gt;There are quite some tutorials on ajax effects out there [1, 2], but most were too complex for my needs. I simply wanted an enhanced index page for projects, which shows some details for each project and more on demand with a sliding effect. So here is what my solution looks like.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Basics&lt;/strong&gt;&lt;/p&gt;
@@ -133,10 +133,10 @@ foreach ($projects as $project):
     
     <item>
       <title>Neues Weblog-System</title>
-      <link>http://www.mwellner.de/post/2009-08-05-neues-weblog-system/</link>
+      <link>http://www.mwellner.de/2009/08/neues-weblog-system/</link>
       <pubDate>Wed, 05 Aug 2009 22:24:11 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-08-05-neues-weblog-system/</guid>
+      <guid>http://www.mwellner.de/2009/08/neues-weblog-system/</guid>
       <description>&lt;p&gt;Nachdem meine Tage an der ETH nunmehr gezählt sind, suchte ich nach einer neuen Heimat für mein Weblog, welches bisher vom &lt;a href=&#34;http://blogs.ethz.ch&#34;&gt;Weblog Service der ETH Zürich&lt;/a&gt; gehostet wurde. Es ist nun also auf dem von mir mitgenutzten Server, eine naheliegende Lösung. Das einzige Problem sind die vielen Sicherheitslücken in der Weblog-Software, welche unserem Systemadministrator Schweißperlen auf die Stirn treiben. &lt;a href=&#34;http://www.php.net&#34;&gt;PHP&lt;/a&gt;, auf dem die Software &lt;a href=&#34;http://wordpress.org&#34;&gt;WordPress&lt;/a&gt; basiert, scheint sehr anfällig für alle möglichen Arten von Attacken zu sein. Aber warten wir ab, ob unser Server wirklich von Spammern gekapert wird.&lt;/p&gt;
 
 &lt;p&gt;Auf jeden Fall ist mit diesem Weblog eine einheitliche Webpräsenz geschaffen, meine alte Homepage, die früher unter dieser Adresse zu erreichen war, hat ausgedient. Ich habe jedoch ausgewählte Inhalte übernommen, die Tagebücher aus Blacksburg findet ihr im Archiv (2002-03), eine Übersicht aller Lesungen auf den statischen Seiten (siehe &lt;a href=&#34;http://www.mwellner.de/lesungen/&#34;&gt;Lesungen&lt;/a&gt;). Weblog und Homepage verschmelzen also zu einem Ganzen.&lt;/p&gt;
@@ -147,10 +147,10 @@ foreach ($projects as $project):
     
     <item>
       <title>Science and Weblogs</title>
-      <link>http://www.mwellner.de/post/2005-09-20-science-and-weblogs/</link>
+      <link>http://www.mwellner.de/2005/09/science-and-weblogs/</link>
       <pubDate>Tue, 20 Sep 2005 13:42:31 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-09-20-science-and-weblogs/</guid>
+      <guid>http://www.mwellner.de/2005/09/science-and-weblogs/</guid>
       <description>&lt;p&gt;In my relentless search for articles in the field of rehabilitation robotics, I will publish some comments on excellent articles. With this I hope to help people who search relevant papers and also to find experts in the field for discussions and exchange. Everybody interested in the articles I found may take a look at &lt;a href=&#34;http://www.citeulike.org/user/wellnair&#34;&gt;my articles at CiteULike&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;My dissertation is about cooperative control strategies for the gait orthesis Lokomat. This field touches the following subject areas:&lt;/p&gt;
@@ -172,10 +172,10 @@ foreach ($projects as $project):
     
     <item>
       <title>Web Authoring Issues</title>
-      <link>http://www.mwellner.de/post/2005-09-18-web-site-on-it-issues/</link>
+      <link>http://www.mwellner.de/2005/09/web-authoring-issues/</link>
       <pubDate>Sun, 18 Sep 2005 21:29:04 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-09-18-web-site-on-it-issues/</guid>
+      <guid>http://www.mwellner.de/2005/09/web-authoring-issues/</guid>
       <description>&lt;p&gt;When rethinking the way blog links were assigned to languages, my first thought was to use flag symbols, as e.g. in Ulli&amp;#8217;s blog. But I surfed a little bit around and found a good site arguing against that. Here is the &lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/&#34;&gt;link to the main page&lt;/a&gt; covering many topics in web authoring and communication technology. The ones I scanned I found very interesting to read.&lt;/p&gt;
 
 &lt;p&gt;Some of the covered topics:&lt;/p&gt;
@@ -191,10 +191,10 @@ foreach ($projects as $project):
     
     <item>
       <title>Das Weblog als literarisches Medium</title>
-      <link>http://www.mwellner.de/post/2005-06-27-das-weblog-als-literarisches-medium/</link>
+      <link>http://www.mwellner.de/2005/06/das-weblog-als-literarisches-medium/</link>
       <pubDate>Mon, 27 Jun 2005 19:00:30 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-06-27-das-weblog-als-literarisches-medium/</guid>
+      <guid>http://www.mwellner.de/2005/06/das-weblog-als-literarisches-medium/</guid>
       <description>&lt;p&gt;Momentan nutze ich die literarische Energie, die in mir fließt, zum Schreiben des elektronischen Tagebuchs (Weblog). Auf den ersten Blick mag dies seltsam erscheinen, ich möchte jedoch kurz erläutern, warum ich dieses Medium für geeignet halte, damit zu schreiben und zu veröffentlichen.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -211,10 +211,10 @@ foreach ($projects as $project):
     
     <item>
       <title>Was ist RSS?</title>
-      <link>http://www.mwellner.de/post/2005-04-03-was-ist-rss/</link>
+      <link>http://www.mwellner.de/2005/04/was-ist-rss/</link>
       <pubDate>Sun, 03 Apr 2005 22:10:08 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-03-was-ist-rss/</guid>
+      <guid>http://www.mwellner.de/2005/04/was-ist-rss/</guid>
       <description>&lt;p&gt;Ein wichtiger Grund für meinen Wechsel zu Serendipity war deren Unterstützung von RSS-Feeds. Doch was verbirgt sich hinter dieser weiteren dreibuchstabigen Abkürzung? Meine Suche führte mich zu &lt;a href=&#34;https://de.wikipedia.org/&#34;&gt;Wikipedia&lt;/a&gt;, einem vorzüglichen und frei verfügbaren Online-Lexikon. Dort fand ich einen &lt;a href=&#34;https://de.wikipedia.org/wiki/RSS&#34;&gt;umfangreichen Beitrag zum Thema&lt;/a&gt;. Doch für euch möchte ich hier einfach mal kurz zusammenfassen, wie ihr von dieser Technologie profitieren könnt.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -226,10 +226,10 @@ foreach ($projects as $project):
     
     <item>
       <title>Umstellung auf Serendipity</title>
-      <link>http://www.mwellner.de/post/2005-04-01-willkommen/</link>
+      <link>http://www.mwellner.de/2005/04/umstellung-auf-serendipity/</link>
       <pubDate>Fri, 01 Apr 2005 00:14:13 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-01-willkommen/</guid>
+      <guid>http://www.mwellner.de/2005/04/umstellung-auf-serendipity/</guid>
       <description>&lt;p&gt;Liebe Blog-Leser,&lt;/p&gt;
 
 &lt;p&gt;eine neue Ära ha begonnen, eine völlig andere Blog-Software verwaltet ab sofort meine Gedanken und sonstigen für die Öffentlichkeit bestimmten Dinge. Es handelt sich um Serendipity, und lässt sich einfach etwas besser verwalten als meine bisherige Weblog-Software. Außerdem sind jetzt RSS-Feeds problemlos möglich. Wenn euch das nichts sagt, ist das auch nicht so schlimm.&lt;/p&gt;
@@ -240,10 +240,10 @@ foreach ($projects as $project):
     
     <item>
       <title>Zurück ins ISDN-Zeitalter</title>
-      <link>http://www.mwellner.de/post/2005-03-17-zuruck-ins-isdn-zeitalter/</link>
+      <link>http://www.mwellner.de/2005/03/zur%C3%BCck-ins-isdn-zeitalter/</link>
       <pubDate>Thu, 17 Mar 2005 01:00:00 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-03-17-zuruck-ins-isdn-zeitalter/</guid>
+      <guid>http://www.mwellner.de/2005/03/zur%C3%BCck-ins-isdn-zeitalter/</guid>
       <description>&lt;p&gt;Von wegen früher war alles besser! In Bezug auf die Telekommunikation kann man das sicherlich nicht sagen. Wegen eines technischen Defektes im Bürgernetz mussten wir unseren Wohnungsserver wieder als ISDN-Verbindungs-Schnittstelle einrichten. Damit geraten zwei Aktionen wieder in den Vordergrund, die eigentlich absolut unnötig und zeitraubend sind: &lt;strong&gt;Einwahl&lt;/strong&gt; und &lt;strong&gt;Trennen&lt;/strong&gt;. Gelobt sei die Flatrate!&lt;/p&gt;
 </description>
     </item>

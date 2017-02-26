@@ -10,10 +10,10 @@
     
     <item>
       <title>A LaTeX template for my dissertation</title>
-      <link>http://www.mwellner.de/post/2009-05-11-a-latex-template-for-my-dissertation/</link>
+      <link>http://www.mwellner.de/2009/05/a-latex-template-for-my-dissertation/</link>
       <pubDate>Mon, 11 May 2009 16:49:25 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-05-11-a-latex-template-for-my-dissertation/</guid>
+      <guid>http://www.mwellner.de/2009/05/a-latex-template-for-my-dissertation/</guid>
       <description>&lt;p&gt;In the recent weeks I have spent a lot of time to polish the draft of my dissertation with the help of LaTeX. In this article, I would like to share the packages I used. This list of packages comes close to a template, but you must still decide which package you need.&lt;/p&gt;
 
 &lt;p&gt;In general, I wanted to have a &lt;a href=&#34;http://de.wikipedia.org/wiki/PdfTeX&#34;&gt;pdfTeX&lt;/a&gt;-compliant document.&lt;/p&gt;
@@ -118,10 +118,10 @@
     
     <item>
       <title>Ten Reasons to Typeset Scientific Texts in LaTeX</title>
-      <link>http://www.mwellner.de/post/2008-12-15-10-reasons-to-write-scientific-texts-with-latex/</link>
+      <link>http://www.mwellner.de/2008/12/ten-reasons-to-typeset-scientific-texts-in-latex/</link>
       <pubDate>Mon, 15 Dec 2008 22:44:15 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2008-12-15-10-reasons-to-write-scientific-texts-with-latex/</guid>
+      <guid>http://www.mwellner.de/2008/12/ten-reasons-to-typeset-scientific-texts-in-latex/</guid>
       <description>&lt;p&gt;Whenever you write a report in a scientific environment, a Master thesis, a journal publication, or a dissertation, you have the choice which text editing tool to use. It comes usually down to Word vs. LaTeX. I will now argue why you should use LaTeX.&lt;/p&gt;
 
 &lt;ol&gt;

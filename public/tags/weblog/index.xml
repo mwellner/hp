@@ -10,20 +10,20 @@
     
     <item>
       <title>Jahresrückblick Weblog</title>
-      <link>http://www.mwellner.de/post/2014-01-01-jahresrueckblick-weblog/</link>
+      <link>http://www.mwellner.de/2014/01/jahresr%C3%BCckblick-weblog/</link>
       <pubDate>Wed, 01 Jan 2014 22:27:08 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2014-01-01-jahresrueckblick-weblog/</guid>
+      <guid>http://www.mwellner.de/2014/01/jahresr%C3%BCckblick-weblog/</guid>
       <description>&lt;p&gt;WordPress hat einen &lt;a href=&#34;http://jetpack.me/annual-report/9056871/2013/&#34;&gt;schönen Rückblick&lt;/a&gt; erstellt. Mein Weblog hatte 2013 30.000 Besucher!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rückblick 2011</title>
-      <link>http://www.mwellner.de/post/2012-01-01-ruckblick-2011/</link>
+      <link>http://www.mwellner.de/2012/01/r%C3%BCckblick-2011/</link>
       <pubDate>Sun, 01 Jan 2012 12:26:10 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2012-01-01-ruckblick-2011/</guid>
+      <guid>http://www.mwellner.de/2012/01/r%C3%BCckblick-2011/</guid>
       <description>&lt;p&gt;Nachdem nun ein neues Jahr angebrochen ist, möchte ich das vergangene aus Weblog-Sicht Revue passieren lassen. Die Zahlen entsprechen Views, also das Ansehen einer einzelnen Seite durch einen Besucher und stammen vom WordPress.com Stats Plugin.&lt;/p&gt;
 
 &lt;p&gt;Insgesamt hatte das Weblog mwellner.de im Jahr 2011 21,717 Views, ein paar mehr als 2010. Das entspricht einem Tagesdurchschnitt von 59 Besuchen. Anfang Dezember war das Weblog durch einen Festplatten-Defekt des Servers einige Tage nicht erreichbar, dadurch brachen die Besucherzahlen deutlich ein.&lt;/p&gt;
@@ -55,10 +55,10 @@
     
     <item>
       <title>Neues Weblog-System</title>
-      <link>http://www.mwellner.de/post/2009-08-05-neues-weblog-system/</link>
+      <link>http://www.mwellner.de/2009/08/neues-weblog-system/</link>
       <pubDate>Wed, 05 Aug 2009 22:24:11 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-08-05-neues-weblog-system/</guid>
+      <guid>http://www.mwellner.de/2009/08/neues-weblog-system/</guid>
       <description>&lt;p&gt;Nachdem meine Tage an der ETH nunmehr gezählt sind, suchte ich nach einer neuen Heimat für mein Weblog, welches bisher vom &lt;a href=&#34;http://blogs.ethz.ch&#34;&gt;Weblog Service der ETH Zürich&lt;/a&gt; gehostet wurde. Es ist nun also auf dem von mir mitgenutzten Server, eine naheliegende Lösung. Das einzige Problem sind die vielen Sicherheitslücken in der Weblog-Software, welche unserem Systemadministrator Schweißperlen auf die Stirn treiben. &lt;a href=&#34;http://www.php.net&#34;&gt;PHP&lt;/a&gt;, auf dem die Software &lt;a href=&#34;http://wordpress.org&#34;&gt;WordPress&lt;/a&gt; basiert, scheint sehr anfällig für alle möglichen Arten von Attacken zu sein. Aber warten wir ab, ob unser Server wirklich von Spammern gekapert wird.&lt;/p&gt;
 
 &lt;p&gt;Auf jeden Fall ist mit diesem Weblog eine einheitliche Webpräsenz geschaffen, meine alte Homepage, die früher unter dieser Adresse zu erreichen war, hat ausgedient. Ich habe jedoch ausgewählte Inhalte übernommen, die Tagebücher aus Blacksburg findet ihr im Archiv (2002-03), eine Übersicht aller Lesungen auf den statischen Seiten (siehe &lt;a href=&#34;http://www.mwellner.de/lesungen/&#34;&gt;Lesungen&lt;/a&gt;). Weblog und Homepage verschmelzen also zu einem Ganzen.&lt;/p&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>Science and Weblogs</title>
-      <link>http://www.mwellner.de/post/2005-09-20-science-and-weblogs/</link>
+      <link>http://www.mwellner.de/2005/09/science-and-weblogs/</link>
       <pubDate>Tue, 20 Sep 2005 13:42:31 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-09-20-science-and-weblogs/</guid>
+      <guid>http://www.mwellner.de/2005/09/science-and-weblogs/</guid>
       <description>&lt;p&gt;In my relentless search for articles in the field of rehabilitation robotics, I will publish some comments on excellent articles. With this I hope to help people who search relevant papers and also to find experts in the field for discussions and exchange. Everybody interested in the articles I found may take a look at &lt;a href=&#34;http://www.citeulike.org/user/wellnair&#34;&gt;my articles at CiteULike&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;My dissertation is about cooperative control strategies for the gait orthesis Lokomat. This field touches the following subject areas:&lt;/p&gt;
@@ -94,10 +94,10 @@
     
     <item>
       <title>Weblog-Wochenende</title>
-      <link>http://www.mwellner.de/post/2005-09-04-weblog-wochenende/</link>
+      <link>http://www.mwellner.de/2005/09/weblog-wochenende/</link>
       <pubDate>Sun, 04 Sep 2005 22:18:34 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-09-04-weblog-wochenende/</guid>
+      <guid>http://www.mwellner.de/2005/09/weblog-wochenende/</guid>
       <description>&lt;p&gt;Vorbei! Nach zwei Tagen voller intensiver, anstrengender, spannender Gespräche über das Netz, Weblogs, Sicherheit und viele andere Dinge versuche ich jetzt, die vielen Eindrücke zu ordnen und das mich interessierende festzuhalten. Die Hauptsache waren natürlich die Leute mit ihren unterschiedlichen Charakteren und Hintergründen. Vom Abiturienten, der sich Anregungen für seine Berufswahl erhoffte bis zum alteingesessenen alten Hasen war alles dabei, gemeinsam das Interesse für Weblogs, Social Software und die Zukunft dieser Dinge.&lt;/p&gt;
 
 &lt;p&gt;Ich selbst konnte nicht wirklich viel beitragen, mein kleines Weblog erschien mir auf einmal sehr niedlich im Vergleich zu den doch sehr großen und ausgereiften Projekten der anderen Teilnehmer. Ich konzentrierte mich aufs Zuhören, und da viele Leute gerne reden, war dies wohl auch wichtig und notwendig. Wie in allen Gebieten sind es vor allem die Begriffe, also die Fachsprache, welche die Gruppe der Blogger kennzeichnen. Einige möchte ich etwas beleuchten, vor allem, da sie mir auch teilweise neu waren. Ausführlicher hat &lt;a href=&#34;http://www.ogok.de/2007/10/das-alte-neue-blog.html&#34;&gt;OliverG&lt;/a&gt;, einer der Teilnehmer, das Geschehen in seinem Blog (wo sonst?) dokumentiert.&lt;/p&gt;
@@ -124,20 +124,20 @@
     
     <item>
       <title>Weblog-Wochenende in Dresden</title>
-      <link>http://www.mwellner.de/post/2005-09-01-weblog-wochenende-in-dresden/</link>
+      <link>http://www.mwellner.de/2005/09/weblog-wochenende-in-dresden/</link>
       <pubDate>Thu, 01 Sep 2005 17:42:49 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-09-01-weblog-wochenende-in-dresden/</guid>
+      <guid>http://www.mwellner.de/2005/09/weblog-wochenende-in-dresden/</guid>
       <description>&lt;p&gt;Das Wochenende werde ich mal wieder in Dresden verbringen. Der Anlass ist ein &lt;a href=&#34;http://2005.roell.net&#34;&gt;Weblog-Wochenende&lt;/a&gt;, weswegen dieses Ereignis auch seine Berechtigung hier hat. Ich werde also eine Menge &lt;a href=&#34;http://2005.roell.net/#teilnehmer&#34;&gt;Blogger&lt;/a&gt; treffen, die sehr verschiedene Hintergründe haben. Nebenbei werde ich natürlich auch Freunde und Familienangehörige treffen, weshalb ich zwei Urlaubstage geopfert habe (Freitag, Montag).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Geschäftsmodell für Vollzeit-Blogger</title>
-      <link>http://www.mwellner.de/post/2005-04-11-geschaftsmodell-fur-vollzeit-blogger/</link>
+      <link>http://www.mwellner.de/2005/04/gesch%C3%A4ftsmodell-f%C3%BCr-vollzeit-blogger/</link>
       <pubDate>Mon, 11 Apr 2005 17:45:22 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-11-geschaftsmodell-fur-vollzeit-blogger/</guid>
+      <guid>http://www.mwellner.de/2005/04/gesch%C3%A4ftsmodell-f%C3%BCr-vollzeit-blogger/</guid>
       <description>&lt;p&gt;Es gibt ja Leute, die verbringen weitaus mehr Zeil als ich damit, ihr Weblog zu pflegen. Die meisten haben noch einen Job, träumen aber davon, ihre ganze Zeit mit Bloggen zu verbringen. Konzepte, wie man einen solchen Lebensstil finanzieren kann, gibt es mehrere.&lt;/p&gt;
 
 &lt;p&gt;Da ist zum einen Micropatronage, also alle Leser (was bei einem bekannten Blogger schon eine Menge Leute sein können) spenden einen kleinen Betrag und der Blogger schreibt. So geschehen bei &lt;a href=&#34;http://www.kottke.org&#34;&gt;Jason Kottke&lt;/a&gt;.&lt;/p&gt;
@@ -148,10 +148,10 @@
     
     <item>
       <title>Umstellung auf Serendipity</title>
-      <link>http://www.mwellner.de/post/2005-04-01-willkommen/</link>
+      <link>http://www.mwellner.de/2005/04/umstellung-auf-serendipity/</link>
       <pubDate>Fri, 01 Apr 2005 00:14:13 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-01-willkommen/</guid>
+      <guid>http://www.mwellner.de/2005/04/umstellung-auf-serendipity/</guid>
       <description>&lt;p&gt;Liebe Blog-Leser,&lt;/p&gt;
 
 &lt;p&gt;eine neue Ära ha begonnen, eine völlig andere Blog-Software verwaltet ab sofort meine Gedanken und sonstigen für die Öffentlichkeit bestimmten Dinge. Es handelt sich um Serendipity, und lässt sich einfach etwas besser verwalten als meine bisherige Weblog-Software. Außerdem sind jetzt RSS-Feeds problemlos möglich. Wenn euch das nichts sagt, ist das auch nicht so schlimm.&lt;/p&gt;

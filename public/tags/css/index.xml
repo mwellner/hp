@@ -9,63 +9,11 @@
     <atom:link href="http://www.mwellner.de/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Technical Summit 2016 in Darmstadt</title>
-      <link>http://www.mwellner.de/post/2016-11-22-technical-summit-2016-in-darmstadt/</link>
-      <pubDate>Tue, 22 Nov 2016 22:33:37 +0000</pubDate>
-      
-      <guid>http://www.mwellner.de/post/2016-11-22-technical-summit-2016-in-darmstadt/</guid>
-      <description>
-
-&lt;p&gt;Soon, I will attend the &lt;a href=&#34;https://www.microsoft.com/germany/technical-summit/default.aspx&#34; target=&#34;_blank&#34;&gt;Technical Summit 2016&lt;/a&gt;, which will take place from Dec 6 to 8 in Darmstadt. This is my first conference for my new employer (&lt;a href=&#34;https://www.conweaver.com/&#34; target=&#34;_blank&#34;&gt;ConWeaver&lt;/a&gt;), where I am working pretty much along the same lines as for &lt;a href=&#34;http://www.comparis.ch&#34; target=&#34;_blank&#34;&gt;Comparis&lt;/a&gt;, meaning front-end development with HTML, CSS and JavaScript and its many derivatives (&lt;a href=&#34;http://sass-lang.com/&#34; target=&#34;_blank&#34;&gt;Sass&lt;/a&gt;, LESS, &lt;a href=&#34;https://www.typescriptlang.org/&#34; target=&#34;_blank&#34;&gt;TypeScript&lt;/a&gt;). A new challenge is &lt;a href=&#34;https://angular.io/&#34; target=&#34;_blank&#34;&gt;Angular&lt;/a&gt;, which has recently reached version 2 and comes with a nodejs-based workflow and with mostly alpha-staged tools around.&lt;/p&gt;
-
-&lt;p&gt;So it is definitely good to get some insights on existing and new technologies in the quickly evolving world of web development.&lt;/p&gt;
-
-&lt;div id=&#34;attachment_7007&#34; style=&#34;width: 810px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
-  &lt;a href=&#34;http://www.mwellner.de/mw_20160911_2589-2/&#34;&gt;&lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589.jpg&#34; alt=&#34;darmstadtium&#34; width=&#34;800&#34; height=&#34;534&#34; class=&#34;size-full wp-image-7007&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589.jpg 800w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-350x234.jpg 350w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-768x513.jpg 768w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-225x150.jpg 225w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-150x100.jpg 150w&#34; sizes=&#34;(max-width: 800px) 100vw, 800px&#34; /&gt;&lt;/a&gt;
-  
-  &lt;p class=&#34;wp-caption-text&#34;&gt;
-    darmstadtium, the conference venue
-  &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In addition to the keynotes, there are up to 6 parallel sessions going on. Some sessions I fancy:&lt;/p&gt;
-
-&lt;h4 id=&#34;apts-cybercrime-cyber-attacks-warfare-and-threats-exposed&#34;&gt;APTs: Cybercrime, Cyber Attacks, Warfare and Threats Exposed&lt;/h4&gt;
-
-&lt;p&gt;In this session, see a live demonstration of the tools and techniques used by cybercriminals and cyber warriors today. We demonstrate what the threat-landscape looks like today, how the attackers penetrate your network, how they make their attacks undetectable from conventional antivirus and evade IDS solutions. We show how they expand their initial foothold to complete domain compromise and finally how they obtain their goal and infiltrate your data. A must see awareness session if you want to understand the threats of today.&lt;/p&gt;
-
-&lt;h4 id=&#34;give-your-apps-a-human-side-through-machine-learning&#34;&gt;Give your apps a human side through Machine Learning&lt;/h4&gt;
-
-&lt;p&gt;The future of machine learning will be invisible; it will exist, you will use machine learning in your everyday lives, and you wouldn’t even know it. Now is a good time to start integrating amazing machine learning features into your applications, as they become integral to our society. The Cognitive Services APIs are practically invisible. You don’t need to build your own complex algorithms to make your application smarter and more powerful. Cognitive Services is a set of ready-made machine learning APIs that allow you to breath intelligence into your application using only simple HTTP calls. In this talk, you will be introduced to the Cognitive Services APIs and see how you can use them to transform your application. This is about the power of machine learning and computer vision at the end of an API call.&lt;/p&gt;
-
-&lt;h4 id=&#34;css-flexbox-the-future-of-user-interface-design&#34;&gt;CSS Flexbox: The Future of User Interface Design&lt;/h4&gt;
-
-&lt;p&gt;My favorite topic&amp;#8230;&lt;/p&gt;
-
-&lt;h4 id=&#34;http-2-8211-the-future-is-now&#34;&gt;HTTP/2 &amp;#8211; The Future is Now&lt;/h4&gt;
-
-&lt;h4 id=&#34;typed-javascript-with-typescript-and-flow&#34;&gt;Typed JavaScript with TypeScript and Flow&lt;/h4&gt;
-
-&lt;h4 id=&#34;introduction-to-react-js&#34;&gt;Introduction to React.js&lt;/h4&gt;
-
-&lt;p&gt;React.js is a game changer for web applications.Made by Facebook for slick, modern user interfaces and able to handleheavy data lifting with brilliant performance, it&amp;#8217;s revolutionised howdevelopers all around the world build their apps.Let&amp;#8217;s explore what makes it special and the core concepts to get you upto speed with the new hot thing in JavaScript!&lt;/p&gt;
-
-&lt;h4 id=&#34;angular-2-modern-html5-applications-for-all-platforms&#34;&gt;Angular 2: Modern HTML5 Applications for all Platforms&lt;/h4&gt;
-
-&lt;h4 id=&#34;yo-asp-net-ndash-what-8217-s-new-and-what-stays-with-asp-net-core-1-0&#34;&gt;Yo ASP.NET &amp;ndash; What&amp;#8217;s new and what stays with ASP.NET Core 1.0&lt;/h4&gt;
-
-&lt;h4 id=&#34;progressive-web-apps-the-web-gets-more-native-and-microsoft-is-part-of-it&#34;&gt;Progressive Web Apps: The web gets more native and Microsoft is part of it&lt;/h4&gt;
-
-&lt;p&gt;So I hope some of you out there will join the fun here in beautiful Darmstadt!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Comparis-Relaunch</title>
-      <link>http://www.mwellner.de/post/2016-06-30-comparis-relaunch/</link>
+      <link>http://www.mwellner.de/2016/06/comparis-relaunch/</link>
       <pubDate>Thu, 30 Jun 2016 20:10:52 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-06-30-comparis-relaunch/</guid>
+      <guid>http://www.mwellner.de/2016/06/comparis-relaunch/</guid>
       <description>&lt;p&gt;Am Dienstag ging ein Teil der Comparis-Seite im neuen Design live. Noch sind wir am Testen, wie gut das bei den Benutzern ankommt, aber schon bald werden auch weitere Applikationen im neuen Kleid erstrahlen. Es ist für Außenstehende vermutlich schwer vorstellbar, welcher Aufwand hinter so einem Relaunch steckt. Gern möchte ich an einem auf den ersten Blick einfachen Beispiel die Komplexität erläutern, die in vielen kleinen Details steckt.&lt;/p&gt;
 
 &lt;div id=&#34;attachment_6721&#34; style=&#34;width: 904px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
@@ -86,20 +34,20 @@
     
     <item>
       <title>CSS Blend Modes</title>
-      <link>http://www.mwellner.de/post/2016-06-01-css-blend-modes/</link>
+      <link>http://www.mwellner.de/2016/06/css-blend-modes/</link>
       <pubDate>Wed, 01 Jun 2016 22:47:06 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-06-01-css-blend-modes/</guid>
+      <guid>http://www.mwellner.de/2016/06/css-blend-modes/</guid>
       <description>&lt;p&gt;Eine wundervolle künstlerische Anwendung von CSS sind die &lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/CSS/CSS_Referenz/mix-blend-mode&#34; title=&#34;mix-blend-mode&#34; target=&#34;_blank&#34;&gt;Blend Modes&lt;/a&gt;, welche eine Überlagerung von zwei übereinander befindlichen Elementen ermöglichen. Ich habe es für die Kopfzeile dieser Webseite gleich mal ausprobiert, nach langem Testen hat mich schließlich &lt;em&gt;mix-blend-mode: hard-light&lt;/em&gt; überzeugt. Das Beste daran ist die leichte Anpassbarkeit, ich kann den Text schnell ändern, was bei einer mit Photoshop erzeugten Grafik ganz anders aussähe. Empfehlen möchte ich außerdem den &lt;a href=&#34;https://sarasoueidan.com/demos/css-blender/&#34; title=&#34;CSS Blender&#34; target=&#34;_blank&#34;&gt;CSS Blender&lt;/a&gt;, dort kann man nach Herzenslust alle Effekte austesten.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Neues Erscheinungsbild und neue Schriftart</title>
-      <link>http://www.mwellner.de/post/2015-03-22-neues-erscheinungsbild-und-neue-schriftart-fira-sans/</link>
+      <link>http://www.mwellner.de/2015/03/neues-erscheinungsbild-und-neue-schriftart/</link>
       <pubDate>Sun, 22 Mar 2015 19:44:43 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-03-22-neues-erscheinungsbild-und-neue-schriftart-fira-sans/</guid>
+      <guid>http://www.mwellner.de/2015/03/neues-erscheinungsbild-und-neue-schriftart/</guid>
       <description>&lt;p&gt;Ich habe das Aussehen meiner Webseite verändert, ich verwende jetzt das &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress Thema&lt;/a&gt;. Mein Ziel war es, ein anderes Thema als &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt; zu nehmen, denn das haben wir auch auf der Seite unserer Theatergruppe &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt;. Grundsätzlich sind beide Themen ähnlich, vor allem von den Einstellmöglichkeiten, jedoch sieht es schon ein wenig anders aus.&lt;/p&gt;
 
 &lt;p&gt;Was ich richtig gut fand, war die Einbindung eines CSS-Präprozessors, in diesem Fall &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less&lt;/a&gt; für selbst erstelltes CSS. Mir waren die Tabellen-Stile zu großzügig bemessen, meine lange &lt;a href=&#34;http://www.mwellner.de/schauspiel/&#34; title=&#34;Schauspiel/​Regie&#34;&gt;Liste von Theaterproduktionen&lt;/a&gt; sah nicht wirklich gut aus.&lt;/p&gt;
@@ -110,10 +58,10 @@
     
     <item>
       <title>New Theme and Font</title>
-      <link>http://www.mwellner.de/post/2015-03-22-new-theme/</link>
+      <link>http://www.mwellner.de/2015/03/new-theme-and-font/</link>
       <pubDate>Sun, 22 Mar 2015 19:36:45 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-03-22-new-theme/</guid>
+      <guid>http://www.mwellner.de/2015/03/new-theme-and-font/</guid>
       <description>&lt;p&gt;I have changed the appearance of my web site, giving the &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress theme&lt;/a&gt; a chance. My goal was to get away from &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt;, since we use that on &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt; as well. The elements are roughly the same, but the look is slightly different.&lt;/p&gt;
 
 &lt;p&gt;One thing I noted with great delight &amp;ndash; you can use the &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less pre-processor&lt;/a&gt; when typing in your custom CSS. What I actually changed were table styles, they had defined quite large paddings, making my acting overview page look strange.&lt;/p&gt;

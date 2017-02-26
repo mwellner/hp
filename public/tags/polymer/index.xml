@@ -10,10 +10,10 @@
     
     <item>
       <title>Progressive Web Apps</title>
-      <link>http://www.mwellner.de/post/2016-05-22-progressive-web-apps/</link>
+      <link>http://www.mwellner.de/2016/05/progressive-web-apps/</link>
       <pubDate>Sun, 22 May 2016 23:04:24 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-05-22-progressive-web-apps/</guid>
+      <guid>http://www.mwellner.de/2016/05/progressive-web-apps/</guid>
       <description>&lt;p&gt;Einen Ausblick auf zukünftige Web-Applikationen gab es bei der Entwicklerkonferenz &lt;a href=&#34;https://events.google.com/io2016/&#34; title=&#34;Google I/O 2016&#34; target=&#34;_blank&#34;&gt;Google I/O 2016&lt;/a&gt; zu sehen. Die Konferenz ist natürlich zentriert auf Technologien, die bei Google entwickelt werden, wobei es aber auch um grundlegende Entwicklungsmuster geht, die auch mit anderen Frameworks umzusetzen sind.&lt;/p&gt;
 
 &lt;p&gt;Das grundlegende Problem vieler Web-Applikationen ist ihre schlechte Performance, sie brauchen zu lange beim Laden oder beim Interagieren. Das ist vor allem auf mobilen Geräten hinderlich, die keine gute Bandbreite haben. Eine perfekte Applikation würde initial schnell laden, dann im Hintergrund weitere Resourcen holen, damit bei weiteren Interaktionen schnelle Reaktionszeiten möglich sind, sie würde sich verhalten wie eine native Applikation.&lt;/p&gt;

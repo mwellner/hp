@@ -10,10 +10,10 @@
     
     <item>
       <title>Ninject</title>
-      <link>http://www.mwellner.de/post/2012-05-23-ninject/</link>
+      <link>http://www.mwellner.de/2012/05/ninject/</link>
       <pubDate>Wed, 23 May 2012 21:45:33 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2012-05-23-ninject/</guid>
+      <guid>http://www.mwellner.de/2012/05/ninject/</guid>
       <description>&lt;p&gt;Seit ich meine Brötchen bei einem Ingenieurdienstleister verdiene, sind die beruflichen Einträge recht selten geworden. Somit möchte ich jetzt die Gelegenheit erfreifen, um in allgemeiner und unverfänglicher Art über mein neues Projekt zu berichten.&lt;/p&gt;
 
 &lt;p&gt;Zuerst einmal hat sich mein Arbeitsweg halbiert, vorher war ich in der Nähe von Bern tätig. Das fast tägliche, lange Pendeln hat mich ziemlich angestrengt. Geblieben aus dieser Zeit ist aber noch mein Abo für die 1.&amp;nbsp;Klasse. Im Prinzip brauche ich das nicht mehr, aber irgendwie hänge ich doch noch dran. Und es gibt einfach mehr Platz und damit auch Ruhe in den gelb markierten Wagen der 1.&amp;nbsp;Klasse, nach denen ich jetzt schon gewohnheitsmäßig Ausschau halte. Mein Weg ist deutlich kürzer jetzt und führt durch eine vertraute, schöne Landschaft.&lt;/p&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>Ein Jahr Industrie &amp;ndash; ein Rückblick</title>
-      <link>http://www.mwellner.de/post/2010-10-26-ein-jahr-industrie-ein-ruckblick/</link>
+      <link>http://www.mwellner.de/2010/10/ein-jahr-industrie-ndash-ein-r%C3%BCckblick/</link>
       <pubDate>Tue, 26 Oct 2010 22:36:20 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2010-10-26-ein-jahr-industrie-ein-ruckblick/</guid>
+      <guid>http://www.mwellner.de/2010/10/ein-jahr-industrie-ndash-ein-r%C3%BCckblick/</guid>
       <description>&lt;p&gt;Vor ziemlich genau einem Jahr begann ich bei der &lt;a href=&#34;http://www.helveting.ch&#34;&gt;Helveting AG&lt;/a&gt;, einem aufstrebenden Schweizer Ingenieurbüro. Mit dem Doktortitel in der Tasche, nach drei Wochen Arbeitslosigkeit und mitten in einem JobBasis-Kurs der &lt;a href=&#34;http://www.newplacement.ch&#34;&gt;NewPlacement GmbH&lt;/a&gt; wagte ich den Sprung ins &lt;em&gt;richtige&lt;/em&gt; Berufsleben. Und da bin ich nun und reflektiere.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ein Jahr &amp;ndash; drei Projekte&lt;/strong&gt;&lt;/p&gt;
@@ -62,20 +62,20 @@
     
     <item>
       <title>Model-View-Controller-Architektur</title>
-      <link>http://www.mwellner.de/post/2010-04-08-model-view-controller-architektur/</link>
+      <link>http://www.mwellner.de/2010/04/model-view-controller-architektur/</link>
       <pubDate>Thu, 08 Apr 2010 09:27:54 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2010-04-08-model-view-controller-architektur/</guid>
+      <guid>http://www.mwellner.de/2010/04/model-view-controller-architektur/</guid>
       <description>&lt;p&gt;MVC ist ein Begriff, der bei Webanwendungen mit Datenbank-Zugriff häufig auftaucht. Derzeit arbeite ich mit mit dem MVC-orientierten &lt;a href=&#34;http://cakephp.org/&#34;&gt;cakePHP&lt;/a&gt;, um eine interne ERP-Lösung zu entwickeln. Jedoch enthält die Webseite eines anderen Entwicklungssystems eine schön geschriebene und sehr anschauliche Beschreibung des MVC-Konzepts (overview [Kohana User Guide]). Anhand des Beispiels einer Bank werden die grundlegenden Eigenschaften dieser Architektur beschrieben und Regeln für die Gestaltung formuliert. Meine derzeitige ERP-Beispiel-Lösung bedarf definitiv einer Überarbeitung&amp;#8230;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Wie ich meine Bilder archiviere</title>
-      <link>http://www.mwellner.de/post/2009-08-25-wie-ich-meine-bilder-archiviere/</link>
+      <link>http://www.mwellner.de/2009/08/wie-ich-meine-bilder-archiviere/</link>
       <pubDate>Tue, 25 Aug 2009 20:45:18 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-08-25-wie-ich-meine-bilder-archiviere/</guid>
+      <guid>http://www.mwellner.de/2009/08/wie-ich-meine-bilder-archiviere/</guid>
       <description>&lt;p&gt;Wenn du ein Hobbyfotograf mit digitaler Kamera bist, kennst du das Problem &amp;#8212; im Laufe der Zeit stapeln sich Hunderte Aufnahmen auf der Festplatte, der Überblick geht verloren und ein einziger Festplatten-Crash kann alle Arbeit zunichte machen. Bei mir ist jetzt nach vier Jahren mit geschätzten 10.000 Fotos der Moment gekommen, in dem ich mich dem Thema Archivierung systematisch widmen möchte.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Festplatte, DVDs oder Cloud?&lt;/strong&gt;&lt;/p&gt;

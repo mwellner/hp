@@ -10,10 +10,10 @@
     
     <item>
       <title>Überfremdung</title>
-      <link>http://www.mwellner.de/post/2011-08-07-uberfremdung/</link>
+      <link>http://www.mwellner.de/2011/08/%C3%BCberfremdung/</link>
       <pubDate>Sun, 07 Aug 2011 16:56:12 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2011-08-07-uberfremdung/</guid>
+      <guid>http://www.mwellner.de/2011/08/%C3%BCberfremdung/</guid>
       <description>&lt;p&gt;Ein Gespräch auf dem Gipfel (&lt;a href=&#34;http://www.mwellner.de/2011/08/01/vrenelisgartli/&#34;&gt;Vrenelisgärtli&lt;/a&gt;) nach gemeinsamer Heldentat &amp;ndash; unserem Bergführer macht die &lt;em&gt;Überfremdung&lt;/em&gt; Angst. Ich fühle mich damit immer gemeint, wenn nicht sogar angegriffen. Als Deutscher in der Schweiz bin ich ein Fremder, einer von immer mehr. Und es gäbe da jetzt eine deutsche Bergführerschule, welche geringere Löhne zahle und die Preise ruiniere. Was sagt man da? Die Aussicht ist schön hier oben und der Himmel recht blau.&lt;/p&gt;
 
 &lt;p&gt;Mir behagt schon der Begriff nicht. &lt;em&gt;Überfremdung&lt;/em&gt; hat einen bedrohlichen, ausgrenzenden Klang. Und in unserer Siebener-Seilschaft repräsentierte ich als einziger Deutscher das ominöse Fremde. Als Kunde von Schweizer Bergführern fühlte ich mich durchaus willkommen, aber sobald Zugewanderte in Konkurrenz treten, läuten die Alarmglocken. Die gleiche Diskussion erlebte ich vor einigen Jahren in Sachsen, durch die Osterweiterung der Europäischen Union sahen sich vor allem handwerkliche Betriebe bedroht. Polnische und tschechische Fliesenleger und Bauarbeiter würden schon bald die Preise ruinieren und in einer ohnehin schon strukturschwachen Region zusätzliche Arbeitslosigkeit verursachen. In der Schweiz sind die Deutschen die Polen.&lt;/p&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>Infrastructure Lessons from &amp;#8220;Ship It!&amp;#8221;</title>
-      <link>http://www.mwellner.de/post/2009-11-30-lessons-from-ship-it/</link>
+      <link>http://www.mwellner.de/2009/11/infrastructure-lessons-from-</link>
       <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-11-30-lessons-from-ship-it/</guid>
+      <guid>http://www.mwellner.de/2009/11/infrastructure-lessons-from-</guid>
       <description>&lt;p&gt;When a lot of people work together on software projects, a lot of things can go wrong. The book &lt;a href=&#34;http://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047&#34;&gt;Ship It!&lt;/a&gt; by Jared Richardson and William Gwaltney Jr. introduces a number of techniques and tools to make software development teams more productive. During my time at the Sensory Motor Systems Lab, I was responsible for setting up a software development process for a small team. Therefore, most of the issues are well-known to me. And I guess, that we could have done much better by using more of the techniques described in the book.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Version control&lt;/strong&gt;&lt;/p&gt;

@@ -9,35 +9,11 @@
     <atom:link href="http://www.mwellner.de/tags/database/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Theater Production and Actor Database</title>
-      <link>http://www.mwellner.de/post/2017-01-23-theater-production-and-actor-database/</link>
-      <pubDate>Mon, 23 Jan 2017 21:39:44 +0000</pubDate>
-      
-      <guid>http://www.mwellner.de/post/2017-01-23-theater-production-and-actor-database/</guid>
-      <description>
-
-&lt;p&gt;Currently, I am working on a hobby project, a &lt;a href=&#34;https://github.com/mwellner/mwtdb&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;theater production and actor database&lt;/a&gt; (mwtdb for short). It is visible on GitHub and open source.&lt;/p&gt;
-
-&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
-
-&lt;p&gt;What I want to create is something similar to &lt;a href=&#34;http://www.imdb.com/&#34; target=&#34;_blank&#34;&gt;IMDb&lt;/a&gt;, which focuses on movies, TV and celebreties, but for amateur theater. A very basic version will contain actors, directors and technicians, contributing to productions.&lt;/p&gt;
-
-&lt;p&gt;From a technical point of view, I will create a web application, using &lt;a href=&#34;https://angular.io/&#34; target=&#34;_blank&#34;&gt;Angular&lt;/a&gt; and &lt;a href=&#34;https://neo4j.com/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Neo4j&lt;/a&gt;, a &lt;a href=&#34;https://en.wikipedia.org/wiki/Graph_database&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;graph database&lt;/a&gt;. The hope is that a graphical representation of the data at hand is better suited for retrieving the right data for a particular view.&lt;/p&gt;
-
-&lt;h3 id=&#34;first-steps&#34;&gt;First Steps&lt;/h3&gt;
-
-&lt;p&gt;I have used &lt;a href=&#34;https://cli.angular.io/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Angular CLI&lt;/a&gt; to initialize my application. &lt;a href=&#34;https://v4-alpha.getbootstrap.com/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Bootstrap&lt;/a&gt; will be my front-end framework, along with &lt;a href=&#34;https://ng-bootstrap.github.io/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;ng-bootstrap&lt;/a&gt; for some interactive components.&lt;/p&gt;
-
-&lt;p&gt;My first Angular components were &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/people/people.component.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;people&lt;/a&gt; (actors, directors) and &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/productions/productions.component.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;productions&lt;/a&gt;, showing a list of existing items and allowing to add more entries. For the graph database, I have created a &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/database.service.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;database service&lt;/a&gt;, which implements a few basic queries.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Docker Compose File for WordPress &amp;#038; MariaDB</title>
-      <link>http://www.mwellner.de/post/2016-09-14-docker-compose-file-for-wordpress-mariadb/</link>
+      <link>http://www.mwellner.de/2016/09/docker-compose-file-for-wordpress-</link>
       <pubDate>Wed, 14 Sep 2016 22:33:45 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-09-14-docker-compose-file-for-wordpress-mariadb/</guid>
+      <guid>http://www.mwellner.de/2016/09/docker-compose-file-for-wordpress-</guid>
       <description>&lt;p&gt;After some frustrating attempts to create a working Docker configuration for a WordPress system, I have finally found a working solution. It uses the default &lt;a href=&#34;https://hub.docker.com/_/wordpress/&#34; title=&#34;WordPress image&#34; target=&#34;_blank&#34;&gt;WordPress Docker image&lt;/a&gt; and &lt;a href=&#34;https://hub.docker.com/_/mariadb/&#34; title=&#34;MariaDB image&#34; target=&#34;_blank&#34;&gt;MariaDB&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This is a minimal configuration, you may also want to specify a data volume for persistence.&lt;/p&gt;
@@ -64,10 +40,10 @@ services:&amp;lt;br /&amp;gt;
     
     <item>
       <title>Creating a participant database</title>
-      <link>http://www.mwellner.de/post/2009-04-24-creating-a-participant-database/</link>
+      <link>http://www.mwellner.de/2009/04/creating-a-participant-database/</link>
       <pubDate>Fri, 24 Apr 2009 18:00:26 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-04-24-creating-a-participant-database/</guid>
+      <guid>http://www.mwellner.de/2009/04/creating-a-participant-database/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The initial intention was to keep track of those people who have participated in one of our rowing studies. The second goal was to keep track of how our raw data is organised. Therefore, I designed a relational database with MS Access. In this article I will focus on general database design issues and how to access the database with Matlab. You could use any other &lt;a href=&#34;http://en.wikipedia.org/wiki/Relational_database_management_system&#34;&gt;relational database management system&lt;/a&gt;, which is compatible to the &lt;a href=&#34;http://en.wikipedia.org/wiki/SQL&#34;&gt;SQL standard&lt;/a&gt;.&lt;/p&gt;
@@ -171,10 +147,10 @@ close(curs);&amp;lt;br /&amp;gt;
     
     <item>
       <title>Online Database for Bibliographic Information</title>
-      <link>http://www.mwellner.de/post/2005-07-28-online-database-for-bibliographic-information/</link>
+      <link>http://www.mwellner.de/2005/07/online-database-for-bibliographic-information/</link>
       <pubDate>Thu, 28 Jul 2005 21:04:20 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-07-28-online-database-for-bibliographic-information/</guid>
+      <guid>http://www.mwellner.de/2005/07/online-database-for-bibliographic-information/</guid>
       <description>&lt;p&gt;The common fate of scientists is to read papers. The problem is to maintain the overview over that ever increasing heap of papers and to be able to cite any of them. If you are working mainly on one computer, a program will help to organize and adminsitrate the bibliographical information. But now imagine you are working on multiple systems, always needing to carry your database with you. That really sucks.&lt;/p&gt;
 
 &lt;p&gt;The solution is an online database! I found &lt;a href=&#34;http://www.citeulike.org&#34;&gt;CiteULike&lt;/a&gt; and I&amp;#8217;m really impressed. It&amp;#8217;s free and seems very practical. You even can add articles with one special link, provided the website is supported. But my favorite paper-search websites (&lt;a href=&#34;https://ecopyright.ieee.org/xplore/ie-notice.html&#34;&gt;IEEE Xplore&lt;/a&gt; and &lt;a href=&#34;http://medline.cos.com&#34;&gt;MedLine&lt;/a&gt;{.broken_link}) are included, so that will save me a lot of work.&lt;/p&gt;

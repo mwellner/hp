@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta property="og:title" content="Theater Production and Actor Database" />
+<meta property="og:description" content="Currently, I am working on a hobby project, a theater production and actor database (mwtdb for short). It is visible on GitHub and open source.
+Requirements What I want to create is something similar to IMDb, which focuses on movies, TV and celebreties, but for amateur theater. A very basic version will contain actors, directors and technicians, contributing to productions.
+From a technical point of view, I will create a web application, using Angular and Neo4j, a graph database." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.mwellner.de/en/2017/01/theater-production-and-actor-database/" />
+
+
+
+<meta property="article:published_time" content="2017-01-23T21:39:44&#43;00:00"/>
+<meta property="article:modified_time" content="2017-01-23T21:39:44&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Theater Production and Actor Database"/>
+<meta name="twitter:description" content="Currently, I am working on a hobby project, a theater production and actor database (mwtdb for short). It is visible on GitHub and open source.
+Requirements What I want to create is something similar to IMDb, which focuses on movies, TV and celebreties, but for amateur theater. A very basic version will contain actors, directors and technicians, contributing to productions.
+From a technical point of view, I will create a web application, using Angular and Neo4j, a graph database."/>
+
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  
+  "headline": "Theater Production and Actor Database",
+  "url": "http://www.mwellner.de/en/2017/01/theater-production-and-actor-database/",
+  "wordCount": "165",
+  
+  
+  "datePublished": "2017-01-23T21:39:44+00:00",
+  
+  
+  "dateModified": "2017-01-23T21:39:44+00:00",
+  
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mathias Wellner"
+  }
+  
+  ,
+  "keywords": "software development,actor,angular,database,director,graph database,neo4j"
+  
+}
+</script>
+
+
+
+    <link rel="canonical" href="http://www.mwellner.de/en/2017/01/theater-production-and-actor-database/">
+
+    <title>Theater Production and Actor Database | mathias wellner</title>
+
+    <!-- combined, minified CSS -->
+    <link href="http://www.mwellner.de/css/style.css" rel="stylesheet" integrity="sha384-Cdt2yG10w21pA8DMpImJIvsLOME686p75OYD9jGCZVWvOol9zkEsaF3ctGEuBXK6" crossorigin="anonymous">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="http://www.mwellner.de/">Home</a>
+          
+          
+          
+        </nav>
+      </div>
+    </div>
+
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a href="http://www.mwellner.de/" rel="home">mathias wellner</a></h1>
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-9 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="http://www.mwellner.de/en/2017/01/theater-production-and-actor-database/">Theater Production and Actor Database</a></h2>
+    <p class="blog-post-meta"><time datetime="2017-01-23T21:39:44Z">Mon Jan 23, 2017</time>  in 
+<i class="fa fa-folder" aria-hidden="true"></i>&nbsp;<a href="/en/categories/software-development" rel="category tag">software development</a>
+
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/en/tags/actor" rel="tag">actor</a>, <a href="/en/tags/angular" rel="tag">angular</a>, <a href="/en/tags/database" rel="tag">database</a>, <a href="/en/tags/director" rel="tag">director</a>, <a href="/en/tags/graph-database" rel="tag">graph database</a>, <a href="/en/tags/neo4j" rel="tag">neo4j</a>
+
+</p>
+  </header>
+  
+
+<p>Currently, I am working on a hobby project, a <a href="https://github.com/mwellner/mwtdb">theater production and actor database</a>
+(mwtdb for short). It is visible on GitHub and open source.</p>
+
+<h3 id="requirements">Requirements</h3>
+
+<p>What I want to create is something similar to <a href="http://www.imdb.com/">IMDb</a>, which focuses on
+movies, TV and celebreties, but for amateur theater. A very basic version will contain actors, directors and technicians,
+contributing to productions.</p>
+
+<p>From a technical point of view, I will create a web application, using <a href="https://angular.io/">Angular</a>
+and <a href="https://neo4j.com/">Neo4j</a>, a <a href="https://en.wikipedia.org/wiki/Graph_database">graph database</a>. The hope is that
+a graphical representation of the data at hand is better suited for retrieving the right data for a particular view.</p>
+
+<h3 id="first-steps">First Steps</h3>
+
+<p>I have used <a href="https://cli.angular.io/">Angular CLI</a> to initialize my application. <a href="https://v4-alpha.getbootstrap.com/">Bootstrap</a>
+will be my front-end framework, along with <a href="https://ng-bootstrap.github.io/">ng-bootstrap</a> for some interactive components.</p>
+
+<p>My first Angular components were <a href="https://github.com/mwellner/mwtdb/blob/master/src/app/people/people.component.ts">people</a>
+(actors, directors) and <a href="https://github.com/mwellner/mwtdb/blob/master/src/app/productions/productions.component.ts">productions</a>,
+showing a list of existing items and allowing to add more entries. For the graph database, I have created a
+<a href="https://github.com/mwellner/mwtdb/blob/master/src/app/database.service.ts">database service</a>, which implements a few basic queries.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Share</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.mwellner.de%2fen%2f2017%2f01%2ftheater-production-and-actor-database%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=http%3a%2f%2fwww.mwellner.de%2fen%2f2017%2f01%2ftheater-production-and-actor-database%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.mwellner.de%2fen%2f2017%2f01%2ftheater-production-and-actor-database%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=http%3a%2f%2fwww.mwellner.de%2fen%2f2017%2f01%2ftheater-production-and-actor-database%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>
+      
+      </p>
+      <p>
+      <a href="#">Back to top</a>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

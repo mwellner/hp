@@ -10,10 +10,10 @@
     
     <item>
       <title>Infrastructure Lessons from &amp;#8220;Ship It!&amp;#8221;</title>
-      <link>http://www.mwellner.de/post/2009-11-30-lessons-from-ship-it/</link>
+      <link>http://www.mwellner.de/2009/11/infrastructure-lessons-from-</link>
       <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-11-30-lessons-from-ship-it/</guid>
+      <guid>http://www.mwellner.de/2009/11/infrastructure-lessons-from-</guid>
       <description>&lt;p&gt;When a lot of people work together on software projects, a lot of things can go wrong. The book &lt;a href=&#34;http://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047&#34;&gt;Ship It!&lt;/a&gt; by Jared Richardson and William Gwaltney Jr. introduces a number of techniques and tools to make software development teams more productive. During my time at the Sensory Motor Systems Lab, I was responsible for setting up a software development process for a small team. Therefore, most of the issues are well-known to me. And I guess, that we could have done much better by using more of the techniques described in the book.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Version control&lt;/strong&gt;&lt;/p&gt;

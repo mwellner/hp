@@ -10,10 +10,10 @@
     
     <item>
       <title>Installing and Customizing WordPress</title>
-      <link>http://www.mwellner.de/post/2009-11-30-installing-and-costumizing-wordpress/</link>
+      <link>http://www.mwellner.de/2009/11/installing-and-customizing-wordpress/</link>
       <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-11-30-installing-and-costumizing-wordpress/</guid>
+      <guid>http://www.mwellner.de/2009/11/installing-and-customizing-wordpress/</guid>
       <description>&lt;p&gt;It&amp;#8217;s been a week since I moved my Weblog from &lt;a href=&#34;http://blogs.ethz.ch&#34;&gt;ETH Weblog services&lt;/a&gt; to my own server. This move has been a great success so far. In this post I would like to share some initial problems and how I overcame them and which plugins I decided to use.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Installation&lt;/strong&gt;&lt;/p&gt;

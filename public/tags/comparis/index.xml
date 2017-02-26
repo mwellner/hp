@@ -10,10 +10,10 @@
     
     <item>
       <title>Abschied von Comparis</title>
-      <link>http://www.mwellner.de/post/2016-09-28-abschied-von-comparis/</link>
+      <link>http://www.mwellner.de/2016/09/abschied-von-comparis/</link>
       <pubDate>Wed, 28 Sep 2016 22:45:23 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-09-28-abschied-von-comparis/</guid>
+      <guid>http://www.mwellner.de/2016/09/abschied-von-comparis/</guid>
       <description>&lt;p&gt;Mein letzter Arbeitstag heute gab mir die Gelegenheit, mich von sehr vielen lieben Kolleginnen und Kollegen zu verabschieden. Technisch habe ich nicht mehr viel gemacht, es lohnt nicht mehr, große Dinge anzugehen. Zum Abschluss habe ich meine offenen Changesets einem Kollegen anvertraut, eine letzte Aufgabe gelöst, Gipfeli mitgebracht, Badge abgegeben, viele Hände geschüttelt, Darmstadt-Witze gehört, Abschiedsmail verfasst, eine letzte Runde gedreht. Dann war ich draußen, die Sonne schien an diesem wundervollen Herbsttag, einige Wiedikoner Juden stehen mit mir an der Haltestelle. Ein letztes Mal zurück in der 14 Richtung Milchbuck.&lt;/p&gt;
 
 &lt;p&gt;Witzig war auch noch die Session über Micro-Services, die meine Kollegen allmählich einführen werden. Wie erstellt man einen, registriert ihn bei Consul, wechselt die Version? Ein spannendes Konzept für ein historisch gewachsenes Geflecht von Funktionalitäten.&lt;/p&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>Comparis-Sommerausflug</title>
-      <link>http://www.mwellner.de/post/2014-06-21-comparis-sommerausflug/</link>
+      <link>http://www.mwellner.de/2014/06/comparis-sommerausflug/</link>
       <pubDate>Sat, 21 Jun 2014 22:29:55 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2014-06-21-comparis-sommerausflug/</guid>
+      <guid>http://www.mwellner.de/2014/06/comparis-sommerausflug/</guid>
       <description>&lt;p&gt;Im Sommer unternahmen die meisten Comparis-Mitarbeiter einen Ausflug. Ziel war das &lt;a href=&#34;http://www.ballenberg.ch/&#34; target=&#34;_blank&#34;&gt;Freilichtmuseum Ballenberg&lt;/a&gt;. Dort gibt es alte Bauernhäuser aus der ganzen Schweiz zu bestaunen. Als Stadtkind habe ich nicht so den rechten Bezug dazu, aber spannend war es allemal. Und wir durften uns in verschiedenen Mannschaften bei einer Olympiade messen, mit den Disziplinen Alphornblasen, &lt;a href=&#34;http://de.wikipedia.org/wiki/Platzgen&#34; target=&#34;_blank&#34;&gt;Platzgen&lt;/a&gt;, Steinweitwurf, Armbrustschießen und Tauziehen. Im Anschluss ging es dann ins Hotel in Interlaken, wo wir einen Apero einnahmen und danach, während des Abendessens, die WM-Begegnung Schweiz-Frankreich anschauten. Leider lief es nicht so gut für die Schweizer Nati, sie steckten eine 2:5-Niederlage ein. Ich spielte unterdessen das Schweizer Kartenspiel &lt;a href=&#34;http://de.wikipedia.org/wiki/Jass&#34; target=&#34;_blank&#34;&gt;Jass&lt;/a&gt;. War ein lustiger Tag.&lt;/p&gt;
 
 &lt;div id=&#34;attachment_4568&#34; style=&#34;width: 860px&#34; class=&#34;wp-caption alignright&#34;&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>Start bei comparis.ch</title>
-      <link>http://www.mwellner.de/post/2013-10-04-start-bei-comparis-ch/</link>
+      <link>http://www.mwellner.de/2013/10/start-bei-comparis.ch/</link>
       <pubDate>Fri, 04 Oct 2013 20:37:08 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-10-04-start-bei-comparis-ch/</guid>
+      <guid>http://www.mwellner.de/2013/10/start-bei-comparis.ch/</guid>
       <description>&lt;p&gt;Die ersten Tage bei &lt;a href=&#34;http://www.comparis.ch&#34;&gt;comparis.ch&lt;/a&gt; sind vorüber. Bei Comparis können Verbraucher zum Beispiel Versicherungen vergleichen oder nach Immobilien und Fahrzeugen suchen. Die Entscheidung liegt natürlich beim Verbraucher, Comparis stellt unabhängig und neutral die Daten zur Entscheidungsfindung zur Verfügung.&lt;/p&gt;
 
 &lt;p&gt;Ich bin jetzt im Software-Architektur-Team dabei. Wir unterstützen die anderen Entwickler bei Architekturfragen und entwickeln bestimmte systemweite Komponenten auch selbst. Aber zur Zeit bin ich noch am Einarbeiten und kann anderen nicht wirklich helfen. Technologisch habe ich jetzt zu tun mit&lt;/p&gt;

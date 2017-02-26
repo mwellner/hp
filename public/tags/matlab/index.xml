@@ -10,10 +10,10 @@
     
     <item>
       <title>Creating a participant database</title>
-      <link>http://www.mwellner.de/post/2009-04-24-creating-a-participant-database/</link>
+      <link>http://www.mwellner.de/2009/04/creating-a-participant-database/</link>
       <pubDate>Fri, 24 Apr 2009 18:00:26 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-04-24-creating-a-participant-database/</guid>
+      <guid>http://www.mwellner.de/2009/04/creating-a-participant-database/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The initial intention was to keep track of those people who have participated in one of our rowing studies. The second goal was to keep track of how our raw data is organised. Therefore, I designed a relational database with MS Access. In this article I will focus on general database design issues and how to access the database with Matlab. You could use any other &lt;a href=&#34;http://en.wikipedia.org/wiki/Relational_database_management_system&#34;&gt;relational database management system&lt;/a&gt;, which is compatible to the &lt;a href=&#34;http://en.wikipedia.org/wiki/SQL&#34;&gt;SQL standard&lt;/a&gt;.&lt;/p&gt;
@@ -117,10 +117,10 @@ close(curs);&amp;lt;br /&amp;gt;
     
     <item>
       <title>Handling huge amounts of raw data with Matlab</title>
-      <link>http://www.mwellner.de/post/2009-04-07-handling-huge-amounts-of-raw-data-with-matlab/</link>
+      <link>http://www.mwellner.de/2009/04/handling-huge-amounts-of-raw-data-with-matlab/</link>
       <pubDate>Tue, 07 Apr 2009 12:12:41 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-04-07-handling-huge-amounts-of-raw-data-with-matlab/</guid>
+      <guid>http://www.mwellner.de/2009/04/handling-huge-amounts-of-raw-data-with-matlab/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The Matlab workspace is limited in size, depending on your system. We reached the workspace limit with a rowing study (10 participants, 1&amp;thinsp;kHz sampling rate, 20 variables, 10 minutes duration). Although the extracted data fits very well in the workspace, the raw data does not. Therefore, a solution is needed with fast access to specific variables. This is needed for feature extraction and later display of data.&lt;/p&gt;
@@ -160,10 +160,10 @@ Elapsed time is 1.1 seconds.&amp;lt;br /&amp;gt;
     
     <item>
       <title>This!</title>
-      <link>http://www.mwellner.de/post/2009-03-11-this/</link>
+      <link>http://www.mwellner.de/2009/03/this/</link>
       <pubDate>Wed, 11 Mar 2009 21:52:24 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-03-11-this/</guid>
+      <guid>http://www.mwellner.de/2009/03/this/</guid>
       <description>&lt;p&gt;Ich schreibe. An meiner Diss. Ich habe sie &lt;strong&gt;This!&lt;/strong&gt; genannt, das klingt so wie Diss und erinnert mich an Peter Gabriels Album &lt;a href=&#34;http://petergabriel.com/discography/release/So/&#34;&gt;So&lt;/a&gt;, ein Weihnachtsgeschenk meiner Schwester.&lt;/p&gt;
 
 &lt;p&gt;Ich schreibe. Über die Ergebnisse der Ruderstudie mit Wettbewerbern. Teilnehmer 1 hat reagiert, und das deutlich. Man sieht es an den Graphen, den Prunkstücken dieses Kapitels. Es lässt sich so viel aussagen mit einem Graphen. Dann brauche ich auch weniger zu schreiben. Es springt dem Leser dann ins Auge. Aber nur, wenn der Graph gut gemacht ist und in sich das Studiendesign, die Einzelergebnisse, die Durchschnittswerte pro Block mit Standardabweichungen und am besten noch die Schlussfolgerungen in sich vereint und dabei nicht unübersichtlich wird.&lt;/p&gt;
@@ -178,10 +178,10 @@ Elapsed time is 1.1 seconds.&amp;lt;br /&amp;gt;
     
     <item>
       <title>Using xPC COM API and Visual C#</title>
-      <link>http://www.mwellner.de/post/2008-04-05-using-xpc-com-api-and-visual-c/</link>
+      <link>http://www.mwellner.de/2008/04/using-xpc-com-api-and-visual-c/</link>
       <pubDate>Sat, 05 Apr 2008 16:00:34 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2008-04-05-using-xpc-com-api-and-visual-c/</guid>
+      <guid>http://www.mwellner.de/2008/04/using-xpc-com-api-and-visual-c/</guid>
       <description>&lt;p&gt;This entry is for those who want to control an xPC target computer with a program written in C#. I personally did not find any example how to do this, the documentation provides an example using Visual Basic, but I found a simpler way. I do only use the xPC COM API (which must be included as reference in the project) and not the model COM interface. I think this is easier because you don&amp;#8217;t have to reinsert the model reference if you recompile it.&lt;/p&gt;
 
 &lt;p&gt;The example here is a very simple one. I just needed to connect to the target, load the application, and register one signal, which I need to access. Please note that you need to insert a gain element with value 1 to register a signal (Target.GetSignalIdx).&lt;/p&gt;
@@ -249,10 +249,10 @@ namespace ProjectNamespace
     
     <item>
       <title>Matlab &amp;#8212; Intuitiv und einfach?</title>
-      <link>http://www.mwellner.de/post/2005-04-29-matlab-intuitiv-und-einfach/</link>
+      <link>http://www.mwellner.de/2005/04/matlab-</link>
       <pubDate>Fri, 29 Apr 2005 23:12:58 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-29-matlab-intuitiv-und-einfach/</guid>
+      <guid>http://www.mwellner.de/2005/04/matlab-</guid>
       <description>&lt;p&gt;Bislang war ich ja doch ein erklärter Verfechter von Matlab als einer einfachen Programmierwprache, mit der man schnell zu Ergebnissen kommt. Doch heute las ich die Seite eines erklärten Gegners solcher einfachen Skript-Sprachen. Er argumentiert, dass durch die vielen Vereinfachungen &amp;#8211; als da wären:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -267,10 +267,10 @@ namespace ProjectNamespace
     
     <item>
       <title>Einführungswoche in Zürich &amp;#8211; Introductory Week in Zurich</title>
-      <link>http://www.mwellner.de/post/2005-04-29-einfuhrungswoche-in-zurich-introductory-week-in-zurich/</link>
+      <link>http://www.mwellner.de/2005/04/einf%C3%BChrungswoche-in-z%C3%BCrich-</link>
       <pubDate>Fri, 29 Apr 2005 20:37:36 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-29-einfuhrungswoche-in-zurich-introductory-week-in-zurich/</guid>
+      <guid>http://www.mwellner.de/2005/04/einf%C3%BChrungswoche-in-z%C3%BCrich-</guid>
       <description>&lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
@@ -297,10 +297,10 @@ namespace ProjectNamespace
     
     <item>
       <title>Einarbeitung in Zürich &amp;#8212; Adjustment in Zurich</title>
-      <link>http://www.mwellner.de/post/2005-04-26-einarbeitung-in-zurich-adjustment-in-zurich/</link>
+      <link>http://www.mwellner.de/2005/04/einarbeitung-in-z%C3%BCrich-</link>
       <pubDate>Tue, 26 Apr 2005 12:53:25 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-26-einarbeitung-in-zurich-adjustment-in-zurich/</guid>
+      <guid>http://www.mwellner.de/2005/04/einarbeitung-in-z%C3%BCrich-</guid>
       <description>&lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;

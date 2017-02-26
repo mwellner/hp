@@ -10,10 +10,10 @@
     
     <item>
       <title>Start bei comparis.ch</title>
-      <link>http://www.mwellner.de/post/2013-10-04-start-bei-comparis-ch/</link>
+      <link>http://www.mwellner.de/2013/10/start-bei-comparis.ch/</link>
       <pubDate>Fri, 04 Oct 2013 20:37:08 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-10-04-start-bei-comparis-ch/</guid>
+      <guid>http://www.mwellner.de/2013/10/start-bei-comparis.ch/</guid>
       <description>&lt;p&gt;Die ersten Tage bei &lt;a href=&#34;http://www.comparis.ch&#34;&gt;comparis.ch&lt;/a&gt; sind vorüber. Bei Comparis können Verbraucher zum Beispiel Versicherungen vergleichen oder nach Immobilien und Fahrzeugen suchen. Die Entscheidung liegt natürlich beim Verbraucher, Comparis stellt unabhängig und neutral die Daten zur Entscheidungsfindung zur Verfügung.&lt;/p&gt;
 
 &lt;p&gt;Ich bin jetzt im Software-Architektur-Team dabei. Wir unterstützen die anderen Entwickler bei Architekturfragen und entwickeln bestimmte systemweite Komponenten auch selbst. Aber zur Zeit bin ich noch am Einarbeiten und kann anderen nicht wirklich helfen. Technologisch habe ich jetzt zu tun mit&lt;/p&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>Neues Weblog-System</title>
-      <link>http://www.mwellner.de/post/2009-08-05-neues-weblog-system/</link>
+      <link>http://www.mwellner.de/2009/08/neues-weblog-system/</link>
       <pubDate>Wed, 05 Aug 2009 22:24:11 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-08-05-neues-weblog-system/</guid>
+      <guid>http://www.mwellner.de/2009/08/neues-weblog-system/</guid>
       <description>&lt;p&gt;Nachdem meine Tage an der ETH nunmehr gezählt sind, suchte ich nach einer neuen Heimat für mein Weblog, welches bisher vom &lt;a href=&#34;http://blogs.ethz.ch&#34;&gt;Weblog Service der ETH Zürich&lt;/a&gt; gehostet wurde. Es ist nun also auf dem von mir mitgenutzten Server, eine naheliegende Lösung. Das einzige Problem sind die vielen Sicherheitslücken in der Weblog-Software, welche unserem Systemadministrator Schweißperlen auf die Stirn treiben. &lt;a href=&#34;http://www.php.net&#34;&gt;PHP&lt;/a&gt;, auf dem die Software &lt;a href=&#34;http://wordpress.org&#34;&gt;WordPress&lt;/a&gt; basiert, scheint sehr anfällig für alle möglichen Arten von Attacken zu sein. Aber warten wir ab, ob unser Server wirklich von Spammern gekapert wird.&lt;/p&gt;
 
 &lt;p&gt;Auf jeden Fall ist mit diesem Weblog eine einheitliche Webpräsenz geschaffen, meine alte Homepage, die früher unter dieser Adresse zu erreichen war, hat ausgedient. Ich habe jedoch ausgewählte Inhalte übernommen, die Tagebücher aus Blacksburg findet ihr im Archiv (2002-03), eine Übersicht aller Lesungen auf den statischen Seiten (siehe &lt;a href=&#34;http://www.mwellner.de/lesungen/&#34;&gt;Lesungen&lt;/a&gt;). Weblog und Homepage verschmelzen also zu einem Ganzen.&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>Umstellung auf Serendipity</title>
-      <link>http://www.mwellner.de/post/2005-04-01-willkommen/</link>
+      <link>http://www.mwellner.de/2005/04/umstellung-auf-serendipity/</link>
       <pubDate>Fri, 01 Apr 2005 00:14:13 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-01-willkommen/</guid>
+      <guid>http://www.mwellner.de/2005/04/umstellung-auf-serendipity/</guid>
       <description>&lt;p&gt;Liebe Blog-Leser,&lt;/p&gt;
 
 &lt;p&gt;eine neue Ära ha begonnen, eine völlig andere Blog-Software verwaltet ab sofort meine Gedanken und sonstigen für die Öffentlichkeit bestimmten Dinge. Es handelt sich um Serendipity, und lässt sich einfach etwas besser verwalten als meine bisherige Weblog-Software. Außerdem sind jetzt RSS-Feeds problemlos möglich. Wenn euch das nichts sagt, ist das auch nicht so schlimm.&lt;/p&gt;

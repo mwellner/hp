@@ -9,29 +9,11 @@
     <atom:link href="http://www.mwellner.de/categories/www/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Angular</title>
-      <link>http://www.mwellner.de/post/2016-11-06-angular/</link>
-      <pubDate>Sun, 06 Nov 2016 22:58:37 +0000</pubDate>
-      
-      <guid>http://www.mwellner.de/post/2016-11-06-angular/</guid>
-      <description>&lt;p&gt;After my first week at &lt;a href=&#34;https://www.conweaver.com/&#34; target=&#34;_blank&#34;&gt;ConWeaver&lt;/a&gt;, I got a first impression of the search framework and the technology used. The hot topic in the moment is &lt;a href=&#34;https://angular.io/&#34; target=&#34;_blank&#34;&gt;Angular&lt;/a&gt;, which is a web application framework. In contrast to other server-side frameworks, the application logic is on the client (browser). This is a major trend now, aiming at &lt;a href=&#34;https://developers.google.com/web/progressive-web-apps/&#34; target=&#34;_blank&#34;&gt;Progressive Web Apps&lt;/a&gt;, which are as quick and responsive as native applications.&lt;/p&gt;
-
-&lt;p&gt;To work with Angular, I need to understand the entire ecosystem which has evolved for developing with Angular. &lt;a href=&#34;http://www.typescriptlang.org/&#34; target=&#34;_blank&#34;&gt;TypeScript&lt;/a&gt; is used as an improved version of JavaScript, &lt;a href=&#34;https://nodejs.org&#34; target=&#34;_blank&#34;&gt;Node.js&lt;/a&gt; and &lt;a href=&#34;https://www.npmjs.com/&#34; target=&#34;_blank&#34;&gt;npm&lt;/a&gt; for packaging and tooling.&lt;/p&gt;
-
-&lt;p&gt;One tool I can heavily recommend is &lt;a href=&#34;https://code.visualstudio.com/&#34; target=&#34;_blank&#34;&gt;Visual Studio Code&lt;/a&gt;. It works on Windows and Linux, has built-in &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; functionality and is just perfect for working with a web project.&lt;/p&gt;
-
-&lt;p&gt;Overall, I have found the Linux environment slightly easier to use. On Windows, some Node packages needed to be installed globally with appropriate PATH settings, what was not quite intuitive.&lt;/p&gt;
-
-&lt;p&gt;But there are still a lot of things to discover and learn out there.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Comparis-Relaunch</title>
-      <link>http://www.mwellner.de/post/2016-06-30-comparis-relaunch/</link>
+      <link>http://www.mwellner.de/2016/06/comparis-relaunch/</link>
       <pubDate>Thu, 30 Jun 2016 20:10:52 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-06-30-comparis-relaunch/</guid>
+      <guid>http://www.mwellner.de/2016/06/comparis-relaunch/</guid>
       <description>&lt;p&gt;Am Dienstag ging ein Teil der Comparis-Seite im neuen Design live. Noch sind wir am Testen, wie gut das bei den Benutzern ankommt, aber schon bald werden auch weitere Applikationen im neuen Kleid erstrahlen. Es ist für Außenstehende vermutlich schwer vorstellbar, welcher Aufwand hinter so einem Relaunch steckt. Gern möchte ich an einem auf den ersten Blick einfachen Beispiel die Komplexität erläutern, die in vielen kleinen Details steckt.&lt;/p&gt;
 
 &lt;div id=&#34;attachment_6721&#34; style=&#34;width: 904px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
@@ -52,20 +34,20 @@
     
     <item>
       <title>CSS Blend Modes</title>
-      <link>http://www.mwellner.de/post/2016-06-01-css-blend-modes/</link>
+      <link>http://www.mwellner.de/2016/06/css-blend-modes/</link>
       <pubDate>Wed, 01 Jun 2016 22:47:06 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-06-01-css-blend-modes/</guid>
+      <guid>http://www.mwellner.de/2016/06/css-blend-modes/</guid>
       <description>&lt;p&gt;Eine wundervolle künstlerische Anwendung von CSS sind die &lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/CSS/CSS_Referenz/mix-blend-mode&#34; title=&#34;mix-blend-mode&#34; target=&#34;_blank&#34;&gt;Blend Modes&lt;/a&gt;, welche eine Überlagerung von zwei übereinander befindlichen Elementen ermöglichen. Ich habe es für die Kopfzeile dieser Webseite gleich mal ausprobiert, nach langem Testen hat mich schließlich &lt;em&gt;mix-blend-mode: hard-light&lt;/em&gt; überzeugt. Das Beste daran ist die leichte Anpassbarkeit, ich kann den Text schnell ändern, was bei einer mit Photoshop erzeugten Grafik ganz anders aussähe. Empfehlen möchte ich außerdem den &lt;a href=&#34;https://sarasoueidan.com/demos/css-blender/&#34; title=&#34;CSS Blender&#34; target=&#34;_blank&#34;&gt;CSS Blender&lt;/a&gt;, dort kann man nach Herzenslust alle Effekte austesten.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Progressive Web Apps</title>
-      <link>http://www.mwellner.de/post/2016-05-22-progressive-web-apps/</link>
+      <link>http://www.mwellner.de/2016/05/progressive-web-apps/</link>
       <pubDate>Sun, 22 May 2016 23:04:24 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-05-22-progressive-web-apps/</guid>
+      <guid>http://www.mwellner.de/2016/05/progressive-web-apps/</guid>
       <description>&lt;p&gt;Einen Ausblick auf zukünftige Web-Applikationen gab es bei der Entwicklerkonferenz &lt;a href=&#34;https://events.google.com/io2016/&#34; title=&#34;Google I/O 2016&#34; target=&#34;_blank&#34;&gt;Google I/O 2016&lt;/a&gt; zu sehen. Die Konferenz ist natürlich zentriert auf Technologien, die bei Google entwickelt werden, wobei es aber auch um grundlegende Entwicklungsmuster geht, die auch mit anderen Frameworks umzusetzen sind.&lt;/p&gt;
 
 &lt;p&gt;Das grundlegende Problem vieler Web-Applikationen ist ihre schlechte Performance, sie brauchen zu lange beim Laden oder beim Interagieren. Das ist vor allem auf mobilen Geräten hinderlich, die keine gute Bandbreite haben. Eine perfekte Applikation würde initial schnell laden, dann im Hintergrund weitere Resourcen holen, damit bei weiteren Interaktionen schnelle Reaktionszeiten möglich sind, sie würde sich verhalten wie eine native Applikation.&lt;/p&gt;
@@ -78,20 +60,20 @@
     
     <item>
       <title>Flash ist tot, lang lebe Flash</title>
-      <link>http://www.mwellner.de/post/2015-12-03-flash-ist-tot-lang-lebe-flash/</link>
+      <link>http://www.mwellner.de/2015/12/flash-ist-tot-lang-lebe-flash/</link>
       <pubDate>Thu, 03 Dec 2015 22:21:35 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-12-03-flash-ist-tot-lang-lebe-flash/</guid>
+      <guid>http://www.mwellner.de/2015/12/flash-ist-tot-lang-lebe-flash/</guid>
       <description>&lt;p&gt;Totgesagte leben länger, so kann man das aktuell wieder angekündigte Ende von Flash interpretieren (siehe ZEIT-Artikel &lt;a href=&#34;http://www.zeit.de/digital/internet/2015-12/flash-player-adobe-tot-animate-cc&#34; title=&#34;Oh mein Gott, sie haben Flash getötet&#34; target=&#34;_blank&#34;&gt;Oh mein Gott, sie haben Flash getötet&lt;/a&gt;). Aber ganz so einfach ist es nicht, bedeutet doch das Umstellen auf &lt;a href=&#34;https://de.wikipedia.org/wiki/HTML5&#34; title=&#34;HTML5&#34; target=&#34;_blank&#34;&gt;HTML5&lt;/a&gt; oder &lt;a href=&#34;https://de.wikipedia.org/wiki/WebGL&#34; title=&#34;WebGL&#34; target=&#34;_blank&#34;&gt;WebGL&lt;/a&gt; eine Menge Arbeit. Und so wird sich der Abschied vom ungeliebten Flash wohl noch ein Weilchen hinziehen.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>WordPress and og:image</title>
-      <link>http://www.mwellner.de/post/2015-10-24-wordpress-and-ogimage/</link>
+      <link>http://www.mwellner.de/2015/10/wordpress-and-ogimage/</link>
       <pubDate>Sat, 24 Oct 2015 11:50:25 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-10-24-wordpress-and-ogimage/</guid>
+      <guid>http://www.mwellner.de/2015/10/wordpress-and-ogimage/</guid>
       <description>
 
 &lt;h3 id=&#34;the-problem&#34;&gt;The Problem&lt;/h3&gt;
@@ -118,10 +100,10 @@
     
     <item>
       <title>Neues Erscheinungsbild und neue Schriftart</title>
-      <link>http://www.mwellner.de/post/2015-03-22-neues-erscheinungsbild-und-neue-schriftart-fira-sans/</link>
+      <link>http://www.mwellner.de/2015/03/neues-erscheinungsbild-und-neue-schriftart/</link>
       <pubDate>Sun, 22 Mar 2015 19:44:43 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-03-22-neues-erscheinungsbild-und-neue-schriftart-fira-sans/</guid>
+      <guid>http://www.mwellner.de/2015/03/neues-erscheinungsbild-und-neue-schriftart/</guid>
       <description>&lt;p&gt;Ich habe das Aussehen meiner Webseite verändert, ich verwende jetzt das &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress Thema&lt;/a&gt;. Mein Ziel war es, ein anderes Thema als &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt; zu nehmen, denn das haben wir auch auf der Seite unserer Theatergruppe &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt;. Grundsätzlich sind beide Themen ähnlich, vor allem von den Einstellmöglichkeiten, jedoch sieht es schon ein wenig anders aus.&lt;/p&gt;
 
 &lt;p&gt;Was ich richtig gut fand, war die Einbindung eines CSS-Präprozessors, in diesem Fall &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less&lt;/a&gt; für selbst erstelltes CSS. Mir waren die Tabellen-Stile zu großzügig bemessen, meine lange &lt;a href=&#34;http://www.mwellner.de/schauspiel/&#34; title=&#34;Schauspiel/​Regie&#34;&gt;Liste von Theaterproduktionen&lt;/a&gt; sah nicht wirklich gut aus.&lt;/p&gt;
@@ -132,10 +114,10 @@
     
     <item>
       <title>New Theme and Font</title>
-      <link>http://www.mwellner.de/post/2015-03-22-new-theme/</link>
+      <link>http://www.mwellner.de/2015/03/new-theme-and-font/</link>
       <pubDate>Sun, 22 Mar 2015 19:36:45 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-03-22-new-theme/</guid>
+      <guid>http://www.mwellner.de/2015/03/new-theme-and-font/</guid>
       <description>&lt;p&gt;I have changed the appearance of my web site, giving the &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress theme&lt;/a&gt; a chance. My goal was to get away from &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt;, since we use that on &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt; as well. The elements are roughly the same, but the look is slightly different.&lt;/p&gt;
 
 &lt;p&gt;One thing I noted with great delight &amp;ndash; you can use the &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less pre-processor&lt;/a&gt; when typing in your custom CSS. What I actually changed were table styles, they had defined quite large paddings, making my acting overview page look strange.&lt;/p&gt;
@@ -146,10 +128,10 @@
     
     <item>
       <title>UX Munich – Conference Notes</title>
-      <link>http://www.mwellner.de/post/2015-03-20-ux-munich-conference-notes/</link>
+      <link>http://www.mwellner.de/2015/03/ux-munich--conference-notes/</link>
       <pubDate>Fri, 20 Mar 2015 22:10:23 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-03-20-ux-munich-conference-notes/</guid>
+      <guid>http://www.mwellner.de/2015/03/ux-munich--conference-notes/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Conference&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The conference location was a beautiful building in walking distance of Munich main station, the &lt;a href=&#34;http://www.kuenstlerhaus-muc.de/&#34; title=&#34;Münchner Künstlerhaus&#34; target=&#34;_blank&#34;&gt;Künstlerhaus&lt;/a&gt;. It is an old building and has style, and as such is a perfect meeting venue for UX enthusiasts.&lt;/p&gt;
@@ -229,10 +211,10 @@
     
     <item>
       <title>Neuer PGP-Schlüssel</title>
-      <link>http://www.mwellner.de/post/2014-04-06-neuer-pgp-schluessel/</link>
+      <link>http://www.mwellner.de/2014/04/neuer-pgp-schl%C3%BCssel/</link>
       <pubDate>Sun, 06 Apr 2014 12:18:01 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2014-04-06-neuer-pgp-schluessel/</guid>
+      <guid>http://www.mwellner.de/2014/04/neuer-pgp-schl%C3%BCssel/</guid>
       <description>&lt;p&gt;Es ist an der Zeit, meinen alten PGP-Schlüssel zu ersetzen, der mit einer Länge von 1024 Bit nicht mehr als sicher gelten kann. Der neue ist vom Typ RSA und hat eine Länge von 4096, damit sollte ich bis ins Jahr 2020 sicher sein.&lt;/p&gt;
 
 &lt;p&gt;Wer also wirklich etwas tun will gegen das alltägliche Ausspionieren, ist herzlich eingeladen, ebenfalls PGP zu nutzen. Importiert einfach meinen &lt;a href=&#34;http://www.mwellner.de/mathiaswellner.asc&#34;&gt;öffentlichen Schlüssel&lt;/a&gt;, dann könnt ihr Nachrichten an mich verschlüsseln.&lt;/p&gt;
@@ -243,20 +225,20 @@
     
     <item>
       <title>Jahresrückblick Weblog</title>
-      <link>http://www.mwellner.de/post/2014-01-01-jahresrueckblick-weblog/</link>
+      <link>http://www.mwellner.de/2014/01/jahresr%C3%BCckblick-weblog/</link>
       <pubDate>Wed, 01 Jan 2014 22:27:08 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2014-01-01-jahresrueckblick-weblog/</guid>
+      <guid>http://www.mwellner.de/2014/01/jahresr%C3%BCckblick-weblog/</guid>
       <description>&lt;p&gt;WordPress hat einen &lt;a href=&#34;http://jetpack.me/annual-report/9056871/2013/&#34;&gt;schönen Rückblick&lt;/a&gt; erstellt. Mein Weblog hatte 2013 30.000 Besucher!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Start bei comparis.ch</title>
-      <link>http://www.mwellner.de/post/2013-10-04-start-bei-comparis-ch/</link>
+      <link>http://www.mwellner.de/2013/10/start-bei-comparis.ch/</link>
       <pubDate>Fri, 04 Oct 2013 20:37:08 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-10-04-start-bei-comparis-ch/</guid>
+      <guid>http://www.mwellner.de/2013/10/start-bei-comparis.ch/</guid>
       <description>&lt;p&gt;Die ersten Tage bei &lt;a href=&#34;http://www.comparis.ch&#34;&gt;comparis.ch&lt;/a&gt; sind vorüber. Bei Comparis können Verbraucher zum Beispiel Versicherungen vergleichen oder nach Immobilien und Fahrzeugen suchen. Die Entscheidung liegt natürlich beim Verbraucher, Comparis stellt unabhängig und neutral die Daten zur Entscheidungsfindung zur Verfügung.&lt;/p&gt;
 
 &lt;p&gt;Ich bin jetzt im Software-Architektur-Team dabei. Wir unterstützen die anderen Entwickler bei Architekturfragen und entwickeln bestimmte systemweite Komponenten auch selbst. Aber zur Zeit bin ich noch am Einarbeiten und kann anderen nicht wirklich helfen. Technologisch habe ich jetzt zu tun mit&lt;/p&gt;
@@ -279,10 +261,10 @@
     
     <item>
       <title>Rückblick 2012</title>
-      <link>http://www.mwellner.de/post/2012-12-31-rueckblick-2012/</link>
+      <link>http://www.mwellner.de/2012/12/r%C3%BCckblick-2012/</link>
       <pubDate>Mon, 31 Dec 2012 17:09:29 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2012-12-31-rueckblick-2012/</guid>
+      <guid>http://www.mwellner.de/2012/12/r%C3%BCckblick-2012/</guid>
       <description>&lt;p&gt;Passend zum Jahresende möchte ich noch einige Zahlen zu meinem Weblog veröffentlichen. Insgesamt gibt es im Vergleich zum Vorjahr ein deutliches Plus. Hatte ich 2010 und 2011 jeweils rund 21.000 Besucher, waren es in diesem Jahr knapp 28.000. Das entspricht einem Schnitt von 76 Besuchen pro Tag für das Jahr 2012. Erfolgreichster Monat ist jetzt der November 2012 mit 2.876 Besuchern (durchschnittlich 96 pro Tag).&lt;/p&gt;
 
 &lt;p&gt;Die erfolgreichsten Artikel sind wieder die technischen über LaTeX. Derartige Dinge werden auch bevorzugt online gesucht. Die Theater-Themen schlagen sich aber auch gut, besonders erfolgreich sind bekannte Stücknamen und allgemeine Texte.&lt;/p&gt;
@@ -362,10 +344,10 @@
     
     <item>
       <title>Implementing simple ajax show/hide effects with cakePHP</title>
-      <link>http://www.mwellner.de/post/2010-04-15-implementing-simple-ajax-showhide-effects-with-cakephp/</link>
+      <link>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</link>
       <pubDate>Thu, 15 Apr 2010 09:56:52 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2010-04-15-implementing-simple-ajax-showhide-effects-with-cakephp/</guid>
+      <guid>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</guid>
       <description>&lt;p&gt;There are quite some tutorials on ajax effects out there [1, 2], but most were too complex for my needs. I simply wanted an enhanced index page for projects, which shows some details for each project and more on demand with a sliding effect. So here is what my solution looks like.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Basics&lt;/strong&gt;&lt;/p&gt;
@@ -485,10 +467,10 @@ foreach ($projects as $project):
     
     <item>
       <title>Statistik</title>
-      <link>http://www.mwellner.de/post/2007-12-02-statistik/</link>
+      <link>http://www.mwellner.de/2007/12/statistik/</link>
       <pubDate>Sun, 02 Dec 2007 13:46:37 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2007-12-02-statistik/</guid>
+      <guid>http://www.mwellner.de/2007/12/statistik/</guid>
       <description>&lt;p&gt;Mit großer Freude kann ich verkünden, dass mein Weblog seit Juli 2007 das meistbesuchte von allen unter &lt;a href=&#34;http://blogs.ethz.ch&#34;&gt;blogs.ethz.ch&lt;/a&gt; verzeichneten ist.&lt;/p&gt;
 
 &lt;table&gt;
@@ -528,6 +510,16 @@ foreach ($projects as $project):
 &lt;/table&gt;
 
 &lt;p&gt;Allen treuen Lesern herzlichen Dank!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simply the Best</title>
+      <link>http://www.mwellner.de/2007/07/simply-the-best/</link>
+      <pubDate>Tue, 10 Jul 2007 23:24:47 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2007/07/simply-the-best/</guid>
+      <description>&lt;p&gt;Schaut mal auf &lt;a href=&#34;http://blogs.ethz.ch&#34;&gt;blogs.ethz.ch&lt;/a&gt;, das ist das Portal zu allen an der ETH geführten Weblogs. Rechts gibt es zum Einen die &lt;strong&gt;aktivsten Blogs&lt;/strong&gt; und auch eine &lt;strong&gt;Zugriffs-Statistik pro Weblog&lt;/strong&gt;. 🙂&lt;/p&gt;
 </description>
     </item>
     

@@ -10,10 +10,10 @@
     
     <item>
       <title>Review on Latency</title>
-      <link>http://www.mwellner.de/post/2008-06-30-review-on-latency/</link>
+      <link>http://www.mwellner.de/2008/06/review-on-latency/</link>
       <pubDate>Mon, 30 Jun 2008 14:38:03 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2008-06-30-review-on-latency/</guid>
+      <guid>http://www.mwellner.de/2008/06/review-on-latency/</guid>
       <description>&lt;p&gt;&lt;em&gt;With virtual environments and realism being the central topic of my dissertation, I did a review on which latencies are acceptable for virtual environments. The goal of this review was to define requirements for our rowing scenario. I would appreciate feedback and comments on this review.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Two main limitations of realism in virtual environments are a delayed response to user actions and desynchronized events. The cause for these undesired eff ects is the delay of the components and of the architecture as a whole. Examples for these speci fic delays are (Jacobs, Livingston, &amp;amp; State, 1997)&lt;/p&gt;

@@ -9,35 +9,11 @@
     <atom:link href="http://www.mwellner.de/tags/theater/schauspiel/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Theater Production and Actor Database</title>
-      <link>http://www.mwellner.de/post/2017-01-23-theater-production-and-actor-database/</link>
-      <pubDate>Mon, 23 Jan 2017 21:39:44 +0000</pubDate>
-      
-      <guid>http://www.mwellner.de/post/2017-01-23-theater-production-and-actor-database/</guid>
-      <description>
-
-&lt;p&gt;Currently, I am working on a hobby project, a &lt;a href=&#34;https://github.com/mwellner/mwtdb&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;theater production and actor database&lt;/a&gt; (mwtdb for short). It is visible on GitHub and open source.&lt;/p&gt;
-
-&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
-
-&lt;p&gt;What I want to create is something similar to &lt;a href=&#34;http://www.imdb.com/&#34; target=&#34;_blank&#34;&gt;IMDb&lt;/a&gt;, which focuses on movies, TV and celebreties, but for amateur theater. A very basic version will contain actors, directors and technicians, contributing to productions.&lt;/p&gt;
-
-&lt;p&gt;From a technical point of view, I will create a web application, using &lt;a href=&#34;https://angular.io/&#34; target=&#34;_blank&#34;&gt;Angular&lt;/a&gt; and &lt;a href=&#34;https://neo4j.com/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Neo4j&lt;/a&gt;, a &lt;a href=&#34;https://en.wikipedia.org/wiki/Graph_database&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;graph database&lt;/a&gt;. The hope is that a graphical representation of the data at hand is better suited for retrieving the right data for a particular view.&lt;/p&gt;
-
-&lt;h3 id=&#34;first-steps&#34;&gt;First Steps&lt;/h3&gt;
-
-&lt;p&gt;I have used &lt;a href=&#34;https://cli.angular.io/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Angular CLI&lt;/a&gt; to initialize my application. &lt;a href=&#34;https://v4-alpha.getbootstrap.com/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Bootstrap&lt;/a&gt; will be my front-end framework, along with &lt;a href=&#34;https://ng-bootstrap.github.io/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;ng-bootstrap&lt;/a&gt; for some interactive components.&lt;/p&gt;
-
-&lt;p&gt;My first Angular components were &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/people/people.component.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;people&lt;/a&gt; (actors, directors) and &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/productions/productions.component.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;productions&lt;/a&gt;, showing a list of existing items and allowing to add more entries. For the graph database, I have created a &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/database.service.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;database service&lt;/a&gt;, which implements a few basic queries.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Dogville</title>
-      <link>http://www.mwellner.de/post/2016-09-18-dogville/</link>
+      <link>http://www.mwellner.de/2016/09/dogville/</link>
       <pubDate>Sun, 18 Sep 2016 23:54:09 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-09-18-dogville/</guid>
+      <guid>http://www.mwellner.de/2016/09/dogville/</guid>
       <description>&lt;p&gt;Nach der Sommerpause schaute ich mal wieder im &lt;a href=&#34;http://schauspielhaus.ch/home&#34; title=&#34;Schauspielhaus Zürich&#34; target=&#34;_blank&#34;&gt;Schauspielhaus&lt;/a&gt; vorbei, das Stück war &lt;a href=&#34;https://de.wikipedia.org/wiki/Dogville&#34; title=&#34;Dogville&#34; target=&#34;_blank&#34;&gt;Dogville&lt;/a&gt; nach dem Film von Lars von Trier. Regie führte Stephan Kimming.&lt;/p&gt;
 
 &lt;p&gt;Eine junge Frau flieht unter ungeklärten Umständen und landet in einem kleinen Dorf am Fuß der Rocky Mountains. Die Bewohner sind erst skeptisch, doch der Schriftsteller Tom kann sie überzeugen, die Fremde (Grace) testweise für zwei Wochen aufzunehmen. Sie arbeitet je eine Stunde für jede der sieben Familien. Nach anfänglicher Skepsis schließen die Bewohner Grace in ihr Herz und erlauben ihr schließlich zu bleiben. Nachdem ein Polizist eine Belohnung für die Vermisste Grace angeboten hat, verschärft sich die Stimmung, Aggressivität, Missbrauch und Gewalt gegenüber Grace machen sich breit. Am Ende besuchen sie nachts alle Männer, um ihre Gelüste zu befriedigen, die Frauen verachten sie und selbst ihr Fürsprecher Tom wendet sich von ihr ab. Er ruft schließlich jene Telefonnummer an, die ihm einst ein Herr im schwarzen Anzug im großen Auto gab, für Hinweise zum Verbleib von Grace. Mehrere Wagen fahren ins Dorf, der Gangsterboss und Vater von Grace sucht das Gespräch mit ihr. Die Schüsse damals auf sie seien ein Missverständnis gewesen, er will sie bewegen zurückzukommen. Nach längerem Zögern willigt sie ein, nicht ohne vorher Befehl zu geben, das Dorf auszulöschen, was auch prompt geschieht.&lt;/p&gt;
@@ -50,10 +26,10 @@
     
     <item>
       <title>Theater als Wahrheit des Augenblicks</title>
-      <link>http://www.mwellner.de/post/2016-04-26-theater-als-wahrheit-des-augenblicks/</link>
+      <link>http://www.mwellner.de/2016/04/theater-als-wahrheit-des-augenblicks/</link>
       <pubDate>Tue, 26 Apr 2016 21:20:51 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-04-26-theater-als-wahrheit-des-augenblicks/</guid>
+      <guid>http://www.mwellner.de/2016/04/theater-als-wahrheit-des-augenblicks/</guid>
       <description>&lt;p&gt;&lt;div id=&#34;attachment_6590&#34; style=&#34;width: 383px&#34; class=&#34;wp-caption alignleft&#34;&gt;
   &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/04/CHANDOS3.jpg&#34; alt=&#34;Porträt von William Shakespeare&#34; width=&#34;373&#34; height=&#34;480&#34; class=&#34;size-full wp-image-6590&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/04/CHANDOS3.jpg 373w, http://www.mwellner.de/wp-uploads/2016/04/CHANDOS3-272x350.jpg 272w, http://www.mwellner.de/wp-uploads/2016/04/CHANDOS3-117x150.jpg 117w&#34; sizes=&#34;(max-width: 373px) 100vw, 373px&#34; /&gt;&lt;/p&gt;
 
@@ -78,10 +54,10 @@
     
     <item>
       <title>Chaplin-Zitat</title>
-      <link>http://www.mwellner.de/post/2016-04-03-chaplin-zitat/</link>
+      <link>http://www.mwellner.de/2016/04/chaplin-zitat/</link>
       <pubDate>Sun, 03 Apr 2016 23:19:26 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-04-03-chaplin-zitat/</guid>
+      <guid>http://www.mwellner.de/2016/04/chaplin-zitat/</guid>
       <description>&lt;p&gt;Nach einem schönen arte-Abend über Charlie Chaplin mit dem &lt;a href=&#34;https://de.wikipedia.org/wiki/Der_gro%C3%9Fe_Diktator&#34; title=&#34;Der große Diktator&#34; target=&#34;_blank&#34;&gt;großen Diktator&lt;/a&gt; und einer Doku über die Anfänge des legendären Schauspielers möchte ich hier noch ein Zitat festhalten.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -106,10 +82,10 @@
     
     <item>
       <title>Theaterplakat</title>
-      <link>http://www.mwellner.de/post/2016-01-03-theaterplakat/</link>
+      <link>http://www.mwellner.de/2016/01/theaterplakat/</link>
       <pubDate>Sun, 03 Jan 2016 23:16:00 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-01-03-theaterplakat/</guid>
+      <guid>http://www.mwellner.de/2016/01/theaterplakat/</guid>
       <description>&lt;p&gt;In wenigen Wochen werden wir die Premiere von &lt;a href=&#34;http://dramateure.ch/wordpress/produktionen/das-einzig-wahre/&#34; title=&#34;Das einzig Wahre&#34; target=&#34;_blank&#34;&gt;Das einzig Wahre&lt;/a&gt; feiern! Mit dem neuen Jahr beginnt der Endspurt.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/01/plakat.jpg&#34; alt=&#34;plakat&#34; width=&#34;1000&#34; height=&#34;1414&#34; class=&#34;aligncenter size-full wp-image-6444&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/01/plakat.jpg 1000w, http://www.mwellner.de/wp-uploads/2016/01/plakat-248x350.jpg 248w, http://www.mwellner.de/wp-uploads/2016/01/plakat-724x1024.jpg 724w, http://www.mwellner.de/wp-uploads/2016/01/plakat-106x150.jpg 106w&#34; sizes=&#34;(max-width: 1000px) 100vw, 1000px&#34; /&gt;&lt;/p&gt;
@@ -120,10 +96,10 @@
     
     <item>
       <title>Henrys Gitarre</title>
-      <link>http://www.mwellner.de/post/2015-10-25-henrys-gitarre/</link>
+      <link>http://www.mwellner.de/2015/10/henrys-gitarre/</link>
       <pubDate>Sun, 25 Oct 2015 23:12:43 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-10-25-henrys-gitarre/</guid>
+      <guid>http://www.mwellner.de/2015/10/henrys-gitarre/</guid>
       <description>&lt;p&gt;Wichtige Regel für alle Schauspieler &amp;ndash; Wenn dich dein Regisseur fragt, ob du mal ein Instrument gespielt hast, sage nichts! Ich war unvorsichtig und meinte, ich hätte schon mal Gitarre gespielt. So nahm das Unglück seinen Lauf, eine Ensemble-Partnerin brachte ihre Gitarre mit zur Probe, ich besorgte neue Saiten, zog diese auf und stimmte das gute Teil. Und dann kam dieser schöne Moment, als der erste satte a-moll erklang. Tja, dann werde ich mich jetzt wohl wieder mehr mit meiner musikalischen Seite beschäftigen, damit ich bis Februar was habe, was wir den Zuschauern zumuten können.&lt;/p&gt;
 
 &lt;div id=&#34;attachment_6323&#34; style=&#34;width: 1010px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
@@ -140,10 +116,10 @@
     
     <item>
       <title>Anton Tschechow &amp;#8211; Der Kirschgarten</title>
-      <link>http://www.mwellner.de/post/2014-10-11-anton-tschechow-der-kirschgarten/</link>
+      <link>http://www.mwellner.de/2014/10/anton-tschechow-</link>
       <pubDate>Sat, 11 Oct 2014 23:45:07 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2014-10-11-anton-tschechow-der-kirschgarten/</guid>
+      <guid>http://www.mwellner.de/2014/10/anton-tschechow-</guid>
       <description>&lt;p&gt;Im Berliner Maxim-Gorki-Theater sah ich eine sehr eigenwillige Inszenierung von Tschechows Kirschgarten. Das &lt;a href=&#34;http://gorki.de&#34;&gt;Gorki&lt;/a&gt;, wie es sich kurz nennt, wurde von &lt;a href=&#34;http://www.theaterheute.de&#34;&gt;Theater heute&lt;/a&gt; zum Theater des Jahres 2014 gekürt. Es besitzt ein bunt gemischtes Ensemble und setzt schrille, zeitgenössische Akzente.&lt;/p&gt;
 
 &lt;div id=&#34;attachment_4922&#34; style=&#34;width: 860px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
@@ -164,20 +140,20 @@
     
     <item>
       <title>Intensive Regie</title>
-      <link>http://www.mwellner.de/post/2014-02-03-intensive-regie/</link>
+      <link>http://www.mwellner.de/2014/02/intensive-regie/</link>
       <pubDate>Mon, 03 Feb 2014 23:35:51 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2014-02-03-intensive-regie/</guid>
+      <guid>http://www.mwellner.de/2014/02/intensive-regie/</guid>
       <description>&lt;p&gt;Derzeit durchlebe ich einen intensiven Lernprozess in meiner ersten Regiearbeit beim &lt;a href=&#34;http://dramateure.ch/wordpress/produktionen/ein-idealer-gatte/&#34;&gt;Idealen Gatten&lt;/a&gt;. Wir haben ungefähr die Hälfte hinter uns, gestern ging auch das erste externe Probewochenende zuende. Es ist ein ständiges Wechselbad, mal läuft es nicht so gut und eine Szene will sich einfach nicht entwickeln, mal kommt ein Durchbruch und es fühlt sich in diesem Moment grandios an. Die entscheidende Frage ist, was genau gut ist. Dies immer zu erkennen, einen Weg zur Verbesserung zu sehen und erfolgreich zu kommunizieren &amp;#8211; das ist für mich die große Herausforderung. Ich habe jetzt definitiv mehr Respekt für die Regisseure dieser Welt.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Theater-Handlungen</title>
-      <link>http://www.mwellner.de/post/2013-12-17-theater-handlungen/</link>
+      <link>http://www.mwellner.de/2013/12/theater-handlungen/</link>
       <pubDate>Tue, 17 Dec 2013 22:55:21 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-12-17-theater-handlungen/</guid>
+      <guid>http://www.mwellner.de/2013/12/theater-handlungen/</guid>
       <description>&lt;p&gt;Als Inspirationsquelle sammle ich hier alle Tätigkeiten, die mir für die Bühne einfallen. Ich überlege gerade, was ich meinen Schauspielern noch zu tun geben könnte für einige lange Szenen im &lt;a href=&#34;http://dramateure.ch/wordpress/produktionen/ein-idealer-gatte/&#34;&gt;idealen Gatten&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -246,10 +222,10 @@
     
     <item>
       <title>Ich, treu, suche in Mühlhofen</title>
-      <link>http://www.mwellner.de/post/2013-11-17-ich-treu-suche-in-muehlhofen/</link>
+      <link>http://www.mwellner.de/2013/11/ich-treu-suche-in-m%C3%BChlhofen/</link>
       <pubDate>Sun, 17 Nov 2013 12:57:58 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-11-17-ich-treu-suche-in-muehlhofen/</guid>
+      <guid>http://www.mwellner.de/2013/11/ich-treu-suche-in-m%C3%BChlhofen/</guid>
       <description>&lt;p&gt;Nach langer Sommerpause spielen wir &lt;a href=&#34;http://www.mwellner.de/schauspiel/ich-treu-suche/&#34;&gt;Ich, treu, suche&lt;/a&gt; noch einige wenige Male. Gestern war der erste Auftritt, im süddeutschen Mühlhofen nahe am Bodensee besuchten wir die &lt;a href=&#34;http://www.fabrik-muehlhofen.de/&#34;&gt;Alte Fabrik&lt;/a&gt;. Wobei das Gebäude eher an eine alte Residenz erinnerte, im Erdgeschoss befand sich ein Restaurant, oben im ersten Stock dann der riesige Theatersaal. Mit Polsterstühlen und -sesseln, Gemälden, alten Büchern, Teppichen und Gardinen entstand eine sehr angenehme Raumatmosphäre. Selbst in der Künstlergarderobe war das der Fall, blaue Sessel, eine Kerze auf dem Tisch, zwei Bierflaschen auf dem Tisch &amp;ndash; so lässt es sich vorbereiten.&lt;/p&gt;
 
 &lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
@@ -266,10 +242,10 @@
     
     <item>
       <title>Locarno</title>
-      <link>http://www.mwellner.de/post/2013-05-07-locarno/</link>
+      <link>http://www.mwellner.de/2013/05/locarno/</link>
       <pubDate>Tue, 07 May 2013 15:03:13 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-05-07-locarno/</guid>
+      <guid>http://www.mwellner.de/2013/05/locarno/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Locarno&#34;&gt;Locarno&lt;/a&gt; ist ein schönes Städtchen im Süden der Schweiz, mir war es vor vielen Jahren im Geschichtsunterricht begegnet (&lt;a href=&#34;http://de.wikipedia.org/wiki/Vertr%C3%A4ge_von_Locarno&#34;&gt;Verträge von Locarno&lt;/a&gt;, 1925).&lt;/p&gt;
 
 &lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
@@ -320,10 +296,10 @@
     
     <item>
       <title>Theaterlicht</title>
-      <link>http://www.mwellner.de/post/2013-03-29-theaterlicht/</link>
+      <link>http://www.mwellner.de/2013/03/theaterlicht/</link>
       <pubDate>Fri, 29 Mar 2013 22:54:09 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-03-29-theaterlicht/</guid>
+      <guid>http://www.mwellner.de/2013/03/theaterlicht/</guid>
       <description>&lt;p&gt;Heute geschah es wieder &amp;ndash; jener wunderbare Moment, wenn sich eine oft geprobte Szene durch den Einsatz von Licht magisch verwandelt. Schwarzer Hintergrund, selektives Licht, ein bisschen Farbe &amp;ndash; die Zutaten sind einfach beschrieben. Aber die Wirkung ist ungeheuer.&lt;/p&gt;
 
 &lt;p&gt;Deshalb heute ein Hoch auf das Licht! Und ein Hoch auf die meist unsichtbaren Menschen, die am Licht- und Tonpult ihren Dienst verrichten und Theater überhaupt erst ermöglichen.&lt;/p&gt;
@@ -336,10 +312,10 @@
     
     <item>
       <title>&amp;nbsp;&amp;quot;Ich, treu, suche&amp;quot; in Konstanz</title>
-      <link>http://www.mwellner.de/post/2013-03-03-ich-treu-suche-in-konstanz/</link>
+      <link>http://www.mwellner.de/2013/03/nbspquotich-treu-suchequot-in-konstanz/</link>
       <pubDate>Sun, 03 Mar 2013 21:54:06 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-03-03-ich-treu-suche-in-konstanz/</guid>
+      <guid>http://www.mwellner.de/2013/03/nbspquotich-treu-suchequot-in-konstanz/</guid>
       <description>&lt;p&gt;Tourneealltag, nach fünf Vorstellungen an drei Orten kann man mittlerweile davon sprechen. Immerhin zum ersten Mal im Ausland, obwohl Konstanz nicht wirklich weit entfernt ist von Kreuzlingen, dem Ort unserer Premiere. Vielleicht zwei Kilometer trennen die beiden Spielorte.&lt;/p&gt;
 
 &lt;p&gt;Das &lt;a href=&#34;http://www.k9-kulturzentrum.de/&#34;&gt;Kulturzentrum K9&lt;/a&gt; liegt mitten in der Konstanzer Innenstadt. In einer Seitengasse stehen wir vor einem dunklen, breitgestreckten Gebäude. Durch eine riesige Holztür treten wir direkt in den Zuschauerraum. In sechs Reihen stehen graue Plastikstühle vor der breiten Bühne, auf der schon unsere vertrauten Kuben aufgebaut sind. Es sind viele Stühle, so um die 70. Nach unseren mäßig gut besuchten Vorstellungen in Frauenfeld sind wir vorsichtig geworden, es könnte wieder so ein Abend in einem spärlich gefüllten Theater sein.&lt;/p&gt;
@@ -360,10 +336,10 @@
     
     <item>
       <title>Bühnenrealität</title>
-      <link>http://www.mwellner.de/post/2013-02-17-buehnenrealitaet/</link>
+      <link>http://www.mwellner.de/2013/02/b%C3%BChnenrealit%C3%A4t/</link>
       <pubDate>Sun, 17 Feb 2013 18:16:23 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-02-17-buehnenrealitaet/</guid>
+      <guid>http://www.mwellner.de/2013/02/b%C3%BChnenrealit%C3%A4t/</guid>
       <description>&lt;p&gt;Die Hauptaufgabe des Schauspielers besteht darin, den gleichen, einstudierten Ablauf immer wieder so zu erleben, als wäre es das erste Mal. Das trifft für den Text zu, den man immer wieder neu entstehen lassen muss, aber auch für die Emotionen.&lt;/p&gt;
 
 &lt;p&gt;Gestern, zur gefürchteten zweiten Aufführung von &lt;a href=&#34;http://www.klima-das-theater.ch/&#34;&gt;Ich, treu, suche&lt;/a&gt; habe ich die Tipps eines Schauspielkollegen bewusst umgesetzt.&lt;/p&gt;
@@ -382,15 +358,67 @@
     
     <item>
       <title>Generalprobe &amp;#8220;Ich, treu, suche&amp;#8221;</title>
-      <link>http://www.mwellner.de/post/2013-02-15-generalprobe-ich-treu-suche/</link>
+      <link>http://www.mwellner.de/2013/02/generalprobe-</link>
       <pubDate>Fri, 15 Feb 2013 00:47:35 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-02-15-generalprobe-ich-treu-suche/</guid>
+      <guid>http://www.mwellner.de/2013/02/generalprobe-</guid>
       <description>&lt;p&gt;Die letzte Probe vor der morgigen Premiere lief sehr gut durch. Wir brauchten 72 Minuten, mit den Lachern morgen könnten es noch ein paar mehr werden. Und es wird sicher lustig, heute musste sogar unser Regisseur lachen, der das Stück ja in- und auswendig kennt. Ein paar kleine Korrekturen, ich darf an einigen Stellen noch ironischer werden. Aber das sollte gut machbar sein.&lt;/p&gt;
 
 &lt;p&gt;Ich habe ein gutes Gefühl, nach den vielen intensiven Proben in dieser Woche sitzt der Ablauf absolut sicher und ich kann mich auf das Spielen konzentrieren. Es wird sicher eine tolle Premiere morgen werden.&lt;/p&gt;
 
 &lt;p&gt;Traditionell zur Generalprobe haben wir uns heute noch mit der Applausordnung beschäftigt. Also in welcher Reihenfolge wir nach vorn treten und uns verneigen. Ich habe da ein tolles Konzept erstellt, welches auch prompt umgesetzt wurde.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theater in allen Räumen</title>
+      <link>http://www.mwellner.de/2013/01/theater-in-allen-r%C3%A4umen/</link>
+      <pubDate>Fri, 18 Jan 2013 22:34:31 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2013/01/theater-in-allen-r%C3%A4umen/</guid>
+      <description>&lt;p&gt;Die Theatersparte der &lt;a href=&#34;http://www.zhdk.ch&#34;&gt;Zürcher Hochschule der Künste&lt;/a&gt; zeigte an zwei Abenden zahlreiche Projekte ihrer Studierenden. In fast allen Räumen des Hochschulgebäudes an der Gessnerallee gab es ein vielgestaltiges und schönes Programm.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;https://lh4.googleusercontent.com/-oVxaVqRSiK4/UPxU9OnvCVI/AAAAAAAAA5o/9RAuNmDnXIs/s800/MW_20130118_0797.jpg&#34; height=&#34;500&#34; width=&#34;500&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Klavierbegleitung für eine Aufführung&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;https://lh6.googleusercontent.com/-vU1Q-daZ1CE/UPxU9IHV2RI/AAAAAAAAA5g/ZHtqCuyP1uw/s800/MW_20130118_0798.jpg&#34; height=&#34;333&#34; width=&#34;500&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Musikalische Höhepunkte aus Disney-Filmen&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Mein Favorit an diesem Abend war &lt;em&gt;Mein rußiger Bruder&lt;/em&gt;, nach einem alten osteuropäischen Märchen, das ich als Kind im Dresdner &lt;a href=&#34;http://www.programmkino-ost.de/&#34;&gt;Programmkino Ost&lt;/a&gt; gesehen hatte. Ein Soldat kehrt heim und steht vor dem Nichts. Da erscheint der Teufel und bietet ihm eine Wette an &amp;ndash; wenn er sich sieben Jahre nicht rasiert und wäscht, seien ihm unermessliche Reichtümer sicher. Die theatralische Umsetzung dieser langen Zeit war zwar anders als im Original, aber dennoch sehr unterhaltsam.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;https://lh4.googleusercontent.com/-xZBsvPYS0sI/UPxU9AJHn3I/AAAAAAAAA5k/4UTiI7Os__Y/s800/MW_20130118_0799.jpg&#34; height=&#34;750&#34; width=&#34;500&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Teufel&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;https://lh3.googleusercontent.com/-DwmZ9Y0-wB8/UPxU9soIRoI/AAAAAAAAA5s/aiC_Twj3Uk4/s800/MW_20130118_0800.jpg&#34; height=&#34;333&#34; width=&#34;500&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Soldat und Teufel&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;https://lh3.googleusercontent.com/-Pi-YXaU_wKs/UPxU907fNjI/AAAAAAAAA5w/fpnS2Ww0FMY/s800/MW_20130118_0801.jpg&#34; height=&#34;333&#34; width=&#34;500&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Gäste&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     

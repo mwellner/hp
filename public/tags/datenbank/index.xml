@@ -10,10 +10,10 @@
     
     <item>
       <title>Ein Jahr Industrie &amp;ndash; ein Rückblick</title>
-      <link>http://www.mwellner.de/post/2010-10-26-ein-jahr-industrie-ein-ruckblick/</link>
+      <link>http://www.mwellner.de/2010/10/ein-jahr-industrie-ndash-ein-r%C3%BCckblick/</link>
       <pubDate>Tue, 26 Oct 2010 22:36:20 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2010-10-26-ein-jahr-industrie-ein-ruckblick/</guid>
+      <guid>http://www.mwellner.de/2010/10/ein-jahr-industrie-ndash-ein-r%C3%BCckblick/</guid>
       <description>&lt;p&gt;Vor ziemlich genau einem Jahr begann ich bei der &lt;a href=&#34;http://www.helveting.ch&#34;&gt;Helveting AG&lt;/a&gt;, einem aufstrebenden Schweizer Ingenieurbüro. Mit dem Doktortitel in der Tasche, nach drei Wochen Arbeitslosigkeit und mitten in einem JobBasis-Kurs der &lt;a href=&#34;http://www.newplacement.ch&#34;&gt;NewPlacement GmbH&lt;/a&gt; wagte ich den Sprung ins &lt;em&gt;richtige&lt;/em&gt; Berufsleben. Und da bin ich nun und reflektiere.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ein Jahr &amp;ndash; drei Projekte&lt;/strong&gt;&lt;/p&gt;
@@ -44,10 +44,10 @@
     
     <item>
       <title>Model-View-Controller-Architektur</title>
-      <link>http://www.mwellner.de/post/2010-04-08-model-view-controller-architektur/</link>
+      <link>http://www.mwellner.de/2010/04/model-view-controller-architektur/</link>
       <pubDate>Thu, 08 Apr 2010 09:27:54 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2010-04-08-model-view-controller-architektur/</guid>
+      <guid>http://www.mwellner.de/2010/04/model-view-controller-architektur/</guid>
       <description>&lt;p&gt;MVC ist ein Begriff, der bei Webanwendungen mit Datenbank-Zugriff häufig auftaucht. Derzeit arbeite ich mit mit dem MVC-orientierten &lt;a href=&#34;http://cakephp.org/&#34;&gt;cakePHP&lt;/a&gt;, um eine interne ERP-Lösung zu entwickeln. Jedoch enthält die Webseite eines anderen Entwicklungssystems eine schön geschriebene und sehr anschauliche Beschreibung des MVC-Konzepts (overview [Kohana User Guide]). Anhand des Beispiels einer Bank werden die grundlegenden Eigenschaften dieser Architektur beschrieben und Regeln für die Gestaltung formuliert. Meine derzeitige ERP-Beispiel-Lösung bedarf definitiv einer Überarbeitung&amp;#8230;&lt;/p&gt;
 </description>
     </item>

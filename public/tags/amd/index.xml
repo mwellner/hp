@@ -10,10 +10,10 @@
     
     <item>
       <title>Modular JavaScript 2</title>
-      <link>http://www.mwellner.de/post/2014-11-12-modular-javascript-2/</link>
+      <link>http://www.mwellner.de/2014/11/modular-javascript-2/</link>
       <pubDate>Wed, 12 Nov 2014 19:51:05 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2014-11-12-modular-javascript-2/</guid>
+      <guid>http://www.mwellner.de/2014/11/modular-javascript-2/</guid>
       <description>&lt;p&gt;On our company website, as on many others, we have a growing JavaScript code base. We are now taking the effort to develop a module system to make it easier to structure the code.&lt;/p&gt;
 
 &lt;p&gt;Our first decision was to go with a syntax similar to &lt;a href=&#34;http://requirejs.org/docs/whyamd.html&#34; title=&#34;AMD&#34; target=&#34;_blank&#34;&gt;Asynchronuous Module Definition&lt;/a&gt; (AMD). But in contrast to AMD syntax, we use a synchronuous approach for loading the modules and use a module identifier. We will also provide the option to initialize modules on an event.&lt;/p&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Modular JavaScript 1</title>
-      <link>http://www.mwellner.de/post/2014-10-28-modular-javascript/</link>
+      <link>http://www.mwellner.de/2014/10/modular-javascript-1/</link>
       <pubDate>Tue, 28 Oct 2014 23:20:00 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2014-10-28-modular-javascript/</guid>
+      <guid>http://www.mwellner.de/2014/10/modular-javascript-1/</guid>
       <description>&lt;p&gt;One of the main problems of software development is managing complexity and &amp;ndash; related to it &amp;ndash; decoupling pieces of code. While most programming languages provide built-in semantics for defining and consuming modules, JavaScript has none and relies on external libraries for that. There are three major approaches for defining modules in JavaScript:&lt;/p&gt;
 
 &lt;ul&gt;

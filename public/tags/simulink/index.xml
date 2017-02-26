@@ -10,10 +10,10 @@
     
     <item>
       <title>Using xPC COM API and Visual C#</title>
-      <link>http://www.mwellner.de/post/2008-04-05-using-xpc-com-api-and-visual-c/</link>
+      <link>http://www.mwellner.de/2008/04/using-xpc-com-api-and-visual-c/</link>
       <pubDate>Sat, 05 Apr 2008 16:00:34 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2008-04-05-using-xpc-com-api-and-visual-c/</guid>
+      <guid>http://www.mwellner.de/2008/04/using-xpc-com-api-and-visual-c/</guid>
       <description>&lt;p&gt;This entry is for those who want to control an xPC target computer with a program written in C#. I personally did not find any example how to do this, the documentation provides an example using Visual Basic, but I found a simpler way. I do only use the xPC COM API (which must be included as reference in the project) and not the model COM interface. I think this is easier because you don&amp;#8217;t have to reinsert the model reference if you recompile it.&lt;/p&gt;
 
 &lt;p&gt;The example here is a very simple one. I just needed to connect to the target, load the application, and register one signal, which I need to access. Please note that you need to insert a gain element with value 1 to register a signal (Target.GetSignalIdx).&lt;/p&gt;
@@ -81,10 +81,10 @@ namespace ProjectNamespace
     
     <item>
       <title>Einführungswoche in Zürich &amp;#8211; Introductory Week in Zurich</title>
-      <link>http://www.mwellner.de/post/2005-04-29-einfuhrungswoche-in-zurich-introductory-week-in-zurich/</link>
+      <link>http://www.mwellner.de/2005/04/einf%C3%BChrungswoche-in-z%C3%BCrich-</link>
       <pubDate>Fri, 29 Apr 2005 20:37:36 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-29-einfuhrungswoche-in-zurich-introductory-week-in-zurich/</guid>
+      <guid>http://www.mwellner.de/2005/04/einf%C3%BChrungswoche-in-z%C3%BCrich-</guid>
       <description>&lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
@@ -111,10 +111,10 @@ namespace ProjectNamespace
     
     <item>
       <title>Einarbeitung in Zürich &amp;#8212; Adjustment in Zurich</title>
-      <link>http://www.mwellner.de/post/2005-04-26-einarbeitung-in-zurich-adjustment-in-zurich/</link>
+      <link>http://www.mwellner.de/2005/04/einarbeitung-in-z%C3%BCrich-</link>
       <pubDate>Tue, 26 Apr 2005 12:53:25 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-26-einarbeitung-in-zurich-adjustment-in-zurich/</guid>
+      <guid>http://www.mwellner.de/2005/04/einarbeitung-in-z%C3%BCrich-</guid>
       <description>&lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;

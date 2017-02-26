@@ -10,10 +10,10 @@
     
     <item>
       <title>Correcting CiteULike when Using with Natbib, sed</title>
-      <link>http://www.mwellner.de/post/2006-06-18-correcting-citeulike-when-using-with-natbib-sed/</link>
+      <link>http://www.mwellner.de/2006/06/correcting-citeulike-when-using-with-natbib-sed/</link>
       <pubDate>Sun, 18 Jun 2006 21:12:47 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2006-06-18-correcting-citeulike-when-using-with-natbib-sed/</guid>
+      <guid>http://www.mwellner.de/2006/06/correcting-citeulike-when-using-with-natbib-sed/</guid>
       <description>
 
 &lt;p&gt;Using &lt;a href=&#34;http://www.citeulike.org&#34;&gt;CiteULike&lt;/a&gt; for administrating my paper bibliographic information is quite nice. I have all the information I need for citing the sources in papers, as CiteULike provides export capability for BibTeX.&lt;/p&gt;

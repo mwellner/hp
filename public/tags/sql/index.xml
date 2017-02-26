@@ -10,10 +10,10 @@
     
     <item>
       <title>Ein Jahr Industrie &amp;ndash; ein Rückblick</title>
-      <link>http://www.mwellner.de/post/2010-10-26-ein-jahr-industrie-ein-ruckblick/</link>
+      <link>http://www.mwellner.de/2010/10/ein-jahr-industrie-ndash-ein-r%C3%BCckblick/</link>
       <pubDate>Tue, 26 Oct 2010 22:36:20 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2010-10-26-ein-jahr-industrie-ein-ruckblick/</guid>
+      <guid>http://www.mwellner.de/2010/10/ein-jahr-industrie-ndash-ein-r%C3%BCckblick/</guid>
       <description>&lt;p&gt;Vor ziemlich genau einem Jahr begann ich bei der &lt;a href=&#34;http://www.helveting.ch&#34;&gt;Helveting AG&lt;/a&gt;, einem aufstrebenden Schweizer Ingenieurbüro. Mit dem Doktortitel in der Tasche, nach drei Wochen Arbeitslosigkeit und mitten in einem JobBasis-Kurs der &lt;a href=&#34;http://www.newplacement.ch&#34;&gt;NewPlacement GmbH&lt;/a&gt; wagte ich den Sprung ins &lt;em&gt;richtige&lt;/em&gt; Berufsleben. Und da bin ich nun und reflektiere.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ein Jahr &amp;ndash; drei Projekte&lt;/strong&gt;&lt;/p&gt;
@@ -44,10 +44,10 @@
     
     <item>
       <title>Creating a participant database</title>
-      <link>http://www.mwellner.de/post/2009-04-24-creating-a-participant-database/</link>
+      <link>http://www.mwellner.de/2009/04/creating-a-participant-database/</link>
       <pubDate>Fri, 24 Apr 2009 18:00:26 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-04-24-creating-a-participant-database/</guid>
+      <guid>http://www.mwellner.de/2009/04/creating-a-participant-database/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The initial intention was to keep track of those people who have participated in one of our rowing studies. The second goal was to keep track of how our raw data is organised. Therefore, I designed a relational database with MS Access. In this article I will focus on general database design issues and how to access the database with Matlab. You could use any other &lt;a href=&#34;http://en.wikipedia.org/wiki/Relational_database_management_system&#34;&gt;relational database management system&lt;/a&gt;, which is compatible to the &lt;a href=&#34;http://en.wikipedia.org/wiki/SQL&#34;&gt;SQL standard&lt;/a&gt;.&lt;/p&gt;
@@ -151,10 +151,10 @@ close(curs);&amp;lt;br /&amp;gt;
     
     <item>
       <title>Handling huge amounts of raw data with Matlab</title>
-      <link>http://www.mwellner.de/post/2009-04-07-handling-huge-amounts-of-raw-data-with-matlab/</link>
+      <link>http://www.mwellner.de/2009/04/handling-huge-amounts-of-raw-data-with-matlab/</link>
       <pubDate>Tue, 07 Apr 2009 12:12:41 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-04-07-handling-huge-amounts-of-raw-data-with-matlab/</guid>
+      <guid>http://www.mwellner.de/2009/04/handling-huge-amounts-of-raw-data-with-matlab/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The Matlab workspace is limited in size, depending on your system. We reached the workspace limit with a rowing study (10 participants, 1&amp;thinsp;kHz sampling rate, 20 variables, 10 minutes duration). Although the extracted data fits very well in the workspace, the raw data does not. Therefore, a solution is needed with fast access to specific variables. This is needed for feature extraction and later display of data.&lt;/p&gt;

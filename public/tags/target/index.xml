@@ -10,10 +10,10 @@
     
     <item>
       <title>Using xPC COM API and Visual C#</title>
-      <link>http://www.mwellner.de/post/2008-04-05-using-xpc-com-api-and-visual-c/</link>
+      <link>http://www.mwellner.de/2008/04/using-xpc-com-api-and-visual-c/</link>
       <pubDate>Sat, 05 Apr 2008 16:00:34 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2008-04-05-using-xpc-com-api-and-visual-c/</guid>
+      <guid>http://www.mwellner.de/2008/04/using-xpc-com-api-and-visual-c/</guid>
       <description>&lt;p&gt;This entry is for those who want to control an xPC target computer with a program written in C#. I personally did not find any example how to do this, the documentation provides an example using Visual Basic, but I found a simpler way. I do only use the xPC COM API (which must be included as reference in the project) and not the model COM interface. I think this is easier because you don&amp;#8217;t have to reinsert the model reference if you recompile it.&lt;/p&gt;
 
 &lt;p&gt;The example here is a very simple one. I just needed to connect to the target, load the application, and register one signal, which I need to access. Please note that you need to insert a gain element with value 1 to register a signal (Target.GetSignalIdx).&lt;/p&gt;

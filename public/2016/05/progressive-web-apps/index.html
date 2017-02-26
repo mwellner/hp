@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta property="og:title" content="Progressive Web Apps" />
+<meta property="og:description" content="Einen Ausblick auf zukünftige Web-Applikationen gab es bei der Entwicklerkonferenz Google I/O 2016 zu sehen. Die Konferenz ist natürlich zentriert auf Technologien, die bei Google entwickelt werden, wobei es aber auch um grundlegende Entwicklungsmuster geht, die auch mit anderen Frameworks umzusetzen sind.
+Das grundlegende Problem vieler Web-Applikationen ist ihre schlechte Performance, sie brauchen zu lange beim Laden oder beim Interagieren. Das ist vor allem auf mobilen Geräten hinderlich, die keine gute Bandbreite haben." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.mwellner.de/2016/05/progressive-web-apps/" />
+
+
+
+<meta property="article:published_time" content="2016-05-22T23:04:24&#43;00:00"/>
+<meta property="article:modified_time" content="2016-05-22T23:04:24&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Progressive Web Apps"/>
+<meta name="twitter:description" content="Einen Ausblick auf zukünftige Web-Applikationen gab es bei der Entwicklerkonferenz Google I/O 2016 zu sehen. Die Konferenz ist natürlich zentriert auf Technologien, die bei Google entwickelt werden, wobei es aber auch um grundlegende Entwicklungsmuster geht, die auch mit anderen Frameworks umzusetzen sind.
+Das grundlegende Problem vieler Web-Applikationen ist ihre schlechte Performance, sie brauchen zu lange beim Laden oder beim Interagieren. Das ist vor allem auf mobilen Geräten hinderlich, die keine gute Bandbreite haben."/>
+
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  
+  "headline": "Progressive Web Apps",
+  "url": "http://www.mwellner.de/2016/05/progressive-web-apps/",
+  "wordCount": "251",
+  
+  
+  "datePublished": "2016-05-22T23:04:24+00:00",
+  
+  
+  "dateModified": "2016-05-22T23:04:24+00:00",
+  
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mathias Wellner"
+  }
+  
+  ,
+  "keywords": "www,component,polymer,progressive,web"
+  
+}
+</script>
+
+
+
+    <link rel="canonical" href="http://www.mwellner.de/2016/05/progressive-web-apps/">
+
+    <title>Progressive Web Apps | mathias wellner</title>
+
+    <!-- combined, minified CSS -->
+    <link href="http://www.mwellner.de/css/style.css" rel="stylesheet" integrity="sha384-Cdt2yG10w21pA8DMpImJIvsLOME686p75OYD9jGCZVWvOol9zkEsaF3ctGEuBXK6" crossorigin="anonymous">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="http://www.mwellner.de/">Startseite</a>
+          
+          
+          <a class="nav-link" href="http://www.mwellner.de/about/">About</a>
+          
+          
+        </nav>
+      </div>
+    </div>
+
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a href="http://www.mwellner.de/" rel="home">mathias wellner</a></h1>
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-9 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="http://www.mwellner.de/2016/05/progressive-web-apps/">Progressive Web Apps</a></h2>
+    <p class="blog-post-meta"><time datetime="2016-05-22T23:04:24Z">Sun May 22, 2016</time>  in 
+<i class="fa fa-folder" aria-hidden="true"></i>&nbsp;<a href="/categories/www" rel="category tag">www</a>
+
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/tags/component" rel="tag">component</a>, <a href="/tags/polymer" rel="tag">polymer</a>, <a href="/tags/progressive" rel="tag">progressive</a>, <a href="/tags/web" rel="tag">web</a>
+
+</p>
+  </header>
+  <p>Einen Ausblick auf zukünftige Web-Applikationen gab es bei der Entwicklerkonferenz <a href="https://events.google.com/io2016/" title="Google I/O 2016" target="_blank">Google I/O 2016</a> zu sehen. Die Konferenz ist natürlich zentriert auf Technologien, die bei Google entwickelt werden, wobei es aber auch um grundlegende Entwicklungsmuster geht, die auch mit anderen Frameworks umzusetzen sind.</p>
+
+<p>Das grundlegende Problem vieler Web-Applikationen ist ihre schlechte Performance, sie brauchen zu lange beim Laden oder beim Interagieren. Das ist vor allem auf mobilen Geräten hinderlich, die keine gute Bandbreite haben. Eine perfekte Applikation würde initial schnell laden, dann im Hintergrund weitere Resourcen holen, damit bei weiteren Interaktionen schnelle Reaktionszeiten möglich sind, sie würde sich verhalten wie eine native Applikation.</p>
+
+<p>In dieser Präsentation stellt <a href="https://twitter.com/kevinpschaaf" title="Kevin Schaaf (@kevinpschaaf) on twitter" target="_blank">Kevin Schaaf</a> die Grundzüge von progressiven Web-Applikationen vor. Technologisch basiert das auf <a href="https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements" title="Custom Elements" target="_blank">HTML Custom Elements</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/Web_Components/HTML_Imports" title="HTML Imports" target="_blank">HTML Imports</a>, <a href="https://en.wikipedia.org/wiki/HTTP/2" title="HTTP/2" target="_blank">HTTP/2</a> and <a href="https://developer.mozilla.org/de/docs/Web/API/Service_Worker_API" title="Service Worker API" target="_blank">Service Workers</a>. Leider werden diese nur zum Teil von den heute im Umlauf befindlichen Browsern unterstützt. Aber alle Browser-Hersteller arbeiten daran, so dass man in ein-zwei Jahren auf eine breitere Unterstützung bauen kann. In der Zwischenzeit kann man aber einige Ideen mit Polyfills oder anderen Frameworks umsetzen.</p>
+
+<p>Jedenfalls würde damit ein großes Problem der meisten aktuellen Webseiten gelöst, die beim ersten Laden alle benötigten CSS-Stile und JavaScript-Framework-Dateien laden müssen. Bei mwellner.de sind das immerhin 2&thinsp;MB JavaScript und 600&thinsp;kB CSS. Und davon wird ganz sicher nicht alle benötigt, um die Startseite darzustellen. Mit einer wirklich gut gelösten Komponentenstruktur würden anfangs nur die Resourcen geladen, die für die Darstellung unbedingt gebraucht werden. Und eines Tages wird dann auch diese Homepage deutlich schneller werden und in ungeahnte Ranking-Höhen aufsteigen.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Teilen</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.mwellner.de%2f2016%2f05%2fprogressive-web-apps%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=http%3a%2f%2fwww.mwellner.de%2f2016%2f05%2fprogressive-web-apps%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.mwellner.de%2f2016%2f05%2fprogressive-web-apps%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=http%3a%2f%2fwww.mwellner.de%2f2016%2f05%2fprogressive-web-apps%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>
+      
+      </p>
+      <p>
+      <a href="#">Zurück zum Anfang</a>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

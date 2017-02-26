@@ -10,10 +10,10 @@
     
     <item>
       <title>Implementing simple ajax show/hide effects with cakePHP</title>
-      <link>http://www.mwellner.de/post/2010-04-15-implementing-simple-ajax-showhide-effects-with-cakephp/</link>
+      <link>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</link>
       <pubDate>Thu, 15 Apr 2010 09:56:52 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2010-04-15-implementing-simple-ajax-showhide-effects-with-cakephp/</guid>
+      <guid>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</guid>
       <description>&lt;p&gt;There are quite some tutorials on ajax effects out there [1, 2], but most were too complex for my needs. I simply wanted an enhanced index page for projects, which shows some details for each project and more on demand with a sliding effect. So here is what my solution looks like.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Basics&lt;/strong&gt;&lt;/p&gt;
@@ -133,10 +133,10 @@ foreach ($projects as $project):
     
     <item>
       <title>Using xPC COM API and Visual C#</title>
-      <link>http://www.mwellner.de/post/2008-04-05-using-xpc-com-api-and-visual-c/</link>
+      <link>http://www.mwellner.de/2008/04/using-xpc-com-api-and-visual-c/</link>
       <pubDate>Sat, 05 Apr 2008 16:00:34 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2008-04-05-using-xpc-com-api-and-visual-c/</guid>
+      <guid>http://www.mwellner.de/2008/04/using-xpc-com-api-and-visual-c/</guid>
       <description>&lt;p&gt;This entry is for those who want to control an xPC target computer with a program written in C#. I personally did not find any example how to do this, the documentation provides an example using Visual Basic, but I found a simpler way. I do only use the xPC COM API (which must be included as reference in the project) and not the model COM interface. I think this is easier because you don&amp;#8217;t have to reinsert the model reference if you recompile it.&lt;/p&gt;
 
 &lt;p&gt;The example here is a very simple one. I just needed to connect to the target, load the application, and register one signal, which I need to access. Please note that you need to insert a gain element with value 1 to register a signal (Target.GetSignalIdx).&lt;/p&gt;
@@ -204,10 +204,10 @@ namespace ProjectNamespace
     
     <item>
       <title>Sound Feedback Using MIDI</title>
-      <link>http://www.mwellner.de/post/2006-02-24-sound-feedback-using-midi/</link>
+      <link>http://www.mwellner.de/2006/02/sound-feedback-using-midi/</link>
       <pubDate>Fri, 24 Feb 2006 21:26:40 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2006-02-24-sound-feedback-using-midi/</guid>
+      <guid>http://www.mwellner.de/2006/02/sound-feedback-using-midi/</guid>
       <description>&lt;p&gt;One of my subjects is developing a sound feedback system for patients undergoing gait rehabilitation in the Lokomat. The last weeks I spent trying to program something with C++, swaying between MFC and &amp;ldquo;normal&amp;rdquo; form applications. My search for existing examples was difficult, because many people just put something in the net to play an existing MIDI file. But my task was more like creating a life stream and playing it. The first version uses very basic MIDI functions and plays a repeating pattern. The goal parameter (difference between hip and knee angle) then is transferred into more or less consonant chords. But I still have to test this principle with some people.&lt;/p&gt;
 </description>
     </item>

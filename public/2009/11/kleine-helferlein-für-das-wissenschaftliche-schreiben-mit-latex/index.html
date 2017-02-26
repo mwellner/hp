@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta property="og:title" content="Kleine Helferlein für das wissenschaftliche Schreiben mit LaTeX" />
+<meta property="og:description" content="Einleitung
+Das Textsatzsystem LaTeX eignet sich hervorragend für wissenschaftliches Schreiben. Aber welche Komponenten braucht man genau? In diesem Artikel möchte ich beschreiben, wie man auf einem Ubuntu-Linux-System die notwendigen Programme und Pakete installiert, um seine Publikationen bequem schreiben zu können. Windows-Nutzer können die Schritte genau so ausführen, müssen aber an einigen Stellen abweichend vorgehen.
+Anforderungen, Voraussetzungen
+ Ich möchte VIM als Editor benutzen. Das Resultat soll eine PDF-Datei sein. Nach Änderungen am Manuskript sollen alle notwendigen Verarbeitungsschritte (latex, bibtex) automatisch durch eine Aktion (Mausklick oder Eingabe) erfolgen." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.mwellner.de/2009/11/kleine-helferlein-f%C3%BCr-das-wissenschaftliche-schreiben-mit-latex/" />
+
+
+
+<meta property="article:published_time" content="2009-11-09T00:03:32&#43;00:00"/>
+<meta property="article:modified_time" content="2009-11-09T00:03:32&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Kleine Helferlein für das wissenschaftliche Schreiben mit LaTeX"/>
+<meta name="twitter:description" content="Einleitung
+Das Textsatzsystem LaTeX eignet sich hervorragend für wissenschaftliches Schreiben. Aber welche Komponenten braucht man genau? In diesem Artikel möchte ich beschreiben, wie man auf einem Ubuntu-Linux-System die notwendigen Programme und Pakete installiert, um seine Publikationen bequem schreiben zu können. Windows-Nutzer können die Schritte genau so ausführen, müssen aber an einigen Stellen abweichend vorgehen.
+Anforderungen, Voraussetzungen
+ Ich möchte VIM als Editor benutzen. Das Resultat soll eine PDF-Datei sein. Nach Änderungen am Manuskript sollen alle notwendigen Verarbeitungsschritte (latex, bibtex) automatisch durch eine Aktion (Mausklick oder Eingabe) erfolgen."/>
+
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  
+  "headline": "Kleine Helferlein für das wissenschaftliche Schreiben mit LaTeX",
+  "url": "http://www.mwellner.de/2009/11/kleine-helferlein-f%C3%BCr-das-wissenschaftliche-schreiben-mit-latex/",
+  "wordCount": "582",
+  
+  
+  "datePublished": "2009-11-09T00:03:32+00:00",
+  
+  
+  "dateModified": "2009-11-09T00:03:32+00:00",
+  
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mathias Wellner"
+  }
+  
+  ,
+  "keywords": "technik,biblatex,BibTeX,LaTeX,latexmk,linux,make,PDF,Perl,rehash,Schreiben,tetex,texconfig,texmf,ubuntu,Vim,vimlatex,wissenschaft"
+  
+}
+</script>
+
+
+
+    <link rel="canonical" href="http://www.mwellner.de/2009/11/kleine-helferlein-f%C3%BCr-das-wissenschaftliche-schreiben-mit-latex/">
+
+    <title>Kleine Helferlein für das wissenschaftliche Schreiben mit LaTeX | mathias wellner</title>
+
+    <!-- combined, minified CSS -->
+    <link href="http://www.mwellner.de/css/style.css" rel="stylesheet" integrity="sha384-Cdt2yG10w21pA8DMpImJIvsLOME686p75OYD9jGCZVWvOol9zkEsaF3ctGEuBXK6" crossorigin="anonymous">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="http://www.mwellner.de/">Startseite</a>
+          
+          
+          <a class="nav-link" href="http://www.mwellner.de/about/">About</a>
+          
+          
+        </nav>
+      </div>
+    </div>
+
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a href="http://www.mwellner.de/" rel="home">mathias wellner</a></h1>
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-9 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="http://www.mwellner.de/2009/11/kleine-helferlein-f%C3%BCr-das-wissenschaftliche-schreiben-mit-latex/">Kleine Helferlein für das wissenschaftliche Schreiben mit LaTeX</a></h2>
+    <p class="blog-post-meta"><time datetime="2009-11-09T00:03:32Z">Mon Nov 9, 2009</time>  in 
+<i class="fa fa-folder" aria-hidden="true"></i>&nbsp;<a href="/categories/technik" rel="category tag">technik</a>
+
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/tags/biblatex" rel="tag">biblatex</a>, <a href="/tags/bibtex" rel="tag">BibTeX</a>, <a href="/tags/latex" rel="tag">LaTeX</a>, <a href="/tags/latexmk" rel="tag">latexmk</a>, <a href="/tags/linux" rel="tag">linux</a>, <a href="/tags/make" rel="tag">make</a>, <a href="/tags/pdf" rel="tag">PDF</a>, <a href="/tags/perl" rel="tag">Perl</a>, <a href="/tags/rehash" rel="tag">rehash</a>, <a href="/tags/schreiben" rel="tag">Schreiben</a>, <a href="/tags/tetex" rel="tag">tetex</a>, <a href="/tags/texconfig" rel="tag">texconfig</a>, <a href="/tags/texmf" rel="tag">texmf</a>, <a href="/tags/ubuntu" rel="tag">ubuntu</a>, <a href="/tags/vim" rel="tag">Vim</a>, <a href="/tags/vimlatex" rel="tag">vimlatex</a>, <a href="/tags/wissenschaft" rel="tag">wissenschaft</a>
+
+</p>
+  </header>
+  <p><strong>Einleitung</strong></p>
+
+<p>Das Textsatzsystem <a href="https://de.wikipedia.org/wiki/LaTeX">LaTeX</a> eignet sich hervorragend für wissenschaftliches Schreiben. Aber welche Komponenten braucht man genau? In diesem Artikel möchte ich beschreiben, wie man auf einem <a href="http://www.ubuntu.com/">Ubuntu-Linux</a>-System die notwendigen Programme und Pakete installiert, um seine Publikationen bequem schreiben zu können. Windows-Nutzer können die Schritte genau so ausführen, müssen aber an einigen Stellen abweichend vorgehen.</p>
+
+<p><strong>Anforderungen, Voraussetzungen</strong></p>
+
+<ol>
+<li>Ich möchte <a href="http://de.wikipedia.org/wiki/Vim">VIM</a> als Editor benutzen.</li>
+<li>Das Resultat soll eine PDF-Datei sein.</li>
+<li>Nach Änderungen am Manuskript sollen alle notwendigen Verarbeitungsschritte (latex, bibtex) automatisch durch eine Aktion (Mausklick oder Eingabe) erfolgen.</li>
+<li>Ich möchte nach dem <a href="http://www.apastyle.org/">APA-Stil</a> zitieren. Das ist von der Zeitschrift meiner Wahl so vorgeschrieben.</li>
+</ol>
+
+<p><strong>Texteditor VIM</strong></p>
+
+<p>VIM ist ein sehr mächtiges Werkzeug zum Bearbeiten von Texten. Auf den meisten Linux-Systemen ist dieses Programm bereits installiert. Zur besseren Integration von LaTeX-Dokumenten gibt es die <a href="http://vim-latex.sourceforge.net/">VIM-LateX-Suite</a>.</p>
+
+<p><code>&lt;br /&gt;
+any_directory$ sudo apt-get install vim&lt;br /&gt;
+any_directory$ sudo apt-get install vim-latexsuite&lt;br /&gt;
+</code></p>
+
+<p>Bei mir gab es ein Problem, die LateX-Suite wurde nicht aktiviert. Das lag daran, dass im normalen VIM-Verzeichnis schon ein file type plugin für LaTeX existiert. Dieser war dann aus unerklärlichen Gründen weiter oben auf der Suchliste als vim-latexsuite. Abhilfe schaffte bei mir die direkte Installation in meinem Home-Verzeichnis. Das ist zwar nicht die optimale Lösung, denn damit ist dieses Programm von Aktualisierungen ausgenommen, jedoch fiel mir erstmal nichts besseres ein.</p>
+
+<p><strong>latexmk</strong></p>
+
+<p>Das Perl-Script latexmk ist äußerst praktisch, um alle notwendigen Verarbeitungsschritte automatisch auszuführen. Es ermittelt die Abhängigkeiten (eingeschlossene Bilder, Bibliografie), prüft den Status aller Dateien im Projekt und führt dann genau die Schritte aus, welche notwendig sind. Wenn man das nicht hat, muss man sehr häufig die Einzelschritte (die Programme latex und bibtex) ausführen, um bei Änderungen im Dokument ein wirklich aktuelles PDF zu erhalten.</p>
+
+<p>Installieren muss man Perl (wenn es noch nicht vorhanden ist) und das Skript selbst. Windows-Nutzer sollten <a href="http://www.activestate.com/activeperl/">Active Perl</a> installieren.</p>
+
+<p><code>&lt;br /&gt;
+any_directory$ sudo apt-get install perl&lt;br /&gt;
+any_directory$ sudo apt-get install latexmk&lt;br /&gt;
+</code></p>
+
+<p>Die Anwendung von latexmk sieht dann für PDFs so aus:</p>
+
+<p><code>&lt;br /&gt;
+project_directory$ latexmk -pdf dokument.tex&lt;br /&gt;
+</code></p>
+
+<p><strong>biblatex</strong></p>
+
+<p>Obwohl es zur Zeit noch nicht für die Allgemeinheit veröffentlicht ist (beta-Stadium), hat mir die Mächtigkeit des Pakets <a href="http://www.ctan.org/pkg/biblatex">biblatex</a> so imponiert, dass ich es für meine Referenzen gern verwende. Ursprünglich brauchte ich eine saubere Lösung für nach Kapiteln aufgeteilte Referenzen in meiner Dissertationsschrift, aber biblatex kann weit mehr und macht den Umgang mit Referenzen viel einfacher als vorher. Denn bislang musste man aus einer unüberschaubaren Vielfalt von Paketen auswählen, wenn man mit dem Minimalstandard von BibTeX nicht zufrieden war. Nun braucht man also nur noch ein Paket &#8212; biblatex.</p>
+
+<p><code>&lt;br /&gt;
+any_directory$ sudo apt-get install biblatex&lt;br /&gt;
+</code></p>
+
+<p>Im Gegensatz zum normalen Zitieren muss man sich an ein paar neue Befehle gewöhnen. Ein indirektes Zitat in Klammern, welches bei uns Ingenieuren das häufigste ist, erhält man mit <em>\parencite{key}</em>. Der Befehl <em>\printbibliography</em> erstellt genau an dieser Stelle ein Referenzverzeichnis (Bibliographie) mit allen zitierten Quellen. Das Aussehen der Bibliographie und der Zitate im Text richtet sich nach dem Zitierstil, den man beim Laden des Paketes mit angeben kann.</p>
+
+<p><code>&lt;br /&gt;
+\usepackage[style=apa]{biblatex}&lt;br /&gt;
+\bibliography{bibfile_name}&lt;br /&gt;
+</code></p>
+
+<p>Den <a href="http://www.ctan.org/pkg/biblatex-apa">APA-Zitierstil</a> kann man leider nur manuell installieren (siehe Dokumentation). Danach muss man aber noch die LaTeX-Installation aktualisieren.</p>
+
+<p><code>&lt;br /&gt;
+any_directory$ sudo texconfig rehash&lt;br /&gt;
+</code></p>
+
+<p>Ein Problem war dann noch, dass das <a href="http://www.ctan.org/tex-archive/macros/latex/contrib/csquotes/">csquotes-Paket</a> veraltet war. Auch da musste ich manuell die Dateien an die richtige Stelle kopieren und mit <em>texconfig rehash</em> die LaTeX-Installation aktualisieren.</p>
+
+<p><strong>Fazit</strong></p>
+
+<p>Etwas Aufwand ist das schon, dafür steht mir jetzt wieder ein komplettes System zur Verfügung, mit dem ich an meiner dritten Publikation feilen kann.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Teilen</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.mwellner.de%2f2009%2f11%2fkleine-helferlein-f%25C3%25BCr-das-wissenschaftliche-schreiben-mit-latex%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=http%3a%2f%2fwww.mwellner.de%2f2009%2f11%2fkleine-helferlein-f%25C3%25BCr-das-wissenschaftliche-schreiben-mit-latex%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.mwellner.de%2f2009%2f11%2fkleine-helferlein-f%25C3%25BCr-das-wissenschaftliche-schreiben-mit-latex%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=http%3a%2f%2fwww.mwellner.de%2f2009%2f11%2fkleine-helferlein-f%25C3%25BCr-das-wissenschaftliche-schreiben-mit-latex%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>
+      
+      </p>
+      <p>
+      <a href="#">Zurück zum Anfang</a>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

@@ -10,10 +10,10 @@
     
     <item>
       <title>Docker Compose File for WordPress &amp;#038; MariaDB</title>
-      <link>http://www.mwellner.de/post/2016-09-14-docker-compose-file-for-wordpress-mariadb/</link>
+      <link>http://www.mwellner.de/2016/09/docker-compose-file-for-wordpress-</link>
       <pubDate>Wed, 14 Sep 2016 22:33:45 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2016-09-14-docker-compose-file-for-wordpress-mariadb/</guid>
+      <guid>http://www.mwellner.de/2016/09/docker-compose-file-for-wordpress-</guid>
       <description>&lt;p&gt;After some frustrating attempts to create a working Docker configuration for a WordPress system, I have finally found a working solution. It uses the default &lt;a href=&#34;https://hub.docker.com/_/wordpress/&#34; title=&#34;WordPress image&#34; target=&#34;_blank&#34;&gt;WordPress Docker image&lt;/a&gt; and &lt;a href=&#34;https://hub.docker.com/_/mariadb/&#34; title=&#34;MariaDB image&#34; target=&#34;_blank&#34;&gt;MariaDB&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This is a minimal configuration, you may also want to specify a data volume for persistence.&lt;/p&gt;
@@ -40,10 +40,10 @@ services:&amp;lt;br /&amp;gt;
     
     <item>
       <title>WordPress and og:image</title>
-      <link>http://www.mwellner.de/post/2015-10-24-wordpress-and-ogimage/</link>
+      <link>http://www.mwellner.de/2015/10/wordpress-and-ogimage/</link>
       <pubDate>Sat, 24 Oct 2015 11:50:25 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-10-24-wordpress-and-ogimage/</guid>
+      <guid>http://www.mwellner.de/2015/10/wordpress-and-ogimage/</guid>
       <description>
 
 &lt;h3 id=&#34;the-problem&#34;&gt;The Problem&lt;/h3&gt;
@@ -70,10 +70,10 @@ services:&amp;lt;br /&amp;gt;
     
     <item>
       <title>Neues Erscheinungsbild und neue Schriftart</title>
-      <link>http://www.mwellner.de/post/2015-03-22-neues-erscheinungsbild-und-neue-schriftart-fira-sans/</link>
+      <link>http://www.mwellner.de/2015/03/neues-erscheinungsbild-und-neue-schriftart/</link>
       <pubDate>Sun, 22 Mar 2015 19:44:43 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-03-22-neues-erscheinungsbild-und-neue-schriftart-fira-sans/</guid>
+      <guid>http://www.mwellner.de/2015/03/neues-erscheinungsbild-und-neue-schriftart/</guid>
       <description>&lt;p&gt;Ich habe das Aussehen meiner Webseite verändert, ich verwende jetzt das &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress Thema&lt;/a&gt;. Mein Ziel war es, ein anderes Thema als &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt; zu nehmen, denn das haben wir auch auf der Seite unserer Theatergruppe &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt;. Grundsätzlich sind beide Themen ähnlich, vor allem von den Einstellmöglichkeiten, jedoch sieht es schon ein wenig anders aus.&lt;/p&gt;
 
 &lt;p&gt;Was ich richtig gut fand, war die Einbindung eines CSS-Präprozessors, in diesem Fall &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less&lt;/a&gt; für selbst erstelltes CSS. Mir waren die Tabellen-Stile zu großzügig bemessen, meine lange &lt;a href=&#34;http://www.mwellner.de/schauspiel/&#34; title=&#34;Schauspiel/​Regie&#34;&gt;Liste von Theaterproduktionen&lt;/a&gt; sah nicht wirklich gut aus.&lt;/p&gt;
@@ -84,10 +84,10 @@ services:&amp;lt;br /&amp;gt;
     
     <item>
       <title>New Theme and Font</title>
-      <link>http://www.mwellner.de/post/2015-03-22-new-theme/</link>
+      <link>http://www.mwellner.de/2015/03/new-theme-and-font/</link>
       <pubDate>Sun, 22 Mar 2015 19:36:45 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2015-03-22-new-theme/</guid>
+      <guid>http://www.mwellner.de/2015/03/new-theme-and-font/</guid>
       <description>&lt;p&gt;I have changed the appearance of my web site, giving the &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress theme&lt;/a&gt; a chance. My goal was to get away from &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt;, since we use that on &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt; as well. The elements are roughly the same, but the look is slightly different.&lt;/p&gt;
 
 &lt;p&gt;One thing I noted with great delight &amp;ndash; you can use the &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less pre-processor&lt;/a&gt; when typing in your custom CSS. What I actually changed were table styles, they had defined quite large paddings, making my acting overview page look strange.&lt;/p&gt;
@@ -98,10 +98,10 @@ services:&amp;lt;br /&amp;gt;
     
     <item>
       <title>Relaunch dramateure-Homepage</title>
-      <link>http://www.mwellner.de/post/2013-12-10-relaunch-dramateure-homepage/</link>
+      <link>http://www.mwellner.de/2013/12/relaunch-dramateure-homepage/</link>
       <pubDate>Tue, 10 Dec 2013 00:24:41 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2013-12-10-relaunch-dramateure-homepage/</guid>
+      <guid>http://www.mwellner.de/2013/12/relaunch-dramateure-homepage/</guid>
       <description>&lt;p&gt;Es ist vollbracht &amp;#8211; &lt;em&gt;die dramateure&lt;/em&gt; haben eine neue Homepage. Die Domain &lt;a href=&#34;http://dramateure.ch&#34;&gt;dramateure.ch&lt;/a&gt; wird fortan aufs WordPress-CMS unter &lt;a href=&#34;http://dramateure.ch/wordpress&#34;&gt;dramateure.ch/wordpress&lt;/a&gt; umgeleitet. Vom Vorstandsbeschluss bis zum Startschuss vergingen 15 Tage, das kann sich sehen lassen.&lt;/p&gt;
 
 &lt;p&gt;Möglich war das nur durch &lt;a href=&#34;http://www.wordpress.org&#34;&gt;WordPress&lt;/a&gt;, das ich durch dieses Weblog bereits gut kenne und die einfache Installation auf dem Server. Und meine Vorstandskollegen haben mich konstruktiv unterstützt und durch ihre Anmerkungen die letzten kleinen Ungereimtheiten beseitigt.&lt;/p&gt;
@@ -118,10 +118,10 @@ services:&amp;lt;br /&amp;gt;
     
     <item>
       <title>2009 / 2010</title>
-      <link>http://www.mwellner.de/post/2010-01-01-2009-2010/</link>
+      <link>http://www.mwellner.de/2010/01/2009-/-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:01:20 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2010-01-01-2009-2010/</guid>
+      <guid>http://www.mwellner.de/2010/01/2009-/-2010/</guid>
       <description>&lt;p&gt;Allen Lesern möchte ich ein erfreuliches Jahr 2010 wünschen! Silvester ist ein schöner Moment, um das Vergangene Revue passieren zu lassen und neue Ziele anzuvisieren. Denn meist hat man ein paar freie Tage und ist nach den familiären Weihnachtsfestlichkeiten froh, wieder allein zu sein. Und so möchte ich an dieser Stelle gern aus Weblog-Sicht einen kleinen Rückblick wagen. Die Statistiken beziehen sich auf das neue Weblog-System, welches seit August 2009 installiert ist, meine eigenen Besuche sind nicht eingerechnet. Das Weblog umfasst momentan 522 Artikel, 7 statische Seiten und 97 Kommentare.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Seitenaufrufe pro Monat&lt;/strong&gt;&lt;/p&gt;
@@ -155,10 +155,10 @@ services:&amp;lt;br /&amp;gt;
     
     <item>
       <title>Neues Weblog-System</title>
-      <link>http://www.mwellner.de/post/2009-08-05-neues-weblog-system/</link>
+      <link>http://www.mwellner.de/2009/08/neues-weblog-system/</link>
       <pubDate>Wed, 05 Aug 2009 22:24:11 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-08-05-neues-weblog-system/</guid>
+      <guid>http://www.mwellner.de/2009/08/neues-weblog-system/</guid>
       <description>&lt;p&gt;Nachdem meine Tage an der ETH nunmehr gezählt sind, suchte ich nach einer neuen Heimat für mein Weblog, welches bisher vom &lt;a href=&#34;http://blogs.ethz.ch&#34;&gt;Weblog Service der ETH Zürich&lt;/a&gt; gehostet wurde. Es ist nun also auf dem von mir mitgenutzten Server, eine naheliegende Lösung. Das einzige Problem sind die vielen Sicherheitslücken in der Weblog-Software, welche unserem Systemadministrator Schweißperlen auf die Stirn treiben. &lt;a href=&#34;http://www.php.net&#34;&gt;PHP&lt;/a&gt;, auf dem die Software &lt;a href=&#34;http://wordpress.org&#34;&gt;WordPress&lt;/a&gt; basiert, scheint sehr anfällig für alle möglichen Arten von Attacken zu sein. Aber warten wir ab, ob unser Server wirklich von Spammern gekapert wird.&lt;/p&gt;
 
 &lt;p&gt;Auf jeden Fall ist mit diesem Weblog eine einheitliche Webpräsenz geschaffen, meine alte Homepage, die früher unter dieser Adresse zu erreichen war, hat ausgedient. Ich habe jedoch ausgewählte Inhalte übernommen, die Tagebücher aus Blacksburg findet ihr im Archiv (2002-03), eine Übersicht aller Lesungen auf den statischen Seiten (siehe &lt;a href=&#34;http://www.mwellner.de/lesungen/&#34;&gt;Lesungen&lt;/a&gt;). Weblog und Homepage verschmelzen also zu einem Ganzen.&lt;/p&gt;

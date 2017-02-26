@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta property="og:title" content="Macht mit bei Email-Verschlüsselung!" />
+<meta property="og:description" content="Anlass
+Vor kurzem habe ich meinen Rechner neu aufgesetzt, nun ist Windows 7 mein Betriebssystem. Ubuntu Linux läuft nun als virtuelle Maschine mit dem VMware Player.
+ Privatspäre
+ Im Zuge der Neuinstallation habe ich mir auch Gedanken zum Thema Email-Sicherheit gemacht. Bereits 2003 hatte ich mir ein Schlüsselpaar (der öffentliche Teil des Schlüssels ist auf diversen Key-Servern verfügbar) erzeugt, dieses aber nur gelegentlich genutzt. Das wird sich nun wieder ändern!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.mwellner.de/2010/08/macht-mit-bei-email-verschl%C3%BCsselung/" />
+
+
+
+<meta property="article:published_time" content="2010-08-28T22:08:49&#43;00:00"/>
+<meta property="article:modified_time" content="2010-08-28T22:08:49&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Macht mit bei Email-Verschlüsselung!"/>
+<meta name="twitter:description" content="Anlass
+Vor kurzem habe ich meinen Rechner neu aufgesetzt, nun ist Windows 7 mein Betriebssystem. Ubuntu Linux läuft nun als virtuelle Maschine mit dem VMware Player.
+ Privatspäre
+ Im Zuge der Neuinstallation habe ich mir auch Gedanken zum Thema Email-Sicherheit gemacht. Bereits 2003 hatte ich mir ein Schlüsselpaar (der öffentliche Teil des Schlüssels ist auf diversen Key-Servern verfügbar) erzeugt, dieses aber nur gelegentlich genutzt. Das wird sich nun wieder ändern!"/>
+
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  
+  "headline": "Macht mit bei Email-Verschlüsselung!",
+  "url": "http://www.mwellner.de/2010/08/macht-mit-bei-email-verschl%C3%BCsselung/",
+  "wordCount": "468",
+  
+  
+  "datePublished": "2010-08-28T22:08:49+00:00",
+  
+  
+  "dateModified": "2010-08-28T22:08:49+00:00",
+  
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mathias Wellner"
+  }
+  
+  ,
+  "keywords": "bilder,technik,Email,Enigmail,GPG,öffentlich,PGP,privat,Privatsphäre,RSA,Verschlüsselung"
+  
+}
+</script>
+
+
+
+    <link rel="canonical" href="http://www.mwellner.de/2010/08/macht-mit-bei-email-verschl%C3%BCsselung/">
+
+    <title>Macht mit bei Email-Verschlüsselung! | mathias wellner</title>
+
+    <!-- combined, minified CSS -->
+    <link href="http://www.mwellner.de/css/style.css" rel="stylesheet" integrity="sha384-Cdt2yG10w21pA8DMpImJIvsLOME686p75OYD9jGCZVWvOol9zkEsaF3ctGEuBXK6" crossorigin="anonymous">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="http://www.mwellner.de/">Startseite</a>
+          
+          
+          <a class="nav-link" href="http://www.mwellner.de/about/">About</a>
+          
+          
+        </nav>
+      </div>
+    </div>
+
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a href="http://www.mwellner.de/" rel="home">mathias wellner</a></h1>
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-9 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="http://www.mwellner.de/2010/08/macht-mit-bei-email-verschl%C3%BCsselung/">Macht mit bei Email-Verschlüsselung!</a></h2>
+    <p class="blog-post-meta"><time datetime="2010-08-28T22:08:49Z">Sat Aug 28, 2010</time>  in 
+<i class="fa fa-folder" aria-hidden="true"></i>&nbsp;<a href="/categories/bilder" rel="category tag">bilder</a>, <a href="/categories/technik" rel="category tag">technik</a>
+
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/tags/email" rel="tag">Email</a>, <a href="/tags/enigmail" rel="tag">Enigmail</a>, <a href="/tags/gpg" rel="tag">GPG</a>, <a href="/tags/%C3%B6ffentlich" rel="tag">öffentlich</a>, <a href="/tags/pgp" rel="tag">PGP</a>, <a href="/tags/privat" rel="tag">privat</a>, <a href="/tags/privatsph%C3%A4re" rel="tag">Privatsphäre</a>, <a href="/tags/rsa" rel="tag">RSA</a>, <a href="/tags/verschl%C3%BCsselung" rel="tag">Verschlüsselung</a>
+
+</p>
+  </header>
+  <p><strong>Anlass</strong></p>
+
+<p>Vor kurzem habe ich meinen Rechner neu aufgesetzt, nun ist <a href="http://de.wikipedia.org/wiki/Microsoft_Windows_7">Windows 7</a> mein Betriebssystem. <a href="http://www.ubuntu.com/">Ubuntu Linux</a> läuft nun als virtuelle Maschine mit dem <a href="http://www.vmware.com/de/products/player/">VMware Player</a>.</p>
+
+<div style="width: 510px" class="wp-caption aligncenter">
+  <a href="http://www.flickr.com/photos/mwellner/4935768178/" title="Zutritt verboten by mwellner, on Flickr"><img src="http://farm5.static.flickr.com/4118/4935768178_1a92d6d5f6.jpg" width="500" height="338" alt="Zutritt verboten" /></a>
+  
+  <p class="wp-caption-text">
+    Privatspäre<br />
+  </p>
+</div>
+
+<p>Im Zuge der Neuinstallation habe ich mir auch Gedanken zum Thema Email-Sicherheit gemacht. Bereits 2003 hatte ich mir ein Schlüsselpaar (der öffentliche Teil des Schlüssels ist auf diversen Key-Servern verfügbar) erzeugt, dieses aber nur gelegentlich genutzt. Das wird sich nun wieder ändern!</p>
+
+<p><strong>Warum verschlüsseln?</strong></p>
+
+<p>Angestoßen durch die Diskussionen über die ständig schrumpfende Privatsphäre möchte ich mir einen Teil meiner Privatsphäre zurückerobern &ndash; private Emails sind da ein wichtiger Bestandteil. Normale Emails sind wie Postkarten, auf allen Servern kann man sie mit den entsprechenden Zugriffsrechten lesen. Die Verschlüsselung ist wie ein Briefumschlag, der den privaten Inhalt vor neugierigen Blicken schützt. Die zunehmende Kommunikation über soziale Netzwerke sehe ich kritisch, da kommerzielle Interessen dort dominieren und die hohen Anfangsinvestitionen irgendwann reinkommen müssen. Gerade Facebook ist durch einige Vorfälle in die Kritik geraten (siehe z.B. <a href="http://www.zeit.de/2010/35/Facebook">Facebooks unsichtbare Listen</a> in der ZEIT).</p>
+
+<p>Im unternehmerischen Umfeld ist das Verschlüsseln von Daten noch wichtiger, da man wichtige Dokumente ungern an Dritte weiterreichen würde. Dass dies heute nur sehr wenige Firmen machen, ist für mich kaum nachvollziehbar. Verträge, technische Dokumente oder Software werden so quasi als Postkarte versendet, Industriespionage erheblich vereinfacht.</p>
+
+<p><strong>Öffentlicher und geheimer Schlüssel beim RSA-Verfahren</strong></p>
+
+<p>Technisch beruht die Verschlüsselung von Emails auf dem <a href="http://de.wikipedia.org/wiki/RSA-Kryptosystem">RSA-Kryptosystem</a>. Mit einem geeigneten Programm könnt ihr euch ein Schlüsselpaar erzeugen, welches aus einem geheimen und einem öffentlichen Schlüssel besteht. Den öffentlichen Schlüssel könnt ihr herumschicken, mit ihm kann ich auch Nachrichten an euch verschlüsseln, die ihr nur mit eurem geheimen Schlüssel entschlüsseln könnt. Das Signieren von Nachrichten ist eine andere Sache, dafür nehmt ihr euren geheimen Schlüssel und der Empfänger kann mit Hilfe eures öffentlichen Schlüssels feststellen, ob die Nachricht wirklich von euch stammt.</p>
+
+<p>Damit das Ganze Sinn macht, brauche ich aber eure Mithilfe. Denn ich allein kann meine Nachrichten lediglich signieren, sie sind dann aber immer noch für jedermann lesbar. Erst wenn ihr mitmacht und mir eure öffentlichen Schlüssel zukommen lasst, kann ich Nachrichten an euch verschlüsseln.</p>
+
+<p><strong>So geht&#8217;s los</strong></p>
+
+<p>Für die meisten Email-Programme gibt es Zusätze zum Verschlüsseln. Ich persönlich verwende <a href="http://www.mozillamessaging.com/de/thunderbird/">Mozilla Thunderbird</a> mit dem <a href="http://www.enigmail.net/home/index.php">Enigmail</a>-Plugin. Für Windows und damit auch Outlook gibt es mit <a href="http://www.gpg4win.org">Gpg4win</a> ebenfalls ein komfortables Zusatzwerkzeug, mit dem ich auf Arbeit bereits gute Erfahrungen gesammelt habe. In der Linux-Welt ist <a href="http://www.gnupg.org/">GnuPG</a> der Quasi-Standard, die meisten anderen Programme und Werkzeuge basieren darauf.</p>
+
+<p>Nach der Installation könnt ihr euch ein Schlüsselpaar anlegen. Folgt einfach den Standardvorgaben und macht auf jeden Fall eine Sicherungskopie eurer beiden Schlüssel! Euer privater Schlüssel wird zusätzlich mit einem Passwort geschützt. Dann könnt ihr euren öffentlichen Schlüssel exportieren und herumschicken oder ihn auf einen Schlüssel-Server laden.</p>
+
+<p>Das Verschlüsseln ist ein wenig gewöhnungsbedürftig und ein zusätzlicher Schritt. Aber ich denke, dass sich dieser Aufwand lohnt.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Teilen</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.mwellner.de%2f2010%2f08%2fmacht-mit-bei-email-verschl%25C3%25BCsselung%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=http%3a%2f%2fwww.mwellner.de%2f2010%2f08%2fmacht-mit-bei-email-verschl%25C3%25BCsselung%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.mwellner.de%2f2010%2f08%2fmacht-mit-bei-email-verschl%25C3%25BCsselung%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=http%3a%2f%2fwww.mwellner.de%2f2010%2f08%2fmacht-mit-bei-email-verschl%25C3%25BCsselung%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>
+      
+      </p>
+      <p>
+      <a href="#">Zurück zum Anfang</a>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

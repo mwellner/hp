@@ -10,10 +10,10 @@
     
     <item>
       <title>How to add logos to all your pages with LaTeX</title>
-      <link>http://www.mwellner.de/post/2008-01-18-how-to-add-logos-to-all-your-pages-with-latex/</link>
+      <link>http://www.mwellner.de/2008/01/how-to-add-logos-to-all-your-pages-with-latex/</link>
       <pubDate>Fri, 18 Jan 2008 17:11:04 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2008-01-18-how-to-add-logos-to-all-your-pages-with-latex/</guid>
+      <guid>http://www.mwellner.de/2008/01/how-to-add-logos-to-all-your-pages-with-latex/</guid>
       <description>&lt;p&gt;Given the problem that you want to put one or several logos in your document header, I found the following solution. All the lines have to be inserted in the document preamble, meaning before the \begin{document} line. You will need your logos in the appropriate format (in most cases EPS, pdflatex requires PDF, PNG, or JPG) in your document folder. I will assume logo1.eps and logo2.eps are the file names for the two logos. You will also need the graphicx package to actually include your graphic files.&lt;/p&gt;
 
 &lt;pre name=&#34;code&#34; class=&#34;latex&#34;&gt;\usepackage{fancyhdr}

@@ -9,49 +9,11 @@
     <atom:link href="http://www.mwellner.de/tags/c" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Fighting with JSON</title>
-      <link>http://www.mwellner.de/post/2016-11-18-fighting-with-json/</link>
-      <pubDate>Fri, 18 Nov 2016 16:47:25 +0000</pubDate>
-      
-      <guid>http://www.mwellner.de/post/2016-11-18-fighting-with-json/</guid>
-      <description>
-
-&lt;p&gt;In my current project, I had to deal with huge JSON files, which contain the order and properties of our layout elements. For CSS styling purposes, I had to move one particular array item to the end, create a new object and move all existing elements inside of that new object. This was tedious work when I did that manually.&lt;/p&gt;
-
-&lt;p&gt;So I decided to develop a little C# Console application, taking care of that for me. After a few hours I managed to complete it &amp;ndash; and here are my learnings.&lt;/p&gt;
-
-&lt;h4 id=&#34;library&#34;&gt;Library&lt;/h4&gt;
-
-&lt;p&gt;I went for &lt;a href=&#34;http://www.newtonsoft.com/json&#34; target=&#34;_blank&#34;&gt;JSON.Net&lt;/a&gt;, which is the de-facto standard for .NET.&lt;/p&gt;
-
-&lt;h4 id=&#34;parsing&#34;&gt;Parsing&lt;/h4&gt;
-
-&lt;p&gt;The problem with JSON is that you can get different types (array, object). Hence, we do not want to be too type-specific to be able to cast to the expected type. And we have the wonderful &lt;a href=&#34;https://msdn.microsoft.com/de-de/library/dd264741.aspx&#34; target=&#34;_blank&#34;&gt;dynamic&lt;/a&gt; type declaration, which prevents compile-time type checks. So we use &lt;em&gt;dynamic&lt;/em&gt; as long in the line as possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;dynamic json = JsonConvert.DeserializeObject(jsonString)&amp;lt;br /&amp;gt;
-dynamic element = json.GetValue(&amp;quot;Element&amp;quot;);&amp;lt;br /&amp;gt;
-&lt;/code&gt; .&lt;/p&gt;
-
-&lt;h4 id=&#34;working-with-elements&#34;&gt;Working with Elements&lt;/h4&gt;
-
-&lt;p&gt;I found two techniques for selecting a particular element in the JSON tree. You can either use &lt;a href=&#34;http://www.newtonsoft.com/json/help/html/SelectToken.htm&#34; target=&#34;_blank&#34;&gt;SelectToken&lt;/a&gt;, which works best for nested objects. Alternatively you can also use &lt;a href=&#34;https://msdn.microsoft.com/de-de/library/bb397906.aspx&#34; target=&#34;_blank&#34;&gt;LINQ queries&lt;/a&gt; like FirstOrDefault().&lt;/p&gt;
-
-&lt;p&gt;To remove or add items, I converted to &lt;a href=&#34;http://www.newtonsoft.com/json/help/html/t_newtonsoft_json_linq_jarray.htm&#34; target=&#34;_blank&#34;&gt;JArray&lt;/a&gt;, which provides Add() and Remove() functionality.&lt;/p&gt;
-
-&lt;p&gt;One important thing is to clone elements, which are inserted at a different position. Use &lt;a href=&#34;http://www.newtonsoft.com/json/help/html/M_Newtonsoft_Json_Linq_JToken_DeepClone.htm&#34; target=&#34;_blank&#34;&gt;DeepClone()&lt;/a&gt; to get your new element.&lt;/p&gt;
-
-&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
-
-&lt;p&gt;After falling in the trap of quickly hand-editing a large JSON file, I developed a small command-line tool to do the modifications I needed.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Ninject</title>
-      <link>http://www.mwellner.de/post/2012-05-23-ninject/</link>
+      <link>http://www.mwellner.de/2012/05/ninject/</link>
       <pubDate>Wed, 23 May 2012 21:45:33 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2012-05-23-ninject/</guid>
+      <guid>http://www.mwellner.de/2012/05/ninject/</guid>
       <description>&lt;p&gt;Seit ich meine Brötchen bei einem Ingenieurdienstleister verdiene, sind die beruflichen Einträge recht selten geworden. Somit möchte ich jetzt die Gelegenheit erfreifen, um in allgemeiner und unverfänglicher Art über mein neues Projekt zu berichten.&lt;/p&gt;
 
 &lt;p&gt;Zuerst einmal hat sich mein Arbeitsweg halbiert, vorher war ich in der Nähe von Bern tätig. Das fast tägliche, lange Pendeln hat mich ziemlich angestrengt. Geblieben aus dieser Zeit ist aber noch mein Abo für die 1.&amp;nbsp;Klasse. Im Prinzip brauche ich das nicht mehr, aber irgendwie hänge ich doch noch dran. Und es gibt einfach mehr Platz und damit auch Ruhe in den gelb markierten Wagen der 1.&amp;nbsp;Klasse, nach denen ich jetzt schon gewohnheitsmäßig Ausschau halte. Mein Weg ist deutlich kürzer jetzt und führt durch eine vertraute, schöne Landschaft.&lt;/p&gt;
@@ -66,10 +28,10 @@ dynamic element = json.GetValue(&amp;quot;Element&amp;quot;);&amp;lt;br /&amp;gt
     
     <item>
       <title>Using xPC COM API and Visual C#</title>
-      <link>http://www.mwellner.de/post/2008-04-05-using-xpc-com-api-and-visual-c/</link>
+      <link>http://www.mwellner.de/2008/04/using-xpc-com-api-and-visual-c/</link>
       <pubDate>Sat, 05 Apr 2008 16:00:34 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2008-04-05-using-xpc-com-api-and-visual-c/</guid>
+      <guid>http://www.mwellner.de/2008/04/using-xpc-com-api-and-visual-c/</guid>
       <description>&lt;p&gt;This entry is for those who want to control an xPC target computer with a program written in C#. I personally did not find any example how to do this, the documentation provides an example using Visual Basic, but I found a simpler way. I do only use the xPC COM API (which must be included as reference in the project) and not the model COM interface. I think this is easier because you don&amp;#8217;t have to reinsert the model reference if you recompile it.&lt;/p&gt;
 
 &lt;p&gt;The example here is a very simple one. I just needed to connect to the target, load the application, and register one signal, which I need to access. Please note that you need to insert a gain element with value 1 to register a signal (Target.GetSignalIdx).&lt;/p&gt;
@@ -137,10 +99,10 @@ namespace ProjectNamespace
     
     <item>
       <title>Matlab &amp;#8212; Intuitiv und einfach?</title>
-      <link>http://www.mwellner.de/post/2005-04-29-matlab-intuitiv-und-einfach/</link>
+      <link>http://www.mwellner.de/2005/04/matlab-</link>
       <pubDate>Fri, 29 Apr 2005 23:12:58 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-04-29-matlab-intuitiv-und-einfach/</guid>
+      <guid>http://www.mwellner.de/2005/04/matlab-</guid>
       <description>&lt;p&gt;Bislang war ich ja doch ein erklärter Verfechter von Matlab als einer einfachen Programmierwprache, mit der man schnell zu Ergebnissen kommt. Doch heute las ich die Seite eines erklärten Gegners solcher einfachen Skript-Sprachen. Er argumentiert, dass durch die vielen Vereinfachungen &amp;#8211; als da wären:&lt;/p&gt;
 
 &lt;ul&gt;

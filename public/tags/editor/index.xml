@@ -10,10 +10,10 @@
     
     <item>
       <title>Little Helpers for Scientific Writing with LaTeX</title>
-      <link>http://www.mwellner.de/post/2009-11-11-little-helpers-for-scientific-writing-with-latex/</link>
+      <link>http://www.mwellner.de/2009/11/little-helpers-for-scientific-writing-with-latex/</link>
       <pubDate>Wed, 11 Nov 2009 00:49:04 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-11-11-little-helpers-for-scientific-writing-with-latex/</guid>
+      <guid>http://www.mwellner.de/2009/11/little-helpers-for-scientific-writing-with-latex/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The document preparation system &lt;a href=&#34;http://en.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt; is well-suited for scientific writing. But which additional components are required? In this article, I will describe how to install all the necessary programs and packages on a &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu-Linux&lt;/a&gt; system to write publications conveniently. The tutorial equally applies to Debian systems, Windows users have to modify the installation procedures accordingly.&lt;/p&gt;
@@ -85,10 +85,10 @@ any_directory$ sudo texconfig rehash&amp;lt;br /&amp;gt;
     
     <item>
       <title>Kleine Helferlein beim wissenschaftlichen Schreiben mit LaTeX</title>
-      <link>http://www.mwellner.de/post/2009-11-09-kleine-helferlein-beim-wissenschaftlichen-schreiben-mit-latex/</link>
+      <link>http://www.mwellner.de/2009/11/kleine-helferlein-beim-wissenschaftlichen-schreiben-mit-latex/</link>
       <pubDate>Mon, 09 Nov 2009 23:09:16 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2009-11-09-kleine-helferlein-beim-wissenschaftlichen-schreiben-mit-latex/</guid>
+      <guid>http://www.mwellner.de/2009/11/kleine-helferlein-beim-wissenschaftlichen-schreiben-mit-latex/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ein­lei­tung&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Das Text­satz­sys­tem &lt;a href=&#34;https://de.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt; eig­net sich her­vor­ra­gend für wis­sen­schaft­li­ches Schrei­ben. Aber wel­che Kom­po­nen­ten braucht man genau? In die­sem Arti­kel möchte ich beschrei­ben, wie man auf einem &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu-​​Linux&lt;/a&gt;–Sys­tem die not­wen­di­gen Pro­gramme und Pakete instal­liert, um seine Publi­ka­tio­nen bequem schrei­ben zu kön­nen. Windows-​​Nutzer kön­nen die Schritte genau so aus­füh­ren, müs­sen aber an eini­gen Stel­len abwei­chend vorgehen.&lt;/p&gt;
@@ -160,10 +160,10 @@ any_directory$ sudo texconfig rehash&amp;lt;br /&amp;gt;
     
     <item>
       <title>Einarbeitung, Werkzeuge</title>
-      <link>http://www.mwellner.de/post/2005-07-04-einarbeitung/</link>
+      <link>http://www.mwellner.de/2005/07/einarbeitung-werkzeuge/</link>
       <pubDate>Mon, 04 Jul 2005 15:26:18 +0000</pubDate>
       
-      <guid>http://www.mwellner.de/post/2005-07-04-einarbeitung/</guid>
+      <guid>http://www.mwellner.de/2005/07/einarbeitung-werkzeuge/</guid>
       <description>&lt;p&gt;Ich sitze an meinem Schreibtisch im untersten Stockwerk des Krankenhauses Balgrist. Im Zimmer sind noch drei andere Leute, das Klima ist locker, aber ein jeder macht halt sein Ding. Und mein Ding ist halt momentan die Einarbeitung, wobei ich da auch völlig freie Hand habe. Eine kleine Aufgabe gibt es, ich soll das Programm für das Lokolift-System (der Teil, welcher den Patienten hält) für einen klinischen Test modifizieren. Dafür sind einige Tests notwendig, um dann die Programmänderung durchzuführen. Aber das war auch nicht weiter dringlich, wenn ich das recht verstanden habe.&lt;/p&gt;
 
 &lt;p&gt;Und so schaue ich vor allem in die Simulink-Anleitung hinein, mit Labview werde ich mich später noch eingehender beschäftigen. Daneben überlege ich mir auch, wie ich während der Dissertation möglichst professionell und effizient arbeiten kann. Ich möchte eigentlich auf meine Diplomarbeit noch was draufsetzen. Die folgenden Werkzeuge werde ich wohl zur Textgestaltung und Abbildungserstellung einsetzen:&lt;/p&gt;

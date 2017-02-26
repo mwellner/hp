@@ -1,21 +1,17 @@
 ---
-id: 7143
 title: 'Bodo Kirchhoff: Widerfahrnis'
 date: 2017-01-01T14:03:54+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=7143
-permalink: /2017/01/01/bodo-kirchhoff-widerfahrnis/
 categories:
   - literatur
 tags:
-  - Bodo Kirchhoff
-  - Flüchtlinge
-  - Italien
-  - Liebe
-  - Roman
-  - Sizilien
-  - Widerfahrnis
+  - bodo kirchhoff
+  - flüchtlinge
+  - italien
+  - liebe
+  - roman
+  - sizilien
+  - widerfahrnis
 ---
 Ein frühpensionierter Buchverleger namens Reither ist der Erzähler der Novelle Widerfahrnis. Nachdem sein kleiner Verlag nicht mehr so recht lief, hat er sich in einem idyllischen Alpental niedergelassen, in einem Wohnkomplex mit Empfang. Dort entdeckt er in der Bibliothek ein Buch ohne Titel, nur mit dem Namen der Autorin. Und während er so darüber nachdenkt, abends in seiner Wohnung, ist da plötzlich jemand vor der Tür, klingelt schließlich. Es ist Leonie Palm, die den lokalen Literaturzirkel leitet, sie kommen ins Gespräch, brechen dann unerwartet auf zu einer Tour, die schließlich bis nach Sizilien führt. Unterwegs immer wieder Flüchtlinge, am Brenner-Bahnhof, auf einem Parkplatz, auf Sizilien ein Mädchen im Fetzenkleid, das sich an sie heftet. Reither plötzlich in einer Art Kleinfamilie, auf der Suche nach seinem im Leben verpassten Glück. 
 

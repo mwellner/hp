@@ -52,11 +52,6 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/2016/11/wo-ist-das/</loc>
-    <lastmod>2016-11-13T19:57:14+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.mwellner.de/2016/11/erster-arbeitstag-bei-conweaver/</loc>
     <lastmod>2016-11-01T08:36:53+00:00</lastmod>
   </url>
@@ -6049,14 +6044,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/bilder/</loc>
-    <lastmod>2017-01-12T23:22:49+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/bilder/</loc>
+    <lastmod>2010-02-15T23:32:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/bilder/</loc>
-    <lastmod>2010-02-15T23:32:35+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/bilder/</loc>
+    <lastmod>2017-01-12T23:22:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -9619,7 +9614,7 @@
   
   <url>
     <loc>http://www.mwellner.de/tags/hafen/</loc>
-    <lastmod>2016-07-26T23:02:36+00:00</lastmod>
+    <lastmod>2016-12-31T16:08:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -9834,6 +9829,12 @@
   </url>
   
   <url>
+    <loc>http://www.mwellner.de/tags/hendrik-ibsen/</loc>
+    <lastmod>2016-11-20T23:09:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.mwellner.de/tags/henri-cartier-bresson/</loc>
     <lastmod>2006-02-04T17:57:00+00:00</lastmod>
     <priority>0</priority>
@@ -9912,14 +9913,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/hiking/</loc>
-    <lastmod>2011-08-01T22:15:01+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/hiking/</loc>
+    <lastmod>2005-08-28T22:14:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/hiking/</loc>
-    <lastmod>2005-08-28T22:14:50+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/hiking/</loc>
+    <lastmod>2011-08-01T22:15:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -11040,14 +11041,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/klettern/</loc>
-    <lastmod>2015-06-07T22:43:40+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/klettern/</loc>
+    <lastmod>2016-08-02T19:52:23+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/klettern/</loc>
-    <lastmod>2016-08-02T19:52:23+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/klettern/</loc>
+    <lastmod>2015-06-07T22:43:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -11940,14 +11941,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/literatur/</loc>
-    <lastmod>2017-01-01T14:03:54+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/literatur/</loc>
+    <lastmod>2011-07-01T00:10:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/literatur/</loc>
-    <lastmod>2011-07-01T00:10:01+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/literatur/</loc>
+    <lastmod>2017-01-01T14:03:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13908,26 +13909,26 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/politics/</loc>
-    <lastmod>2016-06-18T11:35:40+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.mwellner.de/tags/politics/</loc>
     <lastmod>2002-10-13T23:51:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/politik/</loc>
-    <lastmod>2015-11-10T22:42:25+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/politics/</loc>
+    <lastmod>2016-06-18T11:35:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.mwellner.de/tags/politik/</loc>
     <lastmod>2009-08-22T14:41:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mwellner.de/categories/politik/</loc>
+    <lastmod>2015-11-10T22:42:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14598,14 +14599,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/reisen/</loc>
-    <lastmod>2016-08-11T23:56:19+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/reisen/</loc>
+    <lastmod>2005-06-09T23:53:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/reisen/</loc>
-    <lastmod>2005-06-09T23:53:09+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/reisen/</loc>
+    <lastmod>2016-08-11T23:56:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -15223,7 +15224,7 @@
   
   <url>
     <loc>http://www.mwellner.de/tags/schauspielhaus/</loc>
-    <lastmod>2015-05-16T11:39:51+00:00</lastmod>
+    <lastmod>2016-11-20T23:09:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -15486,14 +15487,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/science/</loc>
-    <lastmod>2011-01-08T23:55:04+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/science/</loc>
+    <lastmod>2008-12-15T22:44:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/science/</loc>
-    <lastmod>2008-12-15T22:44:15+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/science/</loc>
+    <lastmod>2011-01-08T23:55:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -15894,14 +15895,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/software-development/</loc>
-    <lastmod>2016-09-14T22:33:45+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/software-development/</loc>
+    <lastmod>2012-10-28T12:24:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/software-development/</loc>
-    <lastmod>2012-10-28T12:24:40+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/software-development/</loc>
+    <lastmod>2016-09-14T22:33:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -16062,14 +16063,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/sport-amp-freizeit/</loc>
-    <lastmod>2016-09-24T16:16:50+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/sport-amp-freizeit/</loc>
+    <lastmod>2008-02-24T18:06:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/sport-amp-freizeit/</loc>
-    <lastmod>2008-02-24T18:06:33+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/sport-amp-freizeit/</loc>
+    <lastmod>2016-09-24T16:16:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -16811,14 +16812,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/technik/</loc>
-    <lastmod>2015-04-21T22:33:09+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/technik/</loc>
+    <lastmod>2010-12-21T22:04:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/technik/</loc>
-    <lastmod>2010-12-21T22:04:50+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/technik/</loc>
+    <lastmod>2015-04-21T22:33:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -16829,14 +16830,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/technology/</loc>
-    <lastmod>2009-11-30T00:00:00+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/technology/</loc>
+    <lastmod>2009-08-05T22:24:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/technology/</loc>
-    <lastmod>2009-08-05T22:24:11+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/technology/</loc>
+    <lastmod>2009-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -17015,14 +17016,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/theater/schauspiel/</loc>
-    <lastmod>2016-11-20T23:09:09+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/theater/schauspiel/</loc>
+    <lastmod>2016-09-18T23:54:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/theater/schauspiel/</loc>
-    <lastmod>2016-09-18T23:54:09+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/theater/schauspiel/</loc>
+    <lastmod>2016-11-20T23:09:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -17417,14 +17418,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/travelling/</loc>
-    <lastmod>2010-08-07T16:43:11+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/travelling/</loc>
+    <lastmod>2007-10-03T18:41:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/travelling/</loc>
-    <lastmod>2007-10-03T18:41:16+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/travelling/</loc>
+    <lastmod>2010-08-07T16:43:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -18353,14 +18354,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/wandern/</loc>
-    <lastmod>2016-08-08T21:37:12+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/wandern/</loc>
+    <lastmod>2016-08-07T18:40:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/wandern/</loc>
-    <lastmod>2016-08-07T18:40:31+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/wandern/</loc>
+    <lastmod>2016-08-08T21:37:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -18629,6 +18630,12 @@
   </url>
   
   <url>
+    <loc>http://www.mwellner.de/tags/wildente/</loc>
+    <lastmod>2016-11-20T23:09:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.mwellner.de/tags/wilhelm-tell/</loc>
     <lastmod>2013-04-03T22:55:24+00:00</lastmod>
     <priority>0</priority>
@@ -18713,13 +18720,13 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/wissenschaft/</loc>
+    <loc>http://www.mwellner.de/tags/wissenschaft/</loc>
     <lastmod>2015-06-20T23:51:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/wissenschaft/</loc>
+    <loc>http://www.mwellner.de/categories/wissenschaft/</loc>
     <lastmod>2015-06-20T23:51:24+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -18821,14 +18828,14 @@
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/categories/www/</loc>
-    <lastmod>2016-06-30T20:10:52+00:00</lastmod>
+    <loc>http://www.mwellner.de/tags/www/</loc>
+    <lastmod>2010-04-15T09:56:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.mwellner.de/tags/www/</loc>
-    <lastmod>2010-04-15T09:56:52+00:00</lastmod>
+    <loc>http://www.mwellner.de/categories/www/</loc>
+    <lastmod>2016-06-30T20:10:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   

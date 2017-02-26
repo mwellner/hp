@@ -1,16 +1,12 @@
 ---
-id: 7165
 title: West Side Theatre
 date: 2017-01-12T23:22:49+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=7165
-permalink: /2017/01/12/west-side-theatre/
 categories:
   - bilder
 tags:
-  - Darmstadt
-  - West Side Theatre
+  - darmstadt
+  - west side theatre
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/32982747871/in/dateposted-public/" title="MW_20170108_0002">
   <img src="https://c1.staticflickr.com/3/2904/32982747871_64d8fe3505_b.jpg" width="1024" height="768" alt="MW_20170108_0002">

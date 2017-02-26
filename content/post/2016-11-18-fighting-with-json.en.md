@@ -1,11 +1,8 @@
 ---
-id: 7108
 title: Fighting with JSON
 date: 2016-11-18T16:47:25+00:00
 author: Mathias Wellner
 layout: post
-guid: 'http://www.mwellner.de/?p=7108&#038;lang=en'
-permalink: /2016/11/18/fighting-with-json/?lang=en
 categories:
   - software development
 tags:

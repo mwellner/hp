@@ -38,17 +38,9 @@ The future of machine learning will be invisible; it will exist, you will use ma
 
 My favorite topic&#8230;
 
-#### HTTP/2 &#8211; The Future is Now
-
-#### Typed JavaScript with TypeScript and Flow
-
 #### Introduction to React.js
 
 React.js is a game changer for web applications.Made by Facebook for slick, modern user interfaces and able to handleheavy data lifting with brilliant performance, it&#8217;s revolutionised howdevelopers all around the world build their apps.Let&#8217;s explore what makes it special and the core concepts to get you upto speed with the new hot thing in JavaScript!
-
-#### Angular 2: Modern HTML5 Applications for all Platforms
-
-#### Yo ASP.NET &ndash; What&#8217;s new and what stays with ASP.NET Core 1.0
 
 #### Progressive Web Apps: The web gets more native and Microsoft is part of it
 

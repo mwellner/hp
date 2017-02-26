@@ -9,8 +9,8 @@ theme = "hugo-theme-bootstrap4-blog"
   page = "/:slug/"
 
 [params]
-  # Site author
   author = "Mathias Wellner"
+  date_format = "15.01.2006"
 
 [Languages]
 [Languages.en]

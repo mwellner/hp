@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jset En on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/jset-en/index.xml</link>
+    <description>Recent content in Jset En on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/jset-en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Paper on Virtual Audience Accepted</title>
+      <link>http://www.mwellner.de/2009/03/paper-on-virtual-audience-accepted/</link>
+      <pubDate>Mon, 30 Mar 2009 10:29:58 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2009/03/paper-on-virtual-audience-accepted/</guid>
+      <description>&lt;p&gt;My second journal paper has been accepted for publication in the &lt;a href=&#34;http://en.wikipedia.org/wiki/Proceedings_of_the_Institution_of_Mechanical_Engineers,_Part_P:_Journal_of_Sports_Engineering_and_Technology&#34;&gt;Journal of Sports Engineering and Technology&lt;/a&gt;. It was about the study with virtual audience in our &lt;a href=&#34;http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html&#34;&gt;M&lt;sup&gt;3&lt;/sup&gt; Rowing Simulator&lt;/a&gt;. The reviewing process was much quicker than last time, I received only a few comments which needed correction. Compared to the reviewing process of my last publication, this was much easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Does Virtual Audience Influence Rowing?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mathias Wellner, Roland Sigrist, Joachim von Zitzewitz, Peter Wolf, Robert Riener&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The performance of athletes is often influenced by the presence of audience. This pressure situation, which is common for competition, can not be trained on available simulators. Therefore, a novel rowing simulator with virtual reality technology was developed and evaluated. Ten participants of different skill levels were rowing 3×1000m with positive, neutral, and negative virtual audience tribunes in blocks of random order. The analysis of movement variables, physiological response, questionnaires, and interviews was used to detect differences between audience blocks and adjoining non-audience blocks. Although some participants responded in part of the investigated movement and physiological parameters, no reliable effect of any of the audience types could be shown. Interestingly, self-reported measures indicated in general a high degree of realism and presence in the scenario. The explanation for the low incidence of behavioural change is that the virtual audience did not create enough pressure on the participants, although no definite&lt;/p&gt;
+
+&lt;p&gt;conclusion can be drawn due to the small sample size.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

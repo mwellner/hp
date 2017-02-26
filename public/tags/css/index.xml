@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/css/index.xml</link>
+    <description>Recent content in Css on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comparis-Relaunch</title>
+      <link>http://www.mwellner.de/2016/06/comparis-relaunch/</link>
+      <pubDate>Thu, 30 Jun 2016 20:10:52 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2016/06/comparis-relaunch/</guid>
+      <description>&lt;p&gt;Am Dienstag ging ein Teil der Comparis-Seite im neuen Design live. Noch sind wir am Testen, wie gut das bei den Benutzern ankommt, aber schon bald werden auch weitere Applikationen im neuen Kleid erstrahlen. Es ist für Außenstehende vermutlich schwer vorstellbar, welcher Aufwand hinter so einem Relaunch steckt. Gern möchte ich an einem auf den ersten Blick einfachen Beispiel die Komplexität erläutern, die in vielen kleinen Details steckt.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_6721&#34; style=&#34;width: 904px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/06/kk1.png&#34; alt=&#34;Krankenkassenvergleich, Einstiegsseite&#34; width=&#34;894&#34; height=&#34;545&#34; class=&#34;size-full wp-image-6721&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/06/kk1.png 894w, http://www.mwellner.de/wp-uploads/2016/06/kk1-350x213.png 350w, http://www.mwellner.de/wp-uploads/2016/06/kk1-246x150.png 246w, http://www.mwellner.de/wp-uploads/2016/06/kk1-150x91.png 150w&#34; sizes=&#34;(max-width: 894px) 100vw, 894px&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Krankenkassenvergleich, Einstiegsseite
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Wir sehen die Einstiegsseite für den Krankenkassen-Vergleich, zentrales Element sind die drei Kästchen. Die zwei linken in grau lassen eine Auswahl zu, entweder man ist schon versichert in der Schweiz oder man ist damit zum ersten Mal konfrontiert. Der grüne Schaltknopf rechts führt weiter zu den genaueren Eingaben.&lt;/p&gt;
+
+&lt;p&gt;Der interessante Fall tritt dann auf, wenn man einen etwas kleineren Bildschirm hat oder das Fenster verkleinert. Dann hat die linke Box plötzlich zwei Zeilen. Und von den rechten zwei Elementen erwartet man, dass sie die gleiche Höhe haben und die Inhalte vertikal zentriert sind. Das gestaltet sich mit HTML und CSS meist schwierig, erst durch den relativ neuen &lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes&#34; title=&#34;Using CSS flexible boxes&#34; target=&#34;_blank&#34;&gt;Flexbox-Ansatz&lt;/a&gt; wurden derartige Gestaltungsaufgaben einfacher zu bewältigen. Wir nutzen das auch für unser Grid-System (&lt;a href=&#34;http://foundation.zurb.com/sites/docs/flex-grid.html&#34; title=&#34;Foundation Flex Grid&#34; target=&#34;_blank&#34;&gt;Foundation Flex Grid&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Und so beschäftige ich mit seit drei Wochen mit unzähligen Bugs, die von kleinen Layout-Anpassungen bis zu völlig wüstem Erscheinungsbild auf bestimmten Browsern reichen. Viele sind dann bei genauerem Hinschauen recht einfach zu lösen, einige werden uns aber noch länger verfolgen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSS Blend Modes</title>
+      <link>http://www.mwellner.de/2016/06/css-blend-modes/</link>
+      <pubDate>Wed, 01 Jun 2016 22:47:06 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2016/06/css-blend-modes/</guid>
+      <description>&lt;p&gt;Eine wundervolle künstlerische Anwendung von CSS sind die &lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/CSS/CSS_Referenz/mix-blend-mode&#34; title=&#34;mix-blend-mode&#34; target=&#34;_blank&#34;&gt;Blend Modes&lt;/a&gt;, welche eine Überlagerung von zwei übereinander befindlichen Elementen ermöglichen. Ich habe es für die Kopfzeile dieser Webseite gleich mal ausprobiert, nach langem Testen hat mich schließlich &lt;em&gt;mix-blend-mode: hard-light&lt;/em&gt; überzeugt. Das Beste daran ist die leichte Anpassbarkeit, ich kann den Text schnell ändern, was bei einer mit Photoshop erzeugten Grafik ganz anders aussähe. Empfehlen möchte ich außerdem den &lt;a href=&#34;https://sarasoueidan.com/demos/css-blender/&#34; title=&#34;CSS Blender&#34; target=&#34;_blank&#34;&gt;CSS Blender&lt;/a&gt;, dort kann man nach Herzenslust alle Effekte austesten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neues Erscheinungsbild und neue Schriftart</title>
+      <link>http://www.mwellner.de/2015/03/neues-erscheinungsbild-und-neue-schriftart/</link>
+      <pubDate>Sun, 22 Mar 2015 19:44:43 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2015/03/neues-erscheinungsbild-und-neue-schriftart/</guid>
+      <description>&lt;p&gt;Ich habe das Aussehen meiner Webseite verändert, ich verwende jetzt das &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress Thema&lt;/a&gt;. Mein Ziel war es, ein anderes Thema als &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt; zu nehmen, denn das haben wir auch auf der Seite unserer Theatergruppe &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt;. Grundsätzlich sind beide Themen ähnlich, vor allem von den Einstellmöglichkeiten, jedoch sieht es schon ein wenig anders aus.&lt;/p&gt;
+
+&lt;p&gt;Was ich richtig gut fand, war die Einbindung eines CSS-Präprozessors, in diesem Fall &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less&lt;/a&gt; für selbst erstelltes CSS. Mir waren die Tabellen-Stile zu großzügig bemessen, meine lange &lt;a href=&#34;http://www.mwellner.de/schauspiel/&#34; title=&#34;Schauspiel/​Regie&#34;&gt;Liste von Theaterproduktionen&lt;/a&gt; sah nicht wirklich gut aus.&lt;/p&gt;
+
+&lt;p&gt;Außerdem habe ich die Schriftart angepasst. Nachdem ich am letzten Donnerstag das Vergnügen hatte, Erik Spiekermann auf der &lt;a href=&#34;http://2015.uxmunich.com/&#34; title=&#34;UX Munich&#34; target=&#34;_blank&#34;&gt;UX Munich&lt;/a&gt; zu erleben, verwende ich jetzt die von ihm entwickelte &lt;a href=&#34;https://en.wikipedia.org/wiki/Fira_Sans&#34; title=&#34;Fira Sans&#34; target=&#34;_blank&#34;&gt;Fira Sans&lt;/a&gt;. Diese Schriftart wurde für Bildschirme und tragbare Geräte entwickelt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Theme and Font</title>
+      <link>http://www.mwellner.de/2015/03/new-theme-and-font/</link>
+      <pubDate>Sun, 22 Mar 2015 19:36:45 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2015/03/new-theme-and-font/</guid>
+      <description>&lt;p&gt;I have changed the appearance of my web site, giving the &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress theme&lt;/a&gt; a chance. My goal was to get away from &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt;, since we use that on &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt; as well. The elements are roughly the same, but the look is slightly different.&lt;/p&gt;
+
+&lt;p&gt;One thing I noted with great delight &amp;ndash; you can use the &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less pre-processor&lt;/a&gt; when typing in your custom CSS. What I actually changed were table styles, they had defined quite large paddings, making my acting overview page look strange.&lt;/p&gt;
+
+&lt;p&gt;What I also changed was the default font. After hearing Erik Spiekermann on &lt;a href=&#34;http://2015.uxmunich.com/&#34; title=&#34;UX Munich&#34; target=&#34;_blank&#34;&gt;UX Munich&lt;/a&gt;, I am now giving &lt;a href=&#34;https://en.wikipedia.org/wiki/Fira_Sans&#34; title=&#34;Fira Sans&#34; target=&#34;_blank&#34;&gt;Fira Sans&lt;/a&gt; a try. It was developed to look good on screen and hand-held devices.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

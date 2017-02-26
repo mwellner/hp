@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Www on mathias wellner</title>
+    <link>http://www.mwellner.de/categories/www/index.xml</link>
+    <description>Recent content in Www on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/categories/www/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comparis-Relaunch</title>
+      <link>http://www.mwellner.de/2016/06/comparis-relaunch/</link>
+      <pubDate>Thu, 30 Jun 2016 20:10:52 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2016/06/comparis-relaunch/</guid>
+      <description>&lt;p&gt;Am Dienstag ging ein Teil der Comparis-Seite im neuen Design live. Noch sind wir am Testen, wie gut das bei den Benutzern ankommt, aber schon bald werden auch weitere Applikationen im neuen Kleid erstrahlen. Es ist für Außenstehende vermutlich schwer vorstellbar, welcher Aufwand hinter so einem Relaunch steckt. Gern möchte ich an einem auf den ersten Blick einfachen Beispiel die Komplexität erläutern, die in vielen kleinen Details steckt.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_6721&#34; style=&#34;width: 904px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/06/kk1.png&#34; alt=&#34;Krankenkassenvergleich, Einstiegsseite&#34; width=&#34;894&#34; height=&#34;545&#34; class=&#34;size-full wp-image-6721&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/06/kk1.png 894w, http://www.mwellner.de/wp-uploads/2016/06/kk1-350x213.png 350w, http://www.mwellner.de/wp-uploads/2016/06/kk1-246x150.png 246w, http://www.mwellner.de/wp-uploads/2016/06/kk1-150x91.png 150w&#34; sizes=&#34;(max-width: 894px) 100vw, 894px&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Krankenkassenvergleich, Einstiegsseite
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Wir sehen die Einstiegsseite für den Krankenkassen-Vergleich, zentrales Element sind die drei Kästchen. Die zwei linken in grau lassen eine Auswahl zu, entweder man ist schon versichert in der Schweiz oder man ist damit zum ersten Mal konfrontiert. Der grüne Schaltknopf rechts führt weiter zu den genaueren Eingaben.&lt;/p&gt;
+
+&lt;p&gt;Der interessante Fall tritt dann auf, wenn man einen etwas kleineren Bildschirm hat oder das Fenster verkleinert. Dann hat die linke Box plötzlich zwei Zeilen. Und von den rechten zwei Elementen erwartet man, dass sie die gleiche Höhe haben und die Inhalte vertikal zentriert sind. Das gestaltet sich mit HTML und CSS meist schwierig, erst durch den relativ neuen &lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes&#34; title=&#34;Using CSS flexible boxes&#34; target=&#34;_blank&#34;&gt;Flexbox-Ansatz&lt;/a&gt; wurden derartige Gestaltungsaufgaben einfacher zu bewältigen. Wir nutzen das auch für unser Grid-System (&lt;a href=&#34;http://foundation.zurb.com/sites/docs/flex-grid.html&#34; title=&#34;Foundation Flex Grid&#34; target=&#34;_blank&#34;&gt;Foundation Flex Grid&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Und so beschäftige ich mit seit drei Wochen mit unzähligen Bugs, die von kleinen Layout-Anpassungen bis zu völlig wüstem Erscheinungsbild auf bestimmten Browsern reichen. Viele sind dann bei genauerem Hinschauen recht einfach zu lösen, einige werden uns aber noch länger verfolgen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSS Blend Modes</title>
+      <link>http://www.mwellner.de/2016/06/css-blend-modes/</link>
+      <pubDate>Wed, 01 Jun 2016 22:47:06 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2016/06/css-blend-modes/</guid>
+      <description>&lt;p&gt;Eine wundervolle künstlerische Anwendung von CSS sind die &lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/CSS/CSS_Referenz/mix-blend-mode&#34; title=&#34;mix-blend-mode&#34; target=&#34;_blank&#34;&gt;Blend Modes&lt;/a&gt;, welche eine Überlagerung von zwei übereinander befindlichen Elementen ermöglichen. Ich habe es für die Kopfzeile dieser Webseite gleich mal ausprobiert, nach langem Testen hat mich schließlich &lt;em&gt;mix-blend-mode: hard-light&lt;/em&gt; überzeugt. Das Beste daran ist die leichte Anpassbarkeit, ich kann den Text schnell ändern, was bei einer mit Photoshop erzeugten Grafik ganz anders aussähe. Empfehlen möchte ich außerdem den &lt;a href=&#34;https://sarasoueidan.com/demos/css-blender/&#34; title=&#34;CSS Blender&#34; target=&#34;_blank&#34;&gt;CSS Blender&lt;/a&gt;, dort kann man nach Herzenslust alle Effekte austesten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Progressive Web Apps</title>
+      <link>http://www.mwellner.de/2016/05/progressive-web-apps/</link>
+      <pubDate>Sun, 22 May 2016 23:04:24 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2016/05/progressive-web-apps/</guid>
+      <description>&lt;p&gt;Einen Ausblick auf zukünftige Web-Applikationen gab es bei der Entwicklerkonferenz &lt;a href=&#34;https://events.google.com/io2016/&#34; title=&#34;Google I/O 2016&#34; target=&#34;_blank&#34;&gt;Google I/O 2016&lt;/a&gt; zu sehen. Die Konferenz ist natürlich zentriert auf Technologien, die bei Google entwickelt werden, wobei es aber auch um grundlegende Entwicklungsmuster geht, die auch mit anderen Frameworks umzusetzen sind.&lt;/p&gt;
+
+&lt;p&gt;Das grundlegende Problem vieler Web-Applikationen ist ihre schlechte Performance, sie brauchen zu lange beim Laden oder beim Interagieren. Das ist vor allem auf mobilen Geräten hinderlich, die keine gute Bandbreite haben. Eine perfekte Applikation würde initial schnell laden, dann im Hintergrund weitere Resourcen holen, damit bei weiteren Interaktionen schnelle Reaktionszeiten möglich sind, sie würde sich verhalten wie eine native Applikation.&lt;/p&gt;
+
+&lt;p&gt;In dieser Präsentation stellt &lt;a href=&#34;https://twitter.com/kevinpschaaf&#34; title=&#34;Kevin Schaaf (@kevinpschaaf) on twitter&#34; target=&#34;_blank&#34;&gt;Kevin Schaaf&lt;/a&gt; die Grundzüge von progressiven Web-Applikationen vor. Technologisch basiert das auf &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements&#34; title=&#34;Custom Elements&#34; target=&#34;_blank&#34;&gt;HTML Custom Elements&lt;/a&gt;, &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Web_Components/HTML_Imports&#34; title=&#34;HTML Imports&#34; target=&#34;_blank&#34;&gt;HTML Imports&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/HTTP/2&#34; title=&#34;HTTP/2&#34; target=&#34;_blank&#34;&gt;HTTP/2&lt;/a&gt; and &lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/API/Service_Worker_API&#34; title=&#34;Service Worker API&#34; target=&#34;_blank&#34;&gt;Service Workers&lt;/a&gt;. Leider werden diese nur zum Teil von den heute im Umlauf befindlichen Browsern unterstützt. Aber alle Browser-Hersteller arbeiten daran, so dass man in ein-zwei Jahren auf eine breitere Unterstützung bauen kann. In der Zwischenzeit kann man aber einige Ideen mit Polyfills oder anderen Frameworks umsetzen.&lt;/p&gt;
+
+&lt;p&gt;Jedenfalls würde damit ein großes Problem der meisten aktuellen Webseiten gelöst, die beim ersten Laden alle benötigten CSS-Stile und JavaScript-Framework-Dateien laden müssen. Bei mwellner.de sind das immerhin 2&amp;thinsp;MB JavaScript und 600&amp;thinsp;kB CSS. Und davon wird ganz sicher nicht alle benötigt, um die Startseite darzustellen. Mit einer wirklich gut gelösten Komponentenstruktur würden anfangs nur die Resourcen geladen, die für die Darstellung unbedingt gebraucht werden. Und eines Tages wird dann auch diese Homepage deutlich schneller werden und in ungeahnte Ranking-Höhen aufsteigen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flash ist tot, lang lebe Flash</title>
+      <link>http://www.mwellner.de/2015/12/flash-ist-tot-lang-lebe-flash/</link>
+      <pubDate>Thu, 03 Dec 2015 22:21:35 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2015/12/flash-ist-tot-lang-lebe-flash/</guid>
+      <description>&lt;p&gt;Totgesagte leben länger, so kann man das aktuell wieder angekündigte Ende von Flash interpretieren (siehe ZEIT-Artikel &lt;a href=&#34;http://www.zeit.de/digital/internet/2015-12/flash-player-adobe-tot-animate-cc&#34; title=&#34;Oh mein Gott, sie haben Flash getötet&#34; target=&#34;_blank&#34;&gt;Oh mein Gott, sie haben Flash getötet&lt;/a&gt;). Aber ganz so einfach ist es nicht, bedeutet doch das Umstellen auf &lt;a href=&#34;https://de.wikipedia.org/wiki/HTML5&#34; title=&#34;HTML5&#34; target=&#34;_blank&#34;&gt;HTML5&lt;/a&gt; oder &lt;a href=&#34;https://de.wikipedia.org/wiki/WebGL&#34; title=&#34;WebGL&#34; target=&#34;_blank&#34;&gt;WebGL&lt;/a&gt; eine Menge Arbeit. Und so wird sich der Abschied vom ungeliebten Flash wohl noch ein Weilchen hinziehen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WordPress and og:image</title>
+      <link>http://www.mwellner.de/2015/10/wordpress-and-ogimage/</link>
+      <pubDate>Sat, 24 Oct 2015 11:50:25 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2015/10/wordpress-and-ogimage/</guid>
+      <description>
+
+&lt;h3 id=&#34;the-problem&#34;&gt;The Problem&lt;/h3&gt;
+
+&lt;p&gt;My WordPress-powered blog automatically posts new articles to Facebook. However, the article image was somehow lost on the way, leading to rather unattractive Facebook posts.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_6319&#34; style=&#34;width: 524px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z.png&#34; alt=&#34;Automatic facebook post without wordpress article image&#34; width=&#34;514&#34; height=&#34;245&#34; class=&#34;size-full wp-image-6319&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z.png 514w, http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z-350x167.png 350w, http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z-250x119.png 250w, http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z-150x71.png 150w&#34; sizes=&#34;(max-width: 514px) 100vw, 514px&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Automatic facebook post with missing wordpress article image
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;digging-into-the-issue&#34;&gt;Digging Into the Issue&lt;/h3&gt;
+
+&lt;p&gt;It turned out that the problem was a wrong, relative image URL in the og:image meta tag (&lt;a href=&#34;http://davidwalsh.name/facebook-meta-tags&#34; title=&#34;Facebook Open Graph META Tags&#34; target=&#34;_blank&#34;&gt;more on Facebook Open Graph META Tags&lt;/a&gt;). When sharing a post, Facebook uses these tags to create the post. And since the image was defined with a relative path, it was simply skipped.&lt;/p&gt;
+
+&lt;p&gt;But why does WordPress use a relative image URL?&lt;/p&gt;
+
+&lt;p&gt;Out set-up is a multi-user WordPress installation on Linux. We used the settings _$upload&lt;em&gt;path&lt;/em&gt; and &lt;em&gt;$upload_url_path&lt;/em&gt; in the user-specific settings to specify the location of the WordPress &lt;em&gt;uploads&lt;/em&gt; folder. And there is one WordPress setting (complete path to files), that must match the $upload_url_path, located in the WordPress admin panel at settings\media. I changed that setting to contain the server URL and everything should be fine now.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neues Erscheinungsbild und neue Schriftart</title>
+      <link>http://www.mwellner.de/2015/03/neues-erscheinungsbild-und-neue-schriftart/</link>
+      <pubDate>Sun, 22 Mar 2015 19:44:43 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2015/03/neues-erscheinungsbild-und-neue-schriftart/</guid>
+      <description>&lt;p&gt;Ich habe das Aussehen meiner Webseite verändert, ich verwende jetzt das &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress Thema&lt;/a&gt;. Mein Ziel war es, ein anderes Thema als &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt; zu nehmen, denn das haben wir auch auf der Seite unserer Theatergruppe &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt;. Grundsätzlich sind beide Themen ähnlich, vor allem von den Einstellmöglichkeiten, jedoch sieht es schon ein wenig anders aus.&lt;/p&gt;
+
+&lt;p&gt;Was ich richtig gut fand, war die Einbindung eines CSS-Präprozessors, in diesem Fall &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less&lt;/a&gt; für selbst erstelltes CSS. Mir waren die Tabellen-Stile zu großzügig bemessen, meine lange &lt;a href=&#34;http://www.mwellner.de/schauspiel/&#34; title=&#34;Schauspiel/​Regie&#34;&gt;Liste von Theaterproduktionen&lt;/a&gt; sah nicht wirklich gut aus.&lt;/p&gt;
+
+&lt;p&gt;Außerdem habe ich die Schriftart angepasst. Nachdem ich am letzten Donnerstag das Vergnügen hatte, Erik Spiekermann auf der &lt;a href=&#34;http://2015.uxmunich.com/&#34; title=&#34;UX Munich&#34; target=&#34;_blank&#34;&gt;UX Munich&lt;/a&gt; zu erleben, verwende ich jetzt die von ihm entwickelte &lt;a href=&#34;https://en.wikipedia.org/wiki/Fira_Sans&#34; title=&#34;Fira Sans&#34; target=&#34;_blank&#34;&gt;Fira Sans&lt;/a&gt;. Diese Schriftart wurde für Bildschirme und tragbare Geräte entwickelt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Theme and Font</title>
+      <link>http://www.mwellner.de/2015/03/new-theme-and-font/</link>
+      <pubDate>Sun, 22 Mar 2015 19:36:45 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2015/03/new-theme-and-font/</guid>
+      <description>&lt;p&gt;I have changed the appearance of my web site, giving the &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress theme&lt;/a&gt; a chance. My goal was to get away from &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt;, since we use that on &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt; as well. The elements are roughly the same, but the look is slightly different.&lt;/p&gt;
+
+&lt;p&gt;One thing I noted with great delight &amp;ndash; you can use the &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less pre-processor&lt;/a&gt; when typing in your custom CSS. What I actually changed were table styles, they had defined quite large paddings, making my acting overview page look strange.&lt;/p&gt;
+
+&lt;p&gt;What I also changed was the default font. After hearing Erik Spiekermann on &lt;a href=&#34;http://2015.uxmunich.com/&#34; title=&#34;UX Munich&#34; target=&#34;_blank&#34;&gt;UX Munich&lt;/a&gt;, I am now giving &lt;a href=&#34;https://en.wikipedia.org/wiki/Fira_Sans&#34; title=&#34;Fira Sans&#34; target=&#34;_blank&#34;&gt;Fira Sans&lt;/a&gt; a try. It was developed to look good on screen and hand-held devices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UX Munich – Conference Notes</title>
+      <link>http://www.mwellner.de/2015/03/ux-munich--conference-notes/</link>
+      <pubDate>Fri, 20 Mar 2015 22:10:23 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2015/03/ux-munich--conference-notes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Conference&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The conference location was a beautiful building in walking distance of Munich main station, the &lt;a href=&#34;http://www.kuenstlerhaus-muc.de/&#34; title=&#34;Münchner Künstlerhaus&#34; target=&#34;_blank&#34;&gt;Künstlerhaus&lt;/a&gt;. It is an old building and has style, and as such is a perfect meeting venue for UX enthusiasts.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://2015.uxmunich.com/&#34; title=&#34;UX Munich&#34; target=&#34;_blank&#34;&gt;UX Munich&lt;/a&gt; is intended for &amp;#8220;designers and developers, who build great user experiences – together&amp;#8221;. That sounded appealing to me, as I have experienced countless discussions about user experience and see this as an interdisciplinary topic. And I have also developed some new components for &lt;a href=&#34;http://comparis.ch&#34; title=&#34;comparis.ch&#34; target=&#34;_blank&#34;&gt;comparis.ch&lt;/a&gt; and embrace all efforts towards more intuitive user interfaces, although that means a lot of work.&lt;/p&gt;
+
+&lt;p&gt;My intention in going to this conference was to get an idea what&amp;#8217;s going on in the scene and understand basic principles and methods. Important questions for me are&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;How do users perceive and interpret web sites?&lt;/li&gt;
+&lt;li&gt;What are best practices to make web sites user-friendly?&lt;/li&gt;
+&lt;li&gt;What are current technologies to enhance usability?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://felixniklas.de/&#34; title=&#34;Felix Niklas&#34; target=&#34;_blank&#34;&gt;Felix Niklas&lt;/a&gt; – The Web is Amazing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Felix is a playful developer, using web technologies to implement several kinds of applications.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mrflix/paperfold&#34; title=&#34;paperfold.js&#34; target=&#34;_blank&#34;&gt;paperfold.js&lt;/a&gt; &amp;ndash; JavaScript library to include paper folding effect for a section&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mrflix/dimensions&#34; title=&#34;dimensions&#34; target=&#34;_blank&#34;&gt;dimensions&lt;/a&gt; &amp;ndash; Chrome plugin to show pixel dimensions of site elements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;kurzgesagt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The two guys from &lt;a href=&#34;http://kurzgesagt.org/&#34; title=&#34;kurzgesagt&#34; target=&#34;_blank&#34;&gt;kurzgesagt&lt;/a&gt; introduced their company, which has the main focus of creating animated videos to explain scientific topics. And they put that on YouTube for free. One example was &lt;em&gt;What is life?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To fund these videos, about 50% of their time goes into commercial projects. The workflow to get such a video is quite elaborate. A lot of time goes into research of topics, leading to a first version of the script. After several iterations, cutting out everything not strictly needed, they start to animate, compose the music and have a professional speaker do the voice work. Overall, 250 hours of work go into a video of five minutes, excluding research.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tiffany Conroy &amp;ndash; User Capabilities&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tiffany (&lt;a href=&#34;https://twitter.com/theophani&#34; title=&#34;@theophany&#34; target=&#34;_blank&#34;&gt;@theophani&lt;/a&gt;) works at &lt;a href=&#34;https://soundcloud.com/&#34; title=&#34;SoundCloud&#34; target=&#34;_blank&#34;&gt;SoundCloud&lt;/a&gt;, a platform to release, share and distribute music. The topic user capabilities was a rather technical one, how do you manage user permissions in a rapidly-growing system? They started with certain features only available to pro users. In addition, they had new experimental features, and later on podcast partners who should also have access to certain pro features.&lt;/p&gt;
+
+&lt;p&gt;The two basic concepts are &lt;a href=&#34;https://en.wikipedia.org/wiki/Access_control_list&#34; title=&#34;Access control list&#34; target=&#34;_blank&#34;&gt;access control lists&lt;/a&gt; (ACL) and &lt;a href=&#34;https://en.wikipedia.org/wiki/Role-based_access_control&#34; title=&#34;Role-based access control&#34; target=&#34;_blank&#34;&gt;role-based access control&lt;/a&gt; (RBAC). I got in contact with ACL when developing an in-house time reporting system with &lt;a href=&#34;http://cakephp.org/&#34; title=&#34;CakePHP&#34; target=&#34;_blank&#34;&gt;CakePHP&lt;/a&gt;. And I could perfectly understand Tiffanys argument, that this approach gets confusing and difficult to maintain quickly. She advocated the RBAC approach, that users have capabilities (like seeing an order or create an account). Based on that approach, the server must enforce it and the client reflect it (visibility), with an API that allows this kind of question, e.g can the current user see orders?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A user interface is like a joke. If you have to explain it, it&amp;#8217;s not that good.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Erik_Spiekermann&#34; title=&#34;Erik Spiekermann&#34; target=&#34;_blank&#34;&gt;Erik Spiekerman&lt;/a&gt; &amp;ndash; Life is in beta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With his 67 years, numerous typefaces and prices, Erik was surely the speaker with the highest profile on the conference. His talk was politically incorrect and entertaining. He started with the casual remark that &lt;a href=&#34;http://en.wikipedia.org/wiki/Flat_design&#34; title=&#34;Flat design&#34; target=&#34;_blank&#34;&gt;flat design&lt;/a&gt; was nothing new, he had always done that for print.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We don&amp;#8217;t do what clients tell, until we know what they need.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.rachelilansimpson.com/&#34; title=&#34;Rachel Ilan, Design&#34; target=&#34;_blank&#34;&gt;Rachel Simpson&lt;/a&gt; &amp;ndash; Unboxing UX&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Rachel is an interaction designer and works for Google in Munich. She brought in the idea that UX is a shared vision between design and engineering. And to make prototyping more easily accessible, she recommended the &lt;a href=&#34;https://popapp.in/&#34; title=&#34;Prototyping On Paper&#34; target=&#34;_blank&#34;&gt;Prototyping On Paper&lt;/a&gt; (POP) app, which is free.&lt;/p&gt;
+
+&lt;p&gt;When users enter a site, they ask these questions in this order.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What ist this?&lt;/li&gt;
+&lt;li&gt;Do I trust you?&lt;/li&gt;
+&lt;li&gt;What are you offering me?&lt;/li&gt;
+&lt;li&gt;How do I get it?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.bramstein.com/&#34; title=&#34;Bram Stein&#34; target=&#34;_blank&#34;&gt;Bram Stein&lt;/a&gt; &amp;ndash; The Consequences of Web Fonts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With the introduction of &lt;a href=&#34;https://en.wikipedia.org/wiki/Web_typography#Web_fonts&#34; title=&#34;Web fonts&#34; target=&#34;_blank&#34;&gt;web fonts&lt;/a&gt;, you can determine exactly which font is used on your site. But that gives rise to some issues. It takes some time until your custom font is loaded, what do you do in this time?&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Wait until the font is loaded (flash of invisible text)&lt;/li&gt;
+&lt;li&gt;Display the text with the default font and switch to the font once it is loaded (flash of unstyled text)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For a fast connection, the first option seems right, but if you consider slower connection speeds on mobile devices, you may prefer the second option. Otherwise it can take quite some time until the user sees content that is already there. Unfortunately, most browsers have a different default. And although there is a css property proposition to define this particular behaviour (&lt;a href=&#34;https://github.com/KenjiBaheux/css-font-rendering&#34; title=&#34;CSS font rendering&#34; target=&#34;_blank&#34;&gt;font-rendering&lt;/a&gt;), it is not implemented yet. But Bram has developed a JavaScript library which toggles classes and can be used as a work-around, which is now available in the &lt;a href=&#34;https://github.com/typekit/webfontloader&#34; title=&#34;WebFontLoader&#34; target=&#34;_blank&#34;&gt;webfontloader library&lt;/a&gt;. So you can use this library in combination with carefully selected fallback fonts, matched for their x-height. In this case, the flash is not as severe as initially. To know which fonts are available on which platform, you can use &lt;a href=&#34;http://fontfamily.io&#34; title=&#34;FontFamily&#34; target=&#34;_blank&#34;&gt;fontfamily.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I enjoyed the two days very much, but I missed some talks from a more scientific perspective. Perception psychology surely has interesting insights to offer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuer PGP-Schlüssel</title>
+      <link>http://www.mwellner.de/2014/04/neuer-pgp-schl%C3%BCssel/</link>
+      <pubDate>Sun, 06 Apr 2014 12:18:01 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2014/04/neuer-pgp-schl%C3%BCssel/</guid>
+      <description>&lt;p&gt;Es ist an der Zeit, meinen alten PGP-Schlüssel zu ersetzen, der mit einer Länge von 1024 Bit nicht mehr als sicher gelten kann. Der neue ist vom Typ RSA und hat eine Länge von 4096, damit sollte ich bis ins Jahr 2020 sicher sein.&lt;/p&gt;
+
+&lt;p&gt;Wer also wirklich etwas tun will gegen das alltägliche Ausspionieren, ist herzlich eingeladen, ebenfalls PGP zu nutzen. Importiert einfach meinen &lt;a href=&#34;http://www.mwellner.de/mathiaswellner.asc&#34;&gt;öffentlichen Schlüssel&lt;/a&gt;, dann könnt ihr Nachrichten an mich verschlüsseln.&lt;/p&gt;
+
+&lt;p&gt;Windows-Nutzer installieren am einfachsten &lt;a href=&#34;http://www.gpg4win.org/index-de.html&#34;&gt;GPG4Win&lt;/a&gt;, für Linux gibt es das Paket &lt;a href=&#34;http://www.gnupg.org/&#34;&gt;GnuPG&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jahresrückblick Weblog</title>
+      <link>http://www.mwellner.de/2014/01/jahresr%C3%BCckblick-weblog/</link>
+      <pubDate>Wed, 01 Jan 2014 22:27:08 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2014/01/jahresr%C3%BCckblick-weblog/</guid>
+      <description>&lt;p&gt;WordPress hat einen &lt;a href=&#34;http://jetpack.me/annual-report/9056871/2013/&#34;&gt;schönen Rückblick&lt;/a&gt; erstellt. Mein Weblog hatte 2013 30.000 Besucher!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Start bei comparis.ch</title>
+      <link>http://www.mwellner.de/2013/10/start-bei-comparis.ch/</link>
+      <pubDate>Fri, 04 Oct 2013 20:37:08 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2013/10/start-bei-comparis.ch/</guid>
+      <description>&lt;p&gt;Die ersten Tage bei &lt;a href=&#34;http://www.comparis.ch&#34;&gt;comparis.ch&lt;/a&gt; sind vorüber. Bei Comparis können Verbraucher zum Beispiel Versicherungen vergleichen oder nach Immobilien und Fahrzeugen suchen. Die Entscheidung liegt natürlich beim Verbraucher, Comparis stellt unabhängig und neutral die Daten zur Entscheidungsfindung zur Verfügung.&lt;/p&gt;
+
+&lt;p&gt;Ich bin jetzt im Software-Architektur-Team dabei. Wir unterstützen die anderen Entwickler bei Architekturfragen und entwickeln bestimmte systemweite Komponenten auch selbst. Aber zur Zeit bin ich noch am Einarbeiten und kann anderen nicht wirklich helfen. Technologisch habe ich jetzt zu tun mit&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/visualstudio&#34;&gt;Visual Studio&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/vstudio/ff637362.aspx&#34;&gt;Team Foundation Server&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.asp.net/&#34;&gt;ASP.NET&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.asp.net/mvc/mvc3&#34;&gt;MVC&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34;&gt;HTML&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Css&#34;&gt;CSS&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jquery.com/&#34;&gt;jQuery&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt; und&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Microsoft_SQL_Server&#34;&gt;MS SQL&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ich bin also weg von der Robotik und vollständig in der Webentwicklung gelandet. Das erste Projekt wird sich dann auch gleich mit der Standardisierung von Bedienungselementen befassen. Einige Bereiche der Seite sind schon für Tablets optimiert, langfristig soll dies natürlich überall der Fall sein.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rückblick 2012</title>
+      <link>http://www.mwellner.de/2012/12/r%C3%BCckblick-2012/</link>
+      <pubDate>Mon, 31 Dec 2012 17:09:29 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2012/12/r%C3%BCckblick-2012/</guid>
+      <description>&lt;p&gt;Passend zum Jahresende möchte ich noch einige Zahlen zu meinem Weblog veröffentlichen. Insgesamt gibt es im Vergleich zum Vorjahr ein deutliches Plus. Hatte ich 2010 und 2011 jeweils rund 21.000 Besucher, waren es in diesem Jahr knapp 28.000. Das entspricht einem Schnitt von 76 Besuchen pro Tag für das Jahr 2012. Erfolgreichster Monat ist jetzt der November 2012 mit 2.876 Besuchern (durchschnittlich 96 pro Tag).&lt;/p&gt;
+
+&lt;p&gt;Die erfolgreichsten Artikel sind wieder die technischen über LaTeX. Derartige Dinge werden auch bevorzugt online gesucht. Die Theater-Themen schlagen sich aber auch gut, besonders erfolgreich sind bekannte Stücknamen und allgemeine Texte.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Artikel&lt;/th&gt;
+&lt;th&gt;Besuche&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2009/05/11/a-latex-template-for-my-dissertation/?lang=en&#34;&gt;A LaTeX template for my dissertation&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2.167&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2005/03/28/latex-arger-ein-punkt-zuviel/&#34;&gt;LaTeX-​​Ärger, ein Punkt zuviel&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1.174&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2007/06/28/ieee-pdf-express/&#34;&gt;IEEE pdf express&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1.151&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2010/04/15/implementing-simple-ajax-showhide-effects-with-cakephp/?lang=en&#34;&gt;Implementing simple ajax show/​hide effects with cakePHP&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;777&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2011/01/30/macbeth-shakespeare/&#34;&gt;William Shakespeare – Macbeth&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;538&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2006/11/23/latex-template-fuer-diplomarbeit/&#34;&gt;LaTeX-​​Template für Diplomarbeit&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;431&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2010/02/05/tennessee-williams-orpheus-steigt-herab/&#34;&gt;Tennessee Williams &amp;ndash; Orpheus steigt herab&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;391&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2009/02/23/spaziergang-durch-dresden/&#34;&gt;Spaziergang durch Dresden&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;373&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2010/03/07/sprache-im-theater/&#34;&gt;Sprache im Theater&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;365&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2011/08/23/die-heldenreise-als-grundmuster-von-erzahlungen/&#34;&gt;Die Heldenreise als Grundmuster von Erzählungen&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;338&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2008/12/22/tom-stoppard-arkadien-arcadia/&#34;&gt;Tom Stoppard – Arkadien (Arcadia im Orginal)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;333&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.mwellner.de/2009/06/17/freude-am-schauspiel-ein-credo/&#34;&gt;Freude am Schauspiel – ein Credo&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;311&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Implementing simple ajax show/hide effects with cakePHP</title>
+      <link>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</link>
+      <pubDate>Thu, 15 Apr 2010 09:56:52 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</guid>
+      <description>&lt;p&gt;There are quite some tutorials on ajax effects out there [1, 2], but most were too complex for my needs. I simply wanted an enhanced index page for projects, which shows some details for each project and more on demand with a sliding effect. So here is what my solution looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Basics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I used cakePHP 1.3 RC3. I assume that you have a running cakePHP application with an index view of your main objects of concern. You also need to download the &lt;a href=&#34;http://www.prototypejs.org/&#34;&gt;prototype&lt;/a&gt; and &lt;a href=&#34;http://script.aculo.us/&#34;&gt;scriptaculous&lt;/a&gt; scripts and put all js-files into your /app/webroot/js folder.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activating ajax&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In your default layout, you have to include the links to the prototype and scriptaculous scripts in the head section of the template.&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;php&#34;&gt;&amp;lt;!-- file app/views/layout/default.ctp --&amp;gt;
+&amp;lt;head&amp;gt;
+    &amp;lt;!-- existing head settings --&amp;gt;
+    &amp;lt;?php
+    echo $javascript-&gt;link(&#39;prototype&#39;);
+    echo $javascript-&gt;link(&#39;scriptaculous.js?load=effects&#39;);
+    ?&amp;gt;
+&amp;lt;/head&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;You also need to activate the AJAX and Javascript helpers in the controller where you want to use it. I prefered to update the app controller, which enables the helpers for all controllers. Your app controller (usually at app/app_controller.php, create if necessary) should include the ajax and javascript helpers like this:&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;php&#34;&gt;&amp;lt;!-- file app/app_controller.php --&amp;gt;
+&amp;lt;?php
+class AppController extends Controller {
+    var $helpers = array(&#39;Html&#39;, &#39;Form&#39;, &#39;Ajax&#39;, &#39;Javascript&#39;);
+}
+?&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;In your view&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In your view you can now include id-marked divs and ajax links to control the visibility of these divs. Assuming that your model is named Project, you need to update your index view at /app/views/project/index.ctp. I use two table rows for that. The first row contains the project name, the ajax links for showing/hiding details, and the actions. The second row is invisible at first (display:none) and contains the div which is controlled by the ajax links. To my knowledge it is not possible to hide/show entire table rows, therefore the second row is rendered empty at first. But it looks quite nice with the default alternate background color for table rows.&lt;/p&gt;
+
+&lt;p&gt;The real trick here was to leave the second argument for the ajax link empty, linking to the same page. All other examples had links to sub pages implemented there what seemed too complex for my wishes. Of course, this implementation means that the entire content is loaded every time. For huge amounts of data this could be a performance issue.&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;php&#34;&gt;&amp;lt;!-- file app/views/project/index.ctp --&amp;gt;
+&amp;lt;table cellpadding=&#34;0&#34; cellspacing=&#34;0&#34;&amp;gt;
+&amp;lt;tr&amp;gt;
+    &amp;lt;th&gt;&amp;lt;?php echo $paginator-&gt;sort(&#39;name&#39;);?&gt;&amp;lt;/th&amp;gt;
+    &amp;lt;th class=&#34;actions&#34;&amp;gt;&amp;lt;?php __(&#39;Actions&#39;);?&gt;&amp;lt;/th&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;?php
+$i = 0;
+foreach ($projects as $project):
+    $id = $project[&#39;Project&#39;][&#39;id&#39;];
+    $i++;
+?&amp;gt;
+&amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;
+    &amp;lt;?php echo $project[&#39;Project&#39;][&#39;name&#39;];?&amp;gt;
+        &amp;lt;?php 
+        // define string for div id
+        $div_string = &#39;project_fold_&#39;.$i;
+
+    // create ajax link which shows project details
+    echo $ajax-&gt;link(
+        &#39;show details&#39;,
+        &#39;&#39;, 
+        array( 
+        &#39;update&#39; =&gt; $div_string, 
+        &#39;loading&#39; =&gt; &#39;Effect.Appear(\&#39;&#39;.$div_string.&#39;\&#39;)&#39;,
+        )
+    );
+
+    // create ajax link which hides project details
+    echo $ajax-&gt;link(
+        &#39;hide details&#39;,
+        &#39;&#39;, 
+        array( 
+        &#39;update&#39; =&gt; $div_string, 
+        &#39;loading&#39; =&gt; &#39;Effect.Fade(\&#39;&#39;.$div_string.&#39;\&#39;)&#39;,
+        )
+    );
+    ?&amp;gt;
+    &amp;lt;/td&amp;gt;
+    &amp;lt;td class=&#34;actions&#34;&amp;gt;
+    &amp;lt;?php echo $html-&gt;link(__(&#39;View&#39;, true), array(&#39;action&#39;=&gt;&#39;view&#39;, $id));?&amp;gt;
+    &amp;lt;?php echo $html-&gt;link(__(&#39;Edit&#39;, true), array(&#39;action&#39;=&gt;&#39;edit&#39;, $id));?&amp;gt;
+    &amp;lt;?php echo $html-&gt;link(
+            __(&#39;Delete&#39;, true), 
+            array( &#39;action&#39;=&gt;&#39;delete&#39;, $id), 
+            null, 
+            sprintf(__(&#39;Are you sure you want to delete # %s?&#39;, true), $id));
+        ?&amp;gt;
+    &amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+
+&amp;lt;tr&amp;gt;
+    &amp;lt;td colspan=&#34;2&#34;&amp;gt;
+    &amp;lt;!-- display div which can be shown/hidden by ajax links --&amp;gt;
+    &amp;lt;?php echo $ajax-&gt;div($div_string, array(&#39;style&#39; =&gt; &#39;display:none&#39;)); ?&amp;gt;
+
+    &amp;lt;!-- project details --&amp;gt;
+    &amp;lt;h3&amp;gt;&amp;lt;?php echo __(&#39;Project details&#39;);?&amp;gt;&amp;lt;/h3&amp;gt;
+    &amp;lt;dl&amp;gt;
+        &amp;lt;dt&amp;gt;&amp;lt;?php echo __(&#39;Description&#39;);?&amp;gt;&amp;lt;/dt&amp;gt;
+        &amp;lt;dd&amp;gt;&amp;lt;?php echo $project[&#39;Project&#39;][&#39;description&#39;];?&amp;gt;&amp;lt;/dd&amp;gt;
+        &amp;lt;dt&amp;gt;&amp;lt;?php echo __(&#39;Budget&#39;);?&amp;gt;&amp;lt;/dt&amp;gt;
+        &amp;lt;dd&amp;gt;&amp;lt;?php printf(&#34;%.2f&amp;thinsp;kCHF&#34;, $project[&#39;Project&#39;][&#39;budget&#39;]);?&amp;gt;&amp;lt;/dd&amp;gt;
+    &amp;lt;/dl&amp;gt;
+
+    &amp;lt;?php echo $ajax-&gt;divEnd($div_string); ?&amp;gt;
+    &amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;?php endforeach; ?&amp;gt;
+&amp;lt;/table&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;If you want to go one step further, you can try to show/hide the ajax links as well. At first, only &lt;em&gt;show details&lt;/em&gt; is visible. When details are visible, only &lt;em&gt;hide details&lt;/em&gt; can be seen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1] &lt;a href=&#34;http://www.reversefolds.com/articles/show/ajax&#34;&gt;AJAX cakePHP&lt;/a&gt;, ReverseFolds&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistik</title>
+      <link>http://www.mwellner.de/2007/12/statistik/</link>
+      <pubDate>Sun, 02 Dec 2007 13:46:37 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2007/12/statistik/</guid>
+      <description>&lt;p&gt;Mit großer Freude kann ich verkünden, dass mein Weblog seit Juli 2007 das meistbesuchte von allen unter &lt;a href=&#34;http://blogs.ethz.ch&#34;&gt;blogs.ethz.ch&lt;/a&gt; verzeichneten ist.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Monat&lt;/th&gt;
+&lt;th&gt;Zugriffe&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Jul 2007&lt;/td&gt;
+&lt;td&gt;13954&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Aug 2007&lt;/td&gt;
+&lt;td&gt;19055&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Sep 2007&lt;/td&gt;
+&lt;td&gt;19280&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Okt 2007&lt;/td&gt;
+&lt;td&gt;17917&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nov 2007&lt;/td&gt;
+&lt;td&gt;34289&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Allen treuen Lesern herzlichen Dank!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simply the Best</title>
+      <link>http://www.mwellner.de/2007/07/simply-the-best/</link>
+      <pubDate>Tue, 10 Jul 2007 23:24:47 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2007/07/simply-the-best/</guid>
+      <description>&lt;p&gt;Schaut mal auf &lt;a href=&#34;http://blogs.ethz.ch&#34;&gt;blogs.ethz.ch&lt;/a&gt;, das ist das Portal zu allen an der ETH geführten Weblogs. Rechts gibt es zum Einen die &lt;strong&gt;aktivsten Blogs&lt;/strong&gt; und auch eine &lt;strong&gt;Zugriffs-Statistik pro Weblog&lt;/strong&gt;. 🙂&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

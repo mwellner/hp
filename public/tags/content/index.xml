@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/content/index.xml</link>
+    <description>Recent content in Content on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/content/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ten Reasons to Typeset Scientific Texts in LaTeX</title>
+      <link>http://www.mwellner.de/2008/12/ten-reasons-to-typeset-scientific-texts-in-latex/</link>
+      <pubDate>Mon, 15 Dec 2008 22:44:15 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/12/ten-reasons-to-typeset-scientific-texts-in-latex/</guid>
+      <description>&lt;p&gt;Whenever you write a report in a scientific environment, a Master thesis, a journal publication, or a dissertation, you have the choice which text editing tool to use. It comes usually down to Word vs. LaTeX. I will now argue why you should use LaTeX.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Focus on content, not layout.&lt;/strong&gt; When editing your LaTeX document with the editing program of your choice you can focus on the content. You need to provide some logical markup (this is a section, this is a reference citation), but that is easy to learn. Most Word users tend to focus on layout instead of content and structure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Free.&lt;/strong&gt; LaTeX is completely free. Just download it and use it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No crashes.&lt;/strong&gt; Increasing page numbers and complexity sometimes leads to Word documents that crash and can not be reopened. Imagine this happening one day before you have to submit your thesis!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reproducible results.&lt;/strong&gt; When using more advanced features like automatic table of contents, internal references, or automatic managing of bibliographies, Word tends to do changes at unforeseen times, destroying the reformatting work of hours. This will not happen with LaTeX, if you got it to do something it will not change back.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Better look.&lt;/strong&gt; There are a lot of rules how to create documents that look good. It&amp;#8217;s about margins, aspect ratios of text columns, connecting certain letters and many other things experienced typesetters know. And LaTeX will use these rules, if you let it! So the results just look far better than those created with Word.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Better layout of equations.&lt;/strong&gt; Same as above goes for mathematical equations. They just look better. Try this in Word: &lt;div id=&#34;attachment_1854&#34; style=&#34;width: 186px&#34; class=&#34;wp-caption alignnone&#34;&gt;
+  &lt;a href=&#34;http://www.mwellner.de/wp-content/uploads/2009/09/formel.png&#34;&gt;&lt;img src=&#34;http://www.mwellner.de/wp-content/uploads/2009/09/formel.png&#34; alt=&#34;Mathematische Formel, gesetzt mit LaTeX&#34; title=&#34;Mathematische Formel&#34; width=&#34;176&#34; height=&#34;50&#34; class=&#34;size-full wp-image-1854&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p class=&#34;wp-caption-text&#34;&gt;
+    Mathematische Formel, gesetzt mit LaTeX
+  &lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Floating environments.&lt;/strong&gt; In LaTeX, you can provide figures or tables and let the system decide where exactly to put them. So there are no empty areas when you add a sentence on a page with an image.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Units.&lt;/strong&gt; When you need to report a measure with a unit, you may either write 9.2m or 9.2 m, both looks strange. The solution is an unbreakable half space, like 9.2&amp;thinsp;m. And the LaTeX package units provides an easy command for that and does the typesetting for you.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Reference management.&lt;/strong&gt; As a scientist you read lots of papers which you may want to use in your scientific text. I used also once a Word-Endnote combination, but was not satisfied at all. It was impossible to change the location of the references list, since Word would redo my brave attempts to push it to a different space and looking for references needed a lot of clicks. In contrast, LaTeX comes with BibTeX, where you give a key to each reference and can easily cite it with that key. You can also change the way you want to cite, from numbers like [3] to Author names like (Rondel and McDouglas, 1992).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Packages for all kinds of special problems.&lt;/strong&gt; There is a multitude of free packages which solve all kind of problems. Want nicer figure captions? Need to typeset chemical formula? Want to cite in APA style? No problem, there are packages around for that.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

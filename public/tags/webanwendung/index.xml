@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webanwendung on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/webanwendung/index.xml</link>
+    <description>Recent content in Webanwendung on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/webanwendung/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Model-View-Controller-Architektur</title>
+      <link>http://www.mwellner.de/2010/04/model-view-controller-architektur/</link>
+      <pubDate>Thu, 08 Apr 2010 09:27:54 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2010/04/model-view-controller-architektur/</guid>
+      <description>&lt;p&gt;MVC ist ein Begriff, der bei Webanwendungen mit Datenbank-Zugriff häufig auftaucht. Derzeit arbeite ich mit mit dem MVC-orientierten &lt;a href=&#34;http://cakephp.org/&#34;&gt;cakePHP&lt;/a&gt;, um eine interne ERP-Lösung zu entwickeln. Jedoch enthält die Webseite eines anderen Entwicklungssystems eine schön geschriebene und sehr anschauliche Beschreibung des MVC-Konzepts (overview [Kohana User Guide]). Anhand des Beispiels einer Bank werden die grundlegenden Eigenschaften dieser Architektur beschrieben und Regeln für die Gestaltung formuliert. Meine derzeitige ERP-Beispiel-Lösung bedarf definitiv einer Überarbeitung&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

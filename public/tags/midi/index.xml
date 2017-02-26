@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Midi on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/midi/index.xml</link>
+    <description>Recent content in Midi on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/midi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sound Feedback Using MIDI</title>
+      <link>http://www.mwellner.de/2006/02/sound-feedback-using-midi/</link>
+      <pubDate>Fri, 24 Feb 2006 21:26:40 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2006/02/sound-feedback-using-midi/</guid>
+      <description>&lt;p&gt;One of my subjects is developing a sound feedback system for patients undergoing gait rehabilitation in the Lokomat. The last weeks I spent trying to program something with C++, swaying between MFC and &amp;ldquo;normal&amp;rdquo; form applications. My search for existing examples was difficult, because many people just put something in the net to play an existing MIDI file. But my task was more like creating a life stream and playing it. The first version uses very basic MIDI functions and plays a repeating pattern. The goal parameter (difference between hip and knee angle) then is transferred into more or less consonant chords. But I still have to test this principle with some people.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

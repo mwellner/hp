@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/science/index.xml</link>
+    <description>Recent content in Science on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ten Reasons to Typeset Scientific Texts in LaTeX</title>
+      <link>http://www.mwellner.de/2008/12/ten-reasons-to-typeset-scientific-texts-in-latex/</link>
+      <pubDate>Mon, 15 Dec 2008 22:44:15 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/12/ten-reasons-to-typeset-scientific-texts-in-latex/</guid>
+      <description>&lt;p&gt;Whenever you write a report in a scientific environment, a Master thesis, a journal publication, or a dissertation, you have the choice which text editing tool to use. It comes usually down to Word vs. LaTeX. I will now argue why you should use LaTeX.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Focus on content, not layout.&lt;/strong&gt; When editing your LaTeX document with the editing program of your choice you can focus on the content. You need to provide some logical markup (this is a section, this is a reference citation), but that is easy to learn. Most Word users tend to focus on layout instead of content and structure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Free.&lt;/strong&gt; LaTeX is completely free. Just download it and use it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No crashes.&lt;/strong&gt; Increasing page numbers and complexity sometimes leads to Word documents that crash and can not be reopened. Imagine this happening one day before you have to submit your thesis!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reproducible results.&lt;/strong&gt; When using more advanced features like automatic table of contents, internal references, or automatic managing of bibliographies, Word tends to do changes at unforeseen times, destroying the reformatting work of hours. This will not happen with LaTeX, if you got it to do something it will not change back.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Better look.&lt;/strong&gt; There are a lot of rules how to create documents that look good. It&amp;#8217;s about margins, aspect ratios of text columns, connecting certain letters and many other things experienced typesetters know. And LaTeX will use these rules, if you let it! So the results just look far better than those created with Word.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Better layout of equations.&lt;/strong&gt; Same as above goes for mathematical equations. They just look better. Try this in Word: &lt;div id=&#34;attachment_1854&#34; style=&#34;width: 186px&#34; class=&#34;wp-caption alignnone&#34;&gt;
+  &lt;a href=&#34;http://www.mwellner.de/wp-content/uploads/2009/09/formel.png&#34;&gt;&lt;img src=&#34;http://www.mwellner.de/wp-content/uploads/2009/09/formel.png&#34; alt=&#34;Mathematische Formel, gesetzt mit LaTeX&#34; title=&#34;Mathematische Formel&#34; width=&#34;176&#34; height=&#34;50&#34; class=&#34;size-full wp-image-1854&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p class=&#34;wp-caption-text&#34;&gt;
+    Mathematische Formel, gesetzt mit LaTeX
+  &lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Floating environments.&lt;/strong&gt; In LaTeX, you can provide figures or tables and let the system decide where exactly to put them. So there are no empty areas when you add a sentence on a page with an image.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Units.&lt;/strong&gt; When you need to report a measure with a unit, you may either write 9.2m or 9.2 m, both looks strange. The solution is an unbreakable half space, like 9.2&amp;thinsp;m. And the LaTeX package units provides an easy command for that and does the typesetting for you.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Reference management.&lt;/strong&gt; As a scientist you read lots of papers which you may want to use in your scientific text. I used also once a Word-Endnote combination, but was not satisfied at all. It was impossible to change the location of the references list, since Word would redo my brave attempts to push it to a different space and looking for references needed a lot of clicks. In contrast, LaTeX comes with BibTeX, where you give a key to each reference and can easily cite it with that key. You can also change the way you want to cite, from numbers like [3] to Author names like (Rondel and McDouglas, 1992).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Packages for all kinds of special problems.&lt;/strong&gt; There is a multitude of free packages which solve all kind of problems. Want nicer figure captions? Need to typeset chemical formula? Want to cite in APA style? No problem, there are packages around for that.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PRESENCE publishes Lokomat article</title>
+      <link>http://www.mwellner.de/2008/10/presence-publishes-lokomat-article/</link>
+      <pubDate>Thu, 02 Oct 2008 11:54:57 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/10/presence-publishes-lokomat-article/</guid>
+      <description>&lt;p&gt;At last! 1.5 years after starting to write, the article &lt;a href=&#34;http://www.mitpressjournals.org/doi/abs/10.1162/pres.17.5.512&#34;&gt;Evaluation of Visual and Auditory Feedback in Virtual Obstacle Walking&lt;/a&gt; has been published by Presence. This is the final step, now it&amp;#8217;s really over. I hope that my next publications will go a little bit smoother, but you never know what reviewers you get.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mathias Wellner, ­Audrey Schaufelberger,­ Joachim v. Zitzewitz, Robert Riener&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Evaluation of Visual and Auditory Feedback in Virtual Obstacle Walking&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal:&lt;/strong&gt; Presence: Teleoperators and Virtual Environments&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper describes evaluation experiments for visual and auditory feedback in a virtual obstacle walking scenario. Two studies with healthy subjects were carried out using the actuated gait orthosis Lokomat. Controlled factors for the visual feedback experiment were three different perspectives and 2D/3D vision. In the auditory feedback experiment, controlled factors were rhythmic distance feedback and gradual foot clearance feedback. For the visual and auditory feedback experiments, outcome was assessed with task-specific performance parameters and questionnaires. Results for visual feedback indicate that the chosen side perspective is superior to behind and ego perspectives. It is also shown that 3D vision does not reduce the number of obstacle hits compared to 2D vision. Furthermore, it is demonstrated that adding continuous auditory feedback made subjects walk faster compared to the exclusive use of visual feedback. Subjects rated auditory distance feedback as more helpful than auditory foot clearance feedback. Therefore, we suggest using side perspective and auditory feedback on obstacle distance.&lt;/p&gt;
+
+&lt;p&gt;The next publication is already in the queue and will target one study with the &lt;a href=&#34;http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html&#34;&gt;M3 rowing simulator&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review on Latency</title>
+      <link>http://www.mwellner.de/2008/06/review-on-latency/</link>
+      <pubDate>Mon, 30 Jun 2008 14:38:03 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/06/review-on-latency/</guid>
+      <description>&lt;p&gt;&lt;em&gt;With virtual environments and realism being the central topic of my dissertation, I did a review on which latencies are acceptable for virtual environments. The goal of this review was to define requirements for our rowing scenario. I would appreciate feedback and comments on this review.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Two main limitations of realism in virtual environments are a delayed response to user actions and desynchronized events. The cause for these undesired eff ects is the delay of the components and of the architecture as a whole. Examples for these speci fic delays are (Jacobs, Livingston, &amp;amp; State, 1997)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;sensor delay:&lt;/strong&gt; the time until the sensor output signal reacts to the user action,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;network delay:&lt;/strong&gt; delays due to signal transportation,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;computational delay:&lt;/strong&gt; delays due to computational algorithms,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;rendering delay:&lt;/strong&gt; time elapsed while the graphics/sound engine is generating the resulting picture/sound,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;synchronization delay:&lt;/strong&gt; time in which data is waiting between stages without being processed,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;operating system delay:&lt;/strong&gt; Windows XP is not a real time system, therefore the execution of code can be delayed due to other threads or operating system activities, and&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;display/actuator delay:&lt;/strong&gt; the time between setting the input signal and the display&amp;#8217;s or actuator&amp;#8217;s reaction.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The overall time between a user action and the system response is de fined as end-to-end latency. Relative latency refers to the lag between di fferent modalities, e.g. between seeing an object crash on the ground and hearing the sound of this event. Jacobs et al. (1997) emphasized the importance of a small relative latency and suggested methods to minimize relative latency.&lt;/p&gt;
+
+&lt;p&gt;One associated term is consistency which can be achieved by temporal and spatial synchronization of events, causality or ordering of events, and concurrency (multiple user interaction with one entity) (Delaney, Ward, &amp;amp; Mcloone, 2006). The authors discuss these terms for distributed interactive applications, for our single-user application concurrency does not apply. But temporal synchronization is an issue and therefore the relative latency must be minimized.&lt;/p&gt;
+
+&lt;p&gt;A lot of research exists on which latency is defensible for visual feedback in virtual reality environments. For visual feedback of hand motion, a end-to-end latency of greater than 100 ms restricted users to slow, careful movements (Friedmann, Starner, &amp;amp; Pentland, 1992). Experiments with head-mounted displays indicate that end-to-end latencies of 100 ms and 200 ms lead to an unstable perception of the environment (Allison, Harris, Jenkin, Jasiobedzka, &amp;amp; Zacher, 2001). Using head-mounted displays to display a pit room enviroment, Meehan, Razzaque, Whitton, and Brooks (2003) showed that latencies of 50 ms led to a higher self-reported sense of presence and a statistically higher change in heart rate than 90 ms. They also report that latencies beyond 120 ms produced unacceptable results.&lt;/p&gt;
+
+&lt;p&gt;Few results exist on auditory feedback. It is common knowledge among audio technicians, that latencies of 10 ms or less are needed for studio recordings. Friedmann et al. (1992) report 67 ms for their sound generation process and used a prediction method to synchronize sound output. More interesting for applications with multi-modal feedback are studies on cross-modal synchronization threshold. For audiovisual synchronization, Miner and Caudell (1998) report an average value of 175 ms and a minimal value of 100 ms. Their underlying explanation for this rather large value is that humans are used to some level of audiovisual desynchronization due to the di fferent propagation speeds of light and sound.&lt;/p&gt;
+
+&lt;p&gt;Latencies of 20-30 ms or less are needed for music applications with a clearly-structured rhythm (Lago &amp;amp; Kon, 2004). Regarding haptic-auditory synchronization, the authors report that piano players face delays of 30-100 ms, depending on the volume and character of the note to be played. Regardless of this deviation, professional piano players are able to compensate this e ffect and get in synchrony. For rowing, higher values are certainly acceptable, as the overall movement takes a long time.&lt;/p&gt;
+
+&lt;p&gt;Regarding frame rates, the VR community demands at least 10 fps to provide an immersive experience to the user (Roy, Cruz-Neira, &amp;amp; Defanti, 1995). It is obvious that a low frame rate contributes to latency, as the projector may take some time before refreshing the image, even if the updated scene had already been rendered by the graphics pipeline.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fussball und Wissenschaft</title>
+      <link>http://www.mwellner.de/2008/04/fussball-und-wissenschaft/</link>
+      <pubDate>Sat, 12 Apr 2008 19:35:29 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/04/fussball-und-wissenschaft/</guid>
+      <description>&lt;p&gt;Wir schwimmen mit dem Strom der Zeit. Und wer zur Zeit nicht völlig blind durch die Gegend läuft, kommt am Fußball nicht vorbei. Allerorten werden die Tage, Stunden, Minuten und Sekunden bis zum Eröffnungsspiel abgezählt, pranken Fußballthemen auf Zeitschriften und werden Werbekampagnen thematisch am runden Leder orientiert, um die Plakate, Straßenbahnen und Fernsehbildschirme zu bevölkern.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;http://www.flickr.com/photos/mwellner/2407313255/&#34;&gt;&lt;img alt=&#34;The Kick&#34; src=&#34;http://farm3.static.flickr.com/2054/2407313255_bf604530bc.jpg&#34; title=&#34;The Kick&#34; width=&#34;500&#34; height=&#34;334&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Der Schuss&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Nun sitzen also auch wir als Forschungsgruppe mit im Tor. Und die Perspektive des Torwarts ist es auch, die wir bei uns im Labor erforschen wollen. Woher weiß der Torwart bei einem Elfmeter, in welche Ecke der Spieler schießen wird? Wann wäre es am besten, loszuspringen? Macht dem Torwart ein positiv oder negativ eingestelltes Publikum etwas aus?&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;http://www.flickr.com/photos/mwellner/2407802922/&#34;&gt;&lt;img alt=&#34;Silhouettes&#34; src=&#34;http://farm3.static.flickr.com/2056/2407802922_0049d3cfeb.jpg&#34; title=&#34;Silhouettes&#34; width=&#34;500&#34; height=&#34;335&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Silhouetten&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Um diese Fragen beantworten zu können, benötigen wir die Simulation eines Elfmeterschusses. In einem ersten Anlauf wollen wir das mit einem gefilmten Fussballer machen, der dann in das Stadion reingesetzt wird. Der Ball wird animiert und fliegt dann auf den Betrachter zu. Als Elfmeter-Schützen konnten wir den Schweizer Nationalspieler Benjamin Huggel gewinnen, er spielt zur Zeit in Basel. Am Freitag haben wir dann in einem kleinen Filmstudio mit grünen Wänden die Aufnahmen gemacht. Es lief hervorragend, alle Einstellungen saßen und ich konnte nebenbei noch ein paar Fotos machen.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;http://www.flickr.com/photos/mwellner/2406915853/&#34;&gt;&lt;img alt=&#34;Kicking the ball&#34; src=&#34;http://farm4.static.flickr.com/3122/2406915853_15e760a868.jpg&#34; title=&#34;Kicking the ball&#34; width=&#34;500&#34; height=&#34;396&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Der Schuss&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I am going slightly mad</title>
+      <link>http://www.mwellner.de/2008/04/i-am-going-slightly-mad/</link>
+      <pubDate>Thu, 10 Apr 2008 18:57:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/04/i-am-going-slightly-mad/</guid>
+      <description>&lt;p&gt;I resubmitted my manuscript to the journal of my choice. The review process has taken a long time, they were almost satisfied with my paper last time but still required a lot of changes to publish it. So now, it is the third or fourth time, I am resubmitting these pages. There are a lot of changes to the manuscript and I learned, what a post-hoc Tukey test was. So here we go again&amp;#8230;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper describes evaluation experiments for visual and auditory feedback in a virtual obstacle walking scenario. Two studies with healthy subjects were carried out using the actuated gait orthosis Lokomat. Controlled factors for the visual feedback experiment were three different perspectives and 2D/3D vision. In the auditory feedback experiment, controlled factors were rhythmic distance feedback and gradual foot clearance feedback. For the visual and auditory feedback experiments, outcome was assessed with task-specific performance parameters and questionnaires. Results for visual feedback indicate that the chosen side perspective is superior to behind and ego perspectives. It is also shown that 3D vision does not reduce the number of obstacle hits compared to 2D vision. Furthermore, it is demonstrated that adding continuous auditory feedback made subjects walk faster compared to the exclusive use of visual feedback. Sujects rated auditory distance feedback as more helpful than auditory foot clearance feedback. Therefore, we suggest to use the side perspective and auditory feedback on obstacle distance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;What has happened before&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Resubmission on January 24, 2008&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2007/08/29/paper-submission/&#34;&gt;Original submission on August 29, 2007&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stufen</title>
+      <link>http://www.mwellner.de/2008/03/stufen/</link>
+      <pubDate>Fri, 28 Mar 2008 20:35:19 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/03/stufen/</guid>
+      <description>&lt;p&gt;Laufen. Eigentlich kann ich das. Dachte ich zumindest. Aber auf der Bühne ist alles anders. Wenn ich nämlich noch einen Text sagen muss, in einer bestimmten Emotion, dabei ins Publikum schauend, reagierend auf den Satz, der zuvor von meinem Mitspieler gesagt wurde &amp;#8211; dann kann ich nicht mehr laufen. Zumindest nicht mehr anders laufen als ich halt laufe, wenn ich Text sagen muss, in einer bestimmten Emotion. Und dieser Gang sieht komisch aus, tänzerisch, künstlich. Man hat ihn satt nach einer Weile, zumindest unser Regisseur hat ihn satt. Und er wirft Plastik-Wasserflaschen nach mir. Also nicht direkt auf mich, eher in die Nähe. Ich muss anders laufen. Meine Arme anders halten. Und meinen Text sagen, in einer bestimmten Emotion, dabei ins Publikum schauend.&lt;/p&gt;
+
+&lt;p&gt;Schreiben. Eigentlich kann ich das. Dachte ich zumindest. Aber die Editoren, denen ich meine wissenschaftliche Publikation anvertraute, sind da anderer Meinung. Sie finden auch nach meiner vierten, gr&amp;uuml;ndlichen &amp;Uuml;berarbeitung, Restrukturierung und grafischen Aufwertung noch immer so viele Kritikpunkte, dass ein langer Brief draus wird. Und dabei schreiben sie auch noch so nett, danken mir f&amp;uuml;r meine M&amp;uuml;hen, aber wollen noch enorm viele Punkte unbedingt ber&amp;uuml;cksichtigt sehen. Und wenn ich einen Vorschlag nicht annehme, muss ich es gut begr&amp;uuml;nden. Und ich schreibe, &amp;auml;ndere, restrukturiere erneut, zum f&amp;uuml;nften Mal. Und das Manuskript wird auch besser, ich sehe jetzt immer noch Ungereimtheiten, speziell bei den Abs&amp;auml;tzen, welche ich neu eingef&amp;uuml;gt habe. Sie kl&amp;auml;ren einen Kritikpunkt, aber bringen das feine Gef&amp;uuml;ge durcheinander, machen Risse an anderen Stellen sichtbar. Es ist ein langer Prozess, dieses Schreiben.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EU-MIMICS-Projekt</title>
+      <link>http://www.mwellner.de/2008/03/eu-mimics-projekt/</link>
+      <pubDate>Mon, 17 Mar 2008 17:15:17 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/03/eu-mimics-projekt/</guid>
+      <description>&lt;p&gt;Im Januar startete das auf drei Jahre angelegte &lt;a href=&#34;http://www.mimics.ethz.ch&#34;&gt;EU-MIMICS-Projekt&lt;/a&gt;. Unsere Gruppe übernimmt dabei die Koordination. Ich selbst bin nicht direkt daran beteiligt, jedoch überlappen sich die Themen meiner Forschung mit denen des Projekts beträchtlich.&lt;/p&gt;
+
+&lt;p&gt;In beiden Projekten geht es um die Erfassung des psychologischen Zustandes mit physiologischen und kinematischen Messdaten. Zum Glück ist mein Ziel etwas weniger ambitioniert, ich hoffe auf eine emotionale Reaktion der Ruderer auf das virtuelle Publikum. Im EU-Projekt muss sich dann das Szenario auch noch gemäß dem Patientenzustand anpassen. Außerdem sind die dafür vorgesehenen Schlaganfallpatienten nicht ganz unproblematisch, weil sie doch viel gr&amp;ouml;&amp;szlig;ere Schwankungen aufweisen als gesunde Probanden.&lt;/p&gt;
+
+&lt;p&gt;Im ETH-Hausblatt ETH Life erschien heute zum Thema der Artikel Wenn der Roboter den Patienten motiviert. Weiter unten gibt es noch ein lustiges Video, welches im Zuge einer von mir mit betreuten Semesterarbeit entstand. Es zeigt eine erste Fassung des Hindernisszenarios f&amp;uuml;r den Lokomat.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Questionnaires on Presence and Immersive Tendencies</title>
+      <link>http://www.mwellner.de/2008/02/questionnaires-on-presence-and-immersive-tendencies/</link>
+      <pubDate>Mon, 18 Feb 2008 19:48:36 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/02/questionnaires-on-presence-and-immersive-tendencies/</guid>
+      <description>&lt;p&gt;For our virtual rowing experiment in the &lt;a href=&#34;http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html&#34;&gt;M3 Lab&lt;/a&gt; we are currently evaluating the usage of questionnaires. And since the term presence is used by many researchers, it is very easy to find dozens of presence questionnaires. I am also a little bit sceptical on using questionnaires for the continuous assessment of presence. Hopefully our kinematic and physiological measurements are sufficient for the continuous part. Nevertheless, it might be useful to include a standard presence questionnaire to compare our data with literature.&lt;/p&gt;
+
+&lt;p&gt;A second goal is to assess the immersive tendencies of a person before he or she enters the main study on rowing under pressure. Subjects that are not easily immersed in activities will be excluded.&lt;/p&gt;
+
+&lt;p&gt;After some reviewing the Witmer and Singer questionnaires on presence and immersive tendencies seem the right choices for us. The article &lt;a href=&#34;http://www.mitpressjournals.org/doi/abs/10.1162/105474698565686&#34;&gt;Measuring Presence in Virtual Environments: A Presence Questionnaire&lt;/a&gt; was cited more than 500 times, so I guess it is well-known in the field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Under Pressure</title>
+      <link>http://www.mwellner.de/2007/05/under-pressure/</link>
+      <pubDate>Thu, 10 May 2007 20:15:10 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2007/05/under-pressure/</guid>
+      <description>&lt;p&gt;It&amp;#8217;s done. A last-minute demonstration with our new CAVE setup today was a stunning success. Everything worked fine, we could show a simple example of our rowing simulator project. We had the oar displayed on the screen, and a rowing sound was played when it penetrated into the water. Furthermore we could show trees with singing birds and a human figurine making a speech. Considering the minimal preparation time (we switched the whole system on yesterday at 5 PM), this was a remarkable achievement by our team.&lt;/p&gt;
+
+&lt;p&gt;Interesting to see was how people react under pressure. While some got upset I got extremely relaxed. Just too many things were happening, too many conflicting demands arising, so I found myself in a not so much caring mood. Or maybe I did care about too many things at the same time. Anyways, an interesting observation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lokomat-Symposium 2006</title>
+      <link>http://www.mwellner.de/2006/10/lokomat-symposium-2006/</link>
+      <pubDate>Fri, 06 Oct 2006 10:32:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2006/10/lokomat-symposium-2006/</guid>
+      <description>&lt;p&gt;Today the second Lokomat Symposium featured the main talks regarding the Lokomat actuated gait orthosis. Actually the main scientists were all joined to present their latest research. To give you a short impression I will list the talks.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;David Reinkensmeyer (USA)&lt;/td&gt;
+&lt;td&gt;Automating Arm Movement Training with T-WREX: Technical Overview and Clinical Data&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Robert Riener (CH)&lt;/td&gt;
+&lt;td&gt;Human-Centered Rehabilitation Robotics&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Goffer (ISR)&lt;/td&gt;
+&lt;td&gt;_Re_Walk: A Device for Overcoming Mobility Impairment&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Tobias Nef (CH)&lt;/td&gt;
+&lt;td&gt;ARMin &amp;#8211; Robot-Aided Arm Therapy in Chronic Stroke&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Querry (USA)&lt;/td&gt;
+&lt;td&gt;FES and Lokomat: Gait Synchronized Interventions with the Lokomat Driven Gait Orthosis&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ken Hunt (UK)&lt;/td&gt;
+&lt;td&gt;Cardiopulmonary Assessment Protocols for Robot-Assisted Gait in Incomplete Spinal Cord Injury&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Pacheco (USA)&lt;/td&gt;
+&lt;td&gt;Spinal Plasticity in BWSTT: Evaluation of H-Reflexes in Spinal Cord Injury Patients during Stepping&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Aschbacher (CH)&lt;/td&gt;
+&lt;td&gt;Comparing Gait Training in Patients after Stroke with Task-Oriented Physiotherapy or Robot-Assisted Gait Training with the Lokomat &amp;#8211; A Feasability Study&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Behrman (USA)&lt;/td&gt;
+&lt;td&gt;Differential Effects of Robotically vs. Manually-Assisted Locomotor Training on Stepping Performance after Incomplete Spinal Cord Injury&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Andreas Meyer (CH)&lt;/td&gt;
+&lt;td&gt;First Steps with the Pediatric Lokomat: Feasability of Robotic Assisted Locomotor Training in Children with Central Gait Impairment&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Borggräfe (DE)&lt;/td&gt;
+&lt;td&gt;Automated Treadmill Training in Young Children with Cerebral Palsy with the Pediatric Lokomat&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mogensen (DK)&lt;/td&gt;
+&lt;td&gt;The Effect of Robotic Treadmill Training in Patients with Cerebral Stroke&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I did not have a talk but was involved in some lab demos of the virtual environment extension of the Lokomat and the additional degrees of freedom (Gait3D). The audience was really impressed and especially for children the virtual reality enhancement triggered wild interest.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conference MMVR</title>
+      <link>http://www.mwellner.de/2006/09/conference-mmvr/</link>
+      <pubDate>Thu, 28 Sep 2006 22:04:18 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2006/09/conference-mmvr/</guid>
+      <description>&lt;p&gt;I am in! After sending an abstract to the conference &lt;a href=&#34;http://www.nextmed.com/&#34;&gt;Medicine Meets Virtual Reality&lt;/a&gt; about the Lokomat and virtual reality (obstacle crossing), I now received the message, that it was accepted for poster presentation. And so my name appears once more in the www, on the Abstract Guidelines page. It&amp;#8217;s there, at the very, very end of this long list.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ZNZ Symposium</title>
+      <link>http://www.mwellner.de/2005/10/znz-symposium/</link>
+      <pubDate>Sat, 22 Oct 2005 12:13:28 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2005/10/znz-symposium/</guid>
+      <description>&lt;p&gt;Gestern (21. Oktober) fand im Sempertschen Hauptgebäude der ETH das ZNZ-Symposium statt. Das Zentrum für Neurowissenschaften Zürich versucht, die verschiedenen Forschungsgruppen an der &lt;a href=&#34;https://www.ethz.ch/&#34;&gt;ETH Zürich&lt;/a&gt; und an der &lt;a href=&#34;http://www.uzh.ch/index.html&#34;&gt;Universität Zürich&lt;/a&gt; im Bereich der Neurowissenschaften zu vernetzen. Höhepunkt ist sicherlich das Symposium mit Vorträgen und Poster-Sessions.&lt;/p&gt;
+
+&lt;p&gt;Ich fand&amp;#8217;s ziemlich langweilig, weil ein Großteil der unter dem ZNZ-Dach zusammengefassten Forschungsgruppen auf der molekularen und biologischen Ebene arbeitet. Ingenieure sind ganz klar in der Minderheit. Zur Unterstreichung die Titel einiger Vorträge:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The shaky life of memory: Competitions, destabilizations, and the biology of the long-term trace&lt;/li&gt;
+&lt;li&gt;Rho Gtpase function in myelination&lt;/li&gt;
+&lt;li&gt;Nuclear signalling by the amyloid precursor protein&lt;/li&gt;
+&lt;li&gt;Effect of prenatal infection on GABAergic neurons in a novel animal model of Schizophrenia&lt;/li&gt;
+&lt;li&gt;Single-cell and network activity in the neocortex in vivo&lt;/li&gt;
+&lt;li&gt;Exploring the brain, from beta probe studies in rats to PET experiments in humans&lt;/li&gt;
+&lt;li&gt;Are adult and plastic songs in the zebra finch generated by different neural mechanisms?&lt;/li&gt;
+&lt;li&gt;Keynote Lecture: GABA and the regulation of emotion and cognition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So sah&amp;#8217;s also aus &amp;#8211; unverständliche Abkürzungen, schöne bunte Gehirngrafiken, welche die Präsenz irgendeines Markers zeigten und mittendrin ich, auf der Suche nach Menschen, die ich verstehe. Das Interesse zum gegenseitigen Beschnuppern war dann auch eher gering, ich beglückte einen Neuroinformatiker damit, dass ich mich für sein Poster interessierte. Und das, obwohl sein Thema (Selbstorganisation von zellulären Einheiten zur Nachbildung der neuronalen Vernetzung) gar nicht so unspannend war. Am Ende gab&amp;#8217;s dann einen Apero, mit sehr aufmerksamen Catering-Damen, die stets mit Weinflaschen herum liefen und alle Gläser auffüllten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Article: Simulation of a Functional Neuromuscular Stimulation Powered Mechanical Gait Orthosis with Coordinated Joint Locking</title>
+      <link>http://www.mwellner.de/2005/09/article-simulation-of-a-functional-neuromuscular-stimulation-powered-mechanical-gait-orthosis-with-coordinated-joint-locking/</link>
+      <pubDate>Tue, 20 Sep 2005 14:26:56 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2005/09/article-simulation-of-a-functional-neuromuscular-stimulation-powered-mechanical-gait-orthosis-with-coordinated-joint-locking/</guid>
+      <description>&lt;p&gt;One of the first steps I had to take was understanding human gait. The article (&lt;a href=&#34;http://www.citeulike.org/user/wellnair/article/310002&#34;&gt;bibliographic information&lt;/a&gt;) describes very elaborate modelling techniques in order to make a mechanical gait orthosis walk. I would like to emphasize that th Lokomat is not intended to make patients walk around, so it&amp;#8217;s a difference to the device mentioned in the article. But the general mechanisms are comparable, especially using torques to make the patient take a step.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Abstract &amp;#8211; The purpose of this study was to examine a hybrid orthosis system (HOS) for walking after spinal-cord injury (SCI) that coordinates the mechanical locking and unlocking of knee and ankle joints of a reciprocating gait orthosis (RGO), while propulsive forces are injected and unlocked joints controlled with functional neuromuscular stimulation (FNS). The likely effectiveness of the HOS in terms of forward progression, stability, and posture of paraplegic gait was determined in this simulation study. A three-dimensional computer model of a HOS combining FNS with an RGO incorporating feedback control of muscle activation and joint locking was developed. An anthropomorphic human model included passive joint moments and a foot-ground contact model adapted from other studies. A model of the RGO reciprocally coupled the hips and locked and unlocked the knee and ankle joints during stance and swing respectively. The actions of muscles under FNS activation were modeled via closed-loop control of joint torque inputs. A walking aid that mimicked canes and voluntary upper extremity actions maintained lateral stability by providing the necessary shoulder forces and moments. The simulated HOS achieved gait speeds of 0.51/spl plusmn/0.03 m/s, stride lengths of 0.85/spl plusmn/0.04 m, and cadences of 72/spl plusmn/4 steps/min, exceeding the reported performance of other assistive gait systems. Although minimal forward trunk tilt was found to be necessary during specific phases of gait, posture, and stability were significantly improved over FNS-only systems.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Article: Learning-Based Identification and Iterative Learning Control of Direct-Drive Robots</title>
+      <link>http://www.mwellner.de/2005/09/article-learning-based-identification-and-iterative-learning-control-of-direct-drive-robots/</link>
+      <pubDate>Tue, 20 Sep 2005 14:08:28 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2005/09/article-learning-based-identification-and-iterative-learning-control-of-direct-drive-robots/</guid>
+      <description>&lt;p&gt;The article (see &lt;a href=&#34;http://www.citeulike.org/user/wellnair/article/316133&#34;&gt;bibliographic information&lt;/a&gt;) fits very much in what I am planning to do with the Lokomat. It is very well done in my opinion and a good base for my work. A robot with three degrees of freedom is used to investigate the proposed identification and control methods.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Abstract—A combination of model-based and iterative learning&lt;/p&gt;
+
+&lt;p&gt;control (ILC) is proposed as a method to achieve high-quality motion&lt;/p&gt;
+
+&lt;p&gt;control of direct-drive robots in repetitive motion tasks.We include&lt;/p&gt;
+
+&lt;p&gt;both model-based and learning components in the total control&lt;/p&gt;
+
+&lt;p&gt;law, as their individual properties influence the performance&lt;/p&gt;
+
+&lt;p&gt;of motion control. The model-based part of the controller compensates&lt;/p&gt;
+
+&lt;p&gt;much of the nonlinear and coupled robot dynamics. A new&lt;/p&gt;
+
+&lt;p&gt;procedure for estimating the parameters of the rigid body model,&lt;/p&gt;
+
+&lt;p&gt;implemented in this part of the controller, is used. This procedure&lt;/p&gt;
+
+&lt;p&gt;is based on a batch-adaptive control algorithm that estimates the&lt;/p&gt;
+
+&lt;p&gt;model parameters online. Information about the dynamics not covered&lt;/p&gt;
+
+&lt;p&gt;by the rigid body model, due to flexibilities, is acquired experimentally,&lt;/p&gt;
+
+&lt;p&gt;by identification. The models of the flexibilities are used&lt;/p&gt;
+
+&lt;p&gt;in the design of the iterative learning controllers for the individual&lt;/p&gt;
+
+&lt;p&gt;joints. Use of the models facilitates quantitative prediction of performance&lt;/p&gt;
+
+&lt;p&gt;improvement via ILC. The effectiveness of the combination&lt;/p&gt;
+
+&lt;p&gt;of the model-based and the iterative learning controllers is&lt;/p&gt;
+
+&lt;p&gt;demonstrated in experiments on a spatial serial direct-drive robot&lt;/p&gt;
+
+&lt;p&gt;with revolute joints.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science and Weblogs</title>
+      <link>http://www.mwellner.de/2005/09/science-and-weblogs/</link>
+      <pubDate>Tue, 20 Sep 2005 13:42:31 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2005/09/science-and-weblogs/</guid>
+      <description>&lt;p&gt;In my relentless search for articles in the field of rehabilitation robotics, I will publish some comments on excellent articles. With this I hope to help people who search relevant papers and also to find experts in the field for discussions and exchange. Everybody interested in the articles I found may take a look at &lt;a href=&#34;http://www.citeulike.org/user/wellnair&#34;&gt;my articles at CiteULike&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My dissertation is about cooperative control strategies for the gait orthesis Lokomat. This field touches the following subject areas:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Rehabilitation robotics (the big term),&lt;/li&gt;
+&lt;li&gt;Control strategies in general,&lt;/li&gt;
+&lt;li&gt;Variable structure control (swing and stance phase),&lt;/li&gt;
+&lt;li&gt;Cooperative control strategies (adaptive behaviour),&lt;/li&gt;
+&lt;li&gt;Parameter identification (online if possible),&lt;/li&gt;
+&lt;li&gt;Iterative learning,&lt;/li&gt;
+&lt;li&gt;Patient model (so far the patient is seen as a disturbance) and&lt;/li&gt;
+&lt;li&gt;Interface concept (in the end, therapists shall use all that with ease).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This post is an experiment, since scientists are so far not using weblogs as a means of exchange and discussion. At least I don&amp;#8217;t know of any. But since I like the idea of weblogs I try to make a start in that and use it for scientific purposes. I will publish in English, since that enhances chances to be found by scientists all over the world.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

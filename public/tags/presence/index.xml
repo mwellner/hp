@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presence on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/presence/index.xml</link>
+    <description>Recent content in Presence on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/presence/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PRESENCE publishes Lokomat article</title>
+      <link>http://www.mwellner.de/2008/10/presence-publishes-lokomat-article/</link>
+      <pubDate>Thu, 02 Oct 2008 11:54:57 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/10/presence-publishes-lokomat-article/</guid>
+      <description>&lt;p&gt;At last! 1.5 years after starting to write, the article &lt;a href=&#34;http://www.mitpressjournals.org/doi/abs/10.1162/pres.17.5.512&#34;&gt;Evaluation of Visual and Auditory Feedback in Virtual Obstacle Walking&lt;/a&gt; has been published by Presence. This is the final step, now it&amp;#8217;s really over. I hope that my next publications will go a little bit smoother, but you never know what reviewers you get.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mathias Wellner, ­Audrey Schaufelberger,­ Joachim v. Zitzewitz, Robert Riener&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Evaluation of Visual and Auditory Feedback in Virtual Obstacle Walking&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Journal:&lt;/strong&gt; Presence: Teleoperators and Virtual Environments&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper describes evaluation experiments for visual and auditory feedback in a virtual obstacle walking scenario. Two studies with healthy subjects were carried out using the actuated gait orthosis Lokomat. Controlled factors for the visual feedback experiment were three different perspectives and 2D/3D vision. In the auditory feedback experiment, controlled factors were rhythmic distance feedback and gradual foot clearance feedback. For the visual and auditory feedback experiments, outcome was assessed with task-specific performance parameters and questionnaires. Results for visual feedback indicate that the chosen side perspective is superior to behind and ego perspectives. It is also shown that 3D vision does not reduce the number of obstacle hits compared to 2D vision. Furthermore, it is demonstrated that adding continuous auditory feedback made subjects walk faster compared to the exclusive use of visual feedback. Subjects rated auditory distance feedback as more helpful than auditory foot clearance feedback. Therefore, we suggest using side perspective and auditory feedback on obstacle distance.&lt;/p&gt;
+
+&lt;p&gt;The next publication is already in the queue and will target one study with the &lt;a href=&#34;http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html&#34;&gt;M3 rowing simulator&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proof for publication has arrived</title>
+      <link>http://www.mwellner.de/2008/08/proof-for-publication-has-arrived/</link>
+      <pubDate>Thu, 07 Aug 2008 18:32:46 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/08/proof-for-publication-has-arrived/</guid>
+      <description>&lt;p&gt;After nearly four months, I got the proofs of my publication yesterday. The proof is already pretty close to the article and is the last chance for changes. But I found only subtle mistakes in the proof, some images appeared much bigger than I had intended them to be. In two months, the article will appear in PRESENCE.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted</title>
+      <link>http://www.mwellner.de/2008/04/paper-accepted/</link>
+      <pubDate>Tue, 15 Apr 2008 19:27:01 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/04/paper-accepted/</guid>
+      <description>&lt;p&gt;Finally, we got it through! I now can also reveal that the scientific journal of my choice was &lt;a href=&#34;http://www.mitpressjournals.org/pres&#34;&gt;Presence&lt;/a&gt;, published by MIT Press. It was a long process, which raised my awareness of scientific language enormously. However, I am not sure whether that is a good thing. I now tend to get on other people&amp;#8217;s nerves when they write something and ask for my opinion on that. There are so many mistakes and inconsistencies to discover.&lt;/p&gt;
+
+&lt;p&gt;I wonder if there is one written form to express an idea adequately. One form which has exactly the right length. And I wonder, how many iterations it takes to get to that form.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Questionnaires on Presence and Immersive Tendencies</title>
+      <link>http://www.mwellner.de/2008/02/questionnaires-on-presence-and-immersive-tendencies/</link>
+      <pubDate>Mon, 18 Feb 2008 19:48:36 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/02/questionnaires-on-presence-and-immersive-tendencies/</guid>
+      <description>&lt;p&gt;For our virtual rowing experiment in the &lt;a href=&#34;http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html&#34;&gt;M3 Lab&lt;/a&gt; we are currently evaluating the usage of questionnaires. And since the term presence is used by many researchers, it is very easy to find dozens of presence questionnaires. I am also a little bit sceptical on using questionnaires for the continuous assessment of presence. Hopefully our kinematic and physiological measurements are sufficient for the continuous part. Nevertheless, it might be useful to include a standard presence questionnaire to compare our data with literature.&lt;/p&gt;
+
+&lt;p&gt;A second goal is to assess the immersive tendencies of a person before he or she enters the main study on rowing under pressure. Subjects that are not easily immersed in activities will be excluded.&lt;/p&gt;
+
+&lt;p&gt;After some reviewing the Witmer and Singer questionnaires on presence and immersive tendencies seem the right choices for us. The article &lt;a href=&#34;http://www.mitpressjournals.org/doi/abs/10.1162/105474698565686&#34;&gt;Measuring Presence in Virtual Environments: A Presence Questionnaire&lt;/a&gt; was cited more than 500 times, so I guess it is well-known in the field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>When Media Environments Become Real</title>
+      <link>http://www.mwellner.de/2008/02/when-media-environments-become-real/</link>
+      <pubDate>Tue, 05 Feb 2008 00:11:51 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/02/when-media-environments-become-real/</guid>
+      <description>&lt;p&gt;It all started with the alpenhorn. An elderly woman entered the auditory and played this traditional Swiss instrument. The view from the university to the mountains was also nice, although slightly cloudy on this particular day. I would rather see that version with the blue sky. And I would rather not see the bear living in captivity for the sake of being heraldic animal of the city.&lt;/p&gt;
+
+&lt;p&gt;The conference (see website) is not particularly interesting, the theme encompasses all kind of &lt;em&gt;media shifts&lt;/em&gt;, television, e-commerce, and virtual environments are all examples for that. Therefore, I as an engineer see myself to be on the margins of this conference. But there will be &lt;strong&gt;our&lt;/strong&gt; session on Wednesday on creating and measuring presence. So far psychologists and economists were on the forefront, stating their paradigms and theories without a single graph showing up.&lt;/p&gt;
+
+&lt;p&gt;One exception was &lt;a href=&#34;http://www.lsi.upc.edu/~melslater/&#34;&gt;Mel Slater&lt;/a&gt; from Universitat Politécnica de Catalunya in Barcelona. In his keynote speech on real actions in virtual environments he also expressed his dislike with the term presence, which is used and understood by many researchers, often in a contradictory sense. Therefore he used the terms &lt;em&gt;place illusion&lt;/em&gt; for some of the effects which he is investigating.&lt;/p&gt;
+
+&lt;p&gt;In the first keynote lecture, Matthias Steinmann and Tanja Hackenbruch explained the concept of the reality switch as new paradigm. With this paradigm the old communication model (content, channel, recipient) was extended, explaining immersive effects of fictional media.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/php/index.xml</link>
+    <description>Recent content in Php on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ein Jahr Industrie &amp;ndash; ein Rückblick</title>
+      <link>http://www.mwellner.de/2010/10/ein-jahr-industrie-ndash-ein-r%C3%BCckblick/</link>
+      <pubDate>Tue, 26 Oct 2010 22:36:20 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2010/10/ein-jahr-industrie-ndash-ein-r%C3%BCckblick/</guid>
+      <description>&lt;p&gt;Vor ziemlich genau einem Jahr begann ich bei der &lt;a href=&#34;http://www.helveting.ch&#34;&gt;Helveting AG&lt;/a&gt;, einem aufstrebenden Schweizer Ingenieurbüro. Mit dem Doktortitel in der Tasche, nach drei Wochen Arbeitslosigkeit und mitten in einem JobBasis-Kurs der &lt;a href=&#34;http://www.newplacement.ch&#34;&gt;NewPlacement GmbH&lt;/a&gt; wagte ich den Sprung ins &lt;em&gt;richtige&lt;/em&gt; Berufsleben. Und da bin ich nun und reflektiere.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ein Jahr &amp;ndash; drei Projekte&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zuallererst erwartete mich der Sprung ins kalte Wasser eines ambitionierten Großprojekts, es ging um die Neuentwicklung eines medizinischen Geräts. Ich war als Teilprojektleiter von Anfang an stark gefordert. Nach der Konzeptphase verschob sich mein Schwerpunkt auf ein internes Projekt, ich entwickelte in Rekordzeit ein System für die Zeiterfassung mit &lt;a href=&#34;http://cakephp.org/&#34;&gt;cakePHP&lt;/a&gt; und &lt;a href=&#34;http://www.postgresql.org/&#34;&gt;PostgreSQL&lt;/a&gt;, welches die existierende Lösung mit Excel-Sheets ablöste.&lt;/p&gt;
+
+&lt;p&gt;Danach gab es noch ein zweimonatiges Kundenprojekt mit einer Smart-Phone-Applikation, so dass ich schon an drei sehr unterschiedlichen Projekten mitgewirkt habe. Ab November erwartet mich ein viertes Projekt, diesmal im Bereich Software-Tests und direkt beim Kunden. Somit hat mich jetzt auch das Pendelschicksal erwischt, mit einem 1. Klasse-Generalabonnement, WLAN im Zug und der Möglichkeit unterwegs zu arbeiten lässt sich das aber sicherlich ertragen. Dennoch bedeutet es eine Umstellung, an die ich mich erst noch gewöhnen muss.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Forschung vs. Industrie&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Was sind nun die Unterschiede zwischen Forschung und Industrie? Neu sind die Zeiterfassung und der Druck, in der geplanten Zeit ein Resultat zu erreichen, mit dem der Kunde zufrieden ist. Da ich aber lange Zeit an einem internen Projekt gearbeitet habe, traf das für mich nur zum Teil zu. Obwohl ich auch dort unter großem Druck stand, zum Stichtag musste das Basissystem mit firmenkritischen Daten stehen und funktionieren. Das grundsätzliche Problem bei Projekten für jemand anderen sind wechselnde Anforderungen. Und gerade beim Zeiterfassungs-System, mit dem alle arbeiten, kommen wöchentlich neue Anforderungen und Verbesserungsvorschläge, so dass die großen Entwicklungsprojekte schnell mal aufgeschoben werden. In der Forschung war das anders, dort konnte ich weitestgehend selbst bestimmen, was ich mache und wann es gut genug ist, natürlich immer im Dialog mit den Teamkollegen und meinem Doktorvater.&lt;/p&gt;
+
+&lt;p&gt;Der Alltag ist sehr ähnlich. Nach dem etwas längeren Arbeitsweg treffe ich in einer Büroumgebung mit vielen am Computer tippenden und klickenden Leuten ein. Ich starte meine persönliche Kiste hoch, checke Emails und arbeite weitestgehend selbstständig an meinen Projekten. Mittagspause, Besprechungen mit Kollegen und Vorgesetzten, Präsentationen, Fahrten zum Kunden, Konferenzteilnahmen fehlen zugegebenermaßen &amp;ndash; im Grunde sehr ähnliche Abläufe.&lt;/p&gt;
+
+&lt;p&gt;Und das Lösen von Programmierproblemen ist auch gleich geblieben, ob nun mit &lt;a href=&#34;http://www.mathworks.ch/&#34;&gt;Matlab&lt;/a&gt;, &lt;a href=&#34;http://de.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt; oder &lt;a href=&#34;http://de.wikipedia.org/wiki/Php&#34;&gt;PHP&lt;/a&gt;, stets stoße ich irgendwo an, analysiere, konsultiere das Internet, grenze ein und löse das Problem, um auf das nächste zu treffen. Was mir ein bisschen fehlt, ist der hohe Anspruch, den wissenschaftliche Publikationen an das Formulieren und Layout von Dokumenten stellen. Dafür fehlt schlicht die Zeit, obwohl der Abschlussbericht oder das Konzept ebenfalls sehr wichtige Dokumente sind, für die der Kunde eine Menge Geld bezahlt. Aber für einen guten Bericht müsste man schon mehrere Tage im Angebot rechnen.&lt;/p&gt;
+
+&lt;p&gt;Inhaltlich habe ich einiges an Entwicklungsmethodik gelernt, &lt;a href=&#34;http://www.android.com/&#34;&gt;Android&lt;/a&gt; und &lt;a href=&#34;http://www.java.com/de/&#34;&gt;Java&lt;/a&gt; kennen gelernt, außerdem meine Fähigkeiten im Bereich Datenbank-Entwurf und Webdesign ausgebaut.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Freizeit&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Meine Freizeitaktivitäten konnte ich zum größten Teil beibehalten, ich nahm an bis zu drei parallelen Theaterproduktionen oder -kursen teil. Der Sport kam etwas zu kurz, aber die Nähe zur Schlierener Kletterhalle konnte ich auch gut nutzen, so dass momentan Klettern mein Ausgleichssport ist.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fazit&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Alles in allem bin ich zufrieden, ich wollte mich in verschiedenen Projekten in der Industrie ausprobieren und Erfahrung sammeln, die wichtigste Währung auf dem Arbeitsmarkt und das größte Manko eines frischgebackenen ETH-Absolventen. Von daher werde ich noch einige Zeit dabei bleiben und regelmäßig neu überlegen, ob und wann ich zurück in die deutsche Heimat möchte.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Implementing simple ajax show/hide effects with cakePHP</title>
+      <link>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</link>
+      <pubDate>Thu, 15 Apr 2010 09:56:52 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/</guid>
+      <description>&lt;p&gt;There are quite some tutorials on ajax effects out there [1, 2], but most were too complex for my needs. I simply wanted an enhanced index page for projects, which shows some details for each project and more on demand with a sliding effect. So here is what my solution looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Basics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I used cakePHP 1.3 RC3. I assume that you have a running cakePHP application with an index view of your main objects of concern. You also need to download the &lt;a href=&#34;http://www.prototypejs.org/&#34;&gt;prototype&lt;/a&gt; and &lt;a href=&#34;http://script.aculo.us/&#34;&gt;scriptaculous&lt;/a&gt; scripts and put all js-files into your /app/webroot/js folder.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activating ajax&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In your default layout, you have to include the links to the prototype and scriptaculous scripts in the head section of the template.&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;php&#34;&gt;&amp;lt;!-- file app/views/layout/default.ctp --&amp;gt;
+&amp;lt;head&amp;gt;
+    &amp;lt;!-- existing head settings --&amp;gt;
+    &amp;lt;?php
+    echo $javascript-&gt;link(&#39;prototype&#39;);
+    echo $javascript-&gt;link(&#39;scriptaculous.js?load=effects&#39;);
+    ?&amp;gt;
+&amp;lt;/head&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;You also need to activate the AJAX and Javascript helpers in the controller where you want to use it. I prefered to update the app controller, which enables the helpers for all controllers. Your app controller (usually at app/app_controller.php, create if necessary) should include the ajax and javascript helpers like this:&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;php&#34;&gt;&amp;lt;!-- file app/app_controller.php --&amp;gt;
+&amp;lt;?php
+class AppController extends Controller {
+    var $helpers = array(&#39;Html&#39;, &#39;Form&#39;, &#39;Ajax&#39;, &#39;Javascript&#39;);
+}
+?&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;In your view&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In your view you can now include id-marked divs and ajax links to control the visibility of these divs. Assuming that your model is named Project, you need to update your index view at /app/views/project/index.ctp. I use two table rows for that. The first row contains the project name, the ajax links for showing/hiding details, and the actions. The second row is invisible at first (display:none) and contains the div which is controlled by the ajax links. To my knowledge it is not possible to hide/show entire table rows, therefore the second row is rendered empty at first. But it looks quite nice with the default alternate background color for table rows.&lt;/p&gt;
+
+&lt;p&gt;The real trick here was to leave the second argument for the ajax link empty, linking to the same page. All other examples had links to sub pages implemented there what seemed too complex for my wishes. Of course, this implementation means that the entire content is loaded every time. For huge amounts of data this could be a performance issue.&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;php&#34;&gt;&amp;lt;!-- file app/views/project/index.ctp --&amp;gt;
+&amp;lt;table cellpadding=&#34;0&#34; cellspacing=&#34;0&#34;&amp;gt;
+&amp;lt;tr&amp;gt;
+    &amp;lt;th&gt;&amp;lt;?php echo $paginator-&gt;sort(&#39;name&#39;);?&gt;&amp;lt;/th&amp;gt;
+    &amp;lt;th class=&#34;actions&#34;&amp;gt;&amp;lt;?php __(&#39;Actions&#39;);?&gt;&amp;lt;/th&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;?php
+$i = 0;
+foreach ($projects as $project):
+    $id = $project[&#39;Project&#39;][&#39;id&#39;];
+    $i++;
+?&amp;gt;
+&amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;
+    &amp;lt;?php echo $project[&#39;Project&#39;][&#39;name&#39;];?&amp;gt;
+        &amp;lt;?php 
+        // define string for div id
+        $div_string = &#39;project_fold_&#39;.$i;
+
+    // create ajax link which shows project details
+    echo $ajax-&gt;link(
+        &#39;show details&#39;,
+        &#39;&#39;, 
+        array( 
+        &#39;update&#39; =&gt; $div_string, 
+        &#39;loading&#39; =&gt; &#39;Effect.Appear(\&#39;&#39;.$div_string.&#39;\&#39;)&#39;,
+        )
+    );
+
+    // create ajax link which hides project details
+    echo $ajax-&gt;link(
+        &#39;hide details&#39;,
+        &#39;&#39;, 
+        array( 
+        &#39;update&#39; =&gt; $div_string, 
+        &#39;loading&#39; =&gt; &#39;Effect.Fade(\&#39;&#39;.$div_string.&#39;\&#39;)&#39;,
+        )
+    );
+    ?&amp;gt;
+    &amp;lt;/td&amp;gt;
+    &amp;lt;td class=&#34;actions&#34;&amp;gt;
+    &amp;lt;?php echo $html-&gt;link(__(&#39;View&#39;, true), array(&#39;action&#39;=&gt;&#39;view&#39;, $id));?&amp;gt;
+    &amp;lt;?php echo $html-&gt;link(__(&#39;Edit&#39;, true), array(&#39;action&#39;=&gt;&#39;edit&#39;, $id));?&amp;gt;
+    &amp;lt;?php echo $html-&gt;link(
+            __(&#39;Delete&#39;, true), 
+            array( &#39;action&#39;=&gt;&#39;delete&#39;, $id), 
+            null, 
+            sprintf(__(&#39;Are you sure you want to delete # %s?&#39;, true), $id));
+        ?&amp;gt;
+    &amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+
+&amp;lt;tr&amp;gt;
+    &amp;lt;td colspan=&#34;2&#34;&amp;gt;
+    &amp;lt;!-- display div which can be shown/hidden by ajax links --&amp;gt;
+    &amp;lt;?php echo $ajax-&gt;div($div_string, array(&#39;style&#39; =&gt; &#39;display:none&#39;)); ?&amp;gt;
+
+    &amp;lt;!-- project details --&amp;gt;
+    &amp;lt;h3&amp;gt;&amp;lt;?php echo __(&#39;Project details&#39;);?&amp;gt;&amp;lt;/h3&amp;gt;
+    &amp;lt;dl&amp;gt;
+        &amp;lt;dt&amp;gt;&amp;lt;?php echo __(&#39;Description&#39;);?&amp;gt;&amp;lt;/dt&amp;gt;
+        &amp;lt;dd&amp;gt;&amp;lt;?php echo $project[&#39;Project&#39;][&#39;description&#39;];?&amp;gt;&amp;lt;/dd&amp;gt;
+        &amp;lt;dt&amp;gt;&amp;lt;?php echo __(&#39;Budget&#39;);?&amp;gt;&amp;lt;/dt&amp;gt;
+        &amp;lt;dd&amp;gt;&amp;lt;?php printf(&#34;%.2f&amp;thinsp;kCHF&#34;, $project[&#39;Project&#39;][&#39;budget&#39;]);?&amp;gt;&amp;lt;/dd&amp;gt;
+    &amp;lt;/dl&amp;gt;
+
+    &amp;lt;?php echo $ajax-&gt;divEnd($div_string); ?&amp;gt;
+    &amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;?php endforeach; ?&amp;gt;
+&amp;lt;/table&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;If you want to go one step further, you can try to show/hide the ajax links as well. At first, only &lt;em&gt;show details&lt;/em&gt; is visible. When details are visible, only &lt;em&gt;hide details&lt;/em&gt; can be seen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1] &lt;a href=&#34;http://www.reversefolds.com/articles/show/ajax&#34;&gt;AJAX cakePHP&lt;/a&gt;, ReverseFolds&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Model-View-Controller-Architektur</title>
+      <link>http://www.mwellner.de/2010/04/model-view-controller-architektur/</link>
+      <pubDate>Thu, 08 Apr 2010 09:27:54 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2010/04/model-view-controller-architektur/</guid>
+      <description>&lt;p&gt;MVC ist ein Begriff, der bei Webanwendungen mit Datenbank-Zugriff häufig auftaucht. Derzeit arbeite ich mit mit dem MVC-orientierten &lt;a href=&#34;http://cakephp.org/&#34;&gt;cakePHP&lt;/a&gt;, um eine interne ERP-Lösung zu entwickeln. Jedoch enthält die Webseite eines anderen Entwicklungssystems eine schön geschriebene und sehr anschauliche Beschreibung des MVC-Konzepts (overview [Kohana User Guide]). Anhand des Beispiels einer Bank werden die grundlegenden Eigenschaften dieser Architektur beschrieben und Regeln für die Gestaltung formuliert. Meine derzeitige ERP-Beispiel-Lösung bedarf definitiv einer Überarbeitung&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

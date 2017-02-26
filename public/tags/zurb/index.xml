@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zurb on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/zurb/index.xml</link>
+    <description>Recent content in Zurb on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/zurb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ZURB Foundation</title>
+      <link>http://www.mwellner.de/2016/01/zurb-foundation/</link>
+      <pubDate>Fri, 08 Jan 2016 22:57:47 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2016/01/zurb-foundation/</guid>
+      <description>
+
+&lt;p&gt;In the past week, I explored &lt;a href=&#34;http://foundation.zurb.com/&#34; title=&#34;Foundation&#34; target=&#34;_blank&#34;&gt;Foundation&lt;/a&gt;, the &amp;#8220;most advanced responsive front-end framework in the world&amp;#8221; &amp;ndash; a bold statement.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_6455&#34; style=&#34;width: 844px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2.jpg&#34; alt=&#34;Foundation 6&#34; width=&#34;834&#34; height=&#34;526&#34; class=&#34;size-full wp-image-6455&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2.jpg 834w, http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-350x221.jpg 350w, http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-238x150.jpg 238w, http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-150x95.jpg 150w&#34; sizes=&#34;(max-width: 834px) 100vw, 834px&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Foundation 6
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;what-is-a-responsive-front-end-framework&#34;&gt;What is a responsive front-end framework?&lt;/h3&gt;
+
+&lt;p&gt;A responsive website displays its content on any device size in a meaningful way. Imagine a horizontal navigation menu, which is perfect on a large screen. That same menu would look totally crammed on a mobile phone screen. Therefore the site switches to a compact version of the same menu, e.g. with a button that extends. The same principle goes for textual content, which can be multi-column on large screens and single-column on small screens.&lt;/p&gt;
+
+&lt;p&gt;In the end, front-end frameworks provide a number of building blocks that define the look and feel of a website. There is a big number of such frameworks, &lt;a href=&#34;http://getbootstrap.com/&#34; title=&#34;Bootstrap&#34; target=&#34;_blank&#34;&gt;Bootstrap&lt;/a&gt; is surely the most popular one, but there are various top-x lists (e.g. &lt;a href=&#34;http://www.hotscripts.com/blog/top-10-frontend-development-frameworks/&#34; title=&#34;Top 10 Frontend Development Frameworks&#34; target=&#34;_blank&#34;&gt;Top 10 Front-end Development Frameworks&lt;/a&gt;). The choice of a framework is therefore not an easy one.&lt;/p&gt;
+
+&lt;p&gt;I focussed on Foundation, with a short look on Bootstrap on the last day. Both frameworks are sophisticated frameworks with a large community behind. They offer responsive grid classes.&lt;/p&gt;
+
+&lt;h3 id=&#34;grid-system&#34;&gt;Grid system&lt;/h3&gt;
+
+&lt;p&gt;One of the most common tasks is to define the responsive behaviour by means of grid columns. A grid row contains 12 columns, each grid element can spread over a number of those 12 columns. And with adding prefixes for small, medium or large screens, the responsive behaviour is already defined.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Foundation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;html&#34;&gt;&amp;lt;div class=&#34;row&#34;&amp;gt;
+  &amp;lt;div class=&#34;small-2 large-4 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;small-4 large-4 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;small-6 large-4 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&#34;row&#34;&amp;gt;
+  &amp;lt;div class=&#34;large-3 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;large-6 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;large-3 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Bootstrap&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;html&#34;&gt;&amp;lt;div class=&#34;row&#34;&amp;gt;
+  &amp;lt;div class=&#34;col-xs-12 col-md-8&#34;&amp;gt;.col-xs-12 .col-md-8&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;col-xs-6 col-md-4&#34;&amp;gt;.col-xs-6 .col-md-4&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&#34;row&#34;&amp;gt;
+  &amp;lt;div class=&#34;col-xs-6 col-md-4&#34;&amp;gt;.col-xs-6 .col-md-4&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;col-xs-6 col-md-4&#34;&amp;gt;.col-xs-6 .col-md-4&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;col-xs-6 col-md-4&#34;&amp;gt;.col-xs-6 .col-md-4&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Although the functionality is very much the same, the Foundation syntax is easier to read and understand than the Bootstrap syntax.&lt;/p&gt;
+
+&lt;p&gt;The Foundation grid also offers more features, namely the block grid. Imagine you need five evenly-spaced columns. That is impossible to achieve with the standard 12-column grid. But using the &lt;a href=&#34;http://foundation.zurb.com/sites/docs/grid.html#block-grids&#34; title=&#34;Block grids&#34; target=&#34;_blank&#34;&gt;block grid&lt;/a&gt;, this task is quite easy to achieve. In the new version 6, Foundation has introduced the &lt;a href=&#34;http://foundation.zurb.com/sites/docs/flex-grid.html&#34; title=&#34;Foundation Flex Grid&#34; target=&#34;_blank&#34;&gt;flex grid&lt;/a&gt;, using &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes&#34; title=&#34;Using CSS flexible boxes&#34; target=&#34;_blank&#34;&gt;flexbox&lt;/a&gt; capabilities, which make some alignment scenarios much easier to achieve. Just consider the nightmare of vertical alignment of horizontally aligned items.&lt;/p&gt;
+
+&lt;h3 id=&#34;navigation&#34;&gt;Navigation&lt;/h3&gt;
+
+&lt;p&gt;Foundation offers quite some menu versions. The &lt;a href=&#34;http://foundation.zurb.com/sites/docs/responsive-navigation.html&#34; title=&#34;Responsive navigation&#34; target=&#34;_blank&#34;&gt;responsive navigation&lt;/a&gt; pattern is the most advanced one, but I found it a little difficult to adapt to the needs of the prototype. Just take a look at the markup.&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;html&#34;&gt;&amp;lt;ul class=&#34;vertical menu&#34; data-responsive-menu=&#34;drilldown medium-dropdown&#34; style=&#34;width: 300px;&#34;&amp;gt;
+  &amp;lt;li class=&#34;has-submenu&#34;&amp;gt;
+    &amp;lt;a href=&#34;#&#34;&amp;gt;Item 1&amp;lt;/a&amp;gt;
+    &amp;lt;ul class=&#34;vertical submenu menu&#34; data-submenu id=&#34;m2&#34;&amp;gt;
+      &amp;lt;li class=&#34;has-submenu&#34;&amp;gt;
+        &amp;lt;a href=&#34;#&#34;&amp;gt;Item 1A&amp;lt;/a&amp;gt;
+        &amp;lt;ul class=&#34;vertical submenu menu&#34; data-submenu id=&#34;m3&#34;&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1A&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1B&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1C&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1D&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1E&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+        &amp;lt;/ul&amp;gt;
+      &amp;lt;/li&amp;gt;
+      &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1B&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li class=&#34;has-submenu&#34;&amp;gt;
+    &amp;lt;a href=&#34;#&#34;&amp;gt;Item 2&amp;lt;/a&amp;gt;
+    &amp;lt;ul class=&#34;vertical submenu menu&#34; data-submenu&amp;gt;
+      &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 2A&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+      &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 2B&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li class=&#34;has-submenu&#34;&amp;gt;
+    &amp;lt;a href=&#34;#&#34;&amp;gt;Item 3&amp;lt;/a&amp;gt;
+    &amp;lt;ul class=&#34;vertical submenu menu&#34; data-submenu&amp;gt;
+      &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 3A&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+      &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 3B&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;
+  &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;So I used just basic &lt;a href=&#34;http://foundation.zurb.com/sites/docs/visibility.html&#34; title=&#34;Visibility classes&#34; target=&#34;_blank&#34;&gt;visibility classes&lt;/a&gt; to quickly solve the challenge of the prototype.&lt;/p&gt;
+
+&lt;h3 id=&#34;forms&#34;&gt;Forms&lt;/h3&gt;
+
+&lt;p&gt;The form implementation went quite smoothly, as Foundation provides minimal styling for the normal &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form&#34; title=&#34;&lt;form&gt;&amp;rdquo; target=&amp;rdquo;_blank&amp;rdquo;&amp;gt;HTML form&lt;/a&gt; elements.&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;I enjoyed working with Foundation a lot. It seems to be a well-elaborated, feature-rich and customizable framework. It is surely a matter of personal taste, but I liked it more than Bootstrap.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

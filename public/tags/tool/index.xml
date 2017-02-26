@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/tool/index.xml</link>
+    <description>Recent content in Tool on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/tool/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Correcting CiteULike when Using with Natbib, sed</title>
+      <link>http://www.mwellner.de/2006/06/correcting-citeulike-when-using-with-natbib-sed/</link>
+      <pubDate>Sun, 18 Jun 2006 21:12:47 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2006/06/correcting-citeulike-when-using-with-natbib-sed/</guid>
+      <description>
+
+&lt;p&gt;Using &lt;a href=&#34;http://www.citeulike.org&#34;&gt;CiteULike&lt;/a&gt; for administrating my paper bibliographic information is quite nice. I have all the information I need for citing the sources in papers, as CiteULike provides export capability for BibTeX.&lt;/p&gt;
+
+&lt;p&gt;The problem with this approach and the package &lt;em&gt;natbib&lt;/em&gt; is that URL addresses, ISSN numbers and DOI stuff is used for creating the bibliography, looking nasty in my opinion. Therefore I used the powerful stream editor &lt;a href=&#34;https://de.wikipedia.org/wiki/Sed_%28Unix%29&#34;&gt;sed&lt;/a&gt; to delete these lines from my BibTeX file and also adding curly braces around capital letters in the title.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CorrectCiteULike.sed&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;`&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;correcting-mistakes-of-citeulike-bibtex-export-tool-br&#34;&gt;Correcting Mistakes of CiteULike BibTeX Export Tool&lt;br /&gt;&lt;/h1&gt;
+
+&lt;h1 id=&#34;delete-url-lines-look-nasty-with-natbib-br&#34;&gt;delete URL lines (look nasty with natbib)&lt;br /&gt;&lt;/h1&gt;
+
+&lt;p&gt;/url =/ d&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;delete-issn-lines-look-nasty-with-natbib-br&#34;&gt;delete ISSN lines (look nasty with natbib)&lt;br /&gt;&lt;/h1&gt;
+
+&lt;p&gt;/issn =/ d&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;delete-doi-lines-look-nasty-with-natbib-br&#34;&gt;delete DOI lines (look nasty with natbib)&lt;br /&gt;&lt;/h1&gt;
+
+&lt;p&gt;/doi =/ d&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;create-curly-braces-around-capital-letters-in-titles-br&#34;&gt;create curly braces around capital letters in titles&lt;br /&gt;&lt;/h1&gt;
+
+&lt;p&gt;/\ttitle = {[^{]/  s/[A-Z]/{&amp;amp;}/g&lt;br /&gt;
+`&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Makefile&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All you have to do now is to include the sed command in your Makefile, right in front of the bibtex command.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+sed -i -f correctCiteULike.sed exported_bibtex_file.bib&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Database for Bibliographic Information</title>
+      <link>http://www.mwellner.de/2005/07/online-database-for-bibliographic-information/</link>
+      <pubDate>Thu, 28 Jul 2005 21:04:20 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2005/07/online-database-for-bibliographic-information/</guid>
+      <description>&lt;p&gt;The common fate of scientists is to read papers. The problem is to maintain the overview over that ever increasing heap of papers and to be able to cite any of them. If you are working mainly on one computer, a program will help to organize and adminsitrate the bibliographical information. But now imagine you are working on multiple systems, always needing to carry your database with you. That really sucks.&lt;/p&gt;
+
+&lt;p&gt;The solution is an online database! I found &lt;a href=&#34;http://www.citeulike.org&#34;&gt;CiteULike&lt;/a&gt; and I&amp;#8217;m really impressed. It&amp;#8217;s free and seems very practical. You even can add articles with one special link, provided the website is supported. But my favorite paper-search websites (&lt;a href=&#34;https://ecopyright.ieee.org/xplore/ie-notice.html&#34;&gt;IEEE Xplore&lt;/a&gt; and &lt;a href=&#34;http://medline.cos.com&#34;&gt;MedLine&lt;/a&gt;{.broken_link}) are included, so that will save me a lot of work.&lt;/p&gt;
+
+&lt;p&gt;The database supports the BibTex format for exporting data, what is really convenient for me to include into papers. So that really seems a nice tool to work with!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Json on mathias wellner</title>
+    <link>http://www.mwellner.de/en/tags/json/index.xml</link>
+    <description>Recent content in Json on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/en/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fighting with JSON</title>
+      <link>http://www.mwellner.de/en/2016/11/fighting-with-json/</link>
+      <pubDate>Fri, 18 Nov 2016 16:47:25 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/en/2016/11/fighting-with-json/</guid>
+      <description>
+
+&lt;p&gt;In my current project, I had to deal with huge JSON files, which contain the order and properties of our layout elements.
+For CSS styling purposes, I had to move one particular array item to the end, create a new object and move all existing
+elements inside of that new object. This was tedious work when I did that manually.&lt;/p&gt;
+
+&lt;p&gt;So I decided to develop a little C# Console application, taking care of that for me. After a few hours I managed to
+complete it &amp;ndash; and here are my learnings.&lt;/p&gt;
+
+&lt;h4 id=&#34;library&#34;&gt;Library&lt;/h4&gt;
+
+&lt;p&gt;I went for &lt;a href=&#34;http://www.newtonsoft.com/json&#34;&gt;JSON.Net&lt;/a&gt;, which is the de-facto standard for .NET.&lt;/p&gt;
+
+&lt;h4 id=&#34;parsing&#34;&gt;Parsing&lt;/h4&gt;
+
+&lt;p&gt;The problem with JSON is that you can get different types (array, object). Hence, we do not want to be too type-specific
+to be able to cast to the expected type. And we have the wonderful &lt;a href=&#34;https://msdn.microsoft.com/de-de/library/dd264741.aspx&#34;&gt;dynamic&lt;/a&gt;
+type declaration, which prevents compile-time type checks. So we use &lt;em&gt;dynamic&lt;/em&gt; as long in the line as possible.&lt;/p&gt;
+
+&lt;pre&gt;
+dynamic json = JsonConvert.DeserializeObject(jsonString)
+dynamic element = json.GetValue(&#34;Element&#34;);
+&lt;/pre&gt;
+
+&lt;h4 id=&#34;working-with-elements&#34;&gt;Working with Elements&lt;/h4&gt;
+
+&lt;p&gt;I found two techniques for selecting a particular element in the JSON tree. You can either use &lt;a href=&#34;http://www.newtonsoft.com/json/help/html/SelectToken.htm&#34; target=&#34;_blank&#34;&gt;SelectToken&lt;/a&gt;, which works best for nested objects. Alternatively you can also use &lt;a href=&#34;https://msdn.microsoft.com/de-de/library/bb397906.aspx&#34; target=&#34;_blank&#34;&gt;LINQ queries&lt;/a&gt; like FirstOrDefault().&lt;/p&gt;
+
+&lt;p&gt;To remove or add items, I converted to &lt;a href=&#34;http://www.newtonsoft.com/json/help/html/t_newtonsoft_json_linq_jarray.htm&#34; target=&#34;_blank&#34;&gt;JArray&lt;/a&gt;, which provides Add() and Remove() functionality.&lt;/p&gt;
+
+&lt;p&gt;One important thing is to clone elements, which are inserted at a different position. Use &lt;a href=&#34;http://www.newtonsoft.com/json/help/html/M_Newtonsoft_Json_Linq_JToken_DeepClone.htm&#34; target=&#34;_blank&#34;&gt;DeepClone()&lt;/a&gt; to get your new element.&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;After falling in the trap of quickly hand-editing a large JSON file, I developed a small command-line tool to do the modifications I needed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

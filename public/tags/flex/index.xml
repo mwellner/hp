@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flex on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/flex/index.xml</link>
+    <description>Recent content in Flex on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/flex/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comparis-Relaunch</title>
+      <link>http://www.mwellner.de/2016/06/comparis-relaunch/</link>
+      <pubDate>Thu, 30 Jun 2016 20:10:52 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2016/06/comparis-relaunch/</guid>
+      <description>&lt;p&gt;Am Dienstag ging ein Teil der Comparis-Seite im neuen Design live. Noch sind wir am Testen, wie gut das bei den Benutzern ankommt, aber schon bald werden auch weitere Applikationen im neuen Kleid erstrahlen. Es ist für Außenstehende vermutlich schwer vorstellbar, welcher Aufwand hinter so einem Relaunch steckt. Gern möchte ich an einem auf den ersten Blick einfachen Beispiel die Komplexität erläutern, die in vielen kleinen Details steckt.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_6721&#34; style=&#34;width: 904px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/06/kk1.png&#34; alt=&#34;Krankenkassenvergleich, Einstiegsseite&#34; width=&#34;894&#34; height=&#34;545&#34; class=&#34;size-full wp-image-6721&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/06/kk1.png 894w, http://www.mwellner.de/wp-uploads/2016/06/kk1-350x213.png 350w, http://www.mwellner.de/wp-uploads/2016/06/kk1-246x150.png 246w, http://www.mwellner.de/wp-uploads/2016/06/kk1-150x91.png 150w&#34; sizes=&#34;(max-width: 894px) 100vw, 894px&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Krankenkassenvergleich, Einstiegsseite
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Wir sehen die Einstiegsseite für den Krankenkassen-Vergleich, zentrales Element sind die drei Kästchen. Die zwei linken in grau lassen eine Auswahl zu, entweder man ist schon versichert in der Schweiz oder man ist damit zum ersten Mal konfrontiert. Der grüne Schaltknopf rechts führt weiter zu den genaueren Eingaben.&lt;/p&gt;
+
+&lt;p&gt;Der interessante Fall tritt dann auf, wenn man einen etwas kleineren Bildschirm hat oder das Fenster verkleinert. Dann hat die linke Box plötzlich zwei Zeilen. Und von den rechten zwei Elementen erwartet man, dass sie die gleiche Höhe haben und die Inhalte vertikal zentriert sind. Das gestaltet sich mit HTML und CSS meist schwierig, erst durch den relativ neuen &lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes&#34; title=&#34;Using CSS flexible boxes&#34; target=&#34;_blank&#34;&gt;Flexbox-Ansatz&lt;/a&gt; wurden derartige Gestaltungsaufgaben einfacher zu bewältigen. Wir nutzen das auch für unser Grid-System (&lt;a href=&#34;http://foundation.zurb.com/sites/docs/flex-grid.html&#34; title=&#34;Foundation Flex Grid&#34; target=&#34;_blank&#34;&gt;Foundation Flex Grid&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Und so beschäftige ich mit seit drei Wochen mit unzähligen Bugs, die von kleinen Layout-Anpassungen bis zu völlig wüstem Erscheinungsbild auf bestimmten Browsern reichen. Viele sind dann bei genauerem Hinschauen recht einfach zu lösen, einige werden uns aber noch länger verfolgen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

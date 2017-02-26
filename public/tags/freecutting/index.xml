@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freecutting on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/freecutting/index.xml</link>
+    <description>Recent content in Freecutting on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/freecutting/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DVD vom Theaterstück &amp;#8220;Da waren&amp;#8217;s nur noch neun&amp;#8221;</title>
+      <link>http://www.mwellner.de/2008/07/dvd-vom-theaterst%C3%BCck-</link>
+      <pubDate>Thu, 10 Jul 2008 23:53:55 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/07/dvd-vom-theaterst%C3%BCck-</guid>
+      <description>&lt;p&gt;Wäre es nicht schön, unser Theaterstück Da waren&amp;#8217;s nur noch neun als DVD zu haben? Nunmehr, ungefähr ein Monat nach der letzten Vorstellung, ist es soweit &amp;#8212; die DVD hat das Licht des Brenners erblickt. Es war eine schwere Geburt. Für die Technik-Begeisterten hier ein paar Details, wie ich das Ganze gemacht habe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aufnahme&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mit einem handlichen Camcorder (Panasonic HDC-SD5) und Stativ nahmen wir das Theaterstück auf. Die Kamera war ganz hinten positioniert, auf einem Tisch bei den Scheinwerfern. Leider hört man auf dem Film die knackenden Geräusche, die durch Erhitzen und Abkühlen der Scheinwerfergehäuse entstehen. Aber damit war der Überblick gegeben und auch ein paar begeisterte Zuschauer im Bild.&lt;/p&gt;
+
+&lt;p&gt;Problematisch ist die richtige Belichtung bei Theaterbeleuchtung. Wenn man die Kamera automatisch arbeiten lässt, erscheinen die Gesichter zu hell (überbelichtet), auch der speziell dafür gedachte Aufnahmemodus löst dieses Problem nicht richtig. Am Ende ist es doch besser, die Blende (IRIS) von Hand einzustellen. Abrupte Belichtungswechsel sind dann aber nicht so gut, meinen sehr dunkel ausgeleuchteten Todesschuss sieht man beispielsweise überhaupt nicht.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pinnacle Studio 11: AVCHD nach AVI&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Die Kamera verwendet ein etwas seltsames Format für die Videodaten, nämlich AVCHD (&lt;a href=&#34;http://de.wikipedia.org/wiki/Advanced_Video_Codec_High_Definition&#34;&gt;Wikipedia-Eintrag&lt;/a&gt;). Das versteht momentan so gut wie kein Schnittprogramm, außer dem mitgelieferten Pinnacle Studio 11. Damit wandelte ich die Videodaten ins gebräuchliche AVI-Format, damit ich sie später auch gut weiterverwenden kann. Die Filmdatei hatte dadurch eine Größe von 22 GB, was meine externe Festplatte vor ein Problem stellte, da sie solche großen Dateien nicht verarbeiten kann. Deshalb erstellte ich einzelne Dateien, die nicht größer als 4 GB sein durften.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Final Cut Pro: AVI nach MP2 und Tonspur&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Um auf die für eine DVD maximal möglichen 4.7 GB zu kommen, muss man die Videodaten komprimieren. Mit &lt;a href=&#34;http://www.apple.com/de/finalcutpro/&#34;&gt;Final Cut Pro&lt;/a&gt; und der Einstellung &lt;em&gt;&amp;#8220;DVD 150 Minuten, hohe Qualität&amp;#8221;&lt;/em&gt; konnte ich nach vielen Versuchen das Filmmaterial auf eine praktikable Größe zusammen stauchen. Dafür schuftete der Apple-Rechner im Schneideraum der ETH (freecutting) mehrere Tage. Nebenbei entstand auch die Tonspur des Films als separate Datei (Stereo).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DVD Studio Pro: DVD erstellen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Am Ende hieß es alle Komponenten zu einer DVD zusammenzustellen. Man nehme eine Videospur (wie oben beschrieben), eine Tonspur (kriegt man auch ganz einfach), ein Menübild (unseren Flyer) und ein Menümusikstück (Zehn kleine Jägermeister), rühre alles gut durch &amp;ndash; und fertig ist die DVD. Ich bin jedenfalls froh, dass es diesen freecutting-Raum im Hauptgebäude der ETH gibt, dort findet man alles, was man braucht.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nachtrag (Oktober 2009):&lt;/strong&gt; Die ETH hat ihre Dienstleistung freecutting-Raum eingestellt. Mittlerweile habe ich zu Hause die nötige Software (Adobe Premiere CS4) und kann daheim schneiden.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

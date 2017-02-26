@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cave on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/cave/index.xml</link>
+    <description>Recent content in Cave on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/cave/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rudern mit Wettbewerbern</title>
+      <link>http://www.mwellner.de/2008/12/rudern-mit-wettbewerbern/</link>
+      <pubDate>Tue, 09 Dec 2008 09:11:28 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/12/rudern-mit-wettbewerbern/</guid>
+      <description>&lt;p&gt;Heute beginnt die Studie mit Wettbewerbern in unserem &lt;a href=&#34;http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html&#34;&gt;Rudersimulator&lt;/a&gt;. Bis zum Jahresende werden zehn Probandinnen und Probanden gegen die virtuellen Gegner antreten. Wir wollen herausfinden, ob man in Stresssituationen sein Verhalten &amp;auml;ndert.&lt;/p&gt;
+
+&lt;p&gt;Nachtrag: Die beiden ersten Profis brachten das System an seine Grenzen, die maximal zul&amp;auml;ssige Geschwindigkeit wurde &amp;uuml;berschritten. Deshalb verbessern wir noch ein paar Details, damit das Ganze dann funktioniert.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ETH Life berichtet über Rudersimulator</title>
+      <link>http://www.mwellner.de/2008/08/eth-life-berichtet-%C3%BCber-rudersimulator/</link>
+      <pubDate>Fri, 08 Aug 2008 09:37:08 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/08/eth-life-berichtet-%C3%BCber-rudersimulator/</guid>
+      <description>&lt;p&gt;Unser Hausblatt ETH Life berichtet unter dem Titel Rudern als sei&amp;#8217;s echt &amp;uuml;ber das Rudersimulator-Projekt. Inzwischen ist die erste Studie mit zehn Teilnehmern abgeschlossen, es ging um die Reaktion auf virtuelles Publikum. Wir sind momentan am Auswerten und erw&amp;auml;gen eine Publikation der Ergebnisse.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtuelles Rudern</title>
+      <link>http://www.mwellner.de/2008/02/virtuelles-rudern/</link>
+      <pubDate>Thu, 28 Feb 2008 20:54:07 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2008/02/virtuelles-rudern/</guid>
+      <description>&lt;p&gt;Nicht mehr lange, dann können wir endlich mit den ersten Studien im Rudersimulator beginnen. Der Aufbau steht weitestgehend, nur die Integration des Motors ist noch nicht ganz abgeschlossen. Dies ist ein sehr kritischer Teil, weil bei einem Programmfehler der Proband zu Schaden kommen könnte. Deshalb müssen alle Eventualitäten berücksichtigt werden.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;http://www.flickr.com/photos/mwellner/2295585373/&#34;&gt;&lt;img alt=&#34;Virtual Rowing&#34; src=&#34;http://farm4.static.flickr.com/3253/2295585373_039dc15199.jpg&#34; title=&#34;Virtual Rowing&#34; width=&#34;500&#34; height=&#34;334&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Virtuelles Rudern&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Under Pressure</title>
+      <link>http://www.mwellner.de/2007/05/under-pressure/</link>
+      <pubDate>Thu, 10 May 2007 20:15:10 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2007/05/under-pressure/</guid>
+      <description>&lt;p&gt;It&amp;#8217;s done. A last-minute demonstration with our new CAVE setup today was a stunning success. Everything worked fine, we could show a simple example of our rowing simulator project. We had the oar displayed on the screen, and a rowing sound was played when it penetrated into the water. Furthermore we could show trees with singing birds and a human figurine making a speech. Considering the minimal preparation time (we switched the whole system on yesterday at 5 PM), this was a remarkable achievement by our team.&lt;/p&gt;
+
+&lt;p&gt;Interesting to see was how people react under pressure. While some got upset I got extremely relaxed. Just too many things were happening, too many conflicting demands arising, so I found myself in a not so much caring mood. Or maybe I did care about too many things at the same time. Anyways, an interesting observation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anything Flows</title>
+      <link>http://www.mwellner.de/2007/05/anything-flows/</link>
+      <pubDate>Thu, 03 May 2007 23:05:14 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2007/05/anything-flows/</guid>
+      <description>&lt;p&gt;Es fließt, nimmt Gestalt an und geht vorwärts. Dies trifft sowohl für meine verbleibende Doktoranden-Zeit zu als auch für das Theaterstück. Die Zeithorizonte mögen verschieden sein, aber vom generellen positiven Gefühl nehmen sich beide zur Zeit wenig.&lt;/p&gt;
+
+&lt;p&gt;Im heutigen PhD Seminar sollte ich neben einem Rückblick auf bisherige Arbeiten auch eine Vision für die Zukunft entwickeln. In der letzten Woche empfand ich deshalb einen gewissen Erwartungsdruck, sollte ich doch unserem neuen technischen Wunderwerk (CAVE-Aufbau) einen Sinn geben, eine wissenschaftlich fundierte Daseinsberechtigung. Glücklicherweise fand sich eine tragfähige Idee, welche das Umfeld der Sportwissenschaften mit Ideen der Präsenzforschung verbindet. Ich las mir ein Standardwerk der Sportwissenschaften durch, im Hinblick auf eine mögliche Umsetzung mit Mitteln der virtuellen Realität. Und dabei stieß ich auf das Problem des Leistungseinbruchs in Wettkampfsituationen (Choking). Dies ist ideal, hat man hier doch ein gut erforschtes reales Phänomen mit einer starken emotionalen Reaktion, welche sich durch entsprechende Messmethoden hoffentlich gut erfassen lässt. Dies konnte ich im Vortrag anhand des anschaulichen Beispiels Elfmeter-Schießen des Schweizer Fußball-Teams während der letzten Weltmeisterschaft einprägsam darstellen. Somit war es insgesamt ein guter Vortrag mit neuen Ideen für meine Forschung, welche auch auf sehr positive Resonanz stießen. Ich bin zufrieden &amp;#8211; und müde.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

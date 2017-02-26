@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Configure En on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/configure-en/index.xml</link>
+    <description>Recent content in Configure En on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/configure-en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Installing and Customizing WordPress</title>
+      <link>http://www.mwellner.de/2009/11/installing-and-customizing-wordpress/</link>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2009/11/installing-and-customizing-wordpress/</guid>
+      <description>&lt;p&gt;It&amp;#8217;s been a week since I moved my Weblog from &lt;a href=&#34;http://blogs.ethz.ch&#34;&gt;ETH Weblog services&lt;/a&gt; to my own server. This move has been a great success so far. In this post I would like to share some initial problems and how I overcame them and which plugins I decided to use.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Installation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Although WordPress claims it has a 5 Minute installation, this took much longer for me. The reason was that I had to install the MySQL database and the PHP support for MySQL on our server. But that was still not enough, the webserver had to be restarted for these changes to take effect. This is the complete list of commands for our server (Debian-Linux, Apache), be aware that you need sudo rights to do all of these operations.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;user@server:~$&amp;lt;/strong&amp;gt; sudo apt-get install mysql-client&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;user@server:~$&amp;lt;/strong&amp;gt; sudo apt-get install php5-mysql&amp;lt;br /&amp;gt;
+&amp;lt;strong&amp;gt;user@server:~$&amp;lt;/strong&amp;gt; sudo /etc/init.d/apache2 restart&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;After these preparations, the actual installation was easy and fast. I downloaded the most recent WordPress version, unpacked it and copied it in my server&amp;#8217;s www directory. Then I opened the wp-admin/install.php script with a web browser and it worked in five minutes from there.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Selecting a theme&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The first thing I really wanted was a cool theme. I wanted to have at least a two-column design with different backgrounds for the posts and the sidebar(s). The sidebar needed to be costumizable with widgets. And it should look cool, of course! After trying a lot of promising themes, I ended up with &lt;a href=&#34;http://wordpress.org/extend/themes/eos&#34;&gt;eos&lt;/a&gt; by &lt;a href=&#34;http://www.srssolutions.com/en/&#34;&gt;sebastianrs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Experimenting with plugins&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The real power of WordPress are the many plugins, developed by a committed community. As in Firefox and Thunderbird, you can easily add and configure plugins for all sorts of functionality. I think that plugins are a major advantage of those programs which use it, because it gives users the ability to add forgotten functions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/akismet/&#34;&gt;Akismet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This pre-installed plugin protects your weblog from comment spam. Just like spam emails, spam comments can be automatically inserted in your post comments to advertise websites. And of course you don&amp;#8217;t want that. For me, Akismet did a wonderful job at the old ETH weblog, catching thousands of comments with spam. A must have!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/all-in-one-seo-pack/&#34;&gt;All in One SEO Pack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;SEO means search engine optimization. This plugin does a number of optimizations to make your website easier to access for search engines. If you want to be found, this makes sense.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/broken-link-checker/&#34;&gt;Broken Link Checker&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This plugin looks for broken links or images and produces a list of them for convenient link fixing. Due to a problem while importing my old posts, most links did not work any more. So this list was about 500 entries long! Luckily I could fix most links with the &lt;em&gt;Search and Replace&lt;/em&gt; plugin, but I still had to go through loads of posts to fix them all.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/flickrpress/&#34;&gt;flickrpress&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Flickrpress lets you integrate flickr images in posts or as widget in the sidebar. You get a frame around the image and an image caption in that frame. Navigation in the flickr stream is also intuitive, you can select a set, tag or just search for a term and all matching images are displayed for selection.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/google-integration-toolkit/&#34;&gt;Google Integration Toolkit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This makes your webpage ready for &lt;a href=&#34;http://www.google.com/analytics/&#34;&gt;Google Analytics&lt;/a&gt; to get detailed statistics, &lt;a href=&#34;http://www.google.com/webmasters/tools/&#34;&gt;Google Webmaster Tools&lt;/a&gt; to see how your page is indexed by Google and other services.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/google-sitemap-generator/&#34;&gt;Google XML Sitemaps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This plugin generates XML sitemaps which also makes it easier for you to be found by search engines.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/podcasting/&#34;&gt;Podcasting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Some of you may enjoy listening to posts instead of reading them on the computer. I am planning to record some of the more elaborate posts and provide them as podcast.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/search-and-replace/&#34;&gt;Search &amp;amp; Replace&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This really saved me a lot of time when I had to correct a huge number of incorrectly imported links. The plugin searches in the database for a string and replaces it with another string. Needless to say that this is a very powerful feature, which could mess things up.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/sociable/&#34;&gt;Sociable&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you use social software like del.icio.us, twitter or facebook, you can easily refer to posts there by clicking on the appropriate button. So you can share interesting content with them.&lt;/p&gt;
+
+&lt;p&gt;WordPress.com Stats&lt;/p&gt;
+
+&lt;p&gt;This gives you a selection of usage stats on your dashboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/wp-typography/&#34;&gt;wp-Typography&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This plugin improves typography by hyphenation, space control and other stuff. Your text will look better afterwards.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wordpress.org/extend/plugins/yet-another-related-posts-plugin/&#34;&gt;Yet Another Related Posts Plugin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This plugin automatically generates a list of related posts at the end of each post. That is a nice feature if readers want to read something similar. The algorithm works pretty well from my experience, but it can be improved by extensive tagging.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Front End on mathias wellner</title>
+    <link>http://www.mwellner.de/en/tags/front-end/index.xml</link>
+    <description>Recent content in Front End on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/en/tags/front-end/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Technical Summit 2016 in Darmstadt</title>
+      <link>http://www.mwellner.de/en/2016/11/technical-summit-2016-in-darmstadt/</link>
+      <pubDate>Tue, 22 Nov 2016 22:33:37 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/en/2016/11/technical-summit-2016-in-darmstadt/</guid>
+      <description>
+
+&lt;p&gt;Soon, I will attend the &lt;a href=&#34;https://www.microsoft.com/germany/technical-summit/default.aspx&#34; target=&#34;_blank&#34;&gt;Technical Summit 2016&lt;/a&gt;, which will take place from Dec 6 to 8 in Darmstadt. This is my first conference for my new employer (&lt;a href=&#34;https://www.conweaver.com/&#34; target=&#34;_blank&#34;&gt;ConWeaver&lt;/a&gt;), where I am working pretty much along the same lines as for &lt;a href=&#34;http://www.comparis.ch&#34; target=&#34;_blank&#34;&gt;Comparis&lt;/a&gt;, meaning front-end development with HTML, CSS and JavaScript and its many derivatives (&lt;a href=&#34;http://sass-lang.com/&#34; target=&#34;_blank&#34;&gt;Sass&lt;/a&gt;, LESS, &lt;a href=&#34;https://www.typescriptlang.org/&#34; target=&#34;_blank&#34;&gt;TypeScript&lt;/a&gt;). A new challenge is &lt;a href=&#34;https://angular.io/&#34; target=&#34;_blank&#34;&gt;Angular&lt;/a&gt;, which has recently reached version 2 and comes with a nodejs-based workflow and with mostly alpha-staged tools around.&lt;/p&gt;
+
+&lt;p&gt;So it is definitely good to get some insights on existing and new technologies in the quickly evolving world of web development.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/mwellner/32727033490/in/album-72157677198199094/&#34; title=&#34;MW_20160911_2589&#34;&gt;
+  &lt;img src=&#34;https://c1.staticflickr.com/1/770/32727033490_87a429a509_b.jpg&#34; width=&#34;1024&#34; height=&#34;683&#34; alt=&#34;MW_20160911_2589&#34;&gt;
+&lt;/a&gt;
+&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to the keynotes, there are up to 6 parallel sessions going on. Some sessions I fancy:&lt;/p&gt;
+
+&lt;h4 id=&#34;apts-cybercrime-cyber-attacks-warfare-and-threats-exposed&#34;&gt;APTs: Cybercrime, Cyber Attacks, Warfare and Threats Exposed&lt;/h4&gt;
+
+&lt;p&gt;In this session, see a live demonstration of the tools and techniques used by cybercriminals and cyber warriors today. We demonstrate what the threat-landscape looks like today, how the attackers penetrate your network, how they make their attacks undetectable from conventional antivirus and evade IDS solutions. We show how they expand their initial foothold to complete domain compromise and finally how they obtain their goal and infiltrate your data. A must see awareness session if you want to understand the threats of today.&lt;/p&gt;
+
+&lt;h4 id=&#34;give-your-apps-a-human-side-through-machine-learning&#34;&gt;Give your apps a human side through Machine Learning&lt;/h4&gt;
+
+&lt;p&gt;The future of machine learning will be invisible; it will exist, you will use machine learning in your everyday lives, and you wouldn’t even know it. Now is a good time to start integrating amazing machine learning features into your applications, as they become integral to our society. The Cognitive Services APIs are practically invisible. You don’t need to build your own complex algorithms to make your application smarter and more powerful. Cognitive Services is a set of ready-made machine learning APIs that allow you to breath intelligence into your application using only simple HTTP calls. In this talk, you will be introduced to the Cognitive Services APIs and see how you can use them to transform your application. This is about the power of machine learning and computer vision at the end of an API call.&lt;/p&gt;
+
+&lt;h4 id=&#34;css-flexbox-the-future-of-user-interface-design&#34;&gt;CSS Flexbox: The Future of User Interface Design&lt;/h4&gt;
+
+&lt;p&gt;My favorite topic&amp;#8230;&lt;/p&gt;
+
+&lt;h4 id=&#34;http-2-8211-the-future-is-now&#34;&gt;HTTP/2 &amp;#8211; The Future is Now&lt;/h4&gt;
+
+&lt;h4 id=&#34;typed-javascript-with-typescript-and-flow&#34;&gt;Typed JavaScript with TypeScript and Flow&lt;/h4&gt;
+
+&lt;h4 id=&#34;introduction-to-react-js&#34;&gt;Introduction to React.js&lt;/h4&gt;
+
+&lt;p&gt;React.js is a game changer for web applications.Made by Facebook for slick, modern user interfaces and able to handleheavy data lifting with brilliant performance, it&amp;#8217;s revolutionised howdevelopers all around the world build their apps.Let&amp;#8217;s explore what makes it special and the core concepts to get you upto speed with the new hot thing in JavaScript!&lt;/p&gt;
+
+&lt;h4 id=&#34;angular-2-modern-html5-applications-for-all-platforms&#34;&gt;Angular 2: Modern HTML5 Applications for all Platforms&lt;/h4&gt;
+
+&lt;h4 id=&#34;yo-asp-net-ndash-what-8217-s-new-and-what-stays-with-asp-net-core-1-0&#34;&gt;Yo ASP.NET &amp;ndash; What&amp;#8217;s new and what stays with ASP.NET Core 1.0&lt;/h4&gt;
+
+&lt;h4 id=&#34;progressive-web-apps-the-web-gets-more-native-and-microsoft-is-part-of-it&#34;&gt;Progressive Web Apps: The web gets more native and Microsoft is part of it&lt;/h4&gt;
+
+&lt;p&gt;So I hope some of you out there will join the fun here in beautiful Darmstadt!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Werkzeuge on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/werkzeuge/index.xml</link>
+    <description>Recent content in Werkzeuge on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/werkzeuge/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Einarbeitung, Werkzeuge</title>
+      <link>http://www.mwellner.de/2005/07/einarbeitung-werkzeuge/</link>
+      <pubDate>Mon, 04 Jul 2005 15:26:18 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2005/07/einarbeitung-werkzeuge/</guid>
+      <description>&lt;p&gt;Ich sitze an meinem Schreibtisch im untersten Stockwerk des Krankenhauses Balgrist. Im Zimmer sind noch drei andere Leute, das Klima ist locker, aber ein jeder macht halt sein Ding. Und mein Ding ist halt momentan die Einarbeitung, wobei ich da auch völlig freie Hand habe. Eine kleine Aufgabe gibt es, ich soll das Programm für das Lokolift-System (der Teil, welcher den Patienten hält) für einen klinischen Test modifizieren. Dafür sind einige Tests notwendig, um dann die Programmänderung durchzuführen. Aber das war auch nicht weiter dringlich, wenn ich das recht verstanden habe.&lt;/p&gt;
+
+&lt;p&gt;Und so schaue ich vor allem in die Simulink-Anleitung hinein, mit Labview werde ich mich später noch eingehender beschäftigen. Daneben überlege ich mir auch, wie ich während der Dissertation möglichst professionell und effizient arbeiten kann. Ich möchte eigentlich auf meine Diplomarbeit noch was draufsetzen. Die folgenden Werkzeuge werde ich wohl zur Textgestaltung und Abbildungserstellung einsetzen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt; als Textsatzsystem (wie gehabt)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vim.org&#34;&gt;Vim&lt;/a&gt; als Editor (auch schon während der Diplomarbeit genutzt)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vim-latex.sourceforge.net&#34;&gt;Vim-LaTeX&lt;/a&gt; LaTeX-Erweiterung für Vim&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/make/&#34;&gt;Makefile&lt;/a&gt; zum Compilieren und Aktualisieren&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnuplot.info&#34;&gt;GNUplot&lt;/a&gt; zum Erstellen der Graphen (ist für Makefile notwendig)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

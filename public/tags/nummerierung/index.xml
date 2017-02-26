@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nummerierung on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/nummerierung/index.xml</link>
+    <description>Recent content in Nummerierung on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/nummerierung/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LaTeX-Ärger, ein Punkt zuviel</title>
+      <link>http://www.mwellner.de/2005/03/latex-%C3%A4rger-ein-punkt-zuviel/</link>
+      <pubDate>Mon, 28 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2005/03/latex-%C3%A4rger-ein-punkt-zuviel/</guid>
+      <description>&lt;p&gt;Bislang habe ich stets über Word-User gelächelt, wenn sie kurz vor Abgabe noch vor irgendwelchen obskuren Problemen standen. Nun hat es mich als passionierten LaTeX-User auch mal erwischt. Der aufgetretene Fehler ist zwar nicht weiter schlimm, aber dennoch nervig.&lt;/p&gt;
+
+&lt;p&gt;Die Überschriften-Nummerierung soll &amp;#8211; laut Vorschrift &amp;#8211; ohne Punkt abschließen, also in der Art &lt;em&gt;2.3.4&lt;/em&gt; und &lt;strong&gt;nicht&lt;/strong&gt; als &lt;em&gt;2.3.4&lt;/em&gt;&lt;strong&gt;.&lt;/strong&gt; Und genau das trat auf, sämtliche Nummerierungen wiesen diese Unart auf, die standardmäßig auch nicht vorgesehen ist. Nach langem Testen bemerkte ich, dass ein kleiner, unscheinbarer Befehl Quell allen Übels war, nämlich &amp;ldquo;\appendix&amp;rdquo;. Der ist aber wichtig, um den Anhang mit neu beginnender Buchstaben-Nummerierung von den normalen Kapiteln zu trennen. Also einfach auskommentieren ist nicht. Und selbst die manuelle Methode versagte, der ins Auge springende Punkt trat wieder auf.&lt;/p&gt;
+
+&lt;p&gt;Nachtrag: Die Lösung für alle KOMA-Script-Klassen ist die Option &lt;strong&gt;pointlessnumbers&lt;/strong&gt;, welche als optionales Argument der Dokumentklasse übergeben wird. Die neue Variante wäre &lt;strong&gt;numbers=noenddot&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

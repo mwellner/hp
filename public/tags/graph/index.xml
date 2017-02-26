@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/graph/index.xml</link>
+    <description>Recent content in Graph on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Matplotlib as alternative to Matlab</title>
+      <link>http://www.mwellner.de/2011/01/matplotlib-as-alternative-to-matlab/</link>
+      <pubDate>Sat, 08 Jan 2011 23:55:04 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2011/01/matplotlib-as-alternative-to-matlab/</guid>
+      <description>&lt;p&gt;Back in the old ETH days, I got used to &lt;a href=&#34;http://en.wikipedia.org/wiki/Matlab&#34;&gt;Matlab&lt;/a&gt;, which we used for a variety of tasks, among them data analysis, figure creation and even real-time control. For the task of figure plotting I have recently discovered &lt;a href=&#34;http://matplotlib.sourceforge.net/&#34;&gt;matplotlib&lt;/a&gt; &amp;ndash; an open source alternative, which can be used by python scripts. The plotting functions sound very familiar for Matlab users. So I am again amazed by the progress of open source software.&lt;/p&gt;
+
+&lt;p&gt;For my current project that deals with testing tools (doing functional and repetitive tests) I will probably make use of the matplotlib functionality to provide some output graphs after tests.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

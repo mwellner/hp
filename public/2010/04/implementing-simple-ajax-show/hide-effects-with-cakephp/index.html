@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta property="og:title" content="Implementing simple ajax show/hide effects with cakePHP" />
+<meta property="og:description" content="There are quite some tutorials on ajax effects out there [1, 2], but most were too complex for my needs. I simply wanted an enhanced index page for projects, which shows some details for each project and more on demand with a sliding effect. So here is what my solution looks like.
+Basics
+I used cakePHP 1.3 RC3. I assume that you have a running cakePHP application with an index view of your main objects of concern." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/" />
+
+
+
+<meta property="article:published_time" content="2010-04-15T09:56:52&#43;00:00"/>
+<meta property="article:modified_time" content="2010-04-15T09:56:52&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Implementing simple ajax show/hide effects with cakePHP"/>
+<meta name="twitter:description" content="There are quite some tutorials on ajax effects out there [1, 2], but most were too complex for my needs. I simply wanted an enhanced index page for projects, which shows some details for each project and more on demand with a sliding effect. So here is what my solution looks like.
+Basics
+I used cakePHP 1.3 RC3. I assume that you have a running cakePHP application with an index view of your main objects of concern."/>
+
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  
+  "headline": "Implementing simple ajax show/hide effects with cakePHP",
+  "url": "http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/",
+  "wordCount": "602",
+  
+  
+  "datePublished": "2010-04-15T09:56:52+00:00",
+  
+  
+  "dateModified": "2010-04-15T09:56:52+00:00",
+  
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mathias Wellner"
+  }
+  
+  ,
+  "keywords": "www,ajax,cakePHP,details,development,div,effect,hide,index,php,programming,show,www"
+  
+}
+</script>
+
+
+
+    <link rel="canonical" href="http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/">
+
+    <title>Implementing simple ajax show/hide effects with cakePHP | mathias wellner</title>
+
+    <!-- combined, minified CSS -->
+    <link href="http://www.mwellner.de/css/style.css" rel="stylesheet" integrity="sha384-Cdt2yG10w21pA8DMpImJIvsLOME686p75OYD9jGCZVWvOol9zkEsaF3ctGEuBXK6" crossorigin="anonymous">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="http://www.mwellner.de/">Startseite</a>
+          
+          
+          <a class="nav-link" href="http://www.mwellner.de/about/">About</a>
+          
+          
+        </nav>
+      </div>
+    </div>
+
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a href="http://www.mwellner.de/" rel="home">mathias wellner</a></h1>
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="http://www.mwellner.de/2010/04/implementing-simple-ajax-show/hide-effects-with-cakephp/">Implementing simple ajax show/hide effects with cakePHP</a></h2>
+    <p class="blog-post-meta"><time datetime="2010-04-15T09:56:52Z">Thu Apr 15, 2010</time> by Mathias Wellner in 
+<i class="fa fa-folder" aria-hidden="true"></i>&nbsp;<a href="/categories/www" rel="category tag">www</a>
+
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/tags/ajax" rel="tag">ajax</a>, <a href="/tags/cakephp" rel="tag">cakePHP</a>, <a href="/tags/details" rel="tag">details</a>, <a href="/tags/development" rel="tag">development</a>, <a href="/tags/div" rel="tag">div</a>, <a href="/tags/effect" rel="tag">effect</a>, <a href="/tags/hide" rel="tag">hide</a>, <a href="/tags/index" rel="tag">index</a>, <a href="/tags/php" rel="tag">php</a>, <a href="/tags/programming" rel="tag">programming</a>, <a href="/tags/show" rel="tag">show</a>, <a href="/tags/www" rel="tag">www</a>
+
+</p>
+  </header>
+  <p>There are quite some tutorials on ajax effects out there [1, 2], but most were too complex for my needs. I simply wanted an enhanced index page for projects, which shows some details for each project and more on demand with a sliding effect. So here is what my solution looks like.</p>
+
+<p><strong>Basics</strong></p>
+
+<p>I used cakePHP 1.3 RC3. I assume that you have a running cakePHP application with an index view of your main objects of concern. You also need to download the <a href="http://www.prototypejs.org/">prototype</a> and <a href="http://script.aculo.us/">scriptaculous</a> scripts and put all js-files into your /app/webroot/js folder.</p>
+
+<p><strong>Activating ajax</strong></p>
+
+<p>In your default layout, you have to include the links to the prototype and scriptaculous scripts in the head section of the template.</p>
+
+<pre name="code" class="php">&lt;!-- file app/views/layout/default.ctp --&gt;
+&lt;head&gt;
+    &lt;!-- existing head settings --&gt;
+    &lt;?php
+    echo $javascript->link('prototype');
+    echo $javascript->link('scriptaculous.js?load=effects');
+    ?&gt;
+&lt;/head&gt;
+</pre>
+
+<p>You also need to activate the AJAX and Javascript helpers in the controller where you want to use it. I prefered to update the app controller, which enables the helpers for all controllers. Your app controller (usually at app/app_controller.php, create if necessary) should include the ajax and javascript helpers like this:</p>
+
+<pre name="code" class="php">&lt;!-- file app/app_controller.php --&gt;
+&lt;?php
+class AppController extends Controller {
+    var $helpers = array('Html', 'Form', 'Ajax', 'Javascript');
+}
+?&gt;
+</pre>
+
+<p><strong>In your view</strong></p>
+
+<p>In your view you can now include id-marked divs and ajax links to control the visibility of these divs. Assuming that your model is named Project, you need to update your index view at /app/views/project/index.ctp. I use two table rows for that. The first row contains the project name, the ajax links for showing/hiding details, and the actions. The second row is invisible at first (display:none) and contains the div which is controlled by the ajax links. To my knowledge it is not possible to hide/show entire table rows, therefore the second row is rendered empty at first. But it looks quite nice with the default alternate background color for table rows.</p>
+
+<p>The real trick here was to leave the second argument for the ajax link empty, linking to the same page. All other examples had links to sub pages implemented there what seemed too complex for my wishes. Of course, this implementation means that the entire content is loaded every time. For huge amounts of data this could be a performance issue.</p>
+
+<pre name="code" class="php">&lt;!-- file app/views/project/index.ctp --&gt;
+&lt;table cellpadding="0" cellspacing="0"&gt;
+&lt;tr&gt;
+    &lt;th>&lt;?php echo $paginator->sort('name');?>&lt;/th&gt;
+    &lt;th class="actions"&gt;&lt;?php __('Actions');?>&lt;/th&gt;
+&lt;/tr&gt;
+&lt;?php
+$i = 0;
+foreach ($projects as $project):
+    $id = $project['Project']['id'];
+    $i++;
+?&gt;
+&lt;tr&gt;
+    &lt;td&gt;
+    &lt;?php echo $project['Project']['name'];?&gt;
+        &lt;?php 
+        // define string for div id
+        $div_string = 'project_fold_'.$i;
+
+    // create ajax link which shows project details
+    echo $ajax->link(
+        'show details',
+        '', 
+        array( 
+        'update' => $div_string, 
+        'loading' => 'Effect.Appear(\''.$div_string.'\')',
+        )
+    );
+
+    // create ajax link which hides project details
+    echo $ajax->link(
+        'hide details',
+        '', 
+        array( 
+        'update' => $div_string, 
+        'loading' => 'Effect.Fade(\''.$div_string.'\')',
+        )
+    );
+    ?&gt;
+    &lt;/td&gt;
+    &lt;td class="actions"&gt;
+    &lt;?php echo $html->link(__('View', true), array('action'=>'view', $id));?&gt;
+    &lt;?php echo $html->link(__('Edit', true), array('action'=>'edit', $id));?&gt;
+    &lt;?php echo $html->link(
+            __('Delete', true), 
+            array( 'action'=>'delete', $id), 
+            null, 
+            sprintf(__('Are you sure you want to delete # %s?', true), $id));
+        ?&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+    &lt;td colspan="2"&gt;
+    &lt;!-- display div which can be shown/hidden by ajax links --&gt;
+    &lt;?php echo $ajax->div($div_string, array('style' => 'display:none')); ?&gt;
+
+    &lt;!-- project details --&gt;
+    &lt;h3&gt;&lt;?php echo __('Project details');?&gt;&lt;/h3&gt;
+    &lt;dl&gt;
+        &lt;dt&gt;&lt;?php echo __('Description');?&gt;&lt;/dt&gt;
+        &lt;dd&gt;&lt;?php echo $project['Project']['description'];?&gt;&lt;/dd&gt;
+        &lt;dt&gt;&lt;?php echo __('Budget');?&gt;&lt;/dt&gt;
+        &lt;dd&gt;&lt;?php printf("%.2f&thinsp;kCHF", $project['Project']['budget']);?&gt;&lt;/dd&gt;
+    &lt;/dl&gt;
+
+    &lt;?php echo $ajax->divEnd($div_string); ?&gt;
+    &lt;/td&gt;
+&lt;/tr&gt;
+&lt;?php endforeach; ?&gt;
+&lt;/table&gt;
+</pre>
+
+<p>If you want to go one step further, you can try to show/hide the ajax links as well. At first, only <em>show details</em> is visible. When details are visible, only <em>hide details</em> can be seen.</p>
+
+<p><strong>References</strong></p>
+
+<p>[1] <a href="http://www.reversefolds.com/articles/show/ajax">AJAX cakePHP</a>, ReverseFolds</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Teilen</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.mwellner.de%2f2010%2f04%2fimplementing-simple-ajax-show%2fhide-effects-with-cakephp%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=http%3a%2f%2fwww.mwellner.de%2f2010%2f04%2fimplementing-simple-ajax-show%2fhide-effects-with-cakephp%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.mwellner.de%2f2010%2f04%2fimplementing-simple-ajax-show%2fhide-effects-with-cakephp%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=http%3a%2f%2fwww.mwellner.de%2f2010%2f04%2fimplementing-simple-ajax-show%2fhide-effects-with-cakephp%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 offset-sm-1 blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>
+      
+      Blog template created by <a href="https://twitter.com/mdo">@mdo</a>, ported to Hugo by <a href='https://twitter.com/mralanorth'>@mralanorth</a>.
+      
+      </p>
+      <p>
+      <a href="#">Zurück zum Anfang</a>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

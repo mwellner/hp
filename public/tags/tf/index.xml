@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tf on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/tf/index.xml</link>
+    <description>Recent content in Tf on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/tf/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Resolving TFS conflicts the hard way</title>
+      <link>http://www.mwellner.de/2013/02/resolving-tfs-conflicts-the-hard-way/</link>
+      <pubDate>Sat, 09 Feb 2013 00:35:07 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2013/02/resolving-tfs-conflicts-the-hard-way/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The problem&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After some merge/check-in operation, I could not resolve conflicts with Visual Studio Conflicts Channel (MSDN has a guide on &lt;a href=&#34;http://msdn.microsoft.com/en-us/library/ms181433%28v=vs.100%29.aspx&#34;&gt;resolving conflicts between two files&lt;/a&gt;). I tried &lt;em&gt;Take Server Version&lt;/em&gt; and &lt;em&gt;Keep Local Version&lt;/em&gt;, but the conflicts were reappearing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The solution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I finally managed to resolve the conflicts by using the command line tool TF. This contains the &lt;a href=&#34;http://msdn.microsoft.com/en-us/library/6yw3tcdy%28v=vs.100%29.aspx&#34;&gt;Resolve Command&lt;/a&gt;. By using the parameter &lt;em&gt;/auto:DeleteConflict&lt;/em&gt; I could remove the conflict.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

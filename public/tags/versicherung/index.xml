@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Versicherung on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/versicherung/index.xml</link>
+    <description>Recent content in Versicherung on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/versicherung/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Start bei comparis.ch</title>
+      <link>http://www.mwellner.de/2013/10/start-bei-comparis.ch/</link>
+      <pubDate>Fri, 04 Oct 2013 20:37:08 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2013/10/start-bei-comparis.ch/</guid>
+      <description>&lt;p&gt;Die ersten Tage bei &lt;a href=&#34;http://www.comparis.ch&#34;&gt;comparis.ch&lt;/a&gt; sind vorüber. Bei Comparis können Verbraucher zum Beispiel Versicherungen vergleichen oder nach Immobilien und Fahrzeugen suchen. Die Entscheidung liegt natürlich beim Verbraucher, Comparis stellt unabhängig und neutral die Daten zur Entscheidungsfindung zur Verfügung.&lt;/p&gt;
+
+&lt;p&gt;Ich bin jetzt im Software-Architektur-Team dabei. Wir unterstützen die anderen Entwickler bei Architekturfragen und entwickeln bestimmte systemweite Komponenten auch selbst. Aber zur Zeit bin ich noch am Einarbeiten und kann anderen nicht wirklich helfen. Technologisch habe ich jetzt zu tun mit&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/visualstudio&#34;&gt;Visual Studio&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://msdn.microsoft.com/en-us/vstudio/ff637362.aspx&#34;&gt;Team Foundation Server&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.asp.net/&#34;&gt;ASP.NET&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.asp.net/mvc/mvc3&#34;&gt;MVC&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34;&gt;HTML&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Css&#34;&gt;CSS&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jquery.com/&#34;&gt;jQuery&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt; und&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Microsoft_SQL_Server&#34;&gt;MS SQL&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ich bin also weg von der Robotik und vollständig in der Webentwicklung gelandet. Das erste Projekt wird sich dann auch gleich mit der Standardisierung von Bedienungselementen befassen. Einige Bereiche der Seite sind schon für Tablets optimiert, langfristig soll dies natürlich überall der Fall sein.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

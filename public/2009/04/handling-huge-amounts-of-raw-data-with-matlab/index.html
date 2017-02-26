@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta property="og:title" content="Handling huge amounts of raw data with Matlab" />
+<meta property="og:description" content="Problem
+The Matlab workspace is limited in size, depending on your system. We reached the workspace limit with a rowing study (10 participants, 1&thinsp;kHz sampling rate, 20 variables, 10 minutes duration). Although the extracted data fits very well in the workspace, the raw data does not. Therefore, a solution is needed with fast access to specific variables. This is needed for feature extraction and later display of data.
+Approach
+Three approaches were used to solve this problem," />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.mwellner.de/2009/04/handling-huge-amounts-of-raw-data-with-matlab/" />
+
+
+
+<meta property="article:published_time" content="2009-04-07T12:12:41&#43;00:00"/>
+<meta property="article:modified_time" content="2009-04-07T12:12:41&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Handling huge amounts of raw data with Matlab"/>
+<meta name="twitter:description" content="Problem
+The Matlab workspace is limited in size, depending on your system. We reached the workspace limit with a rowing study (10 participants, 1&thinsp;kHz sampling rate, 20 variables, 10 minutes duration). Although the extracted data fits very well in the workspace, the raw data does not. Therefore, a solution is needed with fast access to specific variables. This is needed for feature extraction and later display of data.
+Approach
+Three approaches were used to solve this problem,"/>
+
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  
+  "headline": "Handling huge amounts of raw data with Matlab",
+  "url": "http://www.mwellner.de/2009/04/handling-huge-amounts-of-raw-data-with-matlab/",
+  "wordCount": "333",
+  
+  
+  "datePublished": "2009-04-07T12:12:41+00:00",
+  
+  
+  "dateModified": "2009-04-07T12:12:41+00:00",
+  
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mathias Wellner"
+  }
+  
+  ,
+  "keywords": "access,experimental data,matlab,Postgres,raw data,SQL,workspace"
+  
+}
+</script>
+
+
+
+    <link rel="canonical" href="http://www.mwellner.de/2009/04/handling-huge-amounts-of-raw-data-with-matlab/">
+
+    <title>Handling huge amounts of raw data with Matlab | mathias wellner</title>
+
+    <!-- combined, minified CSS -->
+    <link href="http://www.mwellner.de/css/style.css" rel="stylesheet" integrity="sha384-Cdt2yG10w21pA8DMpImJIvsLOME686p75OYD9jGCZVWvOol9zkEsaF3ctGEuBXK6" crossorigin="anonymous">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="http://www.mwellner.de/">Startseite</a>
+          
+          
+          <a class="nav-link" href="http://www.mwellner.de/about/">About</a>
+          
+          
+        </nav>
+      </div>
+    </div>
+
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a href="http://www.mwellner.de/" rel="home">mathias wellner</a></h1>
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="http://www.mwellner.de/2009/04/handling-huge-amounts-of-raw-data-with-matlab/">Handling huge amounts of raw data with Matlab</a></h2>
+    <p class="blog-post-meta"><time datetime="2009-04-07T12:12:41Z">Tue Apr 7, 2009</time> by Mathias Wellner in 
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/tags/access" rel="tag">access</a>, <a href="/tags/experimental-data" rel="tag">experimental data</a>, <a href="/tags/matlab" rel="tag">matlab</a>, <a href="/tags/postgres" rel="tag">Postgres</a>, <a href="/tags/raw-data" rel="tag">raw data</a>, <a href="/tags/sql" rel="tag">SQL</a>, <a href="/tags/workspace" rel="tag">workspace</a>
+
+</p>
+  </header>
+  <p><strong>Problem</strong></p>
+
+<p>The Matlab workspace is limited in size, depending on your system. We reached the workspace limit with a rowing study (10 participants, 1&thinsp;kHz sampling rate, 20 variables, 10 minutes duration). Although the extracted data fits very well in the workspace, the raw data does not. Therefore, a solution is needed with fast access to specific variables. This is needed for feature extraction and later display of data.</p>
+
+<p><strong>Approach</strong></p>
+
+<p>Three approaches were used to solve this problem,</p>
+
+<ol>
+<li>using a relational database (see <a href="http://www.mathworks.com/products/database/">database toolbox</a>),</li>
+<li>storing the raw data in one workspace with multiple variables, and</li>
+<li>storing each raw data variable in one workspace.</li>
+</ol>
+
+<p>Each approach was implemented and the access time to retrieve one variable was the goal criterium. The sample data set had 555k entries.</p>
+
+<p><strong>Results</strong></p>
+
+<p>The relational database system PostgreSQL was tested successfully but could not be used for large amounts of data. Already the storage of one data set took more than half an hour, and after a certain size an error occured with limited heap size. It seems that the driver implementation for Matlab does not allow big amounts of data.</p>
+
+<p>The implementation with the Matlab workspaces was much possible, interestingly single workspaces proved more efficient than one combined workspace (only the desired variable was loaded from the combined workspace).</p>
+
+<p><code>&lt;br /&gt;
+&gt;&gt; clear all&lt;br /&gt;
+&gt;&gt; tic;load combined_workspace variable; toc&lt;br /&gt;
+Elapsed time is 9.0 seconds.&lt;br /&gt;
+&gt;&gt; clear all&lt;br /&gt;
+&gt;&gt; tic; load variable_workspace; toc&lt;br /&gt;
+Elapsed time is 1.1 seconds.&lt;br /&gt;
+</code></p>
+
+<p><strong>Conclusions</strong></p>
+
+<p>Using single workspaces for every variable is the fastest way of accessing huge amounts of raw data. The usage of a relational database system poses additional burdens, but it seems appropriate for smaller amounts of data (participants, block features, extracted data). The advantage over defining all these things in Matlab variables is the powerful SQL syntax for retrieving particular chunks of data. And in addition, the definition of primary keys and other conditions prevents you from inserting dublicate or faulty data in the database.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Teilen</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.mwellner.de%2f2009%2f04%2fhandling-huge-amounts-of-raw-data-with-matlab%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=http%3a%2f%2fwww.mwellner.de%2f2009%2f04%2fhandling-huge-amounts-of-raw-data-with-matlab%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.mwellner.de%2f2009%2f04%2fhandling-huge-amounts-of-raw-data-with-matlab%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=http%3a%2f%2fwww.mwellner.de%2f2009%2f04%2fhandling-huge-amounts-of-raw-data-with-matlab%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 offset-sm-1 blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>
+      
+      Blog template created by <a href="https://twitter.com/mdo">@mdo</a>, ported to Hugo by <a href='https://twitter.com/mralanorth'>@mralanorth</a>.
+      
+      </p>
+      <p>
+      <a href="#">Zurück zum Anfang</a>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flash on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/flash/index.xml</link>
+    <description>Recent content in Flash on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/flash/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Flash ist tot, lang lebe Flash</title>
+      <link>http://www.mwellner.de/2015/12/flash-ist-tot-lang-lebe-flash/</link>
+      <pubDate>Thu, 03 Dec 2015 22:21:35 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2015/12/flash-ist-tot-lang-lebe-flash/</guid>
+      <description>&lt;p&gt;Totgesagte leben länger, so kann man das aktuell wieder angekündigte Ende von Flash interpretieren (siehe ZEIT-Artikel &lt;a href=&#34;http://www.zeit.de/digital/internet/2015-12/flash-player-adobe-tot-animate-cc&#34; title=&#34;Oh mein Gott, sie haben Flash getötet&#34; target=&#34;_blank&#34;&gt;Oh mein Gott, sie haben Flash getötet&lt;/a&gt;). Aber ganz so einfach ist es nicht, bedeutet doch das Umstellen auf &lt;a href=&#34;https://de.wikipedia.org/wiki/HTML5&#34; title=&#34;HTML5&#34; target=&#34;_blank&#34;&gt;HTML5&lt;/a&gt; oder &lt;a href=&#34;https://de.wikipedia.org/wiki/WebGL&#34; title=&#34;WebGL&#34; target=&#34;_blank&#34;&gt;WebGL&lt;/a&gt; eine Menge Arbeit. Und so wird sich der Abschied vom ungeliebten Flash wohl noch ein Weilchen hinziehen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

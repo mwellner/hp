@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nachteile on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/nachteile/index.xml</link>
+    <description>Recent content in Nachteile on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/nachteile/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Matlab &amp;#8212; Intuitiv und einfach?</title>
+      <link>http://www.mwellner.de/2005/04/matlab-</link>
+      <pubDate>Fri, 29 Apr 2005 23:12:58 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2005/04/matlab-</guid>
+      <description>&lt;p&gt;Bislang war ich ja doch ein erklärter Verfechter von Matlab als einer einfachen Programmierwprache, mit der man schnell zu Ergebnissen kommt. Doch heute las ich die Seite eines erklärten Gegners solcher einfachen Skript-Sprachen. Er argumentiert, dass durch die vielen Vereinfachungen &amp;#8211; als da wären:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Variablentypen müssen nicht deklariert werden, sondern ergeben sich beim ersten Aufruf,&lt;/li&gt;
+&lt;li&gt;Automatische Umwandlung von Skalarwerten in Matritzen und&lt;/li&gt;
+&lt;li&gt;Skalarwerte und Vektoren sind Spezialfälle von Matritzen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wegwerf-Programme entstünden, die nicht mehr lesbar seien und für größere Projekte ungeeignet wären. Nun, da bin ich ja gespannt, ob ich mich nach einiger Zeit seiner Kritik anschließe. Die Frage stellt sich halt, welche Alternativen zur Verfügung stehen. Alles in C zu programmieren ist halt nicht wirklich toll und erfordert lange Einarbeitungszeiten.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

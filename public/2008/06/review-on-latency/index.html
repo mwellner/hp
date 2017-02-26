@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<meta property="og:title" content="Review on Latency" />
+<meta property="og:description" content="With virtual environments and realism being the central topic of my dissertation, I did a review on which latencies are acceptable for virtual environments. The goal of this review was to define requirements for our rowing scenario. I would appreciate feedback and comments on this review.
+Two main limitations of realism in virtual environments are a delayed response to user actions and desynchronized events. The cause for these undesired eff ects is the delay of the components and of the architecture as a whole." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.mwellner.de/2008/06/review-on-latency/" />
+
+
+
+<meta property="article:published_time" content="2008-06-30T14:38:03&#43;00:00"/>
+<meta property="article:modified_time" content="2008-06-30T14:38:03&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Review on Latency"/>
+<meta name="twitter:description" content="With virtual environments and realism being the central topic of my dissertation, I did a review on which latencies are acceptable for virtual environments. The goal of this review was to define requirements for our rowing scenario. I would appreciate feedback and comments on this review.
+Two main limitations of realism in virtual environments are a delayed response to user actions and desynchronized events. The cause for these undesired eff ects is the delay of the components and of the architecture as a whole."/>
+
+
+<meta name="generator" content="Hugo 0.18.1" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  
+  "headline": "Review on Latency",
+  "url": "http://www.mwellner.de/2008/06/review-on-latency/",
+  "wordCount": "689",
+  
+  
+  "datePublished": "2008-06-30T14:38:03+00:00",
+  
+  
+  "dateModified": "2008-06-30T14:38:03+00:00",
+  
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mathias Wellner"
+  }
+  
+  ,
+  "keywords": "latency,multi-modal,review,science,virtual reality"
+  
+}
+</script>
+
+
+
+    <link rel="canonical" href="http://www.mwellner.de/2008/06/review-on-latency/">
+
+    <title>Review on Latency | mathias wellner</title>
+
+    <!-- combined, minified CSS -->
+    <link href="http://www.mwellner.de/css/style.css" rel="stylesheet" integrity="sha384-Cdt2yG10w21pA8DMpImJIvsLOME686p75OYD9jGCZVWvOol9zkEsaF3ctGEuBXK6" crossorigin="anonymous">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="http://www.mwellner.de/">Startseite</a>
+          
+          
+          <a class="nav-link" href="http://www.mwellner.de/about/">About</a>
+          
+          
+        </nav>
+      </div>
+    </div>
+
+    <header class="blog-header">
+      <div class="container">
+        <h1 class="blog-title"><a href="http://www.mwellner.de/" rel="home">mathias wellner</a></h1>
+        
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="http://www.mwellner.de/2008/06/review-on-latency/">Review on Latency</a></h2>
+    <p class="blog-post-meta"><time datetime="2008-06-30T14:38:03Z">Mon Jun 30, 2008</time> by Mathias Wellner in 
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/tags/latency" rel="tag">latency</a>, <a href="/tags/multi-modal" rel="tag">multi-modal</a>, <a href="/tags/review" rel="tag">review</a>, <a href="/tags/science" rel="tag">science</a>, <a href="/tags/virtual-reality" rel="tag">virtual reality</a>
+
+</p>
+  </header>
+  <p><em>With virtual environments and realism being the central topic of my dissertation, I did a review on which latencies are acceptable for virtual environments. The goal of this review was to define requirements for our rowing scenario. I would appreciate feedback and comments on this review.</em></p>
+
+<p>Two main limitations of realism in virtual environments are a delayed response to user actions and desynchronized events. The cause for these undesired eff ects is the delay of the components and of the architecture as a whole. Examples for these speci fic delays are (Jacobs, Livingston, &amp; State, 1997)</p>
+
+<ul>
+<li><strong>sensor delay:</strong> the time until the sensor output signal reacts to the user action,</li>
+<li><strong>network delay:</strong> delays due to signal transportation,</li>
+<li><strong>computational delay:</strong> delays due to computational algorithms,</li>
+<li><strong>rendering delay:</strong> time elapsed while the graphics/sound engine is generating the resulting picture/sound,</li>
+<li><strong>synchronization delay:</strong> time in which data is waiting between stages without being processed,</li>
+<li><strong>operating system delay:</strong> Windows XP is not a real time system, therefore the execution of code can be delayed due to other threads or operating system activities, and</li>
+<li><strong>display/actuator delay:</strong> the time between setting the input signal and the display&#8217;s or actuator&#8217;s reaction.</li>
+</ul>
+
+<p>The overall time between a user action and the system response is de fined as end-to-end latency. Relative latency refers to the lag between di fferent modalities, e.g. between seeing an object crash on the ground and hearing the sound of this event. Jacobs et al. (1997) emphasized the importance of a small relative latency and suggested methods to minimize relative latency.</p>
+
+<p>One associated term is consistency which can be achieved by temporal and spatial synchronization of events, causality or ordering of events, and concurrency (multiple user interaction with one entity) (Delaney, Ward, &amp; Mcloone, 2006). The authors discuss these terms for distributed interactive applications, for our single-user application concurrency does not apply. But temporal synchronization is an issue and therefore the relative latency must be minimized.</p>
+
+<p>A lot of research exists on which latency is defensible for visual feedback in virtual reality environments. For visual feedback of hand motion, a end-to-end latency of greater than 100 ms restricted users to slow, careful movements (Friedmann, Starner, &amp; Pentland, 1992). Experiments with head-mounted displays indicate that end-to-end latencies of 100 ms and 200 ms lead to an unstable perception of the environment (Allison, Harris, Jenkin, Jasiobedzka, &amp; Zacher, 2001). Using head-mounted displays to display a pit room enviroment, Meehan, Razzaque, Whitton, and Brooks (2003) showed that latencies of 50 ms led to a higher self-reported sense of presence and a statistically higher change in heart rate than 90 ms. They also report that latencies beyond 120 ms produced unacceptable results.</p>
+
+<p>Few results exist on auditory feedback. It is common knowledge among audio technicians, that latencies of 10 ms or less are needed for studio recordings. Friedmann et al. (1992) report 67 ms for their sound generation process and used a prediction method to synchronize sound output. More interesting for applications with multi-modal feedback are studies on cross-modal synchronization threshold. For audiovisual synchronization, Miner and Caudell (1998) report an average value of 175 ms and a minimal value of 100 ms. Their underlying explanation for this rather large value is that humans are used to some level of audiovisual desynchronization due to the di fferent propagation speeds of light and sound.</p>
+
+<p>Latencies of 20-30 ms or less are needed for music applications with a clearly-structured rhythm (Lago &amp; Kon, 2004). Regarding haptic-auditory synchronization, the authors report that piano players face delays of 30-100 ms, depending on the volume and character of the note to be played. Regardless of this deviation, professional piano players are able to compensate this e ffect and get in synchrony. For rowing, higher values are certainly acceptable, as the overall movement takes a long time.</p>
+
+<p>Regarding frame rates, the VR community demands at least 10 fps to provide an immersive experience to the user (Roy, Cruz-Neira, &amp; Defanti, 1995). It is obvious that a low frame rate contributes to latency, as the projector may take some time before refreshing the image, even if the updated scene had already been rendered by the graphics pipeline.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Teilen</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.mwellner.de%2f2008%2f06%2freview-on-latency%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=http%3a%2f%2fwww.mwellner.de%2f2008%2f06%2freview-on-latency%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.mwellner.de%2f2008%2f06%2freview-on-latency%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=http%3a%2f%2fwww.mwellner.de%2f2008%2f06%2freview-on-latency%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 offset-sm-1 blog-sidebar">
+  
+
+  
+
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <footer class="blog-footer">
+      <p>
+      
+      Blog template created by <a href="https://twitter.com/mdo">@mdo</a>, ported to Hugo by <a href='https://twitter.com/mralanorth'>@mralanorth</a>.
+      
+      </p>
+      <p>
+      <a href="#">Zurück zum Anfang</a>
+      </p>
+    </footer>
+
+  </body>
+
+</html>

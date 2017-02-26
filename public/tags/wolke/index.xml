@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolke on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/wolke/index.xml</link>
+    <description>Recent content in Wolke on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/wolke/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ubuntu-Linux 10.4 veröffentlicht</title>
+      <link>http://www.mwellner.de/2010/05/ubuntu-linux-10.4-ver%C3%B6ffentlicht/</link>
+      <pubDate>Sat, 01 May 2010 16:58:20 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/2010/05/ubuntu-linux-10.4-ver%C3%B6ffentlicht/</guid>
+      <description>&lt;p&gt;Die nächste Evolutionsstufe des quelloffenen Betriebssystems &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu&lt;/a&gt; wurde gestern vom Stapel gelassen. Ich habe es heute auch zu Hause installiert, nachdem ich letzte Woche auf Arbeit schon die Beta-Version getestet hatte. Vor allem optisch ist es ein gewaltiger Schritt nach vorn, die neuen Standard-Themes Ambience und Radience gefallen mir gut. Doch auch hinter den Kulissen hat sich einiges getan.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ubuntu One&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ubuntu bietet für jeden Nutzer kostenlos 2.0 GB Online-Speicherplatz an, so dass man Ordner, Lesezeichen, Nachrichten und Kontakte zwischen verschiedenen Rechnern synchronisieren kann. Das Upgrade auf 50 GB kostet dann 10$ pro Monat.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thunderbird 3.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Es ist zwar nicht der Verdienst von Ubuntu, aber neu enthalten in der Version 10.4 ist auch die aktuelle Version des Email-Clients &lt;a href=&#34;http://www.mozilla.org/de/thunderbird/&#34;&gt;Thunderbird&lt;/a&gt;. Mit seinem Funktionsumfang (Emails, Adressbuch, Kalender, Aufgaben) kann er durchaus mit Outlook mithalten. Neu in dieser Version ist das Indizieren von Nachrichten, auch wenn diese nicht direkt auf dem Rechner lagern (IMAP). Google Mail bietet das schon lange, jetzt kann man also endlich auch mit Thunderbird alle Nachrichten bequem nach Stichwörtern durchsuchen und muss keine Angst mehr um seine Daten bei Google haben.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Social Networks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ebenfalls neu (zumindest für mich) ist die zusammenhängende Darstellung verschiedener sozialer Netzwerke mit &lt;a href=&#34;http://gwibber.com/&#34;&gt;Gwibber&lt;/a&gt;. Jedenfalls kann ich jetzt simultan Nachrichten auf Facebook und twitter veröffentlichen und anzeigen lassen. An sich ist das natürlich auch nicht neu, aber am Ende entscheidet ja immer, wie gut sich das ins Betriebssystem integriert.&lt;/p&gt;
+
+&lt;p&gt;Damit kann ich nur jedem empfehlen, das Ganze mal auszuprobieren. Die Installation ist nicht schwieriger als mit Windows und es ist einfach immer wieder erstaunlich, was auf Open-Source-Basis alles zustande kommt.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

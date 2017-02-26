@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Site on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/web-site/index.xml</link>
+    <description>Recent content in Web Site on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/web-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Web Authoring Issues</title>
+      <link>http://www.mwellner.de/post/2005-09-18-web-site-on-it-issues/</link>
+      <pubDate>Sun, 18 Sep 2005 21:29:04 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2005-09-18-web-site-on-it-issues/</guid>
+      <description>&lt;p&gt;When rethinking the way blog links were assigned to languages, my first thought was to use flag symbols, as e.g. in Ulli&amp;#8217;s blog. But I surfed a little bit around and found a good site arguing against that. Here is the &lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/&#34;&gt;link to the main page&lt;/a&gt; covering many topics in web authoring and communication technology. The ones I scanned I found very interesting to read.&lt;/p&gt;
+
+&lt;p&gt;Some of the covered topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/flags.html&#34;&gt;Why you should not use a flag as a symbol of a language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/chars.html&#34;&gt;A tutorial on character code issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/lingua-franca.html&#34;&gt;English &amp;#8211; the universal language of the web?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/www.html&#34;&gt;Web authoring and surfing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

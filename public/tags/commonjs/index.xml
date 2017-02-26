@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commonjs on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/commonjs/index.xml</link>
+    <description>Recent content in Commonjs on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/commonjs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modular JavaScript 1</title>
+      <link>http://www.mwellner.de/post/2014-10-28-modular-javascript/</link>
+      <pubDate>Tue, 28 Oct 2014 23:20:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2014-10-28-modular-javascript/</guid>
+      <description>&lt;p&gt;One of the main problems of software development is managing complexity and &amp;ndash; related to it &amp;ndash; decoupling pieces of code. While most programming languages provide built-in semantics for defining and consuming modules, JavaScript has none and relies on external libraries for that. There are three major approaches for defining modules in JavaScript:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CommonJS&lt;/li&gt;
+&lt;li&gt;Asynchronous Module Definition&lt;/li&gt;
+&lt;li&gt;ECMA 6 Syntax&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have found some good articles on the topic.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://addyosmani.com/writing-modular-js/&#34; target=&#34;_blank&#34;&gt;Writing Modular JavaScript With AMD, CommonJS &amp;amp; ES Harmony&lt;/a&gt; by Addy Osmani&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.2ality.com/2013/07/es6-modules.html&#34; target=&#34;_blank&#34;&gt;ECMAScript 6 modules: the future is now&lt;/a&gt; by Axel Rauschmayer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;JavaScript modularity will be the main topic for an internal, upcoming project, so I will dive in the topic in the upcoming weeks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

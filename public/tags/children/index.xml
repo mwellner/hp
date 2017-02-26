@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Children on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/children/index.xml</link>
+    <description>Recent content in Children on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/children/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lokomat-Symposium 2006</title>
+      <link>http://www.mwellner.de/post/2006-10-06-lokomat-symposium-2006/</link>
+      <pubDate>Fri, 06 Oct 2006 10:32:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2006-10-06-lokomat-symposium-2006/</guid>
+      <description>&lt;p&gt;Today the second Lokomat Symposium featured the main talks regarding the Lokomat actuated gait orthosis. Actually the main scientists were all joined to present their latest research. To give you a short impression I will list the talks.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;David Reinkensmeyer (USA)&lt;/td&gt;
+&lt;td&gt;Automating Arm Movement Training with T-WREX: Technical Overview and Clinical Data&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Robert Riener (CH)&lt;/td&gt;
+&lt;td&gt;Human-Centered Rehabilitation Robotics&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Goffer (ISR)&lt;/td&gt;
+&lt;td&gt;_Re_Walk: A Device for Overcoming Mobility Impairment&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Tobias Nef (CH)&lt;/td&gt;
+&lt;td&gt;ARMin &amp;#8211; Robot-Aided Arm Therapy in Chronic Stroke&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Querry (USA)&lt;/td&gt;
+&lt;td&gt;FES and Lokomat: Gait Synchronized Interventions with the Lokomat Driven Gait Orthosis&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ken Hunt (UK)&lt;/td&gt;
+&lt;td&gt;Cardiopulmonary Assessment Protocols for Robot-Assisted Gait in Incomplete Spinal Cord Injury&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Pacheco (USA)&lt;/td&gt;
+&lt;td&gt;Spinal Plasticity in BWSTT: Evaluation of H-Reflexes in Spinal Cord Injury Patients during Stepping&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Aschbacher (CH)&lt;/td&gt;
+&lt;td&gt;Comparing Gait Training in Patients after Stroke with Task-Oriented Physiotherapy or Robot-Assisted Gait Training with the Lokomat &amp;#8211; A Feasability Study&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Behrman (USA)&lt;/td&gt;
+&lt;td&gt;Differential Effects of Robotically vs. Manually-Assisted Locomotor Training on Stepping Performance after Incomplete Spinal Cord Injury&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Andreas Meyer (CH)&lt;/td&gt;
+&lt;td&gt;First Steps with the Pediatric Lokomat: Feasability of Robotic Assisted Locomotor Training in Children with Central Gait Impairment&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Borggräfe (DE)&lt;/td&gt;
+&lt;td&gt;Automated Treadmill Training in Young Children with Cerebral Palsy with the Pediatric Lokomat&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mogensen (DK)&lt;/td&gt;
+&lt;td&gt;The Effect of Robotic Treadmill Training in Patients with Cerebral Stroke&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I did not have a talk but was involved in some lab demos of the virtual environment extension of the Lokomat and the additional degrees of freedom (Gait3D). The audience was really impressed and especially for children the virtual reality enhancement triggered wild interest.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

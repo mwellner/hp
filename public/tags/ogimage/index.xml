@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ogimage on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/ogimage/index.xml</link>
+    <description>Recent content in Ogimage on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/ogimage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WordPress and og:image</title>
+      <link>http://www.mwellner.de/post/2015-10-24-wordpress-and-ogimage/</link>
+      <pubDate>Sat, 24 Oct 2015 11:50:25 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2015-10-24-wordpress-and-ogimage/</guid>
+      <description>
+
+&lt;h3 id=&#34;the-problem&#34;&gt;The Problem&lt;/h3&gt;
+
+&lt;p&gt;My WordPress-powered blog automatically posts new articles to Facebook. However, the article image was somehow lost on the way, leading to rather unattractive Facebook posts.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_6319&#34; style=&#34;width: 524px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z.png&#34; alt=&#34;Automatic facebook post without wordpress article image&#34; width=&#34;514&#34; height=&#34;245&#34; class=&#34;size-full wp-image-6319&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z.png 514w, http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z-350x167.png 350w, http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z-250x119.png 250w, http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z-150x71.png 150w&#34; sizes=&#34;(max-width: 514px) 100vw, 514px&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Automatic facebook post with missing wordpress article image
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;digging-into-the-issue&#34;&gt;Digging Into the Issue&lt;/h3&gt;
+
+&lt;p&gt;It turned out that the problem was a wrong, relative image URL in the og:image meta tag (&lt;a href=&#34;http://davidwalsh.name/facebook-meta-tags&#34; title=&#34;Facebook Open Graph META Tags&#34; target=&#34;_blank&#34;&gt;more on Facebook Open Graph META Tags&lt;/a&gt;). When sharing a post, Facebook uses these tags to create the post. And since the image was defined with a relative path, it was simply skipped.&lt;/p&gt;
+
+&lt;p&gt;But why does WordPress use a relative image URL?&lt;/p&gt;
+
+&lt;p&gt;Out set-up is a multi-user WordPress installation on Linux. We used the settings _$upload&lt;em&gt;path&lt;/em&gt; and &lt;em&gt;$upload_url_path&lt;/em&gt; in the user-specific settings to specify the location of the WordPress &lt;em&gt;uploads&lt;/em&gt; folder. And there is one WordPress setting (complete path to files), that must match the $upload_url_path, located in the WordPress admin panel at settings\media. I changed that setting to contain the server URL and everything should be fine now.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

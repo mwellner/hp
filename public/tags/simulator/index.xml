@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulator on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/simulator/index.xml</link>
+    <description>Recent content in Simulator on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/simulator/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rudern mit Wettbewerbern</title>
+      <link>http://www.mwellner.de/post/2008-12-09-rudern-mit-wettbewerbern/</link>
+      <pubDate>Tue, 09 Dec 2008 09:11:28 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2008-12-09-rudern-mit-wettbewerbern/</guid>
+      <description>&lt;p&gt;Heute beginnt die Studie mit Wettbewerbern in unserem &lt;a href=&#34;http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html&#34;&gt;Rudersimulator&lt;/a&gt;. Bis zum Jahresende werden zehn Probandinnen und Probanden gegen die virtuellen Gegner antreten. Wir wollen herausfinden, ob man in Stresssituationen sein Verhalten &amp;auml;ndert.&lt;/p&gt;
+
+&lt;p&gt;Nachtrag: Die beiden ersten Profis brachten das System an seine Grenzen, die maximal zul&amp;auml;ssige Geschwindigkeit wurde &amp;uuml;berschritten. Deshalb verbessern wir noch ein paar Details, damit das Ganze dann funktioniert.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ETH Life berichtet über Rudersimulator</title>
+      <link>http://www.mwellner.de/post/2008-08-08-eth-life-berichtet-uber-rudersimulator/</link>
+      <pubDate>Fri, 08 Aug 2008 09:37:08 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2008-08-08-eth-life-berichtet-uber-rudersimulator/</guid>
+      <description>&lt;p&gt;Unser Hausblatt ETH Life berichtet unter dem Titel Rudern als sei&amp;#8217;s echt &amp;uuml;ber das Rudersimulator-Projekt. Inzwischen ist die erste Studie mit zehn Teilnehmern abgeschlossen, es ging um die Reaktion auf virtuelles Publikum. Wir sind momentan am Auswerten und erw&amp;auml;gen eine Publikation der Ergebnisse.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

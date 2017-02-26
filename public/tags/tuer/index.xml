@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tuer on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/tuer/index.xml</link>
+    <description>Recent content in Tuer on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/tuer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diplomarbeit, Matrix-Auswertung</title>
+      <link>http://www.mwellner.de/post/2005-03-17-diplomarbeit-matrix-auswertung/</link>
+      <pubDate>Thu, 17 Mar 2005 01:00:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2005-03-17-diplomarbeit-matrix-auswertung/</guid>
+      <description>&lt;p&gt;Gelegentlich soll ja (angeblich) der Eindruck entstehen, ich würde nicht ununterbrochen mit voller Hingabe an meiner Diplomarbeit arbeiten. Um dem mal entgegenzuwirken, eine kleine anschauliche Grafik daraus. Sie zeigt, womit ich mich gerade beschäftige, dem Auswerten von Matrix-Daten.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.mwellner.de/images/weblog/ani.png&#34; width=&#34;502&#34; height=&#34;382&#34; alt=&#34;Momentaufnahme&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Die Sensoren sind als Feld der Größe 8&amp;#215;16 angeordnet, das Ganze befindet sich über einer Tür und überwacht quasi den Eingangsbereich. Interessant ist nun die Frage, ob man z.B. die eintretenden und herauslaufenden Leute zählen kann. Dafür muss man aber erst mal wissen, wohin sie laufen. Aber genug, die Grafik zeigt jedenfalls eine Momentaufnahme von so einer Personen-Durchquerung. Ich selbst bin derjenige, welcher diese Messwerte verursacht hat. Erkennen kann man mich wohl eher nicht&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

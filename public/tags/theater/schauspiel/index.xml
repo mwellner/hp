@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theater/Schauspiel on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/theater/schauspiel/index.xml</link>
+    <description>Recent content in Theater/Schauspiel on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/theater/schauspiel/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Theater Production and Actor Database</title>
+      <link>http://www.mwellner.de/post/2017-01-23-theater-production-and-actor-database/</link>
+      <pubDate>Mon, 23 Jan 2017 21:39:44 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2017-01-23-theater-production-and-actor-database/</guid>
+      <description>
+
+&lt;p&gt;Currently, I am working on a hobby project, a &lt;a href=&#34;https://github.com/mwellner/mwtdb&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;theater production and actor database&lt;/a&gt; (mwtdb for short). It is visible on GitHub and open source.&lt;/p&gt;
+
+&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
+
+&lt;p&gt;What I want to create is something similar to &lt;a href=&#34;http://www.imdb.com/&#34; target=&#34;_blank&#34;&gt;IMDb&lt;/a&gt;, which focuses on movies, TV and celebreties, but for amateur theater. A very basic version will contain actors, directors and technicians, contributing to productions.&lt;/p&gt;
+
+&lt;p&gt;From a technical point of view, I will create a web application, using &lt;a href=&#34;https://angular.io/&#34; target=&#34;_blank&#34;&gt;Angular&lt;/a&gt; and &lt;a href=&#34;https://neo4j.com/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Neo4j&lt;/a&gt;, a &lt;a href=&#34;https://en.wikipedia.org/wiki/Graph_database&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;graph database&lt;/a&gt;. The hope is that a graphical representation of the data at hand is better suited for retrieving the right data for a particular view.&lt;/p&gt;
+
+&lt;h3 id=&#34;first-steps&#34;&gt;First Steps&lt;/h3&gt;
+
+&lt;p&gt;I have used &lt;a href=&#34;https://cli.angular.io/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Angular CLI&lt;/a&gt; to initialize my application. &lt;a href=&#34;https://v4-alpha.getbootstrap.com/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Bootstrap&lt;/a&gt; will be my front-end framework, along with &lt;a href=&#34;https://ng-bootstrap.github.io/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;ng-bootstrap&lt;/a&gt; for some interactive components.&lt;/p&gt;
+
+&lt;p&gt;My first Angular components were &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/people/people.component.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;people&lt;/a&gt; (actors, directors) and &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/productions/productions.component.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;productions&lt;/a&gt;, showing a list of existing items and allowing to add more entries. For the graph database, I have created a &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/database.service.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;database service&lt;/a&gt;, which implements a few basic queries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dogville</title>
+      <link>http://www.mwellner.de/post/2016-09-18-dogville/</link>
+      <pubDate>Sun, 18 Sep 2016 23:54:09 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-09-18-dogville/</guid>
+      <description>&lt;p&gt;Nach der Sommerpause schaute ich mal wieder im &lt;a href=&#34;http://schauspielhaus.ch/home&#34; title=&#34;Schauspielhaus Zürich&#34; target=&#34;_blank&#34;&gt;Schauspielhaus&lt;/a&gt; vorbei, das Stück war &lt;a href=&#34;https://de.wikipedia.org/wiki/Dogville&#34; title=&#34;Dogville&#34; target=&#34;_blank&#34;&gt;Dogville&lt;/a&gt; nach dem Film von Lars von Trier. Regie führte Stephan Kimming.&lt;/p&gt;
+
+&lt;p&gt;Eine junge Frau flieht unter ungeklärten Umständen und landet in einem kleinen Dorf am Fuß der Rocky Mountains. Die Bewohner sind erst skeptisch, doch der Schriftsteller Tom kann sie überzeugen, die Fremde (Grace) testweise für zwei Wochen aufzunehmen. Sie arbeitet je eine Stunde für jede der sieben Familien. Nach anfänglicher Skepsis schließen die Bewohner Grace in ihr Herz und erlauben ihr schließlich zu bleiben. Nachdem ein Polizist eine Belohnung für die Vermisste Grace angeboten hat, verschärft sich die Stimmung, Aggressivität, Missbrauch und Gewalt gegenüber Grace machen sich breit. Am Ende besuchen sie nachts alle Männer, um ihre Gelüste zu befriedigen, die Frauen verachten sie und selbst ihr Fürsprecher Tom wendet sich von ihr ab. Er ruft schließlich jene Telefonnummer an, die ihm einst ein Herr im schwarzen Anzug im großen Auto gab, für Hinweise zum Verbleib von Grace. Mehrere Wagen fahren ins Dorf, der Gangsterboss und Vater von Grace sucht das Gespräch mit ihr. Die Schüsse damals auf sie seien ein Missverständnis gewesen, er will sie bewegen zurückzukommen. Nach längerem Zögern willigt sie ein, nicht ohne vorher Befehl zu geben, das Dorf auszulöschen, was auch prompt geschieht.&lt;/p&gt;
+
+&lt;p&gt;Der Stoff ist eine düstere Sicht der menschlichen Natur. Die vermeintlich guten Dorfbewohner entpuppen sich als triebgesteuerte Hunde, die alles fressen, was sie zu fassen kriegen. Es hilft nur die Peitsche, Entschuldigungen für schlechtes Handeln zählen nicht. Die Flucht vor den Gangstern führt zu nur oberflächlich guten Menschen, denen einfach die Gelegenheit und Macht fehlt, ihre schlechten Seiten zu offenbaren.&lt;/p&gt;
+
+&lt;p&gt;Die Inszenierung war grandios, angefangen vom Bühnenbild mit Wänden, Stufen und Türchen auf allen Seiten, welches die dörfliche Enge perfekt symbolisierte. Dazu so viele gute Ideen, der Tanz bei den Gemeindeversammlungen, die mit Helium gefüllten Luftballons, der eine Schauspieler mit wechselnden Rollen, das extrem starke Ensemble &amp;ndash; es wirkte alles wie aus einem Guss, leichtfüßig bei aller Tragik, verspielt trotz aller Gewalt. Es lohnt sich.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theater als Wahrheit des Augenblicks</title>
+      <link>http://www.mwellner.de/post/2016-04-26-theater-als-wahrheit-des-augenblicks/</link>
+      <pubDate>Tue, 26 Apr 2016 21:20:51 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-04-26-theater-als-wahrheit-des-augenblicks/</guid>
+      <description>&lt;p&gt;&lt;div id=&#34;attachment_6590&#34; style=&#34;width: 383px&#34; class=&#34;wp-caption alignleft&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/04/CHANDOS3.jpg&#34; alt=&#34;Porträt von William Shakespeare&#34; width=&#34;373&#34; height=&#34;480&#34; class=&#34;size-full wp-image-6590&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/04/CHANDOS3.jpg 373w, http://www.mwellner.de/wp-uploads/2016/04/CHANDOS3-272x350.jpg 272w, http://www.mwellner.de/wp-uploads/2016/04/CHANDOS3-117x150.jpg 117w&#34; sizes=&#34;(max-width: 373px) 100vw, 373px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p class=&#34;wp-caption-text&#34;&gt;
+    William Shakespeare (Chandos-Porträt)
+  &lt;/p&gt;
+&lt;/div&gt; Derzeit gedenken viele Theaterenthusiasten des wirkungsmächtigsten Dramatikers aller Zeiten,&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/William_Shakespeare&#34; title=&#34;William Shakespeare&#34; target=&#34;_blank&#34;&gt;William Shakespeare&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Spiegel Online geht der Frage nach, &lt;a href=&#34;http://www.spiegel.de/kultur/literatur/william-shakespeare-zum-400-todestag-die-besten-szenen-a-1088735.html&#34; title=&#34;Die besten Szenen von Shakespeare&#34; target=&#34;_blank&#34;&gt;Was uns Shakespeares Worte heute noch sagen&lt;/a&gt;, mit seinen besten Szenen und einer kurzen Analyse.&lt;/p&gt;
+
+&lt;p&gt;Auch die ZEIT darf nicht fehlen im Reigen der Erinnerung, mit &lt;a href=&#34;http://www.zeit.de/2016/18/theater-shakespeare-inszenierungen-400-todestag&#34; title=&#34;Theater: Die Nusschalenkönige&#34; target=&#34;_blank&#34;&gt;Die Nussschalenkönige&lt;/a&gt;. Aus diesem Artikel stammt auch das Brooke-Zitat, welches sehr gut die Doppelbödigkeit des Theaters beschreibt, und auch die Herausforderung als Schauspieler, völlig aufzugehen im Augenblick, obwohl man genau weiß, was kommt und dass es Fiktion ist.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ich glaube, wir leben von den Wahrheiten des Augenblicks. Und das ist dem Theater eingeprägt: die Möglichkeit, im selben Augenblick zu glauben und nicht zu glauben. Echtes Theater verfügt über diese Qualität. Der Schauspieler glaubt absolut an das, was er da auf der Bühne tut – und zugleich glaubt er nicht im Mindesten daran. Glauben und Nichtglauben im selben Moment – darum dreht sich das Theater. Deshalb kann es für Momente ein wahreres Bild des menschlichen Lebens geben als das Leben selbst. Theater versetzt uns in die Lage, die Dinge genauer zu sehen mittels seiner Doppelbelichtung.&lt;/p&gt;
+
+&lt;p&gt;&lt;cite&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Peter_Brook&#34; title=&#34;Peter Brook&#34; target=&#34;_blank&#34;&gt;Peter Brook&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chaplin-Zitat</title>
+      <link>http://www.mwellner.de/post/2016-04-03-chaplin-zitat/</link>
+      <pubDate>Sun, 03 Apr 2016 23:19:26 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-04-03-chaplin-zitat/</guid>
+      <description>&lt;p&gt;Nach einem schönen arte-Abend über Charlie Chaplin mit dem &lt;a href=&#34;https://de.wikipedia.org/wiki/Der_gro%C3%9Fe_Diktator&#34; title=&#34;Der große Diktator&#34; target=&#34;_blank&#34;&gt;großen Diktator&lt;/a&gt; und einer Doku über die Anfänge des legendären Schauspielers möchte ich hier noch ein Zitat festhalten.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Leb so, wie du es für richtig hältst&lt;/p&gt;
+
+&lt;p&gt;und geh, wohin dein Herz dich führt.&lt;/p&gt;
+
+&lt;p&gt;Das Leben ist ein Theaterstück&lt;/p&gt;
+
+&lt;p&gt;ohne vorherige Theaterproben.&lt;/p&gt;
+
+&lt;p&gt;Darum: Singe, lache, tanze und liebe!&lt;/p&gt;
+
+&lt;p&gt;Und lebe jeden einzelnen Augenblick&lt;/p&gt;
+
+&lt;p&gt;deines Lebens, bevor der Vorhang fällt&lt;/p&gt;
+
+&lt;p&gt;und das Theaterstück ohne Applaus zu Ende geht.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theaterplakat</title>
+      <link>http://www.mwellner.de/post/2016-01-03-theaterplakat/</link>
+      <pubDate>Sun, 03 Jan 2016 23:16:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-01-03-theaterplakat/</guid>
+      <description>&lt;p&gt;In wenigen Wochen werden wir die Premiere von &lt;a href=&#34;http://dramateure.ch/wordpress/produktionen/das-einzig-wahre/&#34; title=&#34;Das einzig Wahre&#34; target=&#34;_blank&#34;&gt;Das einzig Wahre&lt;/a&gt; feiern! Mit dem neuen Jahr beginnt der Endspurt.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/01/plakat.jpg&#34; alt=&#34;plakat&#34; width=&#34;1000&#34; height=&#34;1414&#34; class=&#34;aligncenter size-full wp-image-6444&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/01/plakat.jpg 1000w, http://www.mwellner.de/wp-uploads/2016/01/plakat-248x350.jpg 248w, http://www.mwellner.de/wp-uploads/2016/01/plakat-724x1024.jpg 724w, http://www.mwellner.de/wp-uploads/2016/01/plakat-106x150.jpg 106w&#34; sizes=&#34;(max-width: 1000px) 100vw, 1000px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wir werden dieses Mal auch Ticket-Vorverkauf via &lt;a href=&#34;https://www.eventbrite.de/&#34; title=&#34;Eventbrite&#34; target=&#34;_blank&#34;&gt;Eventbrite&lt;/a&gt; ausprobieren. Dort gibt es jetzt auch eine Seite für Das einzig Wahre mit der Möglichkeit zum Ticketkauf. Bin echt gespannt, wie das ankommt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Henrys Gitarre</title>
+      <link>http://www.mwellner.de/post/2015-10-25-henrys-gitarre/</link>
+      <pubDate>Sun, 25 Oct 2015 23:12:43 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2015-10-25-henrys-gitarre/</guid>
+      <description>&lt;p&gt;Wichtige Regel für alle Schauspieler &amp;ndash; Wenn dich dein Regisseur fragt, ob du mal ein Instrument gespielt hast, sage nichts! Ich war unvorsichtig und meinte, ich hätte schon mal Gitarre gespielt. So nahm das Unglück seinen Lauf, eine Ensemble-Partnerin brachte ihre Gitarre mit zur Probe, ich besorgte neue Saiten, zog diese auf und stimmte das gute Teil. Und dann kam dieser schöne Moment, als der erste satte a-moll erklang. Tja, dann werde ich mich jetzt wohl wieder mehr mit meiner musikalischen Seite beschäftigen, damit ich bis Februar was habe, was wir den Zuschauern zumuten können.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_6323&#34; style=&#34;width: 1010px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2015/10/MW_20151025_1454.jpg&#34; alt=&#34;Henrys Gitarre&#34; width=&#34;1000&#34; height=&#34;667&#34; class=&#34;size-full wp-image-6323&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2015/10/MW_20151025_1454.jpg 1000w, http://www.mwellner.de/wp-uploads/2015/10/MW_20151025_1454-350x233.jpg 350w, http://www.mwellner.de/wp-uploads/2015/10/MW_20151025_1454-225x150.jpg 225w, http://www.mwellner.de/wp-uploads/2015/10/MW_20151025_1454-150x100.jpg 150w&#34; sizes=&#34;(max-width: 1000px) 100vw, 1000px&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Henrys Gitarre
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Das letzte Mal Gitarre auf der Bühne war 2012 mit Onkel Wanja. Da waren es zwei Lieder, die ich selbst spielte, das eine leidlich, das andere gut. Aber diesmal sollten ein paar Rock-Akkorde ausreichen, zum Glück hat Henry einen anerkannt schlechten Musikgeschmack.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anton Tschechow &amp;#8211; Der Kirschgarten</title>
+      <link>http://www.mwellner.de/post/2014-10-11-anton-tschechow-der-kirschgarten/</link>
+      <pubDate>Sat, 11 Oct 2014 23:45:07 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2014-10-11-anton-tschechow-der-kirschgarten/</guid>
+      <description>&lt;p&gt;Im Berliner Maxim-Gorki-Theater sah ich eine sehr eigenwillige Inszenierung von Tschechows Kirschgarten. Das &lt;a href=&#34;http://gorki.de&#34;&gt;Gorki&lt;/a&gt;, wie es sich kurz nennt, wurde von &lt;a href=&#34;http://www.theaterheute.de&#34;&gt;Theater heute&lt;/a&gt; zum Theater des Jahres 2014 gekürt. Es besitzt ein bunt gemischtes Ensemble und setzt schrille, zeitgenössische Akzente.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_4922&#34; style=&#34;width: 860px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;http://www.mwellner.de/wp-uploads/2014/10/MW_20141012_7606.jpg&#34;&gt;&lt;img src=&#34;http://www.mwellner.de/wp-uploads/2014/10/MW_20141012_7606-1024x683.jpg&#34; alt=&#34;Maxim-Gorki-Theater&#34; width=&#34;850&#34; height=&#34;566&#34; class=&#34;size-large wp-image-4922&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2014/10/MW_20141012_7606-1024x683.jpg 1024w, http://www.mwellner.de/wp-uploads/2014/10/MW_20141012_7606-300x200.jpg 300w, http://www.mwellner.de/wp-uploads/2014/10/MW_20141012_7606-224x150.jpg 224w, http://www.mwellner.de/wp-uploads/2014/10/MW_20141012_7606-150x100.jpg 150w&#34; sizes=&#34;(max-width: 850px) 100vw, 850px&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Maxim-Gorki-Theater
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Das Stück in seiner Originalfassung beschreibt den nutzlos gewordenen Adel, der sich am Schönen erfreut, aber völlig lebensuntüchtig ist. Wie der Kirschgarten am Ende abgeholzt wird, verschwindet auch der Adel von der Bildfläche.&lt;/p&gt;
+
+&lt;p&gt;Die Inszenierung baute an vielen Stellen den Text um, es gab Bezüge zum Freihandelsabkommen TTIP, eine geschlechtlich nicht so leicht festzulegende Person zeigte einen Bauchtanz und berichtete von ihrem Leben, und Firs, der alte Diener brabbelte vor sich hin, ohne Sinn und Zusammenhang. Immer wieder Lieder, &amp;#8220;Am Brunnen vor dem Tore&amp;#8221; in der klassischen, später orientalisch angehauchten Version, unterhaltsam inszeniert, weit weg vom Stanislawski-Stil.&lt;/p&gt;
+
+&lt;p&gt;Es war befremdlich, passt aber in diese schrille Hauptstadt mit türkischen Vierteln und so vielen Menschen aus aller Welt. Der Untergang des russischen Adels wurde spielerisch gleichgesetzt mit dem Ende der alten, europäischen Kultur, die neuen Geldhaber kommen aus der Türkei oder China und bringen ihre Kultur mit, bereichernd, befremdlich, unaufhaltsam. Aber trug die Pianistin nicht auch ein Kopftuch, als sie Mozart spielte? Berlin als Schmelztiegel der Kulturen, als Mekka der Lebensentwürfe, In-Stadt der Welt. Schwer vorstellbar in Zürich.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intensive Regie</title>
+      <link>http://www.mwellner.de/post/2014-02-03-intensive-regie/</link>
+      <pubDate>Mon, 03 Feb 2014 23:35:51 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2014-02-03-intensive-regie/</guid>
+      <description>&lt;p&gt;Derzeit durchlebe ich einen intensiven Lernprozess in meiner ersten Regiearbeit beim &lt;a href=&#34;http://dramateure.ch/wordpress/produktionen/ein-idealer-gatte/&#34;&gt;Idealen Gatten&lt;/a&gt;. Wir haben ungefähr die Hälfte hinter uns, gestern ging auch das erste externe Probewochenende zuende. Es ist ein ständiges Wechselbad, mal läuft es nicht so gut und eine Szene will sich einfach nicht entwickeln, mal kommt ein Durchbruch und es fühlt sich in diesem Moment grandios an. Die entscheidende Frage ist, was genau gut ist. Dies immer zu erkennen, einen Weg zur Verbesserung zu sehen und erfolgreich zu kommunizieren &amp;#8211; das ist für mich die große Herausforderung. Ich habe jetzt definitiv mehr Respekt für die Regisseure dieser Welt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theater-Handlungen</title>
+      <link>http://www.mwellner.de/post/2013-12-17-theater-handlungen/</link>
+      <pubDate>Tue, 17 Dec 2013 22:55:21 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2013-12-17-theater-handlungen/</guid>
+      <description>&lt;p&gt;Als Inspirationsquelle sammle ich hier alle Tätigkeiten, die mir für die Bühne einfallen. Ich überlege gerade, was ich meinen Schauspielern noch zu tun geben könnte für einige lange Szenen im &lt;a href=&#34;http://dramateure.ch/wordpress/produktionen/ein-idealer-gatte/&#34;&gt;idealen Gatten&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Buch lesen&lt;/li&gt;
+&lt;li&gt;Notizen machen&lt;/li&gt;
+&lt;li&gt;Dialog als Telefonat&lt;/li&gt;
+&lt;li&gt;Leiter reinbringen&lt;/li&gt;
+&lt;li&gt;Wein einschenken&lt;/li&gt;
+&lt;li&gt;Essen, trinken&lt;/li&gt;
+&lt;li&gt;Massage&lt;/li&gt;
+&lt;li&gt;Zeitung lesen&lt;/li&gt;
+&lt;li&gt;Kämmen, Schminken&lt;/li&gt;
+&lt;li&gt;Rauchen&lt;/li&gt;
+&lt;li&gt;Kratzen&lt;/li&gt;
+&lt;li&gt;Stricken&lt;/li&gt;
+&lt;li&gt;Wolle wickeln&lt;/li&gt;
+&lt;li&gt;Tisch decken&lt;/li&gt;
+&lt;li&gt;Aufräumen&lt;/li&gt;
+&lt;li&gt;Kleidung an- oder ausziehen&lt;/li&gt;
+&lt;li&gt;Waschen, Zähne putzen&lt;/li&gt;
+&lt;li&gt;Auf dem Handy was nachschauen&lt;/li&gt;
+&lt;li&gt;Dehnübungen, Yoga&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;https://picasaweb.google.com/lh/photo/6X-oXcxwc1qC0KUGnWLvbR-MpIlTf924I-VLe1eQ0W4?feat=embedwebsite&#34;&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-hXE3AfeGXZY/UWQk3xoKV2I/AAAAAAAABGk/I6JPJQ-NgXo/s800/US_20130212_0006.jpg&#34; height=&#34;333&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Eis essen geht auch&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;https://picasaweb.google.com/lh/photo/5Dsz6LI6Rvv6sxlAF1Cyfh-MpIlTf924I-VLe1eQ0W4?feat=embedwebsite&#34;&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-NI8MlVlobJY/UWQk4frC-_I/AAAAAAAABGs/XAApsdwbwmE/s800/US_20130212_0034.jpg&#34; height=&#34;333&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Laptop, Kaffee holen&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;https://picasaweb.google.com/lh/photo/BqyvJd_JgdjNujlAvOylKyI4FnVRKJ-muutb-ShMLsg?feat=embedwebsite&#34;&gt;&lt;img src=&#34;https://lh5.googleusercontent.com/-VId2X7AMx1Y/UFJAyA_e2VI/AAAAAAAAAg8/CyPvQW8fNZs/s800/MK_20110322_0020.jpg&#34; height=&#34;333&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Wein trinken&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;https://picasaweb.google.com/lh/photo/MGih-kuraVY0BGbAaOtUHiI4FnVRKJ-muutb-ShMLsg?feat=embedwebsite&#34;&gt;&lt;img src=&#34;https://lh5.googleusercontent.com/-CKvs5VqN3ZU/UFJAy_Abv1I/AAAAAAAAAhA/59qufZH0mlU/s800/MK_20110322_0030.jpg&#34; height=&#34;388&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Telefonieren, Massage&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;https://picasaweb.google.com/lh/photo/f5iggsBTrBn1OxACKBb1yvJJOib6HL70h2qp7ijdnh8?feat=embedwebsite&#34;&gt;&lt;img src=&#34;https://lh5.googleusercontent.com/-DtJKcmvVULU/UFOZAJqlANI/AAAAAAAAAi8/I8L01a14yfs/s800/2012-04-27_Onkel%2520Wanja_055.jpg&#34; height=&#34;333&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Wolle aufwickeln&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ich, treu, suche in Mühlhofen</title>
+      <link>http://www.mwellner.de/post/2013-11-17-ich-treu-suche-in-muehlhofen/</link>
+      <pubDate>Sun, 17 Nov 2013 12:57:58 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2013-11-17-ich-treu-suche-in-muehlhofen/</guid>
+      <description>&lt;p&gt;Nach langer Sommerpause spielen wir &lt;a href=&#34;http://www.mwellner.de/schauspiel/ich-treu-suche/&#34;&gt;Ich, treu, suche&lt;/a&gt; noch einige wenige Male. Gestern war der erste Auftritt, im süddeutschen Mühlhofen nahe am Bodensee besuchten wir die &lt;a href=&#34;http://www.fabrik-muehlhofen.de/&#34;&gt;Alte Fabrik&lt;/a&gt;. Wobei das Gebäude eher an eine alte Residenz erinnerte, im Erdgeschoss befand sich ein Restaurant, oben im ersten Stock dann der riesige Theatersaal. Mit Polsterstühlen und -sesseln, Gemälden, alten Büchern, Teppichen und Gardinen entstand eine sehr angenehme Raumatmosphäre. Selbst in der Künstlergarderobe war das der Fall, blaue Sessel, eine Kerze auf dem Tisch, zwei Bierflaschen auf dem Tisch &amp;ndash; so lässt es sich vorbereiten.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;https://picasaweb.google.com/lh/photo/5Dsz6LI6Rvv6sxlAF1Cyfh-MpIlTf924I-VLe1eQ0W4?feat=embedwebsite&#34;&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/-NI8MlVlobJY/UWQk4frC-_I/AAAAAAAABGs/XAApsdwbwmE/s800/US_20130212_0034.jpg&#34; height=&#34;333&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Szenenfoto aus &lt;em&gt;Ich, treu, suche&lt;/em&gt;&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Bei der Wiederaufnahmeprobe Ende Oktober und auch in der Vorbereitung waren wir recht entspannt, so dass ich fast Sorge hatte, ob wir dann auf der Bühne die nötige Spannung aufbauen könnten. Aber es lief gut, vieles war frisch und wie neu erlebt, einige Textunsicherheiten konnten wir gut ausbügeln, das Publikum war begeistert und lachte an mehr Stellen als auch schon. Und so freue ich mich auf die letzten beiden Vorstellungen in Radolfzell (23. November) und Baden (29. November).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Locarno</title>
+      <link>http://www.mwellner.de/post/2013-05-07-locarno/</link>
+      <pubDate>Tue, 07 May 2013 15:03:13 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2013-05-07-locarno/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Locarno&#34;&gt;Locarno&lt;/a&gt; ist ein schönes Städtchen im Süden der Schweiz, mir war es vor vielen Jahren im Geschichtsunterricht begegnet (&lt;a href=&#34;http://de.wikipedia.org/wiki/Vertr%C3%A4ge_von_Locarno&#34;&gt;Verträge von Locarno&lt;/a&gt;, 1925).&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;https://lh3.googleusercontent.com/-fOwg-usfr84/UYjwf8SjkXI/AAAAAAAABIQ/PWBmM1eDc2w/s800/MW_20130503_2074.jpg&#34; height=&#34;334&#34; width=&#34;500&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Locarno mit Altstadt, Hafen und See&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;https://lh3.googleusercontent.com/-TLvAFJYnWIg/UYjweLtKHOI/AAAAAAAABHo/x3-OKWf9BEU/s800/MW_20130503_2051.jpg&#34; height=&#34;334&#34; width=&#34;500&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Lago Maggiore&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Touristisch ist vor allem die Kirche Madonne del Sasso spannend, die über der Stadt thront. Wir nahmen nicht die Seilbahn, sondern gingen zu Fuß den Berg hinauf. Zur Belohnung erwartete uns eine reich verzierte Kirche mit dem wunderbaren Gemälde &lt;em&gt;Die Grablegung Christi&lt;/em&gt; von &lt;a href=&#34;http://de.wikipedia.org/wiki/Antonio_Ciseri&#34;&gt;Antonio Ciseri&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;https://lh5.googleusercontent.com/-9376DVxMCnU/UYjwe7-ptEI/AAAAAAAABIE/9scFor9ISRM/s800/MW_20130503_2064.jpg&#34; height=&#34;334&#34; width=&#34;500&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Aufstieg zur Kirche &lt;a href=&#34;http://de.wikipedia.org/wiki/Madonna_del_Sasso&#34;&gt;Madonna del Sasso&lt;/a&gt;&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;width: 522px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a title=&#34;Antonio Ciseri [Public domain], via Wikimedia Commons&#34; href=&#34;http://commons.wikimedia.org/wiki/File%3AAntonio_Ciseri_-_Il_trasporto_di_Cristo_al_sepolcro.jpg&#34;&gt;&lt;img width=&#34;512&#34; alt=&#34;Antonio Ciseri - Il trasporto di Cristo al sepolcro&#34; src=&#34;http://upload.wikimedia.org/wikipedia/commons/7/79/Antonio_Ciseri_-_Il_trasporto_di_Cristo_al_sepolcro.jpg&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Die Grablegung Christi, Antonio Ciseri [Public domain], via Wikimedia Commons&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Anlass meines Besuchs war eine Theatervorführung im &lt;a href=&#34;http://www.teatro-paravento.ch/&#34;&gt;Teatro Paravento&lt;/a&gt;. Drei Master-Absolventen der Scuola Teatro Dimitri zeigten ihre Abschlussarbeit. Sie hatten Bewegungstheater studiert, entsprechend war die Aufführung eine Sequenz von Choreografien, unterstützt durch den Einsatz theatralischer Mittel. Gesprochen wurde wenig und noch dazu italienisch oder spanisch. Thematisch ging es um die &lt;a href=&#34;http://de.wikipedia.org/wiki/Desaparecidos&#34;&gt;Desaparecidos&lt;/a&gt;, an die 30.000 Menschen verschwanden während der Militärdiktatur in Argentinien von 1976 bis 1983. Sie wurden an geheime Orte gebracht, gefoltert, vergewaltigt, getötet. Eine Methode bestand darin, die betäubten Opfer mit Frachflugzeugen über das Meer zu fliegen und sie dort rauszuwerfen. Im Stück wurde diese Praxis angedeutet, eine Darstellerin malte Flugzeuge auf eine dunkle Leinwand, riss den unteren Teil weg, so dass der meerblaue Hintergrund vortrat, zerriss den unteren Teil in viele kleine Fetzen und ließ diese von den Flugzeugen runterrieseln. Auch der Einsatz des Lichtes war hervorragend, in einer Sequenz rannte ein Darsteller im Dunkeln auf der Bühne umher, immer wieder leuchtete ein Scheinwerfer auf, der ihn stoppte. Das Licht kam von hinten und blendete somit auch uns Zuschauer, ließ uns in diesem Moment zu Opfern und Verfolgten werden. Beklemmend, düster war dies alles, die Verzweiflung der Angehörigen spürbar, die nicht wussten, ob ihre Verwandten noch lebten oder tot waren. Es war eine gelungene Inszenierung.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;https://lh4.googleusercontent.com/-6kfFoUB3_RA/UYjwgVxC2GI/AAAAAAAABIc/paJ7Rh_JY9A/s800/MW_20130503_2077.jpg&#34; height=&#34;334&#34; width=&#34;500&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Das malerische Teatro Paravento liegt an der Via Cappuccini.&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theaterlicht</title>
+      <link>http://www.mwellner.de/post/2013-03-29-theaterlicht/</link>
+      <pubDate>Fri, 29 Mar 2013 22:54:09 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2013-03-29-theaterlicht/</guid>
+      <description>&lt;p&gt;Heute geschah es wieder &amp;ndash; jener wunderbare Moment, wenn sich eine oft geprobte Szene durch den Einsatz von Licht magisch verwandelt. Schwarzer Hintergrund, selektives Licht, ein bisschen Farbe &amp;ndash; die Zutaten sind einfach beschrieben. Aber die Wirkung ist ungeheuer.&lt;/p&gt;
+
+&lt;p&gt;Deshalb heute ein Hoch auf das Licht! Und ein Hoch auf die meist unsichtbaren Menschen, die am Licht- und Tonpult ihren Dienst verrichten und Theater überhaupt erst ermöglichen.&lt;/p&gt;
+
+&lt;p&gt;Der technische Durchlauf für Bananen, vorne links zog sich heute über den ganzen Tag. Wir haben die Lichtübergänge geprobt, aber auch noch an vielen Szenen gefeilt. Teilweise stimmte es schauspielerisch nicht, teilweise standen die Leute komisch und sprachen nach hinten, es gab noch vieles zu verbessern. Und es schlaucht auch enorm, so lange konzentriert immer wieder das Gleiche zu tun.&lt;/p&gt;
+
+&lt;p&gt;Aber heute habe ich mal vor allem auf das Licht geachtet, dessen Einsatz eine Wissenschaft für sich ist. Frontales Licht ist den meisten sicher klar, aber es macht die Gesichter auch flach. Zusätzlich gibt es seitliches Licht, eine Lichtgasse vorn, einen Spot und blaue Scheinwerfer von hinten. Und manchmal kommt noch rötliches Licht zum Einsatz. Und all dies will gekonnt eingesetzt werden, um maximale Wirkung zu entfalten. Am Ende bemerkt man das Licht nicht wirklich, es ist einfach da und betont gerade den Bereich der Bühne, wo was los ist. Man bemerkt es nur dann, wenn es nicht stimmt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&amp;nbsp;&amp;quot;Ich, treu, suche&amp;quot; in Konstanz</title>
+      <link>http://www.mwellner.de/post/2013-03-03-ich-treu-suche-in-konstanz/</link>
+      <pubDate>Sun, 03 Mar 2013 21:54:06 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2013-03-03-ich-treu-suche-in-konstanz/</guid>
+      <description>&lt;p&gt;Tourneealltag, nach fünf Vorstellungen an drei Orten kann man mittlerweile davon sprechen. Immerhin zum ersten Mal im Ausland, obwohl Konstanz nicht wirklich weit entfernt ist von Kreuzlingen, dem Ort unserer Premiere. Vielleicht zwei Kilometer trennen die beiden Spielorte.&lt;/p&gt;
+
+&lt;p&gt;Das &lt;a href=&#34;http://www.k9-kulturzentrum.de/&#34;&gt;Kulturzentrum K9&lt;/a&gt; liegt mitten in der Konstanzer Innenstadt. In einer Seitengasse stehen wir vor einem dunklen, breitgestreckten Gebäude. Durch eine riesige Holztür treten wir direkt in den Zuschauerraum. In sechs Reihen stehen graue Plastikstühle vor der breiten Bühne, auf der schon unsere vertrauten Kuben aufgebaut sind. Es sind viele Stühle, so um die 70. Nach unseren mäßig gut besuchten Vorstellungen in Frauenfeld sind wir vorsichtig geworden, es könnte wieder so ein Abend in einem spärlich gefüllten Theater sein.&lt;/p&gt;
+
+&lt;p&gt;Der Umkleideraum ist oben, eine Inschrift weist darauf hin, dass wir in einer ehemaligen Kirche sind. Deshalb der hohe Raum und die Reste von Säulen. Es gibt auf der Empore noch ein paar gepolsterte Bänke, sehen tut man von da allerdings nicht so gut. Aber am Vorabend fand ein Rock’n’Roll-Anlass statt, den konnte man von da sicher genießen. Der Umkleideraum ist eine kleine Küche, die einige Zeit nicht mehr richtig geputzt wurde. Auf der Tischdecke befinden sich undefinierbare, eingetrocknete Reste. Zumindest können wir uns aus dem Getränkevorrat bedienen, man hat die Wahl zwischen Apfelschorle und Mineralwasser.&lt;/p&gt;
+
+&lt;p&gt;Später trifft die frohe Botschaft ein, dass um die 30 Karten verkauft wurden und 40 reserviert. Es wird also ein volles Haus geben! Das hebt unsere Stimmung wieder.&lt;/p&gt;
+
+&lt;p&gt;Wir machen einen kurzen technischen Durchlauf auf der hier sehr breiten Bühne. Einige Gänge werden merklich länger. Und das Licht gibt nur drei Stimmungen her, wir werden also immer voll beleuchtet sein.&lt;/p&gt;
+
+&lt;p&gt;Zum Glück bin ich durch meine Erkältung gedämpft, so liege ich noch ein bisschen rum und hoffe darauf, dass das Nasenbluten nicht gerade während dieser 70 Minuten wiederkehrt. Aber das Lampenfieber hält sich in Grenzen.&lt;/p&gt;
+
+&lt;p&gt;Dann müssen wir auch schon los, gehen die Treppe runter zum seitlichen Auftritt. Volles Haus, jeder Platz besetzt, dahiner noch eine Reihe erhöhter Barhocker. Was für ein Gefühl! An die 100 Leute sitzen da, grandiose Stimmung von Anfang an. Ein wirklich tolles Publikum, das mitgeht und auch an Stellen lacht, die bisher eher nicht Lachgaranten waren. Einiges läuft schief, und meine Nase läuft mehr als mir lieb ist. Aber anscheinend war ich gar nicht so schlecht wie ich mich selbst fühlte. Langer Applaus, wir müssen zwei mal zurück auf die Bühne.&lt;/p&gt;
+
+&lt;p&gt;Ich übernachte sogar in der Stadt, zwei Freunde aus Augsburg sind mit dabei. Der Sonntag beginnt wolkig, der Bodensee liegt grau vor uns, trotzdem gut, draußen zu sein. Und dann zeigt sich auf der Rückfahrt endlich die Sonne.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bühnenrealität</title>
+      <link>http://www.mwellner.de/post/2013-02-17-buehnenrealitaet/</link>
+      <pubDate>Sun, 17 Feb 2013 18:16:23 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2013-02-17-buehnenrealitaet/</guid>
+      <description>&lt;p&gt;Die Hauptaufgabe des Schauspielers besteht darin, den gleichen, einstudierten Ablauf immer wieder so zu erleben, als wäre es das erste Mal. Das trifft für den Text zu, den man immer wieder neu entstehen lassen muss, aber auch für die Emotionen.&lt;/p&gt;
+
+&lt;p&gt;Gestern, zur gefürchteten zweiten Aufführung von &lt;a href=&#34;http://www.klima-das-theater.ch/&#34;&gt;Ich, treu, suche&lt;/a&gt; habe ich die Tipps eines Schauspielkollegen bewusst umgesetzt.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Den Text nicht antizipieren, sondern im richtigen Moment kommen lassen.&lt;/li&gt;
+&lt;li&gt;Bewusst zuhören.&lt;/li&gt;
+&lt;li&gt;Offen sein für das Spezielle dieses Abends.&lt;/li&gt;
+&lt;li&gt;Die Zuschauer auslachen lassen.&lt;/li&gt;
+&lt;li&gt;Sätze mal leicht anders betonen, neu interpretieren.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Und es funktioniert! Zugegeben, wir hatten auch ein sehr angenehmes Publikum, der erste Lacher kam sehr früh und brach das Eis. Und mit Zuschauerreaktionen spielt es sich schon leichter. Aber jeder Abend ist ein wenig anders und wenn man sich darauf konzentriert, fällt es leichter, die Spannung aufrecht zu erhalten. Und so konnten wir auch den gefürchteten Einbruch zur zweiten Vorstellung verhindern, der nach der großen Anspannung zur Premiere gelegentlich auftritt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generalprobe &amp;#8220;Ich, treu, suche&amp;#8221;</title>
+      <link>http://www.mwellner.de/post/2013-02-15-generalprobe-ich-treu-suche/</link>
+      <pubDate>Fri, 15 Feb 2013 00:47:35 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2013-02-15-generalprobe-ich-treu-suche/</guid>
+      <description>&lt;p&gt;Die letzte Probe vor der morgigen Premiere lief sehr gut durch. Wir brauchten 72 Minuten, mit den Lachern morgen könnten es noch ein paar mehr werden. Und es wird sicher lustig, heute musste sogar unser Regisseur lachen, der das Stück ja in- und auswendig kennt. Ein paar kleine Korrekturen, ich darf an einigen Stellen noch ironischer werden. Aber das sollte gut machbar sein.&lt;/p&gt;
+
+&lt;p&gt;Ich habe ein gutes Gefühl, nach den vielen intensiven Proben in dieser Woche sitzt der Ablauf absolut sicher und ich kann mich auf das Spielen konzentrieren. Es wird sicher eine tolle Premiere morgen werden.&lt;/p&gt;
+
+&lt;p&gt;Traditionell zur Generalprobe haben wir uns heute noch mit der Applausordnung beschäftigt. Also in welcher Reihenfolge wir nach vorn treten und uns verneigen. Ich habe da ein tolles Konzept erstellt, welches auch prompt umgesetzt wurde.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

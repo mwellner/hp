@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publish on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/publish/index.xml</link>
+    <description>Recent content in Publish on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/publish/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Paper accepted</title>
+      <link>http://www.mwellner.de/post/2008-04-15-paper-accepted/</link>
+      <pubDate>Tue, 15 Apr 2008 19:27:01 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2008-04-15-paper-accepted/</guid>
+      <description>&lt;p&gt;Finally, we got it through! I now can also reveal that the scientific journal of my choice was &lt;a href=&#34;http://www.mitpressjournals.org/pres&#34;&gt;Presence&lt;/a&gt;, published by MIT Press. It was a long process, which raised my awareness of scientific language enormously. However, I am not sure whether that is a good thing. I now tend to get on other people&amp;#8217;s nerves when they write something and ask for my opinion on that. There are so many mistakes and inconsistencies to discover.&lt;/p&gt;
+
+&lt;p&gt;I wonder if there is one written form to express an idea adequately. One form which has exactly the right length. And I wonder, how many iterations it takes to get to that form.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resubmission</title>
+      <link>http://www.mwellner.de/post/2008-01-24-resubmission/</link>
+      <pubDate>Thu, 24 Jan 2008 17:07:41 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2008-01-24-resubmission/</guid>
+      <description>&lt;p&gt;I did it again. I revised my paper completely and resubmitted it to the journal of my choice. Compared to the &lt;a href=&#34;http://www.mwellner.de/2007/08/29/paper-submission/&#34;&gt;original submission&lt;/a&gt;, the haptic evaluation part was removed, a structural reorganization took place, and many improvements in argumentation and plausibility were added. So now it&amp;#8217;s in the editorial pipeline again.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; This paper describes evaluation experiments for visual and auditory feedback in a virtual obstacle walking scenario. Two studies with healthy subjects were carried out using the actuated gait orthosis Lokomat. Controlled factors for the visual feedback experiment were three different perspectives and 2D/3D vision. In the auditory feedback experiment, controlled factors were rhythmic distance feedback and gradual foot clearance feedback. For visual and auditory feedback experiments, outcome was assessed with task-specific performance parameters and questionnaires. Results for visual feedback indicate that the chosen side perspective is superior to behind and ego perspectives. It is also shown that 3D vision does not reduce the number of obstacle hits compared to 2D vision. Furthermore, it is demonstrated that the addition of continuous auditory feedback makes subjects walk faster compared to the exclusive use of visual feedback. Therefore, we suggest to use the side perspective and auditory feedback on obstacle distance, which was rated most helpful by the subjects.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

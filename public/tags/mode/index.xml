@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mode on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/mode/index.xml</link>
+    <description>Recent content in Mode on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/mode/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CSS Blend Modes</title>
+      <link>http://www.mwellner.de/post/2016-06-01-css-blend-modes/</link>
+      <pubDate>Wed, 01 Jun 2016 22:47:06 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-06-01-css-blend-modes/</guid>
+      <description>&lt;p&gt;Eine wundervolle künstlerische Anwendung von CSS sind die &lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/CSS/CSS_Referenz/mix-blend-mode&#34; title=&#34;mix-blend-mode&#34; target=&#34;_blank&#34;&gt;Blend Modes&lt;/a&gt;, welche eine Überlagerung von zwei übereinander befindlichen Elementen ermöglichen. Ich habe es für die Kopfzeile dieser Webseite gleich mal ausprobiert, nach langem Testen hat mich schließlich &lt;em&gt;mix-blend-mode: hard-light&lt;/em&gt; überzeugt. Das Beste daran ist die leichte Anpassbarkeit, ich kann den Text schnell ändern, was bei einer mit Photoshop erzeugten Grafik ganz anders aussähe. Empfehlen möchte ich außerdem den &lt;a href=&#34;https://sarasoueidan.com/demos/css-blender/&#34; title=&#34;CSS Blender&#34; target=&#34;_blank&#34;&gt;CSS Blender&lt;/a&gt;, dort kann man nach Herzenslust alle Effekte austesten.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Less on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/less/index.xml</link>
+    <description>Recent content in Less on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/less/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Neues Erscheinungsbild und neue Schriftart</title>
+      <link>http://www.mwellner.de/post/2015-03-22-neues-erscheinungsbild-und-neue-schriftart-fira-sans/</link>
+      <pubDate>Sun, 22 Mar 2015 19:44:43 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2015-03-22-neues-erscheinungsbild-und-neue-schriftart-fira-sans/</guid>
+      <description>&lt;p&gt;Ich habe das Aussehen meiner Webseite verändert, ich verwende jetzt das &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress Thema&lt;/a&gt;. Mein Ziel war es, ein anderes Thema als &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt; zu nehmen, denn das haben wir auch auf der Seite unserer Theatergruppe &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt;. Grundsätzlich sind beide Themen ähnlich, vor allem von den Einstellmöglichkeiten, jedoch sieht es schon ein wenig anders aus.&lt;/p&gt;
+
+&lt;p&gt;Was ich richtig gut fand, war die Einbindung eines CSS-Präprozessors, in diesem Fall &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less&lt;/a&gt; für selbst erstelltes CSS. Mir waren die Tabellen-Stile zu großzügig bemessen, meine lange &lt;a href=&#34;http://www.mwellner.de/schauspiel/&#34; title=&#34;Schauspiel/​Regie&#34;&gt;Liste von Theaterproduktionen&lt;/a&gt; sah nicht wirklich gut aus.&lt;/p&gt;
+
+&lt;p&gt;Außerdem habe ich die Schriftart angepasst. Nachdem ich am letzten Donnerstag das Vergnügen hatte, Erik Spiekermann auf der &lt;a href=&#34;http://2015.uxmunich.com/&#34; title=&#34;UX Munich&#34; target=&#34;_blank&#34;&gt;UX Munich&lt;/a&gt; zu erleben, verwende ich jetzt die von ihm entwickelte &lt;a href=&#34;https://en.wikipedia.org/wiki/Fira_Sans&#34; title=&#34;Fira Sans&#34; target=&#34;_blank&#34;&gt;Fira Sans&lt;/a&gt;. Diese Schriftart wurde für Bildschirme und tragbare Geräte entwickelt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Theme and Font</title>
+      <link>http://www.mwellner.de/post/2015-03-22-new-theme/</link>
+      <pubDate>Sun, 22 Mar 2015 19:36:45 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2015-03-22-new-theme/</guid>
+      <description>&lt;p&gt;I have changed the appearance of my web site, giving the &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress theme&lt;/a&gt; a chance. My goal was to get away from &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt;, since we use that on &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt; as well. The elements are roughly the same, but the look is slightly different.&lt;/p&gt;
+
+&lt;p&gt;One thing I noted with great delight &amp;ndash; you can use the &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less pre-processor&lt;/a&gt; when typing in your custom CSS. What I actually changed were table styles, they had defined quite large paddings, making my acting overview page look strange.&lt;/p&gt;
+
+&lt;p&gt;What I also changed was the default font. After hearing Erik Spiekermann on &lt;a href=&#34;http://2015.uxmunich.com/&#34; title=&#34;UX Munich&#34; target=&#34;_blank&#34;&gt;UX Munich&lt;/a&gt;, I am now giving &lt;a href=&#34;https://en.wikipedia.org/wiki/Fira_Sans&#34; title=&#34;Fira Sans&#34; target=&#34;_blank&#34;&gt;Fira Sans&lt;/a&gt; a try. It was developed to look good on screen and hand-held devices.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

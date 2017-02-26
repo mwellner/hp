@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariadb on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/mariadb/index.xml</link>
+    <description>Recent content in Mariadb on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/mariadb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docker Compose File for WordPress &amp;#038; MariaDB</title>
+      <link>http://www.mwellner.de/post/2016-09-14-docker-compose-file-for-wordpress-mariadb/</link>
+      <pubDate>Wed, 14 Sep 2016 22:33:45 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-09-14-docker-compose-file-for-wordpress-mariadb/</guid>
+      <description>&lt;p&gt;After some frustrating attempts to create a working Docker configuration for a WordPress system, I have finally found a working solution. It uses the default &lt;a href=&#34;https://hub.docker.com/_/wordpress/&#34; title=&#34;WordPress image&#34; target=&#34;_blank&#34;&gt;WordPress Docker image&lt;/a&gt; and &lt;a href=&#34;https://hub.docker.com/_/mariadb/&#34; title=&#34;MariaDB image&#34; target=&#34;_blank&#34;&gt;MariaDB&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a minimal configuration, you may also want to specify a data volume for persistence.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;# docker-compose.yml file for a minimal working WordPress instance with separate database&amp;lt;br /&amp;gt;
+version: &#39;2&#39;&amp;lt;br /&amp;gt;
+services:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;wordpress:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;image: wordpress&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;links:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;- wordpress_db:mysql&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;ports:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;- 8090:80&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;environment:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;WORDPRESS_DB_HOST: wordpress_db:3306&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;WORDPRESS_DB_PASSWORD: password&amp;lt;br /&amp;gt;
+&amp;amp;emsp;wordpress_db:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;image: mariadb&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;environment:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;MYSQL_ROOT_PASSWORD: password&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

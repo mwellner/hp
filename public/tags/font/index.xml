@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Font on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/font/index.xml</link>
+    <description>Recent content in Font on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/font/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Theme and Font</title>
+      <link>http://www.mwellner.de/post/2015-03-22-new-theme/</link>
+      <pubDate>Sun, 22 Mar 2015 19:36:45 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2015-03-22-new-theme/</guid>
+      <description>&lt;p&gt;I have changed the appearance of my web site, giving the &lt;a href=&#34;http://www.cryoutcreations.eu/nirvana&#34; title=&#34;Nirvana WordPress Theme&#34; target=&#34;_blank&#34;&gt;Nirvana WordPress theme&lt;/a&gt; a chance. My goal was to get away from &lt;a href=&#34;http://www.cryoutcreations.eu/parabola/&#34; title=&#34;Parabola WordPress Theme&#34; target=&#34;_blank&#34;&gt;Parabola&lt;/a&gt;, since we use that on &lt;a href=&#34;http://dramateure.ch&#34; title=&#34;die dramateure zürich&#34; target=&#34;_blank&#34;&gt;dramateure.ch&lt;/a&gt; as well. The elements are roughly the same, but the look is slightly different.&lt;/p&gt;
+
+&lt;p&gt;One thing I noted with great delight &amp;ndash; you can use the &lt;a href=&#34;http://lesscss.org/&#34; title=&#34;Less CSS&#34; target=&#34;_blank&#34;&gt;Less pre-processor&lt;/a&gt; when typing in your custom CSS. What I actually changed were table styles, they had defined quite large paddings, making my acting overview page look strange.&lt;/p&gt;
+
+&lt;p&gt;What I also changed was the default font. After hearing Erik Spiekermann on &lt;a href=&#34;http://2015.uxmunich.com/&#34; title=&#34;UX Munich&#34; target=&#34;_blank&#34;&gt;UX Munich&lt;/a&gt;, I am now giving &lt;a href=&#34;https://en.wikipedia.org/wiki/Fira_Sans&#34; title=&#34;Fira Sans&#34; target=&#34;_blank&#34;&gt;Fira Sans&lt;/a&gt; a try. It was developed to look good on screen and hand-held devices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Typographie</title>
+      <link>http://www.mwellner.de/post/2009-12-19-typographie/</link>
+      <pubDate>Sat, 19 Dec 2009 15:58:39 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2009-12-19-typographie/</guid>
+      <description>&lt;p&gt;Durch meine Tätigkeiten als Redakteur, Gestalter eines Theater-Abendprogramms und Autor eines Weblogs kam ich schon oft mit dem Setzen von Text in Berührung. Aber eigentlich ist mein Wissen recht begrenzt, beziehungsweise geprägt durch die Arbeit mit &lt;a href=&#34;http://en.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt;, einem Textsatzsystem vor allem für wissenschaftliche Publikationen. Von daher waren mir einige typographische Grundsätze in Fleisch und Blut übergegangen, welche bei LaTeX von &lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/koma-script/&#34;&gt;KOMA-Script&lt;/a&gt; umgesetzt werden, unter anderem&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Seitengestaltung mit breiten Rändern und maximal 70 Zeichen pro Zeile&lt;/li&gt;
+&lt;li&gt;Serifen-Font für Fließtext, serifenloser Font für Überschriften&lt;/li&gt;
+&lt;li&gt;Blocksatz in allen Lebenslagen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bei der Diskussion mit anderen Leuten wurden aber die meisten dieser ehernen Grundsätze in Frage gestellt, so dass ich mich fragte, warum dies alles eigentlich so definiert ist. Und somit landete ich zwangsläufig bei der Kunst der Typographie.&lt;/p&gt;
+
+&lt;p&gt;Mittlerweile habe ich ein sehr schönes Buch gefunden, welches die Grundsätze anschaulich beschreibt: &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style&#34;&gt;The Elements of Typographic Style (Robert Bringhurst)&lt;/a&gt;. Bis jetzt bin ich vom Buch extrem begeistert und vertiefe mich in die Geschichte und heutige Anwendung der Typographie. Denn das Thema ist auch im Hinblick auf die Gestaltung von Webseiten immer aktuell. In der neu geplanten Spezifikation der Cascading Style Sheets (&lt;a href=&#34;http://www.w3.org/TR/css3-roadmap/&#34;&gt;CSS3&lt;/a&gt;) ist in Sachen Schriftarten einiges in Bewegung geraten, als Webseiten-Gestalter kann man jetzt benötigte Schriftarten herunterladen und muss nicht mehr darauf vertrauen, dass sie auf dem Rechner des Nutzers installiert sind. Bereits heute unterstützen die meisten Browser diese Funktion, jedoch wird es noch eine Weile dauern, bis die breite Masse der Webseiten davon profitieren kann. Ein Problem ist noch die Lizensierung von Schriftarten.&lt;/p&gt;
+
+&lt;p&gt;Die Aufgabe des Typographen ist immer, den Inhalt gekonnt zur Geltung zu bringen und anschließend selbst zu verwschwinden. Wie beim Regisseur, der bei der Premiere tatenlos im Publikum sitzen muss, wird die Arbeit des Typographen im Endeffekt unsichtbar. Mit diesem Weblog habe ich jedenfalls ein gutes Übungswerkzeug und werde ein paar Sachen damit ausprobieren. Mehr Sinn macht das Ganze bei Drucksachen, wo mir mit &lt;a href=&#34;http://en.wikipedia.org/wiki/Adobe_InDesign&#34;&gt;Adobe InDesign&lt;/a&gt; ein Profiwerkzeug zur Verfügung steht. Aber letztendlich steht Typographie über allen Werkzeugen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

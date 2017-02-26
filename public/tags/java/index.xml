@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/java/index.xml</link>
+    <description>Recent content in Java on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ein Jahr Industrie &amp;ndash; ein Rückblick</title>
+      <link>http://www.mwellner.de/post/2010-10-26-ein-jahr-industrie-ein-ruckblick/</link>
+      <pubDate>Tue, 26 Oct 2010 22:36:20 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2010-10-26-ein-jahr-industrie-ein-ruckblick/</guid>
+      <description>&lt;p&gt;Vor ziemlich genau einem Jahr begann ich bei der &lt;a href=&#34;http://www.helveting.ch&#34;&gt;Helveting AG&lt;/a&gt;, einem aufstrebenden Schweizer Ingenieurbüro. Mit dem Doktortitel in der Tasche, nach drei Wochen Arbeitslosigkeit und mitten in einem JobBasis-Kurs der &lt;a href=&#34;http://www.newplacement.ch&#34;&gt;NewPlacement GmbH&lt;/a&gt; wagte ich den Sprung ins &lt;em&gt;richtige&lt;/em&gt; Berufsleben. Und da bin ich nun und reflektiere.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ein Jahr &amp;ndash; drei Projekte&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zuallererst erwartete mich der Sprung ins kalte Wasser eines ambitionierten Großprojekts, es ging um die Neuentwicklung eines medizinischen Geräts. Ich war als Teilprojektleiter von Anfang an stark gefordert. Nach der Konzeptphase verschob sich mein Schwerpunkt auf ein internes Projekt, ich entwickelte in Rekordzeit ein System für die Zeiterfassung mit &lt;a href=&#34;http://cakephp.org/&#34;&gt;cakePHP&lt;/a&gt; und &lt;a href=&#34;http://www.postgresql.org/&#34;&gt;PostgreSQL&lt;/a&gt;, welches die existierende Lösung mit Excel-Sheets ablöste.&lt;/p&gt;
+
+&lt;p&gt;Danach gab es noch ein zweimonatiges Kundenprojekt mit einer Smart-Phone-Applikation, so dass ich schon an drei sehr unterschiedlichen Projekten mitgewirkt habe. Ab November erwartet mich ein viertes Projekt, diesmal im Bereich Software-Tests und direkt beim Kunden. Somit hat mich jetzt auch das Pendelschicksal erwischt, mit einem 1. Klasse-Generalabonnement, WLAN im Zug und der Möglichkeit unterwegs zu arbeiten lässt sich das aber sicherlich ertragen. Dennoch bedeutet es eine Umstellung, an die ich mich erst noch gewöhnen muss.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Forschung vs. Industrie&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Was sind nun die Unterschiede zwischen Forschung und Industrie? Neu sind die Zeiterfassung und der Druck, in der geplanten Zeit ein Resultat zu erreichen, mit dem der Kunde zufrieden ist. Da ich aber lange Zeit an einem internen Projekt gearbeitet habe, traf das für mich nur zum Teil zu. Obwohl ich auch dort unter großem Druck stand, zum Stichtag musste das Basissystem mit firmenkritischen Daten stehen und funktionieren. Das grundsätzliche Problem bei Projekten für jemand anderen sind wechselnde Anforderungen. Und gerade beim Zeiterfassungs-System, mit dem alle arbeiten, kommen wöchentlich neue Anforderungen und Verbesserungsvorschläge, so dass die großen Entwicklungsprojekte schnell mal aufgeschoben werden. In der Forschung war das anders, dort konnte ich weitestgehend selbst bestimmen, was ich mache und wann es gut genug ist, natürlich immer im Dialog mit den Teamkollegen und meinem Doktorvater.&lt;/p&gt;
+
+&lt;p&gt;Der Alltag ist sehr ähnlich. Nach dem etwas längeren Arbeitsweg treffe ich in einer Büroumgebung mit vielen am Computer tippenden und klickenden Leuten ein. Ich starte meine persönliche Kiste hoch, checke Emails und arbeite weitestgehend selbstständig an meinen Projekten. Mittagspause, Besprechungen mit Kollegen und Vorgesetzten, Präsentationen, Fahrten zum Kunden, Konferenzteilnahmen fehlen zugegebenermaßen &amp;ndash; im Grunde sehr ähnliche Abläufe.&lt;/p&gt;
+
+&lt;p&gt;Und das Lösen von Programmierproblemen ist auch gleich geblieben, ob nun mit &lt;a href=&#34;http://www.mathworks.ch/&#34;&gt;Matlab&lt;/a&gt;, &lt;a href=&#34;http://de.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt; oder &lt;a href=&#34;http://de.wikipedia.org/wiki/Php&#34;&gt;PHP&lt;/a&gt;, stets stoße ich irgendwo an, analysiere, konsultiere das Internet, grenze ein und löse das Problem, um auf das nächste zu treffen. Was mir ein bisschen fehlt, ist der hohe Anspruch, den wissenschaftliche Publikationen an das Formulieren und Layout von Dokumenten stellen. Dafür fehlt schlicht die Zeit, obwohl der Abschlussbericht oder das Konzept ebenfalls sehr wichtige Dokumente sind, für die der Kunde eine Menge Geld bezahlt. Aber für einen guten Bericht müsste man schon mehrere Tage im Angebot rechnen.&lt;/p&gt;
+
+&lt;p&gt;Inhaltlich habe ich einiges an Entwicklungsmethodik gelernt, &lt;a href=&#34;http://www.android.com/&#34;&gt;Android&lt;/a&gt; und &lt;a href=&#34;http://www.java.com/de/&#34;&gt;Java&lt;/a&gt; kennen gelernt, außerdem meine Fähigkeiten im Bereich Datenbank-Entwurf und Webdesign ausgebaut.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Freizeit&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Meine Freizeitaktivitäten konnte ich zum größten Teil beibehalten, ich nahm an bis zu drei parallelen Theaterproduktionen oder -kursen teil. Der Sport kam etwas zu kurz, aber die Nähe zur Schlierener Kletterhalle konnte ich auch gut nutzen, so dass momentan Klettern mein Ausgleichssport ist.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fazit&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Alles in allem bin ich zufrieden, ich wollte mich in verschiedenen Projekten in der Industrie ausprobieren und Erfahrung sammeln, die wichtigste Währung auf dem Arbeitsmarkt und das größte Manko eines frischgebackenen ETH-Absolventen. Von daher werde ich noch einige Zeit dabei bleiben und regelmäßig neu überlegen, ob und wann ich zurück in die deutsche Heimat möchte.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

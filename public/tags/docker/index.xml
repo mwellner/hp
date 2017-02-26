@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/docker/index.xml</link>
+    <description>Recent content in Docker on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docker Compose File for WordPress &amp;#038; MariaDB</title>
+      <link>http://www.mwellner.de/post/2016-09-14-docker-compose-file-for-wordpress-mariadb/</link>
+      <pubDate>Wed, 14 Sep 2016 22:33:45 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-09-14-docker-compose-file-for-wordpress-mariadb/</guid>
+      <description>&lt;p&gt;After some frustrating attempts to create a working Docker configuration for a WordPress system, I have finally found a working solution. It uses the default &lt;a href=&#34;https://hub.docker.com/_/wordpress/&#34; title=&#34;WordPress image&#34; target=&#34;_blank&#34;&gt;WordPress Docker image&lt;/a&gt; and &lt;a href=&#34;https://hub.docker.com/_/mariadb/&#34; title=&#34;MariaDB image&#34; target=&#34;_blank&#34;&gt;MariaDB&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a minimal configuration, you may also want to specify a data volume for persistence.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;# docker-compose.yml file for a minimal working WordPress instance with separate database&amp;lt;br /&amp;gt;
+version: &#39;2&#39;&amp;lt;br /&amp;gt;
+services:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;wordpress:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;image: wordpress&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;links:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;- wordpress_db:mysql&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;ports:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;- 8090:80&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;environment:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;WORDPRESS_DB_HOST: wordpress_db:3306&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;WORDPRESS_DB_PASSWORD: password&amp;lt;br /&amp;gt;
+&amp;amp;emsp;wordpress_db:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;image: mariadb&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;environment:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;MYSQL_ROOT_PASSWORD: password&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting up Docker on Ubuntu 15.10</title>
+      <link>http://www.mwellner.de/post/2016-04-17-setting-up-docker-on-ubuntu-15-10/</link>
+      <pubDate>Sun, 17 Apr 2016 17:02:43 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-04-17-setting-up-docker-on-ubuntu-15-10/</guid>
+      <description>&lt;p&gt;For the next five days, I will be on an &lt;em&gt;innovation week&lt;/em&gt;, as my company calls it. I will be away from the daily business and dig into one topic of my own choice, but of course related to current challenges within the company. And since service-oriented architecture is something that moves us in the moment, I chose service scalability as my topic. But for that to work, I need a quick way to set-up services within their own context, making it possible to add more service nodes when needed. And after a quick research, I will use &lt;a href=&#34;https://www.docker.com/&#34; title=&#34;Docker&#34; target=&#34;_blank&#34;&gt;docker&lt;/a&gt;, another hot topic in the web industry.&lt;/p&gt;
+
+&lt;p&gt;As a working environment, I will use the current version of &lt;a href=&#34;http://www.ubuntu.com/&#34; title=&#34;Ubuntu&#34; target=&#34;_blank&#34;&gt;Ubuntu Linux&lt;/a&gt;, which has the big advantage, that it supports containerization on the operating system level. And I know the system for quite some time, having a dual-boot system with Linux and Windows on my home computer since ages. For this current challenge, I updated to the current version (15.10) and installed docker. That turned out to be not so easy, so I wished I had known this video before, which describes it all in a very elaborated English and with amply detail.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;#8217;t spent too much thoughts on the actual application design, but the set-up suggested in the &lt;a href=&#34;https://github.com/docker/docker-birthday-3#challenge&#34; title=&#34;GitHub - docker birthday challenge&#34; target=&#34;_blank&#34;&gt;docker birthday challenge&lt;/a&gt; seems quite interesting and sufficing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

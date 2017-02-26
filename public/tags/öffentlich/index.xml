@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Öffentlich on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/%C3%B6ffentlich/index.xml</link>
+    <description>Recent content in Öffentlich on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/%C3%B6ffentlich/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Macht mit bei Email-Verschlüsselung!</title>
+      <link>http://www.mwellner.de/post/2010-08-28-macht-mit-bei-email-verschlusselung/</link>
+      <pubDate>Sat, 28 Aug 2010 22:08:49 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2010-08-28-macht-mit-bei-email-verschlusselung/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Anlass&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vor kurzem habe ich meinen Rechner neu aufgesetzt, nun ist &lt;a href=&#34;http://de.wikipedia.org/wiki/Microsoft_Windows_7&#34;&gt;Windows 7&lt;/a&gt; mein Betriebssystem. &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu Linux&lt;/a&gt; läuft nun als virtuelle Maschine mit dem &lt;a href=&#34;http://www.vmware.com/de/products/player/&#34;&gt;VMware Player&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;http://www.flickr.com/photos/mwellner/4935768178/&#34; title=&#34;Zutritt verboten by mwellner, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4118/4935768178_1a92d6d5f6.jpg&#34; width=&#34;500&#34; height=&#34;338&#34; alt=&#34;Zutritt verboten&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Privatspäre&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Im Zuge der Neuinstallation habe ich mir auch Gedanken zum Thema Email-Sicherheit gemacht. Bereits 2003 hatte ich mir ein Schlüsselpaar (der öffentliche Teil des Schlüssels ist auf diversen Key-Servern verfügbar) erzeugt, dieses aber nur gelegentlich genutzt. Das wird sich nun wieder ändern!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warum verschlüsseln?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Angestoßen durch die Diskussionen über die ständig schrumpfende Privatsphäre möchte ich mir einen Teil meiner Privatsphäre zurückerobern &amp;ndash; private Emails sind da ein wichtiger Bestandteil. Normale Emails sind wie Postkarten, auf allen Servern kann man sie mit den entsprechenden Zugriffsrechten lesen. Die Verschlüsselung ist wie ein Briefumschlag, der den privaten Inhalt vor neugierigen Blicken schützt. Die zunehmende Kommunikation über soziale Netzwerke sehe ich kritisch, da kommerzielle Interessen dort dominieren und die hohen Anfangsinvestitionen irgendwann reinkommen müssen. Gerade Facebook ist durch einige Vorfälle in die Kritik geraten (siehe z.B. &lt;a href=&#34;http://www.zeit.de/2010/35/Facebook&#34;&gt;Facebooks unsichtbare Listen&lt;/a&gt; in der ZEIT).&lt;/p&gt;
+
+&lt;p&gt;Im unternehmerischen Umfeld ist das Verschlüsseln von Daten noch wichtiger, da man wichtige Dokumente ungern an Dritte weiterreichen würde. Dass dies heute nur sehr wenige Firmen machen, ist für mich kaum nachvollziehbar. Verträge, technische Dokumente oder Software werden so quasi als Postkarte versendet, Industriespionage erheblich vereinfacht.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öffentlicher und geheimer Schlüssel beim RSA-Verfahren&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Technisch beruht die Verschlüsselung von Emails auf dem &lt;a href=&#34;http://de.wikipedia.org/wiki/RSA-Kryptosystem&#34;&gt;RSA-Kryptosystem&lt;/a&gt;. Mit einem geeigneten Programm könnt ihr euch ein Schlüsselpaar erzeugen, welches aus einem geheimen und einem öffentlichen Schlüssel besteht. Den öffentlichen Schlüssel könnt ihr herumschicken, mit ihm kann ich auch Nachrichten an euch verschlüsseln, die ihr nur mit eurem geheimen Schlüssel entschlüsseln könnt. Das Signieren von Nachrichten ist eine andere Sache, dafür nehmt ihr euren geheimen Schlüssel und der Empfänger kann mit Hilfe eures öffentlichen Schlüssels feststellen, ob die Nachricht wirklich von euch stammt.&lt;/p&gt;
+
+&lt;p&gt;Damit das Ganze Sinn macht, brauche ich aber eure Mithilfe. Denn ich allein kann meine Nachrichten lediglich signieren, sie sind dann aber immer noch für jedermann lesbar. Erst wenn ihr mitmacht und mir eure öffentlichen Schlüssel zukommen lasst, kann ich Nachrichten an euch verschlüsseln.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So geht&amp;#8217;s los&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Für die meisten Email-Programme gibt es Zusätze zum Verschlüsseln. Ich persönlich verwende &lt;a href=&#34;http://www.mozillamessaging.com/de/thunderbird/&#34;&gt;Mozilla Thunderbird&lt;/a&gt; mit dem &lt;a href=&#34;http://www.enigmail.net/home/index.php&#34;&gt;Enigmail&lt;/a&gt;-Plugin. Für Windows und damit auch Outlook gibt es mit &lt;a href=&#34;http://www.gpg4win.org&#34;&gt;Gpg4win&lt;/a&gt; ebenfalls ein komfortables Zusatzwerkzeug, mit dem ich auf Arbeit bereits gute Erfahrungen gesammelt habe. In der Linux-Welt ist &lt;a href=&#34;http://www.gnupg.org/&#34;&gt;GnuPG&lt;/a&gt; der Quasi-Standard, die meisten anderen Programme und Werkzeuge basieren darauf.&lt;/p&gt;
+
+&lt;p&gt;Nach der Installation könnt ihr euch ein Schlüsselpaar anlegen. Folgt einfach den Standardvorgaben und macht auf jeden Fall eine Sicherungskopie eurer beiden Schlüssel! Euer privater Schlüssel wird zusätzlich mit einem Passwort geschützt. Dann könnt ihr euren öffentlichen Schlüssel exportieren und herumschicken oder ihn auf einen Schlüssel-Server laden.&lt;/p&gt;
+
+&lt;p&gt;Das Verschlüsseln ist ein wenig gewöhnungsbedürftig und ein zusätzlicher Schritt. Aber ich denke, dass sich dieser Aufwand lohnt.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipma on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/ipma/index.xml</link>
+    <description>Recent content in Ipma on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/ipma/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projektmanagement-Zertifikat</title>
+      <link>http://www.mwellner.de/post/2016-02-28-projektmanagement-zertifikat/</link>
+      <pubDate>Sun, 28 Feb 2016 10:21:33 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-02-28-projektmanagement-zertifikat/</guid>
+      <description>&lt;p&gt;Nach etlichen Jahren Abstinenz von formaler Ausbildung hatte ich vor Kurzem einen Rückfall. Comparis organisierte eine firmeninterne Weiterbildung im Bereich Projektmanagement mit abschließender Zertifizierung (&lt;a href=&#34;https://de.wikipedia.org/wiki/International_Project_Management_Association&#34; title=&#34;International Project Management Association&#34; target=&#34;_blank&#34;&gt;IPMA&lt;/a&gt;, Level D). Und nach einer erfolgreichen schriftlichen Prüfung darf ich mich jetzt &lt;em&gt;Certified Project Management Associate&lt;/em&gt; nennen.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_6526&#34; style=&#34;width: 1010px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/02/projektmanagement_ipma_leveld.png&#34; alt=&#34;IPMA-Zertifikat, Certified Project Management Associate, Level D&#34; width=&#34;1000&#34; height=&#34;1415&#34; class=&#34;size-full wp-image-6526&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/02/projektmanagement_ipma_leveld.png 1000w, http://www.mwellner.de/wp-uploads/2016/02/projektmanagement_ipma_leveld-247x350.png 247w, http://www.mwellner.de/wp-uploads/2016/02/projektmanagement_ipma_leveld-724x1024.png 724w, http://www.mwellner.de/wp-uploads/2016/02/projektmanagement_ipma_leveld-106x150.png 106w&#34; sizes=&#34;(max-width: 1000px) 100vw, 1000px&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    IPMA-Zertifikat, Certified Project Management Associate, Level D
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Die grundlegende Frage bei derartigen Zertifizierungsprogrammen ist natürlich, ob es eine Korrelation zwischen Zertifikat und Kompetenz gibt (siehe &lt;a href=&#34;http://martinfowler.com/bliki/CertificationCompetenceCorrelation.html&#34; title=&#34;CertificationCompetenceCorrelation&#34; target=&#34;_blank&#34;&gt;CertificationCompetenceCorrelation&lt;/a&gt; von Martin Fowler). Aber dennoch war die Auseinandersetzung mit den Begrifflichkeiten sinnvoll, auch damit wir innerhalb der Firma von den gleichen Sachen reden.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

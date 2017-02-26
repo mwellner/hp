@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latex En on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/latex-en/index.xml</link>
+    <description>Recent content in Latex En on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/latex-en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LaTeX, Making Things Nicer</title>
+      <link>http://www.mwellner.de/post/2007-11-30-latex-making-things-nicer/</link>
+      <pubDate>Fri, 30 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2007-11-30-latex-making-things-nicer/</guid>
+      <description>&lt;p&gt;For those interested in creating outstanding LaTeX documents, please see General LaTeX tips and tricks, a very helpful page covering a lot of questions how to use LaTeX better. I especially recommend the questions on creating nicer captions (number 19) and on creating fancy chapter titles (number 13).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

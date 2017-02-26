@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/development/index.xml</link>
+    <description>Recent content in Development on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Technical Summit 2016 in Darmstadt</title>
+      <link>http://www.mwellner.de/post/2016-11-22-technical-summit-2016-in-darmstadt/</link>
+      <pubDate>Tue, 22 Nov 2016 22:33:37 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-11-22-technical-summit-2016-in-darmstadt/</guid>
+      <description>
+
+&lt;p&gt;Soon, I will attend the &lt;a href=&#34;https://www.microsoft.com/germany/technical-summit/default.aspx&#34; target=&#34;_blank&#34;&gt;Technical Summit 2016&lt;/a&gt;, which will take place from Dec 6 to 8 in Darmstadt. This is my first conference for my new employer (&lt;a href=&#34;https://www.conweaver.com/&#34; target=&#34;_blank&#34;&gt;ConWeaver&lt;/a&gt;), where I am working pretty much along the same lines as for &lt;a href=&#34;http://www.comparis.ch&#34; target=&#34;_blank&#34;&gt;Comparis&lt;/a&gt;, meaning front-end development with HTML, CSS and JavaScript and its many derivatives (&lt;a href=&#34;http://sass-lang.com/&#34; target=&#34;_blank&#34;&gt;Sass&lt;/a&gt;, LESS, &lt;a href=&#34;https://www.typescriptlang.org/&#34; target=&#34;_blank&#34;&gt;TypeScript&lt;/a&gt;). A new challenge is &lt;a href=&#34;https://angular.io/&#34; target=&#34;_blank&#34;&gt;Angular&lt;/a&gt;, which has recently reached version 2 and comes with a nodejs-based workflow and with mostly alpha-staged tools around.&lt;/p&gt;
+
+&lt;p&gt;So it is definitely good to get some insights on existing and new technologies in the quickly evolving world of web development.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_7007&#34; style=&#34;width: 810px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;http://www.mwellner.de/mw_20160911_2589-2/&#34;&gt;&lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589.jpg&#34; alt=&#34;darmstadtium&#34; width=&#34;800&#34; height=&#34;534&#34; class=&#34;size-full wp-image-7007&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589.jpg 800w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-350x234.jpg 350w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-768x513.jpg 768w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-225x150.jpg 225w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-150x100.jpg 150w&#34; sizes=&#34;(max-width: 800px) 100vw, 800px&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    darmstadtium, the conference venue
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In addition to the keynotes, there are up to 6 parallel sessions going on. Some sessions I fancy:&lt;/p&gt;
+
+&lt;h4 id=&#34;apts-cybercrime-cyber-attacks-warfare-and-threats-exposed&#34;&gt;APTs: Cybercrime, Cyber Attacks, Warfare and Threats Exposed&lt;/h4&gt;
+
+&lt;p&gt;In this session, see a live demonstration of the tools and techniques used by cybercriminals and cyber warriors today. We demonstrate what the threat-landscape looks like today, how the attackers penetrate your network, how they make their attacks undetectable from conventional antivirus and evade IDS solutions. We show how they expand their initial foothold to complete domain compromise and finally how they obtain their goal and infiltrate your data. A must see awareness session if you want to understand the threats of today.&lt;/p&gt;
+
+&lt;h4 id=&#34;give-your-apps-a-human-side-through-machine-learning&#34;&gt;Give your apps a human side through Machine Learning&lt;/h4&gt;
+
+&lt;p&gt;The future of machine learning will be invisible; it will exist, you will use machine learning in your everyday lives, and you wouldn’t even know it. Now is a good time to start integrating amazing machine learning features into your applications, as they become integral to our society. The Cognitive Services APIs are practically invisible. You don’t need to build your own complex algorithms to make your application smarter and more powerful. Cognitive Services is a set of ready-made machine learning APIs that allow you to breath intelligence into your application using only simple HTTP calls. In this talk, you will be introduced to the Cognitive Services APIs and see how you can use them to transform your application. This is about the power of machine learning and computer vision at the end of an API call.&lt;/p&gt;
+
+&lt;h4 id=&#34;css-flexbox-the-future-of-user-interface-design&#34;&gt;CSS Flexbox: The Future of User Interface Design&lt;/h4&gt;
+
+&lt;p&gt;My favorite topic&amp;#8230;&lt;/p&gt;
+
+&lt;h4 id=&#34;http-2-8211-the-future-is-now&#34;&gt;HTTP/2 &amp;#8211; The Future is Now&lt;/h4&gt;
+
+&lt;h4 id=&#34;typed-javascript-with-typescript-and-flow&#34;&gt;Typed JavaScript with TypeScript and Flow&lt;/h4&gt;
+
+&lt;h4 id=&#34;introduction-to-react-js&#34;&gt;Introduction to React.js&lt;/h4&gt;
+
+&lt;p&gt;React.js is a game changer for web applications.Made by Facebook for slick, modern user interfaces and able to handleheavy data lifting with brilliant performance, it&amp;#8217;s revolutionised howdevelopers all around the world build their apps.Let&amp;#8217;s explore what makes it special and the core concepts to get you upto speed with the new hot thing in JavaScript!&lt;/p&gt;
+
+&lt;h4 id=&#34;angular-2-modern-html5-applications-for-all-platforms&#34;&gt;Angular 2: Modern HTML5 Applications for all Platforms&lt;/h4&gt;
+
+&lt;h4 id=&#34;yo-asp-net-ndash-what-8217-s-new-and-what-stays-with-asp-net-core-1-0&#34;&gt;Yo ASP.NET &amp;ndash; What&amp;#8217;s new and what stays with ASP.NET Core 1.0&lt;/h4&gt;
+
+&lt;h4 id=&#34;progressive-web-apps-the-web-gets-more-native-and-microsoft-is-part-of-it&#34;&gt;Progressive Web Apps: The web gets more native and Microsoft is part of it&lt;/h4&gt;
+
+&lt;p&gt;So I hope some of you out there will join the fun here in beautiful Darmstadt!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting up Docker on Ubuntu 15.10</title>
+      <link>http://www.mwellner.de/post/2016-04-17-setting-up-docker-on-ubuntu-15-10/</link>
+      <pubDate>Sun, 17 Apr 2016 17:02:43 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-04-17-setting-up-docker-on-ubuntu-15-10/</guid>
+      <description>&lt;p&gt;For the next five days, I will be on an &lt;em&gt;innovation week&lt;/em&gt;, as my company calls it. I will be away from the daily business and dig into one topic of my own choice, but of course related to current challenges within the company. And since service-oriented architecture is something that moves us in the moment, I chose service scalability as my topic. But for that to work, I need a quick way to set-up services within their own context, making it possible to add more service nodes when needed. And after a quick research, I will use &lt;a href=&#34;https://www.docker.com/&#34; title=&#34;Docker&#34; target=&#34;_blank&#34;&gt;docker&lt;/a&gt;, another hot topic in the web industry.&lt;/p&gt;
+
+&lt;p&gt;As a working environment, I will use the current version of &lt;a href=&#34;http://www.ubuntu.com/&#34; title=&#34;Ubuntu&#34; target=&#34;_blank&#34;&gt;Ubuntu Linux&lt;/a&gt;, which has the big advantage, that it supports containerization on the operating system level. And I know the system for quite some time, having a dual-boot system with Linux and Windows on my home computer since ages. For this current challenge, I updated to the current version (15.10) and installed docker. That turned out to be not so easy, so I wished I had known this video before, which describes it all in a very elaborated English and with amply detail.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;#8217;t spent too much thoughts on the actual application design, but the set-up suggested in the &lt;a href=&#34;https://github.com/docker/docker-birthday-3#challenge&#34; title=&#34;GitHub - docker birthday challenge&#34; target=&#34;_blank&#34;&gt;docker birthday challenge&lt;/a&gt; seems quite interesting and sufficing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Implementing simple ajax show/hide effects with cakePHP</title>
+      <link>http://www.mwellner.de/post/2010-04-15-implementing-simple-ajax-showhide-effects-with-cakephp/</link>
+      <pubDate>Thu, 15 Apr 2010 09:56:52 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2010-04-15-implementing-simple-ajax-showhide-effects-with-cakephp/</guid>
+      <description>&lt;p&gt;There are quite some tutorials on ajax effects out there [1, 2], but most were too complex for my needs. I simply wanted an enhanced index page for projects, which shows some details for each project and more on demand with a sliding effect. So here is what my solution looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Basics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I used cakePHP 1.3 RC3. I assume that you have a running cakePHP application with an index view of your main objects of concern. You also need to download the &lt;a href=&#34;http://www.prototypejs.org/&#34;&gt;prototype&lt;/a&gt; and &lt;a href=&#34;http://script.aculo.us/&#34;&gt;scriptaculous&lt;/a&gt; scripts and put all js-files into your /app/webroot/js folder.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Activating ajax&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In your default layout, you have to include the links to the prototype and scriptaculous scripts in the head section of the template.&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;php&#34;&gt;&amp;lt;!-- file app/views/layout/default.ctp --&amp;gt;
+&amp;lt;head&amp;gt;
+    &amp;lt;!-- existing head settings --&amp;gt;
+    &amp;lt;?php
+    echo $javascript-&gt;link(&#39;prototype&#39;);
+    echo $javascript-&gt;link(&#39;scriptaculous.js?load=effects&#39;);
+    ?&amp;gt;
+&amp;lt;/head&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;You also need to activate the AJAX and Javascript helpers in the controller where you want to use it. I prefered to update the app controller, which enables the helpers for all controllers. Your app controller (usually at app/app_controller.php, create if necessary) should include the ajax and javascript helpers like this:&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;php&#34;&gt;&amp;lt;!-- file app/app_controller.php --&amp;gt;
+&amp;lt;?php
+class AppController extends Controller {
+    var $helpers = array(&#39;Html&#39;, &#39;Form&#39;, &#39;Ajax&#39;, &#39;Javascript&#39;);
+}
+?&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;In your view&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In your view you can now include id-marked divs and ajax links to control the visibility of these divs. Assuming that your model is named Project, you need to update your index view at /app/views/project/index.ctp. I use two table rows for that. The first row contains the project name, the ajax links for showing/hiding details, and the actions. The second row is invisible at first (display:none) and contains the div which is controlled by the ajax links. To my knowledge it is not possible to hide/show entire table rows, therefore the second row is rendered empty at first. But it looks quite nice with the default alternate background color for table rows.&lt;/p&gt;
+
+&lt;p&gt;The real trick here was to leave the second argument for the ajax link empty, linking to the same page. All other examples had links to sub pages implemented there what seemed too complex for my wishes. Of course, this implementation means that the entire content is loaded every time. For huge amounts of data this could be a performance issue.&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;php&#34;&gt;&amp;lt;!-- file app/views/project/index.ctp --&amp;gt;
+&amp;lt;table cellpadding=&#34;0&#34; cellspacing=&#34;0&#34;&amp;gt;
+&amp;lt;tr&amp;gt;
+    &amp;lt;th&gt;&amp;lt;?php echo $paginator-&gt;sort(&#39;name&#39;);?&gt;&amp;lt;/th&amp;gt;
+    &amp;lt;th class=&#34;actions&#34;&amp;gt;&amp;lt;?php __(&#39;Actions&#39;);?&gt;&amp;lt;/th&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;?php
+$i = 0;
+foreach ($projects as $project):
+    $id = $project[&#39;Project&#39;][&#39;id&#39;];
+    $i++;
+?&amp;gt;
+&amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;
+    &amp;lt;?php echo $project[&#39;Project&#39;][&#39;name&#39;];?&amp;gt;
+        &amp;lt;?php 
+        // define string for div id
+        $div_string = &#39;project_fold_&#39;.$i;
+
+    // create ajax link which shows project details
+    echo $ajax-&gt;link(
+        &#39;show details&#39;,
+        &#39;&#39;, 
+        array( 
+        &#39;update&#39; =&gt; $div_string, 
+        &#39;loading&#39; =&gt; &#39;Effect.Appear(\&#39;&#39;.$div_string.&#39;\&#39;)&#39;,
+        )
+    );
+
+    // create ajax link which hides project details
+    echo $ajax-&gt;link(
+        &#39;hide details&#39;,
+        &#39;&#39;, 
+        array( 
+        &#39;update&#39; =&gt; $div_string, 
+        &#39;loading&#39; =&gt; &#39;Effect.Fade(\&#39;&#39;.$div_string.&#39;\&#39;)&#39;,
+        )
+    );
+    ?&amp;gt;
+    &amp;lt;/td&amp;gt;
+    &amp;lt;td class=&#34;actions&#34;&amp;gt;
+    &amp;lt;?php echo $html-&gt;link(__(&#39;View&#39;, true), array(&#39;action&#39;=&gt;&#39;view&#39;, $id));?&amp;gt;
+    &amp;lt;?php echo $html-&gt;link(__(&#39;Edit&#39;, true), array(&#39;action&#39;=&gt;&#39;edit&#39;, $id));?&amp;gt;
+    &amp;lt;?php echo $html-&gt;link(
+            __(&#39;Delete&#39;, true), 
+            array( &#39;action&#39;=&gt;&#39;delete&#39;, $id), 
+            null, 
+            sprintf(__(&#39;Are you sure you want to delete # %s?&#39;, true), $id));
+        ?&amp;gt;
+    &amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+
+&amp;lt;tr&amp;gt;
+    &amp;lt;td colspan=&#34;2&#34;&amp;gt;
+    &amp;lt;!-- display div which can be shown/hidden by ajax links --&amp;gt;
+    &amp;lt;?php echo $ajax-&gt;div($div_string, array(&#39;style&#39; =&gt; &#39;display:none&#39;)); ?&amp;gt;
+
+    &amp;lt;!-- project details --&amp;gt;
+    &amp;lt;h3&amp;gt;&amp;lt;?php echo __(&#39;Project details&#39;);?&amp;gt;&amp;lt;/h3&amp;gt;
+    &amp;lt;dl&amp;gt;
+        &amp;lt;dt&amp;gt;&amp;lt;?php echo __(&#39;Description&#39;);?&amp;gt;&amp;lt;/dt&amp;gt;
+        &amp;lt;dd&amp;gt;&amp;lt;?php echo $project[&#39;Project&#39;][&#39;description&#39;];?&amp;gt;&amp;lt;/dd&amp;gt;
+        &amp;lt;dt&amp;gt;&amp;lt;?php echo __(&#39;Budget&#39;);?&amp;gt;&amp;lt;/dt&amp;gt;
+        &amp;lt;dd&amp;gt;&amp;lt;?php printf(&#34;%.2f&amp;thinsp;kCHF&#34;, $project[&#39;Project&#39;][&#39;budget&#39;]);?&amp;gt;&amp;lt;/dd&amp;gt;
+    &amp;lt;/dl&amp;gt;
+
+    &amp;lt;?php echo $ajax-&gt;divEnd($div_string); ?&amp;gt;
+    &amp;lt;/td&amp;gt;
+&amp;lt;/tr&amp;gt;
+&amp;lt;?php endforeach; ?&amp;gt;
+&amp;lt;/table&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;If you want to go one step further, you can try to show/hide the ajax links as well. At first, only &lt;em&gt;show details&lt;/em&gt; is visible. When details are visible, only &lt;em&gt;hide details&lt;/em&gt; can be seen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1] &lt;a href=&#34;http://www.reversefolds.com/articles/show/ajax&#34;&gt;AJAX cakePHP&lt;/a&gt;, ReverseFolds&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Infrastructure Lessons from &amp;#8220;Ship It!&amp;#8221;</title>
+      <link>http://www.mwellner.de/post/2009-11-30-lessons-from-ship-it/</link>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2009-11-30-lessons-from-ship-it/</guid>
+      <description>&lt;p&gt;When a lot of people work together on software projects, a lot of things can go wrong. The book &lt;a href=&#34;http://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047&#34;&gt;Ship It!&lt;/a&gt; by Jared Richardson and William Gwaltney Jr. introduces a number of techniques and tools to make software development teams more productive. During my time at the Sensory Motor Systems Lab, I was responsible for setting up a software development process for a small team. Therefore, most of the issues are well-known to me. And I guess, that we could have done much better by using more of the techniques described in the book.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Version control&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is probably the most important step. If everybody uses a different set of source code with some bugs fixed and others not, there is no current version evident. Moreover, one main developer has to puzzle together the pieces to produce the working version of the project. The intelligent usage of a version control system creates a sandbox for every developer. The source code and all other relevant files to make the project run are stored in a central repository. Every developer can check out the current version, work on a feature or bug, and check the changes back in. If the program is broken, an earlier version can easily be retrieved.&lt;/p&gt;
+
+&lt;p&gt;I have successfully worked with &lt;a href=&#34;http://tortoisesvn.tigris.org/&#34;&gt;TortoiseSVN/Subversion&lt;/a&gt;, which integrates neatly in Windows Explorer. Subversion is based on a client/server architecture with one central repository and a number of local copies. Currently I have also tried &lt;a href=&#34;http://tortoisehg.bitbucket.org/&#34;&gt;MercurialHg/Mercurial&lt;/a&gt;, a distributed version control system. There is no central repository there, but a number of distributed repositories, that can be synchronized.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://subversion.apache.org/&#34;&gt;Apache Subversion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tortoisehg.bitbucket.org/&#34;&gt;TortoiseHg (Mercurial)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Easy build&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The next step is to create one script for building the complete project, which runs on every system alike. The script file should be versioned as well (see version control above). At my earlier job, we had not quite achieved this step and used our IDE instead (Visual Studio). But this also worked quite well after adding all needed files (DLLs) into the project folder.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnu.org/software/make/&#34;&gt;GNU Make&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ant.apache.org/&#34;&gt;Apache Ant (for Java)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nant.sourceforge.net/&#34;&gt;NAnt (for .NET)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://maven.apache.org/&#34;&gt;Apache Maven&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Continuous integration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To notice errors quickly, the project should be rebuilt automatically whenever someone commits new code. This is called continuous integration and thought to reveal integration errors quickly. On a first level, the correct compilation is tested. With unit tests, also the functionality of the code can be tested. Most continuous integration systems can create notifications in several formats (email, RSS feed, web page).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://cruisecontrol.sourceforge.net/&#34;&gt;CruiseControl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.anthillpro.com/html/products/anthillos/default.html&#34;&gt;AntHill OS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tracking issues and features&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As soon as you have a version of your software out at the costumers, bugs (or issues) will be reported. The best way to handle this is to use a tracking system.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bugzilla.org/&#34;&gt;BugZilla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://trac.edgewall.org/&#34;&gt;Trac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Automated testing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This was already mentioned in continuous integration. A set of automatic tests needs to be run to track errors in the project early. Automated tests also prevent you from accidentally reinserting fixed bugs in your repository.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sunit.sourceforge.net/&#34;&gt;SUnit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://junit.sourceforge.net/&#34;&gt;JUnit (for Java)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mono-project.com/NUnit&#34;&gt;NUnit (for .NET)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

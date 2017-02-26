@@ -1,0 +1,18 @@
+DefaultContentLanguage = "de"
+languageCode = "de-de"
+title = "mathias wellner"
+baseurl = "http://www.mwellner.de/"
+theme = "hugo-theme-bootstrap4-blog"
+PygmentsCodeFences = true
+
+[permalinks]
+  post = "/:year/:month/:title/"
+  page = "/:slug/"
+
+[params]
+  # Site author
+  author = "Mathias Wellner"
+
+[Languages]
+[Languages.en]
+[Languages.de]

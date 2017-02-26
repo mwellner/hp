@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development on mathias wellner</title>
+    <link>http://www.mwellner.de/categories/software-development/index.xml</link>
+    <description>Recent content in Software Development on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/categories/software-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Theater Production and Actor Database</title>
+      <link>http://www.mwellner.de/post/2017-01-23-theater-production-and-actor-database/</link>
+      <pubDate>Mon, 23 Jan 2017 21:39:44 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2017-01-23-theater-production-and-actor-database/</guid>
+      <description>
+
+&lt;p&gt;Currently, I am working on a hobby project, a &lt;a href=&#34;https://github.com/mwellner/mwtdb&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;theater production and actor database&lt;/a&gt; (mwtdb for short). It is visible on GitHub and open source.&lt;/p&gt;
+
+&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
+
+&lt;p&gt;What I want to create is something similar to &lt;a href=&#34;http://www.imdb.com/&#34; target=&#34;_blank&#34;&gt;IMDb&lt;/a&gt;, which focuses on movies, TV and celebreties, but for amateur theater. A very basic version will contain actors, directors and technicians, contributing to productions.&lt;/p&gt;
+
+&lt;p&gt;From a technical point of view, I will create a web application, using &lt;a href=&#34;https://angular.io/&#34; target=&#34;_blank&#34;&gt;Angular&lt;/a&gt; and &lt;a href=&#34;https://neo4j.com/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Neo4j&lt;/a&gt;, a &lt;a href=&#34;https://en.wikipedia.org/wiki/Graph_database&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;graph database&lt;/a&gt;. The hope is that a graphical representation of the data at hand is better suited for retrieving the right data for a particular view.&lt;/p&gt;
+
+&lt;h3 id=&#34;first-steps&#34;&gt;First Steps&lt;/h3&gt;
+
+&lt;p&gt;I have used &lt;a href=&#34;https://cli.angular.io/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Angular CLI&lt;/a&gt; to initialize my application. &lt;a href=&#34;https://v4-alpha.getbootstrap.com/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;Bootstrap&lt;/a&gt; will be my front-end framework, along with &lt;a href=&#34;https://ng-bootstrap.github.io/&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;ng-bootstrap&lt;/a&gt; for some interactive components.&lt;/p&gt;
+
+&lt;p&gt;My first Angular components were &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/people/people.component.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;people&lt;/a&gt; (actors, directors) and &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/productions/productions.component.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;productions&lt;/a&gt;, showing a list of existing items and allowing to add more entries. For the graph database, I have created a &lt;a href=&#34;https://github.com/mwellner/mwtdb/blob/master/src/app/database.service.ts&#34; target=&#34;_blank&#34; class=&#34;broken_link&#34;&gt;database service&lt;/a&gt;, which implements a few basic queries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Service Worker Experiments</title>
+      <link>http://www.mwellner.de/post/2016-11-25-service-worker-experiments/</link>
+      <pubDate>Fri, 25 Nov 2016 15:54:04 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-11-25-service-worker-experiments/</guid>
+      <description>&lt;p&gt;I am currently experimenting with service workers (see &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers&#34; target=&#34;_blank&#34;&gt;Using Service Workers&lt;/a&gt; or &lt;a href=&#34;https://developers.google.com/web/fundamentals/getting-started/primers/service-workers&#34; target=&#34;_blank&#34;&gt;Service Workers: an Introduction&lt;/a&gt;). One scenario is to provide mock data when no connection to an external service is available. And by theory, service workers should be able to intercept any request made by the website.&lt;/p&gt;
+
+&lt;p&gt;But there is one exception. If you fetch data with &lt;a href=&#34;http://api.jquery.com/jquery.ajax/&#34; target=&#34;_blank&#34;&gt;jQuery.ajax()&lt;/a&gt; function and use &lt;em&gt;async: false&lt;/em&gt;, the service worker will not be able to intercept any of those requests. I am not quite sure about the underlying cause, but wanted to share my findings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical Summit 2016 in Darmstadt</title>
+      <link>http://www.mwellner.de/post/2016-11-22-technical-summit-2016-in-darmstadt/</link>
+      <pubDate>Tue, 22 Nov 2016 22:33:37 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-11-22-technical-summit-2016-in-darmstadt/</guid>
+      <description>
+
+&lt;p&gt;Soon, I will attend the &lt;a href=&#34;https://www.microsoft.com/germany/technical-summit/default.aspx&#34; target=&#34;_blank&#34;&gt;Technical Summit 2016&lt;/a&gt;, which will take place from Dec 6 to 8 in Darmstadt. This is my first conference for my new employer (&lt;a href=&#34;https://www.conweaver.com/&#34; target=&#34;_blank&#34;&gt;ConWeaver&lt;/a&gt;), where I am working pretty much along the same lines as for &lt;a href=&#34;http://www.comparis.ch&#34; target=&#34;_blank&#34;&gt;Comparis&lt;/a&gt;, meaning front-end development with HTML, CSS and JavaScript and its many derivatives (&lt;a href=&#34;http://sass-lang.com/&#34; target=&#34;_blank&#34;&gt;Sass&lt;/a&gt;, LESS, &lt;a href=&#34;https://www.typescriptlang.org/&#34; target=&#34;_blank&#34;&gt;TypeScript&lt;/a&gt;). A new challenge is &lt;a href=&#34;https://angular.io/&#34; target=&#34;_blank&#34;&gt;Angular&lt;/a&gt;, which has recently reached version 2 and comes with a nodejs-based workflow and with mostly alpha-staged tools around.&lt;/p&gt;
+
+&lt;p&gt;So it is definitely good to get some insights on existing and new technologies in the quickly evolving world of web development.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_7007&#34; style=&#34;width: 810px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;http://www.mwellner.de/mw_20160911_2589-2/&#34;&gt;&lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589.jpg&#34; alt=&#34;darmstadtium&#34; width=&#34;800&#34; height=&#34;534&#34; class=&#34;size-full wp-image-7007&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589.jpg 800w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-350x234.jpg 350w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-768x513.jpg 768w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-225x150.jpg 225w, http://www.mwellner.de/wp-uploads/2016/10/MW_20160911_2589-150x100.jpg 150w&#34; sizes=&#34;(max-width: 800px) 100vw, 800px&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    darmstadtium, the conference venue
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In addition to the keynotes, there are up to 6 parallel sessions going on. Some sessions I fancy:&lt;/p&gt;
+
+&lt;h4 id=&#34;apts-cybercrime-cyber-attacks-warfare-and-threats-exposed&#34;&gt;APTs: Cybercrime, Cyber Attacks, Warfare and Threats Exposed&lt;/h4&gt;
+
+&lt;p&gt;In this session, see a live demonstration of the tools and techniques used by cybercriminals and cyber warriors today. We demonstrate what the threat-landscape looks like today, how the attackers penetrate your network, how they make their attacks undetectable from conventional antivirus and evade IDS solutions. We show how they expand their initial foothold to complete domain compromise and finally how they obtain their goal and infiltrate your data. A must see awareness session if you want to understand the threats of today.&lt;/p&gt;
+
+&lt;h4 id=&#34;give-your-apps-a-human-side-through-machine-learning&#34;&gt;Give your apps a human side through Machine Learning&lt;/h4&gt;
+
+&lt;p&gt;The future of machine learning will be invisible; it will exist, you will use machine learning in your everyday lives, and you wouldn’t even know it. Now is a good time to start integrating amazing machine learning features into your applications, as they become integral to our society. The Cognitive Services APIs are practically invisible. You don’t need to build your own complex algorithms to make your application smarter and more powerful. Cognitive Services is a set of ready-made machine learning APIs that allow you to breath intelligence into your application using only simple HTTP calls. In this talk, you will be introduced to the Cognitive Services APIs and see how you can use them to transform your application. This is about the power of machine learning and computer vision at the end of an API call.&lt;/p&gt;
+
+&lt;h4 id=&#34;css-flexbox-the-future-of-user-interface-design&#34;&gt;CSS Flexbox: The Future of User Interface Design&lt;/h4&gt;
+
+&lt;p&gt;My favorite topic&amp;#8230;&lt;/p&gt;
+
+&lt;h4 id=&#34;http-2-8211-the-future-is-now&#34;&gt;HTTP/2 &amp;#8211; The Future is Now&lt;/h4&gt;
+
+&lt;h4 id=&#34;typed-javascript-with-typescript-and-flow&#34;&gt;Typed JavaScript with TypeScript and Flow&lt;/h4&gt;
+
+&lt;h4 id=&#34;introduction-to-react-js&#34;&gt;Introduction to React.js&lt;/h4&gt;
+
+&lt;p&gt;React.js is a game changer for web applications.Made by Facebook for slick, modern user interfaces and able to handleheavy data lifting with brilliant performance, it&amp;#8217;s revolutionised howdevelopers all around the world build their apps.Let&amp;#8217;s explore what makes it special and the core concepts to get you upto speed with the new hot thing in JavaScript!&lt;/p&gt;
+
+&lt;h4 id=&#34;angular-2-modern-html5-applications-for-all-platforms&#34;&gt;Angular 2: Modern HTML5 Applications for all Platforms&lt;/h4&gt;
+
+&lt;h4 id=&#34;yo-asp-net-ndash-what-8217-s-new-and-what-stays-with-asp-net-core-1-0&#34;&gt;Yo ASP.NET &amp;ndash; What&amp;#8217;s new and what stays with ASP.NET Core 1.0&lt;/h4&gt;
+
+&lt;h4 id=&#34;progressive-web-apps-the-web-gets-more-native-and-microsoft-is-part-of-it&#34;&gt;Progressive Web Apps: The web gets more native and Microsoft is part of it&lt;/h4&gt;
+
+&lt;p&gt;So I hope some of you out there will join the fun here in beautiful Darmstadt!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fighting with JSON</title>
+      <link>http://www.mwellner.de/post/2016-11-18-fighting-with-json/</link>
+      <pubDate>Fri, 18 Nov 2016 16:47:25 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-11-18-fighting-with-json/</guid>
+      <description>
+
+&lt;p&gt;In my current project, I had to deal with huge JSON files, which contain the order and properties of our layout elements. For CSS styling purposes, I had to move one particular array item to the end, create a new object and move all existing elements inside of that new object. This was tedious work when I did that manually.&lt;/p&gt;
+
+&lt;p&gt;So I decided to develop a little C# Console application, taking care of that for me. After a few hours I managed to complete it &amp;ndash; and here are my learnings.&lt;/p&gt;
+
+&lt;h4 id=&#34;library&#34;&gt;Library&lt;/h4&gt;
+
+&lt;p&gt;I went for &lt;a href=&#34;http://www.newtonsoft.com/json&#34; target=&#34;_blank&#34;&gt;JSON.Net&lt;/a&gt;, which is the de-facto standard for .NET.&lt;/p&gt;
+
+&lt;h4 id=&#34;parsing&#34;&gt;Parsing&lt;/h4&gt;
+
+&lt;p&gt;The problem with JSON is that you can get different types (array, object). Hence, we do not want to be too type-specific to be able to cast to the expected type. And we have the wonderful &lt;a href=&#34;https://msdn.microsoft.com/de-de/library/dd264741.aspx&#34; target=&#34;_blank&#34;&gt;dynamic&lt;/a&gt; type declaration, which prevents compile-time type checks. So we use &lt;em&gt;dynamic&lt;/em&gt; as long in the line as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;dynamic json = JsonConvert.DeserializeObject(jsonString)&amp;lt;br /&amp;gt;
+dynamic element = json.GetValue(&amp;quot;Element&amp;quot;);&amp;lt;br /&amp;gt;
+&lt;/code&gt; .&lt;/p&gt;
+
+&lt;h4 id=&#34;working-with-elements&#34;&gt;Working with Elements&lt;/h4&gt;
+
+&lt;p&gt;I found two techniques for selecting a particular element in the JSON tree. You can either use &lt;a href=&#34;http://www.newtonsoft.com/json/help/html/SelectToken.htm&#34; target=&#34;_blank&#34;&gt;SelectToken&lt;/a&gt;, which works best for nested objects. Alternatively you can also use &lt;a href=&#34;https://msdn.microsoft.com/de-de/library/bb397906.aspx&#34; target=&#34;_blank&#34;&gt;LINQ queries&lt;/a&gt; like FirstOrDefault().&lt;/p&gt;
+
+&lt;p&gt;To remove or add items, I converted to &lt;a href=&#34;http://www.newtonsoft.com/json/help/html/t_newtonsoft_json_linq_jarray.htm&#34; target=&#34;_blank&#34;&gt;JArray&lt;/a&gt;, which provides Add() and Remove() functionality.&lt;/p&gt;
+
+&lt;p&gt;One important thing is to clone elements, which are inserted at a different position. Use &lt;a href=&#34;http://www.newtonsoft.com/json/help/html/M_Newtonsoft_Json_Linq_JToken_DeepClone.htm&#34; target=&#34;_blank&#34;&gt;DeepClone()&lt;/a&gt; to get your new element.&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;After falling in the trap of quickly hand-editing a large JSON file, I developed a small command-line tool to do the modifications I needed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>http://www.mwellner.de/post/2016-11-06-angular/</link>
+      <pubDate>Sun, 06 Nov 2016 22:58:37 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-11-06-angular/</guid>
+      <description>&lt;p&gt;After my first week at &lt;a href=&#34;https://www.conweaver.com/&#34; target=&#34;_blank&#34;&gt;ConWeaver&lt;/a&gt;, I got a first impression of the search framework and the technology used. The hot topic in the moment is &lt;a href=&#34;https://angular.io/&#34; target=&#34;_blank&#34;&gt;Angular&lt;/a&gt;, which is a web application framework. In contrast to other server-side frameworks, the application logic is on the client (browser). This is a major trend now, aiming at &lt;a href=&#34;https://developers.google.com/web/progressive-web-apps/&#34; target=&#34;_blank&#34;&gt;Progressive Web Apps&lt;/a&gt;, which are as quick and responsive as native applications.&lt;/p&gt;
+
+&lt;p&gt;To work with Angular, I need to understand the entire ecosystem which has evolved for developing with Angular. &lt;a href=&#34;http://www.typescriptlang.org/&#34; target=&#34;_blank&#34;&gt;TypeScript&lt;/a&gt; is used as an improved version of JavaScript, &lt;a href=&#34;https://nodejs.org&#34; target=&#34;_blank&#34;&gt;Node.js&lt;/a&gt; and &lt;a href=&#34;https://www.npmjs.com/&#34; target=&#34;_blank&#34;&gt;npm&lt;/a&gt; for packaging and tooling.&lt;/p&gt;
+
+&lt;p&gt;One tool I can heavily recommend is &lt;a href=&#34;https://code.visualstudio.com/&#34; target=&#34;_blank&#34;&gt;Visual Studio Code&lt;/a&gt;. It works on Windows and Linux, has built-in &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; functionality and is just perfect for working with a web project.&lt;/p&gt;
+
+&lt;p&gt;Overall, I have found the Linux environment slightly easier to use. On Windows, some Node packages needed to be installed globally with appropriate PATH settings, what was not quite intuitive.&lt;/p&gt;
+
+&lt;p&gt;But there are still a lot of things to discover and learn out there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Docker Compose File for WordPress &amp;#038; MariaDB</title>
+      <link>http://www.mwellner.de/post/2016-09-14-docker-compose-file-for-wordpress-mariadb/</link>
+      <pubDate>Wed, 14 Sep 2016 22:33:45 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-09-14-docker-compose-file-for-wordpress-mariadb/</guid>
+      <description>&lt;p&gt;After some frustrating attempts to create a working Docker configuration for a WordPress system, I have finally found a working solution. It uses the default &lt;a href=&#34;https://hub.docker.com/_/wordpress/&#34; title=&#34;WordPress image&#34; target=&#34;_blank&#34;&gt;WordPress Docker image&lt;/a&gt; and &lt;a href=&#34;https://hub.docker.com/_/mariadb/&#34; title=&#34;MariaDB image&#34; target=&#34;_blank&#34;&gt;MariaDB&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a minimal configuration, you may also want to specify a data volume for persistence.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;# docker-compose.yml file for a minimal working WordPress instance with separate database&amp;lt;br /&amp;gt;
+version: &#39;2&#39;&amp;lt;br /&amp;gt;
+services:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;wordpress:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;image: wordpress&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;links:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;- wordpress_db:mysql&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;ports:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;- 8090:80&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;environment:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;WORDPRESS_DB_HOST: wordpress_db:3306&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;WORDPRESS_DB_PASSWORD: password&amp;lt;br /&amp;gt;
+&amp;amp;emsp;wordpress_db:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;image: mariadb&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;environment:&amp;lt;br /&amp;gt;
+&amp;amp;emsp;&amp;amp;emsp;&amp;amp;emsp;MYSQL_ROOT_PASSWORD: password&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting up Docker on Ubuntu 15.10</title>
+      <link>http://www.mwellner.de/post/2016-04-17-setting-up-docker-on-ubuntu-15-10/</link>
+      <pubDate>Sun, 17 Apr 2016 17:02:43 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-04-17-setting-up-docker-on-ubuntu-15-10/</guid>
+      <description>&lt;p&gt;For the next five days, I will be on an &lt;em&gt;innovation week&lt;/em&gt;, as my company calls it. I will be away from the daily business and dig into one topic of my own choice, but of course related to current challenges within the company. And since service-oriented architecture is something that moves us in the moment, I chose service scalability as my topic. But for that to work, I need a quick way to set-up services within their own context, making it possible to add more service nodes when needed. And after a quick research, I will use &lt;a href=&#34;https://www.docker.com/&#34; title=&#34;Docker&#34; target=&#34;_blank&#34;&gt;docker&lt;/a&gt;, another hot topic in the web industry.&lt;/p&gt;
+
+&lt;p&gt;As a working environment, I will use the current version of &lt;a href=&#34;http://www.ubuntu.com/&#34; title=&#34;Ubuntu&#34; target=&#34;_blank&#34;&gt;Ubuntu Linux&lt;/a&gt;, which has the big advantage, that it supports containerization on the operating system level. And I know the system for quite some time, having a dual-boot system with Linux and Windows on my home computer since ages. For this current challenge, I updated to the current version (15.10) and installed docker. That turned out to be not so easy, so I wished I had known this video before, which describes it all in a very elaborated English and with amply detail.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;#8217;t spent too much thoughts on the actual application design, but the set-up suggested in the &lt;a href=&#34;https://github.com/docker/docker-birthday-3#challenge&#34; title=&#34;GitHub - docker birthday challenge&#34; target=&#34;_blank&#34;&gt;docker birthday challenge&lt;/a&gt; seems quite interesting and sufficing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ZURB Foundation</title>
+      <link>http://www.mwellner.de/post/2016-01-08-zurb-foundation/</link>
+      <pubDate>Fri, 08 Jan 2016 22:57:47 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-01-08-zurb-foundation/</guid>
+      <description>
+
+&lt;p&gt;In the past week, I explored &lt;a href=&#34;http://foundation.zurb.com/&#34; title=&#34;Foundation&#34; target=&#34;_blank&#34;&gt;Foundation&lt;/a&gt;, the &amp;#8220;most advanced responsive front-end framework in the world&amp;#8221; &amp;ndash; a bold statement.&lt;/p&gt;
+
+&lt;div id=&#34;attachment_6455&#34; style=&#34;width: 844px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2.jpg&#34; alt=&#34;Foundation 6&#34; width=&#34;834&#34; height=&#34;526&#34; class=&#34;size-full wp-image-6455&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2.jpg 834w, http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-350x221.jpg 350w, http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-238x150.jpg 238w, http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-150x95.jpg 150w&#34; sizes=&#34;(max-width: 834px) 100vw, 834px&#34; /&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Foundation 6
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;what-is-a-responsive-front-end-framework&#34;&gt;What is a responsive front-end framework?&lt;/h3&gt;
+
+&lt;p&gt;A responsive website displays its content on any device size in a meaningful way. Imagine a horizontal navigation menu, which is perfect on a large screen. That same menu would look totally crammed on a mobile phone screen. Therefore the site switches to a compact version of the same menu, e.g. with a button that extends. The same principle goes for textual content, which can be multi-column on large screens and single-column on small screens.&lt;/p&gt;
+
+&lt;p&gt;In the end, front-end frameworks provide a number of building blocks that define the look and feel of a website. There is a big number of such frameworks, &lt;a href=&#34;http://getbootstrap.com/&#34; title=&#34;Bootstrap&#34; target=&#34;_blank&#34;&gt;Bootstrap&lt;/a&gt; is surely the most popular one, but there are various top-x lists (e.g. &lt;a href=&#34;http://www.hotscripts.com/blog/top-10-frontend-development-frameworks/&#34; title=&#34;Top 10 Frontend Development Frameworks&#34; target=&#34;_blank&#34;&gt;Top 10 Front-end Development Frameworks&lt;/a&gt;). The choice of a framework is therefore not an easy one.&lt;/p&gt;
+
+&lt;p&gt;I focussed on Foundation, with a short look on Bootstrap on the last day. Both frameworks are sophisticated frameworks with a large community behind. They offer responsive grid classes.&lt;/p&gt;
+
+&lt;h3 id=&#34;grid-system&#34;&gt;Grid system&lt;/h3&gt;
+
+&lt;p&gt;One of the most common tasks is to define the responsive behaviour by means of grid columns. A grid row contains 12 columns, each grid element can spread over a number of those 12 columns. And with adding prefixes for small, medium or large screens, the responsive behaviour is already defined.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Foundation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;html&#34;&gt;&amp;lt;div class=&#34;row&#34;&amp;gt;
+  &amp;lt;div class=&#34;small-2 large-4 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;small-4 large-4 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;small-6 large-4 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div class=&#34;row&#34;&amp;gt;
+  &amp;lt;div class=&#34;large-3 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;large-6 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;large-3 columns&#34;&amp;gt;&amp;lt;!-- ... --&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Bootstrap&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;html&#34;&gt;&amp;lt;div class=&#34;row&#34;&amp;gt;
+  &amp;lt;div class=&#34;col-xs-12 col-md-8&#34;&amp;gt;.col-xs-12 .col-md-8&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;col-xs-6 col-md-4&#34;&amp;gt;.col-xs-6 .col-md-4&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&#34;row&#34;&amp;gt;
+  &amp;lt;div class=&#34;col-xs-6 col-md-4&#34;&amp;gt;.col-xs-6 .col-md-4&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;col-xs-6 col-md-4&#34;&amp;gt;.col-xs-6 .col-md-4&amp;lt;/div&amp;gt;
+  &amp;lt;div class=&#34;col-xs-6 col-md-4&#34;&amp;gt;.col-xs-6 .col-md-4&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Although the functionality is very much the same, the Foundation syntax is easier to read and understand than the Bootstrap syntax.&lt;/p&gt;
+
+&lt;p&gt;The Foundation grid also offers more features, namely the block grid. Imagine you need five evenly-spaced columns. That is impossible to achieve with the standard 12-column grid. But using the &lt;a href=&#34;http://foundation.zurb.com/sites/docs/grid.html#block-grids&#34; title=&#34;Block grids&#34; target=&#34;_blank&#34;&gt;block grid&lt;/a&gt;, this task is quite easy to achieve. In the new version 6, Foundation has introduced the &lt;a href=&#34;http://foundation.zurb.com/sites/docs/flex-grid.html&#34; title=&#34;Foundation Flex Grid&#34; target=&#34;_blank&#34;&gt;flex grid&lt;/a&gt;, using &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes&#34; title=&#34;Using CSS flexible boxes&#34; target=&#34;_blank&#34;&gt;flexbox&lt;/a&gt; capabilities, which make some alignment scenarios much easier to achieve. Just consider the nightmare of vertical alignment of horizontally aligned items.&lt;/p&gt;
+
+&lt;h3 id=&#34;navigation&#34;&gt;Navigation&lt;/h3&gt;
+
+&lt;p&gt;Foundation offers quite some menu versions. The &lt;a href=&#34;http://foundation.zurb.com/sites/docs/responsive-navigation.html&#34; title=&#34;Responsive navigation&#34; target=&#34;_blank&#34;&gt;responsive navigation&lt;/a&gt; pattern is the most advanced one, but I found it a little difficult to adapt to the needs of the prototype. Just take a look at the markup.&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;html&#34;&gt;&amp;lt;ul class=&#34;vertical menu&#34; data-responsive-menu=&#34;drilldown medium-dropdown&#34; style=&#34;width: 300px;&#34;&amp;gt;
+  &amp;lt;li class=&#34;has-submenu&#34;&amp;gt;
+    &amp;lt;a href=&#34;#&#34;&amp;gt;Item 1&amp;lt;/a&amp;gt;
+    &amp;lt;ul class=&#34;vertical submenu menu&#34; data-submenu id=&#34;m2&#34;&amp;gt;
+      &amp;lt;li class=&#34;has-submenu&#34;&amp;gt;
+        &amp;lt;a href=&#34;#&#34;&amp;gt;Item 1A&amp;lt;/a&amp;gt;
+        &amp;lt;ul class=&#34;vertical submenu menu&#34; data-submenu id=&#34;m3&#34;&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1A&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1B&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1C&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1D&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+          &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1E&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+        &amp;lt;/ul&amp;gt;
+      &amp;lt;/li&amp;gt;
+      &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 1B&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li class=&#34;has-submenu&#34;&amp;gt;
+    &amp;lt;a href=&#34;#&#34;&amp;gt;Item 2&amp;lt;/a&amp;gt;
+    &amp;lt;ul class=&#34;vertical submenu menu&#34; data-submenu&amp;gt;
+      &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 2A&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+      &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 2B&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li class=&#34;has-submenu&#34;&amp;gt;
+    &amp;lt;a href=&#34;#&#34;&amp;gt;Item 3&amp;lt;/a&amp;gt;
+    &amp;lt;ul class=&#34;vertical submenu menu&#34; data-submenu&amp;gt;
+      &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 3A&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+      &amp;lt;li&amp;gt;&amp;lt;a href=&#34;#&#34;&amp;gt;Item 3B&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;
+  &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;So I used just basic &lt;a href=&#34;http://foundation.zurb.com/sites/docs/visibility.html&#34; title=&#34;Visibility classes&#34; target=&#34;_blank&#34;&gt;visibility classes&lt;/a&gt; to quickly solve the challenge of the prototype.&lt;/p&gt;
+
+&lt;h3 id=&#34;forms&#34;&gt;Forms&lt;/h3&gt;
+
+&lt;p&gt;The form implementation went quite smoothly, as Foundation provides minimal styling for the normal &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form&#34; title=&#34;&lt;form&gt;&amp;rdquo; target=&amp;rdquo;_blank&amp;rdquo;&amp;gt;HTML form&lt;/a&gt; elements.&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;I enjoyed working with Foundation a lot. It seems to be a well-elaborated, feature-rich and customizable framework. It is surely a matter of personal taste, but I liked it more than Bootstrap.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modular JavaScript 2</title>
+      <link>http://www.mwellner.de/post/2014-11-12-modular-javascript-2/</link>
+      <pubDate>Wed, 12 Nov 2014 19:51:05 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2014-11-12-modular-javascript-2/</guid>
+      <description>&lt;p&gt;On our company website, as on many others, we have a growing JavaScript code base. We are now taking the effort to develop a module system to make it easier to structure the code.&lt;/p&gt;
+
+&lt;p&gt;Our first decision was to go with a syntax similar to &lt;a href=&#34;http://requirejs.org/docs/whyamd.html&#34; title=&#34;AMD&#34; target=&#34;_blank&#34;&gt;Asynchronuous Module Definition&lt;/a&gt; (AMD). But in contrast to AMD syntax, we use a synchronuous approach for loading the modules and use a module identifier. We will also provide the option to initialize modules on an event.&lt;/p&gt;
+
+&lt;p&gt;While implementation is still ongoing, I already enjoy the benefit of a much more organised way to use JavaScript. And I am looking forward to the upcoming standard ECMA 6, which will provide module imports and exports as core language features (see article &lt;a href=&#34;http://www.2ality.com/2013/07/es6-modules.html&#34; target=&#34;_blank&#34;&gt;ECMA6Script modules: the future is now&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modular JavaScript 1</title>
+      <link>http://www.mwellner.de/post/2014-10-28-modular-javascript/</link>
+      <pubDate>Tue, 28 Oct 2014 23:20:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2014-10-28-modular-javascript/</guid>
+      <description>&lt;p&gt;One of the main problems of software development is managing complexity and &amp;ndash; related to it &amp;ndash; decoupling pieces of code. While most programming languages provide built-in semantics for defining and consuming modules, JavaScript has none and relies on external libraries for that. There are three major approaches for defining modules in JavaScript:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CommonJS&lt;/li&gt;
+&lt;li&gt;Asynchronous Module Definition&lt;/li&gt;
+&lt;li&gt;ECMA 6 Syntax&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have found some good articles on the topic.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://addyosmani.com/writing-modular-js/&#34; target=&#34;_blank&#34;&gt;Writing Modular JavaScript With AMD, CommonJS &amp;amp; ES Harmony&lt;/a&gt; by Addy Osmani&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.2ality.com/2013/07/es6-modules.html&#34; target=&#34;_blank&#34;&gt;ECMAScript 6 modules: the future is now&lt;/a&gt; by Axel Rauschmayer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;JavaScript modularity will be the main topic for an internal, upcoming project, so I will dive in the topic in the upcoming weeks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Talk by Douglas Crockford</title>
+      <link>http://www.mwellner.de/post/2014-09-29-javascript-talk-by-douglas-crockford-2/</link>
+      <pubDate>Mon, 29 Sep 2014 22:18:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2014-09-29-javascript-talk-by-douglas-crockford-2/</guid>
+      <description>&lt;p&gt;It has been a year now since I have entered the ranks of &lt;a href=&#34;http://www.comparis.ch&#34; title=&#34;comparis.ch&#34; target=&#34;_blank&#34;&gt;comparis.ch&lt;/a&gt;. The major new technology for me to learn in this time has been &lt;a href=&#34;http://en.wikipedia.org/wiki/JavaScript&#34; title=&#34;Wikipedia - JavaScript&#34; target=&#34;_blank&#34;&gt;JavaScript&lt;/a&gt;. Coming from the classical object-oriented world, it takes a lot of time and patience to understand the prototype-based approach, which is used solely by JavaScript.&lt;/p&gt;
+
+&lt;p&gt;I have recently stumbled upon this talk given by &lt;a href=&#34;http://en.wikipedia.org/wiki/Douglas_Crockford&#34; title=&#34;Wikipedia - Douglas Crockford&#34; target=&#34;_blank&#34;&gt;Douglas Crockford&lt;/a&gt;, author of &lt;a href=&#34;http://shop.oreilly.com/product/9780596517748.do&#34; title=&#34;JavaScript - The Good Parts&#34; target=&#34;_blank&#34;&gt;JavaScript &amp;#8211; The Good Parts&lt;/a&gt; and creator of &lt;a href=&#34;http://en.wikipedia.org/wiki/JSON&#34; title=&#34;Wikipedia - JSON&#34; target=&#34;_blank&#34;&gt;JSON&lt;/a&gt;. What I like most of all is his self-ironic attitude.&lt;/p&gt;
+
+&lt;p&gt;Here are some quotes.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We are not paid to use every feature of the language.&lt;/p&gt;
+
+&lt;p&gt;I made every mistake with JavaScript you could make.&lt;/p&gt;
+
+&lt;p&gt;It took a generation to agree that high level languages were a good idea.&lt;/p&gt;
+
+&lt;p&gt;It took a generation to agree that &lt;strong&gt;goto&lt;/strong&gt; was a bad idea.&lt;/p&gt;
+
+&lt;p&gt;It took a generation to agree that objects were a good idea.&lt;/p&gt;
+
+&lt;p&gt;It took two generations to agree that lambdas were a good idea.&lt;/p&gt;
+
+&lt;p&gt;Responsibility&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The People&lt;/li&gt;
+&lt;li&gt;The Team&lt;/li&gt;
+&lt;li&gt;The Management&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Steps with Scheme and Git</title>
+      <link>http://www.mwellner.de/post/2014-03-01-first-steps-with-scheme-and-git-2/</link>
+      <pubDate>Sat, 01 Mar 2014 11:17:47 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2014-03-01-first-steps-with-scheme-and-git-2/</guid>
+      <description>&lt;p&gt;Today, I installed &lt;a href=&#34;http://en.wikipedia.org/wiki/Git_%28software%29&#34;&gt;Git&lt;/a&gt;, joined &lt;a href=&#34;http://github.com&#34;&gt;github.com&lt;/a&gt; and published my first two code snippets in &lt;a href=&#34;http://en.wikipedia.org/wiki/Scheme_%28programming_language%29&#34;&gt;Scheme&lt;/a&gt; (&lt;a href=&#34;http://en.wikipedia.org/wiki/Lisp_programming_language&#34;&gt;Lisp&lt;/a&gt; dialect).&lt;/p&gt;
+
+&lt;p&gt;The main reason to study Scheme is the book &lt;a href=&#34;http://mitpress.mit.edu/sicp/&#34;&gt;Structure and Interpretation of Computer Programs&lt;/a&gt;, a computer science classic. And the authors use Scheme to illustrate the concepts throughout the book. The language has a very strange syntax. To illustrate this, I present proudly my first programming exercise, an implementation of &lt;a href=&#34;http://en.wikipedia.org/wiki/Newton%27s_method&#34;&gt;Newton&amp;#8217;s method&lt;/a&gt; to iteratively determine the cube root of a number (also available with syntax highlighting &lt;a href=&#34;https://github.com/mwellner/lisp/blob/master/cbrt.scm&#34;&gt;on github&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;You want to determine the cube root of &lt;em&gt;x&lt;/em&gt;, the variable &lt;em&gt;guess&lt;/em&gt; will be modified until it&amp;#8217;s third power is pretty close to &lt;em&gt;x&lt;/em&gt;.&lt;/p&gt;
+
+&lt;pre name=&#34;code&#34; class=&#34;c#&#34;&gt;; Newton method to determine cubic root
+
+(define (cbrt-iter guess x)
+  (if (good-enough? guess x)
+    guess
+    (cbrt-iter (improve guess x) x)))
+
+(define (improve guess x)
+  (/ (+
+       (/ x (square guess))
+       (* 2 guess))
+     3))
+
+(define (good-enough? guess x)
+  (&amp;lt; (abs (- (* guess (square guess)) x))
+    0.00001))
+
+(define (cbrt x)
+  (cbrt-iter 1.0 x))
+&lt;/pre&gt;
+
+&lt;p&gt;Basically, brackets are everything. The expression (+&amp;nbsp;1&amp;nbsp;1) adds 1 and 1. With &lt;em&gt;define&lt;/em&gt;, you can declare a variable or function. It takes some time to get used to. But twisting my brain is a good exercise and hopefully will help me to understand also some higher-level concepts.&lt;/p&gt;
+
+&lt;p&gt;The second part of this evening session was installing Git and setting it up to work with my github account. With Ubuntu and some good tutorials, this was easy. It all came down to a few &lt;em&gt;apt-get install&lt;/em&gt; commands. My Linux machine is really a good working environment for these kind of tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resolving TFS conflicts the hard way</title>
+      <link>http://www.mwellner.de/post/2013-02-09-resolving-tfs-conflicts-the-hard-way/</link>
+      <pubDate>Sat, 09 Feb 2013 00:35:07 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2013-02-09-resolving-tfs-conflicts-the-hard-way/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The problem&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After some merge/check-in operation, I could not resolve conflicts with Visual Studio Conflicts Channel (MSDN has a guide on &lt;a href=&#34;http://msdn.microsoft.com/en-us/library/ms181433%28v=vs.100%29.aspx&#34;&gt;resolving conflicts between two files&lt;/a&gt;). I tried &lt;em&gt;Take Server Version&lt;/em&gt; and &lt;em&gt;Keep Local Version&lt;/em&gt;, but the conflicts were reappearing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The solution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I finally managed to resolve the conflicts by using the command line tool TF. This contains the &lt;a href=&#34;http://msdn.microsoft.com/en-us/library/6yw3tcdy%28v=vs.100%29.aspx&#34;&gt;Resolve Command&lt;/a&gt;. By using the parameter &lt;em&gt;/auto:DeleteConflict&lt;/em&gt; I could remove the conflict.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The joys of scrum</title>
+      <link>http://www.mwellner.de/post/2012-10-28-the-joys-of-scrum/</link>
+      <pubDate>Sun, 28 Oct 2012 12:24:40 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2012-10-28-the-joys-of-scrum/</guid>
+      <description>&lt;p&gt;I am currently working as software developer in a medical device project. The project is &amp;ndash; as usual for projects of large scale &amp;ndash; late in time and over budget. So the decision was taken to add more developers, reminding me of &lt;a href=&#34;http://en.wikipedia.org/wiki/Brooks%27s_law&#34;&gt;Brook&amp;#8217;s Law&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Adding manpower to a late software project makes it later.&lt;/p&gt;
+
+&lt;p&gt;_Frederick P. Brooks, &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Mythical_Man-Month&#34;&gt;The Mythical Man Month&lt;/a&gt;, Addison-Wesley, 1995_&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The other decision was to use &lt;a href=&#34;http://en.wikipedia.org/wiki/Agile_software_development&#34;&gt;agile software development methods&lt;/a&gt;. And after three months of adaptation time, the first results can be observed. I can only speak for my team, but our productivity has drastically improved. In the recent iteration we had committed ourselves to 24 story points, but managed 59. We even had to add more stories to use the team to full capacity.&lt;/p&gt;
+
+&lt;p&gt;I am an advocate of agile development methods, as you may already have guessed. And the recent achievement of our team confirms me in that conviction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LabVIEW revisited</title>
+      <link>http://www.mwellner.de/post/2011-05-19-labview-revisited/</link>
+      <pubDate>Thu, 19 May 2011 22:01:07 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2011-05-19-labview-revisited/</guid>
+      <description>&lt;p&gt;In the early days of my time as PhD student, I had the forced pleasure to work with &lt;a href=&#34;http://de.wikipedia.org/wiki/LabVIEW&#34;&gt;LabVIEW&lt;/a&gt;. In contrast to text-based programming languages (the vast majority), LabVIEW uses a graphical approach, pleasing the aesthetic mind, but looking extremely crammed and confusing for larger projects.&lt;/p&gt;
+
+&lt;p&gt;In my recent project, LabVIEW caught me again. Luckily we use it in combination with a scripting language, which implements the device logic, while LabVIEW is confined to the user interface. This makes it bearable, but very repetitive. And repetitive means mouse clicks and movements &amp;ndash; a lot of mouse clicks and movements.&lt;/p&gt;
+
+&lt;p&gt;The event structure caused me also a lot of pain. Back in 2005 I really wanted it, a piece of code that is only executed when the user clicks a button or changes a setting. The alternative is polling, asking for the value of the user control again and again. Anyways, they introduced the event structure, but you can&amp;#8217;t place it just somewhere. It made my program block, it didn&amp;#8217;t work at all, was never executed &amp;ndash; all that kind of problems you run into as programmer. But I solved it and made it work.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

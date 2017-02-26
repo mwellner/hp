@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Munich on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/munich/index.xml</link>
+    <description>Recent content in Munich on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/munich/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UX Munich – Conference Notes</title>
+      <link>http://www.mwellner.de/post/2015-03-20-ux-munich-conference-notes/</link>
+      <pubDate>Fri, 20 Mar 2015 22:10:23 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2015-03-20-ux-munich-conference-notes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Conference&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The conference location was a beautiful building in walking distance of Munich main station, the &lt;a href=&#34;http://www.kuenstlerhaus-muc.de/&#34; title=&#34;Münchner Künstlerhaus&#34; target=&#34;_blank&#34;&gt;Künstlerhaus&lt;/a&gt;. It is an old building and has style, and as such is a perfect meeting venue for UX enthusiasts.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://2015.uxmunich.com/&#34; title=&#34;UX Munich&#34; target=&#34;_blank&#34;&gt;UX Munich&lt;/a&gt; is intended for &amp;#8220;designers and developers, who build great user experiences – together&amp;#8221;. That sounded appealing to me, as I have experienced countless discussions about user experience and see this as an interdisciplinary topic. And I have also developed some new components for &lt;a href=&#34;http://comparis.ch&#34; title=&#34;comparis.ch&#34; target=&#34;_blank&#34;&gt;comparis.ch&lt;/a&gt; and embrace all efforts towards more intuitive user interfaces, although that means a lot of work.&lt;/p&gt;
+
+&lt;p&gt;My intention in going to this conference was to get an idea what&amp;#8217;s going on in the scene and understand basic principles and methods. Important questions for me are&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;How do users perceive and interpret web sites?&lt;/li&gt;
+&lt;li&gt;What are best practices to make web sites user-friendly?&lt;/li&gt;
+&lt;li&gt;What are current technologies to enhance usability?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://felixniklas.de/&#34; title=&#34;Felix Niklas&#34; target=&#34;_blank&#34;&gt;Felix Niklas&lt;/a&gt; – The Web is Amazing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Felix is a playful developer, using web technologies to implement several kinds of applications.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mrflix/paperfold&#34; title=&#34;paperfold.js&#34; target=&#34;_blank&#34;&gt;paperfold.js&lt;/a&gt; &amp;ndash; JavaScript library to include paper folding effect for a section&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mrflix/dimensions&#34; title=&#34;dimensions&#34; target=&#34;_blank&#34;&gt;dimensions&lt;/a&gt; &amp;ndash; Chrome plugin to show pixel dimensions of site elements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;kurzgesagt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The two guys from &lt;a href=&#34;http://kurzgesagt.org/&#34; title=&#34;kurzgesagt&#34; target=&#34;_blank&#34;&gt;kurzgesagt&lt;/a&gt; introduced their company, which has the main focus of creating animated videos to explain scientific topics. And they put that on YouTube for free. One example was &lt;em&gt;What is life?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To fund these videos, about 50% of their time goes into commercial projects. The workflow to get such a video is quite elaborate. A lot of time goes into research of topics, leading to a first version of the script. After several iterations, cutting out everything not strictly needed, they start to animate, compose the music and have a professional speaker do the voice work. Overall, 250 hours of work go into a video of five minutes, excluding research.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tiffany Conroy &amp;ndash; User Capabilities&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tiffany (&lt;a href=&#34;https://twitter.com/theophani&#34; title=&#34;@theophany&#34; target=&#34;_blank&#34;&gt;@theophani&lt;/a&gt;) works at &lt;a href=&#34;https://soundcloud.com/&#34; title=&#34;SoundCloud&#34; target=&#34;_blank&#34;&gt;SoundCloud&lt;/a&gt;, a platform to release, share and distribute music. The topic user capabilities was a rather technical one, how do you manage user permissions in a rapidly-growing system? They started with certain features only available to pro users. In addition, they had new experimental features, and later on podcast partners who should also have access to certain pro features.&lt;/p&gt;
+
+&lt;p&gt;The two basic concepts are &lt;a href=&#34;https://en.wikipedia.org/wiki/Access_control_list&#34; title=&#34;Access control list&#34; target=&#34;_blank&#34;&gt;access control lists&lt;/a&gt; (ACL) and &lt;a href=&#34;https://en.wikipedia.org/wiki/Role-based_access_control&#34; title=&#34;Role-based access control&#34; target=&#34;_blank&#34;&gt;role-based access control&lt;/a&gt; (RBAC). I got in contact with ACL when developing an in-house time reporting system with &lt;a href=&#34;http://cakephp.org/&#34; title=&#34;CakePHP&#34; target=&#34;_blank&#34;&gt;CakePHP&lt;/a&gt;. And I could perfectly understand Tiffanys argument, that this approach gets confusing and difficult to maintain quickly. She advocated the RBAC approach, that users have capabilities (like seeing an order or create an account). Based on that approach, the server must enforce it and the client reflect it (visibility), with an API that allows this kind of question, e.g can the current user see orders?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A user interface is like a joke. If you have to explain it, it&amp;#8217;s not that good.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Erik_Spiekermann&#34; title=&#34;Erik Spiekermann&#34; target=&#34;_blank&#34;&gt;Erik Spiekerman&lt;/a&gt; &amp;ndash; Life is in beta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With his 67 years, numerous typefaces and prices, Erik was surely the speaker with the highest profile on the conference. His talk was politically incorrect and entertaining. He started with the casual remark that &lt;a href=&#34;http://en.wikipedia.org/wiki/Flat_design&#34; title=&#34;Flat design&#34; target=&#34;_blank&#34;&gt;flat design&lt;/a&gt; was nothing new, he had always done that for print.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We don&amp;#8217;t do what clients tell, until we know what they need.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.rachelilansimpson.com/&#34; title=&#34;Rachel Ilan, Design&#34; target=&#34;_blank&#34;&gt;Rachel Simpson&lt;/a&gt; &amp;ndash; Unboxing UX&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Rachel is an interaction designer and works for Google in Munich. She brought in the idea that UX is a shared vision between design and engineering. And to make prototyping more easily accessible, she recommended the &lt;a href=&#34;https://popapp.in/&#34; title=&#34;Prototyping On Paper&#34; target=&#34;_blank&#34;&gt;Prototyping On Paper&lt;/a&gt; (POP) app, which is free.&lt;/p&gt;
+
+&lt;p&gt;When users enter a site, they ask these questions in this order.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What ist this?&lt;/li&gt;
+&lt;li&gt;Do I trust you?&lt;/li&gt;
+&lt;li&gt;What are you offering me?&lt;/li&gt;
+&lt;li&gt;How do I get it?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.bramstein.com/&#34; title=&#34;Bram Stein&#34; target=&#34;_blank&#34;&gt;Bram Stein&lt;/a&gt; &amp;ndash; The Consequences of Web Fonts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With the introduction of &lt;a href=&#34;https://en.wikipedia.org/wiki/Web_typography#Web_fonts&#34; title=&#34;Web fonts&#34; target=&#34;_blank&#34;&gt;web fonts&lt;/a&gt;, you can determine exactly which font is used on your site. But that gives rise to some issues. It takes some time until your custom font is loaded, what do you do in this time?&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Wait until the font is loaded (flash of invisible text)&lt;/li&gt;
+&lt;li&gt;Display the text with the default font and switch to the font once it is loaded (flash of unstyled text)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For a fast connection, the first option seems right, but if you consider slower connection speeds on mobile devices, you may prefer the second option. Otherwise it can take quite some time until the user sees content that is already there. Unfortunately, most browsers have a different default. And although there is a css property proposition to define this particular behaviour (&lt;a href=&#34;https://github.com/KenjiBaheux/css-font-rendering&#34; title=&#34;CSS font rendering&#34; target=&#34;_blank&#34;&gt;font-rendering&lt;/a&gt;), it is not implemented yet. But Bram has developed a JavaScript library which toggles classes and can be used as a work-around, which is now available in the &lt;a href=&#34;https://github.com/typekit/webfontloader&#34; title=&#34;WebFontLoader&#34; target=&#34;_blank&#34;&gt;webfontloader library&lt;/a&gt;. So you can use this library in combination with carefully selected fallback fonts, matched for their x-height. In this case, the flash is not as severe as initially. To know which fonts are available on which platform, you can use &lt;a href=&#34;http://fontfamily.io&#34; title=&#34;FontFamily&#34; target=&#34;_blank&#34;&gt;fontfamily.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I enjoyed the two days very much, but I missed some talks from a more scientific perspective. Perception psychology surely has interesting insights to offer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

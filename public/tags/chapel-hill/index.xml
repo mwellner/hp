@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapel Hill on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/chapel-hill/index.xml</link>
+    <description>Recent content in Chapel Hill on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/chapel-hill/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ETH Inaugural Lecture of Marc Pollefeys</title>
+      <link>http://www.mwellner.de/post/2008-10-07-eth-inaugural-lecture-of-marc-pollefeys/</link>
+      <pubDate>Tue, 07 Oct 2008 19:13:49 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2008-10-07-eth-inaugural-lecture-of-marc-pollefeys/</guid>
+      <description>&lt;p&gt;An important event in the ETH community are the inaugural lectures. Every newly appointed professor has the duty to present his field of research and his person to the ETH community. Already in the opening words it became clear why &lt;a href=&#34;http://www.cs.unc.edu/~marc/&#34;&gt;Marc Pollefeys&lt;/a&gt; had been chosen for an ETH professorship. Aged 36, he has published about 90 papers, received numerous prices, and is constantly invited in the editorial board of journals and program board of conferences. His career stations are quite typical, starting in Belgium with PhD and PostDoc, moving to Chapel Hill, USA as assistant and associate professor, and coming to ETH in 2007. It seems that most successful scientists at one point had to go over the Atlantic to compile the merits, which are necessary for being appointed as ETH professor.&lt;/p&gt;
+
+&lt;p&gt;The topic of the presentation was &lt;strong&gt;Computational 3D Photography &amp;ndash; Extracting Shape, Motion, and Appearance from Images&lt;/strong&gt;. For me it was quite striking what is possible in this area. Just take your camcorder, make a shaky video of a static object (an ancient relief for example), feed that into a computer, and get a 3D model of the whole thing. What looked so easy in his presentation, involves a lot of image processing algorithms. First, you have to compute the position of the camera in selected video shots. That provided, you have to detect characteristic points in the image, which you can locate in multiple shots and compute the 3D position.&lt;/p&gt;
+
+&lt;p&gt;The research of Marc Pollefeys focussed on making this process more efficient and apply it to a new domain of problems. One was to develop 3D models of entire city areas (advocated by Google) by driving with video-equipped cars through them, another to extend it to moving objects, in particular humans.&lt;/p&gt;
+
+&lt;p&gt;Overall, I was impressed by the possibilities. Rhetorically the presentation was good, what is not common for such lectures.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

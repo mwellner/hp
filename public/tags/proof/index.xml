@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proof on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/proof/index.xml</link>
+    <description>Recent content in Proof on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/proof/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Proof for publication has arrived</title>
+      <link>http://www.mwellner.de/post/2008-08-07-proof-of-publication/</link>
+      <pubDate>Thu, 07 Aug 2008 18:32:46 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2008-08-07-proof-of-publication/</guid>
+      <description>&lt;p&gt;After nearly four months, I got the proofs of my publication yesterday. The proof is already pretty close to the article and is the last chance for changes. But I found only subtle mistakes in the proof, some images appeared much bigger than I had intended them to be. In two months, the article will appear in PRESENCE.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+---
+id: 638
+title: 'Nick Hornby: High Fidelity'
+date: 2006-08-20T14:31:23+00:00
+author: Mathias Wellner
+layout: post
+guid: http://blogs.ethz.ch/mwellner/2006/08/20/nick-hornby-high-fidelity/
+permalink: /2006/08/20/nick-hornby-high-fidelity/
+tags:
+  - High Fidelity
+  - Musik
+  - Nick Hornby
+  - Plattenladen
+  - Top5
+---
+Eine schöne Beschäftigung am Sonntag &ndash; so ich nichts anderes zu tun habe &ndash; ist das Anhören von Audio-Büchern. Jetzt aktuell höre ich Nick Hornby&#8217;s &#8220;High Fidelity&#8221;, eine wunderbare Geschichte um einen von seiner Freundin verlassenen Musikliebhaber, der zuerst in Selbstmitleid zerfließt, dann aber seine ganzen Ex-Beziehungen aufarbeitet und über die Trennung hinweg kommt. Aber im Grunde ist die Handlung nicht das Spannendste, die Erzählweise, die Charaktere und die immer wiederkehrenden Top5-Listen erzeugen eine schöne Atmosphäre rund um einen kleinen Londoner Musikladen.

@@ -1,0 +1,30 @@
+---
+id: 526
+title: Brief an den Vermieter
+date: 2005-10-08T21:47:44+00:00
+author: Mathias Wellner
+layout: post
+guid: http://blogs.ethz.ch/mwellner/2005/10/08/brief-an-den-vermieter/
+permalink: /2005/10/08/brief-an-den-vermieter/
+tags:
+  - Brief
+  - Vermieter
+  - Wohnung
+---
+_Das ist mal wieder total fiktiv! Die Idee kam mir bei einer Kurzgeschichte von Harry Mulisch._
+
+Sehr geehrter Herr X,
+
+bevor ich zum leider etwas unerfreulichen zentralen Anliegen dieses Schreibens komme, möchte ich doch zuallererst meiner tiefen Dankbarkeit Ihnen und Ihrer geschätzten Familie gegenüber Ausdruck verleihen. Wie Sie selbst ganz bestimmt am besten wissen, ist es keineswegs einfach, in Zürich eine Wohnung zu finden. Oft befindet man sich in der Gesellschaft von Dutzenden Mitbewerbern und nur wenn Fortuna einem hold zulächelt, kann man schließlich eine der begehrten Behausungen bekommen. Hinzu kommt noch die erschwerende Tatsache, dass ich zur Zeit der Wohnungssuche noch in Deutschland weilte und somit zu allen Besichtigungsterminen, welche ich mir natürlich versuchte entsprechend zurechtzulegen, eine sechsstündige Zugfahrt auf mich nehmen musste. Sie können sich gar nicht vorstellen, wie glücklich ich schließlich war, als ich von Ihnen die Zusage erhielt, in diese schmucke Wohnung einziehen zu dürfen! Seien Sie also versichert, dass ich Ihnen sehr dankbar bin und mit diesem Brief sich daran ganz gewiss nichts ändern wird.
+
+Aber gerade weil ich Ihnen so gewogen bin und ich Sie auch stets als eine Person erlebt habe, der das Wohl der Mieter am Herzen liegt, möchte ich doch auf einige kleinere Unannehmlichkeiten hinweisen. Ich habe es mir auch weiß Gott nicht leicht gemacht, lange Zeit habe ich gewartet und die leider dennoch wachsenden Einschränkungen in meinem Wohnkomfort hingenommen, aber da keine Besserung in Sicht ist, habe ich mich nun doch zu diesem Schritt entschlossen.
+
+Die Probleme, um nun endlich ganz konkret zu werden, treten in allen Räumen auf, jedoch in sehr unterschiedlicher Form. Der wunderschöne Parkettfußboden im Wohnzimmer hat sich im Verlauf einiger Monate fast vollständig mit feinen grauen Flocken bedeckt, welche durch jeden Schritt aufgewirbelt werden und zu Beeinträchtigungen der Atemwege führen. Die Herkunft dieser an sich zwar faszinierenden, im vorliegenden Fall aber doch eher störenden Strukturen ist mir völlig unbegreiflich. Ich habe sie jedoch auch ganz oben im Dachboden bemerkt und vermute, dass sie dort ihren Ursprung haben und durch Öffnungen im Mauerwerk oder andere Undichtheiten ihren Weg in meine Wohnung gefunden haben. Auf jeden Fall habe ich sie nicht hereingebracht und wüsste auch nicht, wie ich sie herstellen soll.
+
+Im Badezimmer zeichnet sich indessen ein zwar auf den ersten Blick verwandtes, bei näherer Betrachtung doch verschiedenes Bild. Die rätselhaften grauen Flocken treten auch dort auf dem Boden auf, im Spülbecken und der Wanne sind jedoch zusätzlich noch Verfärbungen und Inseln mit einer dunklen, schleimartigen Substanz vorhanden. Auch hier ist mir völlig unklar, wie diese subversiven Partikel den Weg in das Badezimmer gefunden haben. Ich habe die Tür auch sofort nach dem ersten Auftreten dieser Phänomene stets geschlossen gehalten, um das Eindringen von außerhalb zu unterbinden. Doch trotz peinlicher Einhaltung dieser mir selbst auferlegten Regel verschärfte sich das Problem eher noch. In letzter Zeit scheinen diese Dinge fast eine Art Eigenleben entwickelt zu haben. So interessant diese Beobachtungen sicherlich für die Wissenschaft sind, so störend und abscheuerregend empfinde ich sie in so naher Nachbarschaft im Bad.
+
+Doch nun zur Küche. Im dortigen Spülbecken treten ganz ähnliche Phänomene wie die im Bad beschriebenen auf, nur dass hier eher ein dunkelbraune Färbung der gallertartigen Inseln zu beobachten war. Wesentlich besorgniserregender sind hingegen die Geschehnisse, welche in dem einen Top ihren Anfang nahmen. Wieder aus völlig rätselhaften Gründen bemerkte ich nur wenige Tage nach dem Kochen einen abscheulichen Gestank, welcher aus ebenjenem Topf kam, in dem ich die Bratensoße nach einem leckeren Rezept meiner Oma zubereitet hatte. Nur wenig später entdeckte ich riesengroße Maden, welche in der Küche umherkrochen. Aus diesen schlüpften allerlei Insekten hervor, die es sich mittlerweile in der Küche gemütlich gemacht haben. Es war faszinierend, in welch kurzer Zeit die Natur Einzug gehalten hat in diesem Raum, in dem ich doch eigentlich mein ganz natürliches Hungerbedürfnis stillen wollte. Sie verzeihen sicherlich dieses Wortspiel. Nun, mittlerweile traue ich mich einfach nicht mehr hinein, meine Vision einer friedlichen Koexistenz stieß insbesondere bei den Wespen auf wenig Gegenliebe.
+
+Ich hoffe, der Ernst der Situation ist Ihnen anhand meiner Schilderungen klar geworden. Mit dieser Wohnung, so froh ich auch bin, darin zu wohnen, stimmt etwas nicht. Ich bitte Sie, umgehend Maßnahmen einzuleiten, um das weitere Ausbreiten von Leben einzudämmen und mir wieder die Grundfläche zur Verfügung zu stellen wie im Mietvertrag vereinbart.
+
+Mit freundlichen Grüßen, Ihr A. B.

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diss on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/diss/index.xml</link>
+    <description>Recent content in Diss on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/diss/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Evaluierungsversion der Dissertation</title>
+      <link>http://www.mwellner.de/post/2009-06-04-evaluierungsversion-der-dissertation/</link>
+      <pubDate>Thu, 04 Jun 2009 14:06:32 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2009-06-04-evaluierungsversion-der-dissertation/</guid>
+      <description>&lt;p&gt;Der Countdown zur Diss-Pr&amp;uuml;fung l&amp;auml;uft weiter. In knapp zwei Wochen muss ich die Evaluierungsversion am Departement abgeben, au&amp;szlig;erdem m&amp;uuml;ssen dann die Gutachten aller betreuenden Professoren eingetroffen sein. Um ihnen ein wenig Zeit zu geben, habe ich gestern die Evaluierungsversion verschickt, bereits im Mai hatten sie eine Vorabversion zu lesen bekommen. Damit ist ein weiterer Schritt gegangen, unaufhaltsam n&amp;auml;hert sich der Schicksalstag des 7.&amp;nbsp;Juli mit der m&amp;uuml;ndlichen Pr&amp;uuml;fung.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diss-Endspurt</title>
+      <link>http://www.mwellner.de/post/2009-04-29-diss-endspurt/</link>
+      <pubDate>Wed, 29 Apr 2009 17:55:58 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2009-04-29-diss-endspurt/</guid>
+      <description>&lt;p&gt;Nach fast vier Jahren Doktorat steht jetzt der Termin f&amp;uuml;r die Doktoratspr&amp;uuml;fung fest. Am Dienstag, dem 7. Juli werde ich &amp;mdash; wenn alles gut geht &amp;mdash; diesen wichtigen Schritt absolvieren. Es ist zwar rein administrativ nicht der letzte, da ich danach noch die Pflichtexemplare abgeben muss und die Departementskonferenz dem zustimmen muss, aber gef&amp;uuml;hlsm&amp;auml;&amp;szlig;ig ist es der Abschluss des Doktorats.&lt;/p&gt;
+
+&lt;p&gt;Mit dem Termin stehen auch die weiteren Termine fest. Drei Wochen vorher muss die Dissertationsschrift in ihrer endg&amp;uuml;ltigen Fassung und die Gutachten meiner Referenten beim Departement eingetroffen sein. Und noch ein paar Wochen eher m&amp;uuml;ssen die Referenten nat&amp;uuml;rlich auch die Arbeit in den H&amp;auml;nden halten.&lt;/p&gt;
+
+&lt;p&gt;Es geht also zu Ende und im Herbst beginnt ein neuer Abschnitt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>This!</title>
+      <link>http://www.mwellner.de/post/2009-03-11-this/</link>
+      <pubDate>Wed, 11 Mar 2009 21:52:24 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2009-03-11-this/</guid>
+      <description>&lt;p&gt;Ich schreibe. An meiner Diss. Ich habe sie &lt;strong&gt;This!&lt;/strong&gt; genannt, das klingt so wie Diss und erinnert mich an Peter Gabriels Album &lt;a href=&#34;http://petergabriel.com/discography/release/So/&#34;&gt;So&lt;/a&gt;, ein Weihnachtsgeschenk meiner Schwester.&lt;/p&gt;
+
+&lt;p&gt;Ich schreibe. Über die Ergebnisse der Ruderstudie mit Wettbewerbern. Teilnehmer 1 hat reagiert, und das deutlich. Man sieht es an den Graphen, den Prunkstücken dieses Kapitels. Es lässt sich so viel aussagen mit einem Graphen. Dann brauche ich auch weniger zu schreiben. Es springt dem Leser dann ins Auge. Aber nur, wenn der Graph gut gemacht ist und in sich das Studiendesign, die Einzelergebnisse, die Durchschnittswerte pro Block mit Standardabweichungen und am besten noch die Schlussfolgerungen in sich vereint und dabei nicht unübersichtlich wird.&lt;/p&gt;
+
+&lt;p&gt;Ich schreibe. Ein &lt;a href=&#34;http://de.wikipedia.org/wiki/Matlab&#34;&gt;Matlab&lt;/a&gt;-Skript zum Zeichnen eines Graphen. Es wird immer länger, Zeile um Zeile kommt hinzu. Zuerst waren da nur die blauen Datenpunkte, etwas chaotisch zeigten sie den Wert einer Variablen (zum Beispiel der Maximalkraft) für jeden Ruderschlag an, und das für die gesamte Rennstrecke von 2000&amp;thinsp;m. Aber das reicht nicht, man muss noch die Blöcke sehen. Die neutralen Blöcke, in denen die Gegner nichts machen und die Gegner-Blöcke, in denen die gegnerischen Boote attackieren oder zurückfallen. Senkrechte rote Linien für die Blockgrenzen, das ist schon mal ein Anfang. Aber wie kann man die Gegner-Blöcke noch durch eine andere Hintergrundfarbe hervorheben? Zuerst versuche ich es mit dem Befehl patch, damit kann man beliebige Polygone zu einem Graphen hinzufügen. Aber dieser verdeckt die Randlinien. Die Lösung bringt dann der Befehl &lt;a href=&#34;http://www.mathworks.com/access/helpdesk/help/techdoc/ref/image.html&#34;&gt;image&lt;/a&gt;, ein entsprechend den Blöcken definiertes Bild dient als Hintergrund des Graphen. Blaue Punkte auf dezent hervorgehobenen Blöcken, getrennt durch vertikale rote Linien. Schön wäre noch, bei jedem Block den Mittelwert der Variablen und die Standardabweichung einzuzeichnen. Mit horizontalen, schwarzen, dicken Linien kommen die Mittelwerte hinzu, mit dünneren Linien, die sich nach oben und unten strecken, die Standardabweichungen. Jetzt noch zuschneiden auf die richtige Größe, damit es ohne weitere Verarbeitung in die Diss eingefügt werden kann.&lt;/p&gt;
+
+&lt;p&gt;Ich schreibe. Mit &lt;a href=&#34;https://de.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt;-Befehlen füge ich die Graphen ein. Und beschrifte noch die Blöcke, damit klar ist, welche neutral und welche durch Aktivitäten der Gegner geprägt sind. Dies in allen Graphen. Diese Wiederholung einer ähnlichen Aufgabe, in der sich nur die Reihenfolge der Konditionen verändert, schreit nach einem Makro. So weit ist es mit mir gekommen, das Dokument hat sich in eine Struktur verwandelt, welche stets verbessert werden kann. Ich sehe überall Struktur, die Ähnlichkeit von Abschnitten, die Möglichkeit, etwas eleganter zu lösen, mit weniger Redundanzen.&lt;/p&gt;
+
+&lt;p&gt;Ich schreibe. 85 Seiten ist &lt;strong&gt;This!&lt;/strong&gt; jetzt stark. Es ist nicht mehr viel, das Ziel ist in Sicht. Dann wird die erste Fassung vollendet sein.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

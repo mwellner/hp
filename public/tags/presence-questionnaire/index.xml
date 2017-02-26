@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presence Questionnaire on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/presence-questionnaire/index.xml</link>
+    <description>Recent content in Presence Questionnaire on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/presence-questionnaire/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Questionnaires on Presence and Immersive Tendencies</title>
+      <link>http://www.mwellner.de/post/2008-02-18-questionnaires-on-presence-and-immersive-tendencies/</link>
+      <pubDate>Mon, 18 Feb 2008 19:48:36 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2008-02-18-questionnaires-on-presence-and-immersive-tendencies/</guid>
+      <description>&lt;p&gt;For our virtual rowing experiment in the &lt;a href=&#34;http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html&#34;&gt;M3 Lab&lt;/a&gt; we are currently evaluating the usage of questionnaires. And since the term presence is used by many researchers, it is very easy to find dozens of presence questionnaires. I am also a little bit sceptical on using questionnaires for the continuous assessment of presence. Hopefully our kinematic and physiological measurements are sufficient for the continuous part. Nevertheless, it might be useful to include a standard presence questionnaire to compare our data with literature.&lt;/p&gt;
+
+&lt;p&gt;A second goal is to assess the immersive tendencies of a person before he or she enters the main study on rowing under pressure. Subjects that are not easily immersed in activities will be excluded.&lt;/p&gt;
+
+&lt;p&gt;After some reviewing the Witmer and Singer questionnaires on presence and immersive tendencies seem the right choices for us. The article &lt;a href=&#34;http://www.mitpressjournals.org/doi/abs/10.1162/105474698565686&#34;&gt;Measuring Presence in Virtual Environments: A Presence Questionnaire&lt;/a&gt; was cited more than 500 times, so I guess it is well-known in the field.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

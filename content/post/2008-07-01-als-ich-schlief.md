@@ -1,0 +1,36 @@
+---
+id: 826
+title: Als ich schlief
+date: 2008-07-01T23:19:33+00:00
+author: Mathias Wellner
+layout: post
+guid: http://blogs.ethz.ch/mwellner/2008/07/01/als-ich-schlief/
+permalink: /2008/07/01/als-ich-schlief/
+podPressPostSpecific:
+  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
+categories:
+  - literatur
+tags:
+  - brahms
+  - fahren
+  - Hochzeit
+  - ice
+  - raben
+  - requiem
+  - schlafen
+  - Wachkoma
+  - Zug
+---
+_Das letzte Wochenende war reich an Eindr&uuml;cken und Erfahrungen. Anlass meiner &ndash; wie allzu oft &ndash; sehr kurzfristig geplanten Reise war die Hochzeit meines ehemaligen Mitbewohners Matthias. Aber eine chronologische Erz&auml;hlung w&uuml;rde meiner assoziativen Erinnerungsflut wohl kaum Gen&uuml;ge leisten. Und w&auml;re au&szlig;erdem langweilig._ 
+
+Als ich schlief, saß ich im Zug. Eigentlich sollte es ein ICE sein, dieses klimatisierte, komfortable Spitzenprodukt deutscher Ingenieurskunst. Aber in Basel stand da nur so ein lächerlicher IC, der außerdem viel zu kurz war für die vielen Reisenden. Ich hatte zumindest einen Sitzplatz, den ich bis Berlin nicht hergab. Die Reisezeit verbrachte ich in einem Dämmerzustand zwischen Zeitung-Lesen und Schlafen. Ich war müde, da ich am Morgen noch schnell meine Reise von Berlin nach Raben organisieren musste und irgendwas nicht funktionierte auf Arbeit. Aber nach einer Weile fiel all diese Hektik von mir ab. Ich schlief im Sitzen in diesem viel zu warmen Zug.
+
+Der Erzähler in Norbert Zähringers &#8220;Als ich schlief&#8221; liegt im Wachkoma. Irgendwas traf seinen Kopf, seither befindet er in diesem Zustand. Man weiß wenig über diese Patienten, aber einige kommen zurück und erinnern sich an Dinge, die neben ihrem Bett gesagt wurden. In unserer Gruppe gibt es sogar ein Forschungsprojekt dazu ([Awacon](http://www.sms.hest.ethz.ch/research/current-research-projects/somnomat.html)). Das visionäre Ziel ist es, den Wachheitsgrad von diesen Patienten mit Hilfe von EEG, Herzrate, Hautleitfähigkeit und anderen physiologischen Parametern zu erfassen und durch Stimuli positiv zu beeinflussen.
+
+Für das Buch ist aber die Erzählperspektive eines Wachkomapatienten spannend, allwissend schwebt er über dem Geschehen und sieht die Zusammenhänge. Das Thema ist immer so ein Schwebezustand wie der des Wachkomas. Schrödingers Katze darf nicht fehlen, außerdem die menschenverachtenden Experimente eines KZ-Arztes, der ausprobierte, wie lange seine Probanden durchhielten, wenn man sie im kalten Wasser lässt oder den Druck reduziert. Verbindend wirkt der schwarze Junge, der sich ans Flugzeug des amerikanischen Vizepräsidenten schleicht und sich im Fahrwerkschacht versteckt. Er fällt beim Landeanflug in Berlin vom Himmel und überlebt, wird gefunden von Paul Mahlow, dem Mitbewohner des erzählenden Wachkomapatienten.
+
+Aber das war ja schon die Rückfahrt, als ich dieses Buch komplett las. Die Rückfahrt in einem richtigen ICE, die Sonne steht über den Feldern, ich wechsle wieder ab zwischen Schlafen und Lesen. Zugleich spielt die deutsche Nationalmannschaft gegen Spanien im EM-Finale und verliert. Das erste spanische Tor sagt der Zugbegleiter noch an, aber dann muss ich wieder umsteigen in Basel und weiß einfach nicht, ob es die Deutschen noch schaffen, das Spiel herumzureißen. In Zürich erwartet mich spanischer Freudentaumel und still in ihre deutschen Fahnen eingehüllte Fans. Am Kunsthaus steigt ein Schwall Finalzuschauer in die Straßenbahn ein, sie kommen vom Bellevue, von der großen Fanzone in Zürich. Ich bin müde und froh, wieder zu Hause zu sein.
+
+Als ich schlief, störte mich nichts. Denn ich hatte Ohrstöpsel von Kristina bekommen, in weiser Voraussicht des zu erwartenden Schnarchkonzerts nach langen Hochzeitsfeiern. Burg Rabenstein im Fläming, ganz in der Nähe von Berlin, ein großer runder Turm ist das markanteste Zeichen dieser alten Festung. Dort drin fand auch die Trauung statt, die Beamte las gelangweilt ihren Text vor &ndash; aber vielleicht kam es mir auch nur so vor. Da hatte die Predigt in der kleinen Dorfkirche schon mehr zu bieten, aber nur eine Minderheit kannte die Kirchlieder und traute sich mitzusingen. Das Brautpaar war ergriffen, draußen wurden sie dann mit Reis beworfen. Das gab schöne Bilder, Fotografieren war meine Aufgabe an diesem Tag. Wann immer ein neuer Programmpunkt in Sicht war, sprintete ich los, um ihn ja nicht zu verpassen. Schwieriger war es dann drinnen beim Essen, wenig Licht. Aber abends waren dann alle Bilder gemacht oder verpasst, es war entschieden, auch das Feuerwerk und den brennenden aufgesägten Baumstumpf und den Wurf des Brautstraußes um Mitternacht. Alles im Kasten. Ich kann in Ruhe schlafen.
+
+Als ich kurz einschlief, traf mich ein böser Blick von Vera. Brahms Requiem in der Berliner Philharmonie. Ich hatte mich gar nicht vorbereitet, aber es kam mir bekannt vor, mit Matthias habe ich genau dieses Konzert schon mal in Dresden besucht, in der Kreuzkirche. Mit Matthias, der morgen heiratet. Es hängt doch alles irgendwie zusammen.

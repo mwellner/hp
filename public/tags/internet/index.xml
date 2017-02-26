@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/internet/index.xml</link>
+    <description>Recent content in Internet on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>flickr</title>
+      <link>http://www.mwellner.de/post/2006-02-26-flickr/</link>
+      <pubDate>Sun, 26 Feb 2006 15:45:16 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2006-02-26-flickr/</guid>
+      <description>&lt;p&gt;Ich stelle einen Teil meiner Bilder ab sofort bei &lt;a href=&#34;https://www.flickr.com/photos/mwellner&#34;&gt;flickr.com&lt;/a&gt; aus. Das löst dann auch meine bisherige Fotogalerie ab. Flickr hat viele Vorteile, die ich mir für eine kleine Jahresgebühr erkauft habe. Vor allem sehen so sehr viel mehr Leute meine Bilder und einige kommentieren vielleicht sogar, was ich da fabriziert habe. Es gibt einfach viel mehr Möglichkeiten der Interaktion und Kommunikation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web Authoring Issues</title>
+      <link>http://www.mwellner.de/post/2005-09-18-web-site-on-it-issues/</link>
+      <pubDate>Sun, 18 Sep 2005 21:29:04 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2005-09-18-web-site-on-it-issues/</guid>
+      <description>&lt;p&gt;When rethinking the way blog links were assigned to languages, my first thought was to use flag symbols, as e.g. in Ulli&amp;#8217;s blog. But I surfed a little bit around and found a good site arguing against that. Here is the &lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/&#34;&gt;link to the main page&lt;/a&gt; covering many topics in web authoring and communication technology. The ones I scanned I found very interesting to read.&lt;/p&gt;
+
+&lt;p&gt;Some of the covered topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/flags.html&#34;&gt;Why you should not use a flag as a symbol of a language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/chars.html&#34;&gt;A tutorial on character code issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/lingua-franca.html&#34;&gt;English &amp;#8211; the universal language of the web?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.tut.fi/~jkorpela/www.html&#34;&gt;Web authoring and surfing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Das Weblog als literarisches Medium</title>
+      <link>http://www.mwellner.de/post/2005-06-27-das-weblog-als-literarisches-medium/</link>
+      <pubDate>Mon, 27 Jun 2005 19:00:30 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2005-06-27-das-weblog-als-literarisches-medium/</guid>
+      <description>&lt;p&gt;Momentan nutze ich die literarische Energie, die in mir fließt, zum Schreiben des elektronischen Tagebuchs (Weblog). Auf den ersten Blick mag dies seltsam erscheinen, ich möchte jedoch kurz erläutern, warum ich dieses Medium für geeignet halte, damit zu schreiben und zu veröffentlichen.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ein Weblog ist &lt;strong&gt;frei zugänglich und kostenlos&lt;/strong&gt; zu nutzen (lesen). Damit kann jeder Interessierte mit einem Internetzugang die Inhalte lesen.&lt;/li&gt;
+&lt;li&gt;Ich kann von &lt;strong&gt;überall aus und ohne großen Aufwand veröffentlichen&lt;/strong&gt;, die Zwischenstufe des Verlegers entfällt.&lt;/li&gt;
+&lt;li&gt;Weblogs bieten technische Möglichkeiten, die Bücher nicht besitzen, in erster Linie &lt;strong&gt;Verknüpfungen (Links)&lt;/strong&gt;. Damit kann ein bestimmter Typ von Texten unheimlich gut umgesetzt werden. Ich spreche von fragmentarischen, assoziativ geprägten Texten. Bei linear aufgebauten Texten (Romanen) machen Verknüpfungen keinen Sinn.&lt;/li&gt;
+&lt;li&gt;Das Einbinden von hochwertigen, farbigen &lt;strong&gt;Bildern&lt;/strong&gt; ist sehr gut möglich.&lt;/li&gt;
+&lt;li&gt;Das Weblog ist &lt;strong&gt;unmittelbar&lt;/strong&gt;, ich kann damit sehr schnell auf Entwicklungen reagieren und meinen Senf dazu geben.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ich möchte betonen, dass mein Weblog momentan eher faktisch als literarisch geprägt ist. Die vorgestellten Gedanken beziehen sich eher auf eine potenzielle Nutzung des Weblogs zur Veröffentlichung. Offen ist nach wie vor die Frage, ob sich dieses bisherige Weblog mit der Idee des literarischen Werkes verträgt, oder ob eine Trennung notwendig wäre.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Homepage neu gestaltet</title>
+      <link>http://www.mwellner.de/post/2005-06-05-homepage-neu-gestaltet/</link>
+      <pubDate>Sun, 05 Jun 2005 23:35:02 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2005-06-05-homepage-neu-gestaltet/</guid>
+      <description>&lt;p&gt;Soeben habe ich meine &lt;a href=&#34;http://www.mwellner.de&#34;&gt;Homepage im neuen Design&lt;/a&gt; freigeschalten. Die Änderungen sind folgende:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Layout entspricht im Groben dem des Weblog&lt;/li&gt;
+&lt;li&gt;Runde Ecken (leider nur Netscape-Browser)&lt;/li&gt;
+&lt;li&gt;Seitenstruktur nicht mehr in Datenbank, sondern in PHP-Datei&lt;/li&gt;
+&lt;li&gt;Umbenennung eines Queen-Bildes, damit nicht mehr so viele fremde Hits darauf sind&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Die Seite ist momentan noch etwas karg, hinzu kommen auf jeden Fall noch die technischen Artikel. Genau hier plane ich aber ohnehin eine Überarbeitung. Es werden noch viele weitere Werkzeuge vorgestellt, die ich unter anderem durch die Diplomarbeit kennenlernte.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Was ist RSS?</title>
+      <link>http://www.mwellner.de/post/2005-04-03-was-ist-rss/</link>
+      <pubDate>Sun, 03 Apr 2005 22:10:08 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2005-04-03-was-ist-rss/</guid>
+      <description>&lt;p&gt;Ein wichtiger Grund für meinen Wechsel zu Serendipity war deren Unterstützung von RSS-Feeds. Doch was verbirgt sich hinter dieser weiteren dreibuchstabigen Abkürzung? Meine Suche führte mich zu &lt;a href=&#34;https://de.wikipedia.org/&#34;&gt;Wikipedia&lt;/a&gt;, einem vorzüglichen und frei verfügbaren Online-Lexikon. Dort fand ich einen &lt;a href=&#34;https://de.wikipedia.org/wiki/RSS&#34;&gt;umfangreichen Beitrag zum Thema&lt;/a&gt;. Doch für euch möchte ich hier einfach mal kurz zusammenfassen, wie ihr von dieser Technologie profitieren könnt.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mit dem beliebten Webbrowser &lt;a href=&#34;https://www.mozilla.org/de/firefox/products/&#34;&gt;Firefox&lt;/a&gt; könnt ihr sogenannte &lt;a href=&#34;http://www.mozilla.org/en-US/firefox/livebookmarks.html&#34;&gt;Live-Bookmarks&lt;/a&gt; anlegen. Damit könnt ihr den Link zu meinem Weblog nach rechts &amp;ldquo;aufklappen&amp;rdquo; und seht die Überschriften der aktuellsten Einträge. Besonders, wenn ihr ganz viele Lieblings-Weblogs habt, ist das praktisch. Denn dann könnt ihr sehr schnell überprüfen, ob sich was verändert hat.&lt;/li&gt;
+&lt;li&gt;Darüber hinaus gehend, könnt ihr mit sogenannten News-Aggregator-Programmen (&lt;a href=&#34;https://en.wikipedia.org/wiki/News_aggregator&#34;&gt;englischer Wikipedia-Eintrag&lt;/a&gt;) die aktuellsten Einträge ausgewählter Weblogs oder anderer RSS-Feeds anbietender Seiten darstellen. Also nicht nur die Überschriften wie vorher, sondern quasi eine Seite mit allen neuen einträgen auf einen Blick.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zurück ins ISDN-Zeitalter</title>
+      <link>http://www.mwellner.de/post/2005-03-17-zuruck-ins-isdn-zeitalter/</link>
+      <pubDate>Thu, 17 Mar 2005 01:00:00 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2005-03-17-zuruck-ins-isdn-zeitalter/</guid>
+      <description>&lt;p&gt;Von wegen früher war alles besser! In Bezug auf die Telekommunikation kann man das sicherlich nicht sagen. Wegen eines technischen Defektes im Bürgernetz mussten wir unseren Wohnungsserver wieder als ISDN-Verbindungs-Schnittstelle einrichten. Damit geraten zwei Aktionen wieder in den Vordergrund, die eigentlich absolut unnötig und zeitraubend sind: &lt;strong&gt;Einwahl&lt;/strong&gt; und &lt;strong&gt;Trennen&lt;/strong&gt;. Gelobt sei die Flatrate!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

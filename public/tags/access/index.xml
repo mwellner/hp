@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Access on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/access/index.xml</link>
+    <description>Recent content in Access on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/access/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Handling huge amounts of raw data with Matlab</title>
+      <link>http://www.mwellner.de/post/2009-04-07-handling-huge-amounts-of-raw-data-with-matlab/</link>
+      <pubDate>Tue, 07 Apr 2009 12:12:41 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2009-04-07-handling-huge-amounts-of-raw-data-with-matlab/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Matlab workspace is limited in size, depending on your system. We reached the workspace limit with a rowing study (10 participants, 1&amp;thinsp;kHz sampling rate, 20 variables, 10 minutes duration). Although the extracted data fits very well in the workspace, the raw data does not. Therefore, a solution is needed with fast access to specific variables. This is needed for feature extraction and later display of data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Approach&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Three approaches were used to solve this problem,&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;using a relational database (see &lt;a href=&#34;http://www.mathworks.com/products/database/&#34;&gt;database toolbox&lt;/a&gt;),&lt;/li&gt;
+&lt;li&gt;storing the raw data in one workspace with multiple variables, and&lt;/li&gt;
+&lt;li&gt;storing each raw data variable in one workspace.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Each approach was implemented and the access time to retrieve one variable was the goal criterium. The sample data set had 555k entries.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The relational database system PostgreSQL was tested successfully but could not be used for large amounts of data. Already the storage of one data set took more than half an hour, and after a certain size an error occured with limited heap size. It seems that the driver implementation for Matlab does not allow big amounts of data.&lt;/p&gt;
+
+&lt;p&gt;The implementation with the Matlab workspaces was much possible, interestingly single workspaces proved more efficient than one combined workspace (only the desired variable was loaded from the combined workspace).&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+&amp;gt;&amp;gt; clear all&amp;lt;br /&amp;gt;
+&amp;gt;&amp;gt; tic;load combined_workspace variable; toc&amp;lt;br /&amp;gt;
+Elapsed time is 9.0 seconds.&amp;lt;br /&amp;gt;
+&amp;gt;&amp;gt; clear all&amp;lt;br /&amp;gt;
+&amp;gt;&amp;gt; tic; load variable_workspace; toc&amp;lt;br /&amp;gt;
+Elapsed time is 1.1 seconds.&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Using single workspaces for every variable is the fastest way of accessing huge amounts of raw data. The usage of a relational database system poses additional burdens, but it seems appropriate for smaller amounts of data (participants, block features, extracted data). The advantage over defining all these things in Matlab variables is the powerful SQL syntax for retrieving particular chunks of data. And in addition, the definition of primary keys and other conditions prevents you from inserting dublicate or faulty data in the database.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

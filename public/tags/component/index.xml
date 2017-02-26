@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Component on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/component/index.xml</link>
+    <description>Recent content in Component on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/component/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Progressive Web Apps</title>
+      <link>http://www.mwellner.de/post/2016-05-22-progressive-web-apps/</link>
+      <pubDate>Sun, 22 May 2016 23:04:24 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2016-05-22-progressive-web-apps/</guid>
+      <description>&lt;p&gt;Einen Ausblick auf zukünftige Web-Applikationen gab es bei der Entwicklerkonferenz &lt;a href=&#34;https://events.google.com/io2016/&#34; title=&#34;Google I/O 2016&#34; target=&#34;_blank&#34;&gt;Google I/O 2016&lt;/a&gt; zu sehen. Die Konferenz ist natürlich zentriert auf Technologien, die bei Google entwickelt werden, wobei es aber auch um grundlegende Entwicklungsmuster geht, die auch mit anderen Frameworks umzusetzen sind.&lt;/p&gt;
+
+&lt;p&gt;Das grundlegende Problem vieler Web-Applikationen ist ihre schlechte Performance, sie brauchen zu lange beim Laden oder beim Interagieren. Das ist vor allem auf mobilen Geräten hinderlich, die keine gute Bandbreite haben. Eine perfekte Applikation würde initial schnell laden, dann im Hintergrund weitere Resourcen holen, damit bei weiteren Interaktionen schnelle Reaktionszeiten möglich sind, sie würde sich verhalten wie eine native Applikation.&lt;/p&gt;
+
+&lt;p&gt;In dieser Präsentation stellt &lt;a href=&#34;https://twitter.com/kevinpschaaf&#34; title=&#34;Kevin Schaaf (@kevinpschaaf) on twitter&#34; target=&#34;_blank&#34;&gt;Kevin Schaaf&lt;/a&gt; die Grundzüge von progressiven Web-Applikationen vor. Technologisch basiert das auf &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements&#34; title=&#34;Custom Elements&#34; target=&#34;_blank&#34;&gt;HTML Custom Elements&lt;/a&gt;, &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Web_Components/HTML_Imports&#34; title=&#34;HTML Imports&#34; target=&#34;_blank&#34;&gt;HTML Imports&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/HTTP/2&#34; title=&#34;HTTP/2&#34; target=&#34;_blank&#34;&gt;HTTP/2&lt;/a&gt; and &lt;a href=&#34;https://developer.mozilla.org/de/docs/Web/API/Service_Worker_API&#34; title=&#34;Service Worker API&#34; target=&#34;_blank&#34;&gt;Service Workers&lt;/a&gt;. Leider werden diese nur zum Teil von den heute im Umlauf befindlichen Browsern unterstützt. Aber alle Browser-Hersteller arbeiten daran, so dass man in ein-zwei Jahren auf eine breitere Unterstützung bauen kann. In der Zwischenzeit kann man aber einige Ideen mit Polyfills oder anderen Frameworks umsetzen.&lt;/p&gt;
+
+&lt;p&gt;Jedenfalls würde damit ein großes Problem der meisten aktuellen Webseiten gelöst, die beim ersten Laden alle benötigten CSS-Stile und JavaScript-Framework-Dateien laden müssen. Bei mwellner.de sind das immerhin 2&amp;thinsp;MB JavaScript und 600&amp;thinsp;kB CSS. Und davon wird ganz sicher nicht alle benötigt, um die Startseite darzustellen. Mit einer wirklich gut gelösten Komponentenstruktur würden anfangs nur die Resourcen geladen, die für die Darstellung unbedingt gebraucht werden. Und eines Tages wird dann auch diese Homepage deutlich schneller werden und in ungeahnte Ranking-Höhen aufsteigen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

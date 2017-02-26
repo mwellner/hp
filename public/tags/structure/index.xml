@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Structure on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/structure/index.xml</link>
+    <description>Recent content in Structure on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/structure/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Einführungswoche in Zürich &amp;#8211; Introductory Week in Zurich</title>
+      <link>http://www.mwellner.de/post/2005-04-29-einfuhrungswoche-in-zurich-introductory-week-in-zurich/</link>
+      <pubDate>Fri, 29 Apr 2005 20:37:36 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2005-04-29-einfuhrungswoche-in-zurich-introductory-week-in-zurich/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      Diese Woche ist schnell vergangen. Ich verbrachte lange Tage im Labor und beschäftigte mich ausführlich mit dem Lokomat-Roboter und seiner vielfältigen Steuerung. Es ist zwar schwierig, sich in ein solch großes und komplexes Projekt innerhalb weniger Tage hineinzudenken, aber die wichtigsten Komponenten und Regelungsschleifen kenne ich jetzt. Sehr hilfreich war, dass für die Programmierung der Regelung &lt;a href=&#34;http://de.mathworks.com/products/simulink/&#34;&gt;MatLab Simulink&lt;/a&gt; verwendet wurde. Das ist eine grafische Art der Programmierung, die dem Ingenieursdenken sehr nahe kommt.
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      This week really passed quickly. I spent some long days in the lab and got acquainted with the Lokomat robot and his various control concepts. It is difficult to really get into such a huge and complex project withing a few days, but I got a grip on the most important components and control loops. Very helpful was that the entire control program was created by &lt;a href=&#34;http://de.mathworks.com/products/simulink/&#34;&gt;MatLab SimuLink&lt;/a&gt;. That&amp;#8217;s a graphical way of programming what is pretty close to how engineers think.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Martin and Michael are the two guys that have worked on the project, that I am bound to continue in July. Michael wrote a Diploma thesis and worked for half a year on the project after finishing that. He will continue in Munich with his PhD. Martin did his PhD on the &lt;a href=&#34;https://www.hocoma.com/world/de/produkte/lokomat/&#34;&gt;Lokomat project&lt;/a&gt; in Munich and Zurich with &lt;a href=&#34;http://www.sms.hest.ethz.ch/the-group/team/robert-riener.html&#34;&gt;Prof. Riener&lt;/a&gt;. So he is the main expert with the system.
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Martin und Michael arbeiten momentan am Projekt, beide werden jedoch bald aufhören. Michael schrieb seine Dipomarbeit zu einem Projektthema und hat auch danach noch ein halbes Jahr weitergemacht. Er wird als nächstes in München eine Doktorandenstelle antreten. Martin hat seine Dissertation zum &lt;a href=&#34;https://www.hocoma.com/world/de/produkte/lokomat/&#34;&gt;Lokomat-Projekt&lt;/a&gt; mit &lt;a href=&#34;http://www.sms.hest.ethz.ch/the-group/team/robert-riener.html&#34;&gt;Prof. Riener&lt;/a&gt; in München und Zürich gemacht. Somit ist er der Hauptexperte des Systems.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Einarbeitung in Zürich &amp;#8212; Adjustment in Zurich</title>
+      <link>http://www.mwellner.de/post/2005-04-26-einarbeitung-in-zurich-adjustment-in-zurich/</link>
+      <pubDate>Tue, 26 Apr 2005 12:53:25 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2005-04-26-einarbeitung-in-zurich-adjustment-in-zurich/</guid>
+      <description>&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      In einer Woche werde ich in einer Art Crash-Kurs an die technischen Einzelheiten des Projekts herangeführt. Sämtliche Steuerungsprogramme sind in Simulink umgesetzt, die Bedienoberfläche ist in LabView gehalten. Damit kann man sehr schön in Strukturen denken und programmieren und muss sich nicht durch tausende Zeilen Code wühlen. Aber dennoch, durch allerlei Forschungsprojekte ist eine Menge zusammengekommen, was sich nicht unbedingt auf den ersten Blick erschliesst.
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      In one week I will be introduced to the technical details of the research project. The control program is done completely in SimuLink, all the elements of the user interface were created by LabView. The advantage of both programs is that you can think in structures and don&amp;#8217;t have to look through thousands of code lines. But despite of that the project is quite huge and therefore it is not that easy to get all that at the first glimpse.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Mit Hilfe des &lt;a href=&#34;http://www.hospitalityclub.org&#34;&gt;Hospitylity Club&lt;/a&gt; habe ich einen netten Gastgeber gefunden, bei dem ich für die Woche unterkommen kann. Sein Mitbewohner muss zum Militär, so dass ich dessen Zimmer in dieser Zeit nutzen kann. Perfekt, so habe ich sogar ein eigenes Bett und muss nicht auf der Iso-Matte schlafen!
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Thanks to &lt;a href=&#34;http://www.hospitalityclub.org&#34;&gt;Hospitality Club&lt;/a&gt; I was able to find a nice host for the entire week. His flat mate has to do military service, so I can use his room. That&amp;#8217;s perfect, I even have my own bed and don&amp;#8217;t have to sleep on the camping matress.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Als ich ankam, fand gerade eine Besprechung mit allen Labor-Mitarbeitern statt. Das heisseste Thema war dann die Keks-Finanzierung, eine halbe Stunde lang wurden verschiedene Vorschläge angebracht, verworfen, bis es dann am Ende zur Abstimmung kam.
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      When I arrived here on Monday morning, there happened to be a meeting with all the people involved with tha lab. The hottest topic was how to finance the cookies, since the old model did not work in some people&amp;#8217;s opinion. For half a hour several proposals were discussed until finally a vote was taken.
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

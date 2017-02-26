@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technik on mathias wellner</title>
+    <link>http://www.mwellner.de/categories/technik/index.xml</link>
+    <description>Recent content in Technik on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/categories/technik/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steve Krug &amp;ndash; Don&amp;#8217;t Make Me Think</title>
+      <link>http://www.mwellner.de/post/2015-04-21-steve-krug-dont-make-me-think-2/</link>
+      <pubDate>Tue, 21 Apr 2015 22:33:09 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2015-04-21-steve-krug-dont-make-me-think-2/</guid>
+      <description>&lt;p&gt;&lt;div id=&#34;attachment_5707&#34; style=&#34;width: 282px&#34; class=&#34;wp-caption alignright&#34;&gt;
+  &lt;img src=&#34;http://www.mwellner.de/wp-uploads/2015/04/krug_book_cover-272x350.jpg&#34; alt=&#34;Steve Krug &amp;ndash; Don&amp;#039;t Make Me Think (Book Cover)&#34; width=&#34;272&#34; height=&#34;350&#34; class=&#34;size-medium wp-image-5707&#34; srcset=&#34;http://www.mwellner.de/wp-uploads/2015/04/krug_book_cover-272x350.jpg 272w, http://www.mwellner.de/wp-uploads/2015/04/krug_book_cover-116x150.jpg 116w, http://www.mwellner.de/wp-uploads/2015/04/krug_book_cover.jpg 504w&#34; sizes=&#34;(max-width: 272px) 100vw, 272px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p class=&#34;wp-caption-text&#34;&gt;
+    Steve Krug &amp;ndash; Don&amp;#8217;t Make Me Think
+  &lt;/p&gt;
+&lt;/div&gt; In the field of user experience (UX), the book written by&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Steve_Krug&#34; title=&#34;Steve Krug&#34; target=&#34;_blank&#34;&gt;Steve Krug&lt;/a&gt; is considered a classic. It is not too long, following his own principles of brevity and clarity in content presentation. I am reading this, because I experience UX discussions at work (&lt;a href=&#34;http://comparis.ch&#34; title=&#34;comparis.ch&#34; target=&#34;_blank&#34;&gt;comparis.ch&lt;/a&gt;) quite often.&lt;/p&gt;
+
+&lt;p&gt;Krug starts with a chapter on how people actually perceive and work with web pages. Instead of carefully reading and deliberately choosing the right option, people behave completely different. Krug outlines these findings as&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;We don&amp;#8217;t read pages. We scan them.&lt;/li&gt;
+&lt;li&gt;We don&amp;#8217;t make optimal choices. We satisfice.&lt;/li&gt;
+&lt;li&gt;We don&amp;#8217;t figure out how things work. We muddle through.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;With these findings in mind, he gives recommendations on how to design web sites as &lt;em&gt;billboards&lt;/em&gt;. Most is common sense, but he has a very good way of explaning and presenting it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Krug&amp;#8217;s Laws of Usability&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Don&amp;#8217;t make me think.&lt;/li&gt;
+&lt;li&gt;It doesn&amp;#8217;t matter how many times I have to click, as long as each click is a mindless, unambiguous choice.&lt;/li&gt;
+&lt;li&gt;Get rid of half the words on each page, then get rid of half of what&amp;#8217;s left.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Get The Book&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.amazon.de/gp/product/B00HJUBRPG/ref=as_li_tl?ie=UTF8&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B00HJUBRPG&amp;amp;linkCode=as2&amp;amp;tag=mathiaswellne-21&amp;amp;linkId=E5JMWR7SYRUC4MAB&#34;&gt;Don&amp;#8217;t Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)&lt;/a&gt;&lt;img src=&#34;http://ir-de.amazon-adsystem.com/e/ir?t=mathiaswellne-21&amp;#038;l=as2&amp;#038;o=3&amp;#038;a=B00HJUBRPG&#34; width=&#34;1&#34; height=&#34;1&#34; border=&#34;0&#34; alt=&#34;&#34; style=&#34;border:none !important; margin:0px !important;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Suggested Further Reading&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/gp/product/B002V1I69S/ref=as_li_tl?ie=UTF8&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B002V1I69S&amp;amp;linkCode=as2&amp;amp;tag=mathiaswellne-21&amp;amp;linkId=BWY3NZLX2SYCDTHD&#34;&gt;Sources of Power: How People Make Decisions&lt;/a&gt;&lt;img src=&#34;http://ir-de.amazon-adsystem.com/e/ir?t=mathiaswellne-21&amp;#038;l=as2&amp;#038;o=3&amp;#038;a=B002V1I69S&#34; width=&#34;1&#34; height=&#34;1&#34; border=&#34;0&#34; alt=&#34;&#34; style=&#34;border:none !important; margin:0px !important;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/gp/product/B00E257T6C/ref=as_li_tl?ie=UTF8&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B00E257T6C&amp;amp;linkCode=as2&amp;amp;tag=mathiaswellne-21&amp;amp;linkId=WDZJSF3J2EKRLOCG&#34;&gt;The Design of Everyday Things: Revised and Expanded Edition&lt;/a&gt;&lt;img src=&#34;http://ir-de.amazon-adsystem.com/e/ir?t=mathiaswellne-21&amp;#038;l=as2&amp;#038;o=3&amp;#038;a=B00E257T6C&#34; width=&#34;1&#34; height=&#34;1&#34; border=&#34;0&#34; alt=&#34;&#34; style=&#34;border:none !important; margin:0px !important;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/gp/product/B005NZ5K0W/ref=as_li_tl?ie=UTF8&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B005NZ5K0W&amp;amp;linkCode=as2&amp;amp;tag=mathiaswellne-21&amp;amp;linkId=3ON3RUWMNDVQGCB7&#34;&gt;Letting Go of the Words: Writing Web Content that Works (Interactive Technologies)&lt;/a&gt;&lt;img src=&#34;http://ir-de.amazon-adsystem.com/e/ir?t=mathiaswellne-21&amp;#038;l=as2&amp;#038;o=3&amp;#038;a=B005NZ5K0W&#34; width=&#34;1&#34; height=&#34;1&#34; border=&#34;0&#34; alt=&#34;&#34; style=&#34;border:none !important; margin:0px !important;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.de/gp/product/B00AMXXNBI/ref=as_li_tl?ie=UTF8&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B00AMXXNBI&amp;amp;linkCode=as2&amp;amp;tag=mathiaswellne-21&amp;amp;linkId=SS7KFFB7BAZS4AT3&#34;&gt;Elements of Style&lt;/a&gt;&lt;img src=&#34;http://ir-de.amazon-adsystem.com/e/ir?t=mathiaswellne-21&amp;#038;l=as2&amp;#038;o=3&amp;#038;a=B00AMXXNBI&#34; width=&#34;1&#34; height=&#34;1&#34; border=&#34;0&#34; alt=&#34;&#34; style=&#34;border:none !important; margin:0px !important;&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rechner neu aufgesetzt</title>
+      <link>http://www.mwellner.de/post/2014-08-02-rechner-neu-aufgesetzt/</link>
+      <pubDate>Sat, 02 Aug 2014 22:59:14 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2014-08-02-rechner-neu-aufgesetzt/</guid>
+      <description>&lt;p&gt;So schwierig war es gar nicht. Nach der Anschaffung einer flinken SSD (&lt;a href=&#34;http://de.wikipedia.org/wiki/Solid-State-Drive&#34; title=&#34;Solid-State-Disk&#34; target=&#34;_blank&#34;&gt;Solid-State-Disk&lt;/a&gt;) durfte ich meinen heimischen Desktop-Rechner neu installieren. Und nach nur wenigen Stunden steht das System wie vorher. Jetzt kann ich die restlichen Programme nach und nach dazu installieren. Aber letztendlich ist so eine Neuinstallation die einzige Chance, das System zu entschlacken.&lt;/p&gt;
+
+&lt;p&gt;Mein Ziel war ein Dual-Boot-System mit Windows&amp;nbsp;7 und Ubuntu, auf der SSD sollen nur die Betriebssysteme und Programme sein, die Daten auf der bisherigen Festplatte.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Backup der Daten&lt;/li&gt;
+&lt;li&gt;Ubuntu-Start-DVD erstellen&lt;/li&gt;
+&lt;li&gt;Alte Festplatte abklemmen&lt;/li&gt;
+&lt;li&gt;SSD anschließen als einzige Festplatte&lt;/li&gt;
+&lt;li&gt;Bootreihenfolge im BIOS überprüfen, erst das CD/DVD-Laufwerk&lt;/li&gt;
+&lt;li&gt;Windows-DVD einlegen, Installation auf Teil der Festplatte&lt;/li&gt;
+&lt;li&gt;Ubuntu-DVD einlegen, Installation auf verbleibendem Teil der Festplatte&lt;/li&gt;
+&lt;li&gt;Anschließen der alten Festplatte für die Daten&lt;/li&gt;
+&lt;li&gt;Ändern der Festplatten-Boot-Reihenfolge im BIOS&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prism umgehen</title>
+      <link>http://www.mwellner.de/post/2013-06-18-prism/</link>
+      <pubDate>Tue, 18 Jun 2013 10:18:27 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2013-06-18-prism/</guid>
+      <description>&lt;p&gt;Nach den Enthüllungen über &lt;a href=&#34;https://de.wikipedia.org/wiki/PRISM_%28%C3%9Cberwachungsprogramm%29&#34;&gt;Prism&lt;/a&gt;, ein Überwachungsprogramm der amerikanischen Behörde NSA fragte ich mich, welche konkreten Schritte man unternehmen kann, um der Überwachung zu entgehen. Wie so oft landet man beim Ratschlag, die Finger von den großen Anbietern zu lassen und lieber quelloffene, kleinere Alternativen zu suchen. Die Webseite &lt;a href=&#34;http://prism-break.org/&#34;&gt;Prism Break&lt;/a&gt; bietet da sehr konkrete Anweisungen.&lt;/p&gt;
+
+&lt;p&gt;Als ersten Schritt habe ich die Suchmaschine ausgewechselt, statt google sucht jetzt &lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; für mich in den Tiefen des Netzes. Meine ersten Erfahrungen sind sehr positiv, probiert es einfach mal aus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ninject</title>
+      <link>http://www.mwellner.de/post/2012-05-23-ninject/</link>
+      <pubDate>Wed, 23 May 2012 21:45:33 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2012-05-23-ninject/</guid>
+      <description>&lt;p&gt;Seit ich meine Brötchen bei einem Ingenieurdienstleister verdiene, sind die beruflichen Einträge recht selten geworden. Somit möchte ich jetzt die Gelegenheit erfreifen, um in allgemeiner und unverfänglicher Art über mein neues Projekt zu berichten.&lt;/p&gt;
+
+&lt;p&gt;Zuerst einmal hat sich mein Arbeitsweg halbiert, vorher war ich in der Nähe von Bern tätig. Das fast tägliche, lange Pendeln hat mich ziemlich angestrengt. Geblieben aus dieser Zeit ist aber noch mein Abo für die 1.&amp;nbsp;Klasse. Im Prinzip brauche ich das nicht mehr, aber irgendwie hänge ich doch noch dran. Und es gibt einfach mehr Platz und damit auch Ruhe in den gelb markierten Wagen der 1.&amp;nbsp;Klasse, nach denen ich jetzt schon gewohnheitsmäßig Ausschau halte. Mein Weg ist deutlich kürzer jetzt und führt durch eine vertraute, schöne Landschaft.&lt;/p&gt;
+
+&lt;p&gt;Aber nun zum technischen Teil. Ich arbeite an einem gigantischen, objektorientierten Software-Projekt in einer späten Phase. Vorbei sind die schönen Zeiten des Architekturentwurfs und des Implementierens, jetzt geht es um das Beseitigen von Fehlern und das hoffentlich fristgemäße Ausliefern. Problematisch sind die vielen Abhängigkeiten zwischen den Modulen. Jedesmal, wenn eine Klasse eine andere verwendet, muss sie deren Implementierung kennen. Dadurch entstand Code, der sich nur schlecht testen lässt. Idealerweise möchte man ein Modul isoliert betrachten und testen. Durch die vielen Abhängigkeiten muss man aber quasi immer alles zugleich testen und kann so keine wirklich gute Aussage machen.&lt;/p&gt;
+
+&lt;p&gt;Eine Lösung dieses Dilemmas bietet &lt;a href=&#34;http://de.wikipedia.org/wiki/Dependency_Injection&#34;&gt;Dependency Injection&lt;/a&gt;. Wir verwenden als &lt;a href=&#34;http://de.wikipedia.org/wiki/C-Sharp&#34;&gt;C#&lt;/a&gt;-Programmierer das Framework &lt;a href=&#34;http://www.ninject.org/&#34;&gt;Ninject&lt;/a&gt;. Hervorzuheben ist die tolle Webseite dieses Projekts im Ninja-Stil. Und so verbringe ich meine Tage jetzt mit dem &lt;em&gt;ninjecten&lt;/em&gt;, wie wir das so nennen. Jedes &lt;em&gt;new&lt;/em&gt; wird kritisch überprüft, ob man es nicht durch einen Ninject-Ausdruck ersetzen könnte. Am Ende such Ninject automatisch den passenden Konstruktor heraus und kann auch statt der normalen Implementierung ein &lt;a href=&#34;http://de.wikipedia.org/wiki/Mock-Objekt&#34;&gt;Mock-Objekt&lt;/a&gt; verwenden.&lt;/p&gt;
+
+&lt;p&gt;Damit beschäftige ich mich also momentan täglich, und das mit einem wunderschönen Blick auf die Berge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rückblick 2011</title>
+      <link>http://www.mwellner.de/post/2012-01-01-ruckblick-2011/</link>
+      <pubDate>Sun, 01 Jan 2012 12:26:10 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2012-01-01-ruckblick-2011/</guid>
+      <description>&lt;p&gt;Nachdem nun ein neues Jahr angebrochen ist, möchte ich das vergangene aus Weblog-Sicht Revue passieren lassen. Die Zahlen entsprechen Views, also das Ansehen einer einzelnen Seite durch einen Besucher und stammen vom WordPress.com Stats Plugin.&lt;/p&gt;
+
+&lt;p&gt;Insgesamt hatte das Weblog mwellner.de im Jahr 2011 21,717 Views, ein paar mehr als 2010. Das entspricht einem Tagesdurchschnitt von 59 Besuchen. Anfang Dezember war das Weblog durch einen Festplatten-Defekt des Servers einige Tage nicht erreichbar, dadurch brachen die Besucherzahlen deutlich ein.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Meistbesuchte Seiten 2011&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de&#34;&gt;Home&lt;/a&gt; (9,641)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2009/05/11/a-latex-template-for-my-dissertation/?lang=en&#34;&gt;A LaTeX template for my dissertation&lt;/a&gt; (1,420)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2010/04/15/implementing-simple-ajax-showhide-effects-with-cakephp/?lang=en&#34;&gt;Implementing simple ajax show/hide effects with cakePHP&lt;/a&gt; (925)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2007/06/28/ieee-pdf-express/&#34;&gt;IEEE pdf express&lt;/a&gt; (816)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2005/03/28/latex-arger-ein-punkt-zuviel/&#34;&gt;LaTeX-Ärger, ein Punkt zuviel&lt;/a&gt; (564)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2006/11/23/latex-template-fuer-diplomarbeit/&#34;&gt;LaTeX-Template für Diplomarbeit&lt;/a&gt; (473)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2009/02/23/spaziergang-durch-dresden/&#34;&gt;Spaziergang durch Dresden&lt;/a&gt; (337)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2009/06/17/freude-am-schauspiel-ein-credo/&#34;&gt;Freude am Schauspiel &amp;#8211; ein Credo&lt;/a&gt; (232)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2010/03/07/sprache-im-theater/&#34;&gt;Sprache im Theater&lt;/a&gt; (219)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2010/03/19/grundkurs-stanislawski-strasberg-1-lektion/&#34;&gt;Grundkurs Stanislawski-Strassberg, 1. Lektion&lt;/a&gt; (213)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Zusammenfassend lässt sich sagen, dass die technischen Themen am begehrtesten sind. Obwohl die Einträge schon recht alt sind, werden sie immer noch häufig aufgerufen. Aus den Top 10 ist kein einziger Beitrag im Jahr 2011 entstanden. Jedoch braucht es erfahrungsgemäß Zeit, bis eine Seite bekannt wird. Einzelne Beiträge von mir wurden irgendwann verlinkt und erhielten dadurch wesentlich mehr Zugriffe.&lt;/p&gt;
+
+&lt;p&gt;Die Theaterbeiträge finden aber auch eine wachsende Leserschaft und haben sich in den tieferen Top 10 etabliert. Grundsätzlich suchen mehr Leute nach Hilfe bei LaTeX-Problemen als bei der Erarbeitung einer Rolle.&lt;/p&gt;
+
+&lt;p&gt;Im neuen Jahr werde ich nichts grundsätzlich ändern, die Themen Schauspiel/Theater und Bergsport werden dominieren. Wenn ich Zeit finde, werde ich mehr englische Übersetzungen anfertigen, damit lassen sich sicherlich wesentlich mehr Leute erreichen.&lt;/p&gt;
+
+&lt;p&gt;Auf jeden Fall möchte ich mich bei allen Lesern für ihr Interesse bedanken und ein wundervolles neues Jahr 2012 wünschen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Buchhaltung mit ledger</title>
+      <link>http://www.mwellner.de/post/2011-09-08-buchhaltung-mit-ledger/</link>
+      <pubDate>Thu, 08 Sep 2011 22:29:26 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2011-09-08-buchhaltung-mit-ledger/</guid>
+      <description>&lt;p&gt;Für unseren Theaterverein wollte ich mir nach Abschluss der letzten Produktion einen Überblick über die Finanzen verschaffen. Die existierende Lösung mit einer Excel-Tabelle erschien mir nicht optimal, weshalb ich mich nach anderen Lösungen umschaute. Ich testete &lt;a href=&#34;http://www.gnucash.org/&#34;&gt;GnuCash&lt;/a&gt; und &lt;a href=&#34;http://ledger-cli.org/&#34;&gt;ledger&lt;/a&gt;, letzteres stellte sich für mich als die beste Lösung heraus. In diesem Artikel möchte ich den Entscheidungsprozess und meine ersten Schritte mit &lt;em&gt;ledger&lt;/em&gt; darstellen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anforderungen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Eine Theaterproduktion ist ein zeitlich begrenztes Projekt und hat typischerweise Einnahmen (Eintrittsgelder, Sponsoren, Verkauf von Getränken) und Ausgaben (Druck von Flyern und Plakaten, Bühnenbild, Requisiten, Technik, Fahrtkosten, Raummiete). Außerdem bezahlen die Vereinsmitglieder die Ausgaben in der Hoffnung, ihre Auslagen später wieder zu erhalten. Im Gegensatz zu Firmen ist das eine recht geringe Komplexität.&lt;/p&gt;
+
+&lt;p&gt;Ein Buchhaltungswerkzeug sollte über die folgenden Qualitäten verfügen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Open Source&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://de.wikipedia.org/wiki/Buchf%C3%BChrung#Doppelte_Buchf.C3.BChrung_.E2.80.93_Grundlagen&#34;&gt;Doppelte Buchführung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Buchungs-Konten&lt;/li&gt;
+&lt;li&gt;Trennung von Datenbestand (Buchungen) und Auswertung (Berichte, Bilanz)&lt;/li&gt;
+&lt;li&gt;Variable Berichte je nach Anforderungen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Entscheidung&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Problem einer Excel-Tabelle ist, dass sie keine Trennung zwischen den einzelnen Buchungen und dem Bericht erlaubt. Meist ist sie als Einnahmen/Ausgaben-Bericht konzipiert, die einzelnen Buchungen hängen unten dran und werden durch gewagte Summierungen in den Bericht eingebunden. Insgesamt ist das fehleranfällig und erlaubt auch nur eine Form des Berichts.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;GnuCash&lt;/em&gt; ist ein mächtiges grafisches Werkzeug zur Buchführung, welches man auch in einem Unternehmen einsetzen könnte. Es ist mit mehr als 300&amp;thinsp;MB recht groß und war mir zu umständlich. Schon das Anlegen der Konten erforderte Expertenwissen, denn man musste den Typ des Kontos kennen und untergeordnete Konten waren davon abhängig und konnten nur noch bestimmte Typen haben. Ich konnte in einer geschlagenen Stunde keine korrekte Buchung hinkriegen. Vielleicht war die Buchung sogar korrekt und ich nur durch die Vorzeichen verwirrt. Aber am Ende erschien mir &lt;em&gt;GnuCash&lt;/em&gt; eine Nummer zu groß.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;ledger&lt;/em&gt; präsentiert sich als leichtgewichtige Kommandozeilen-Lösung (knapp 2&amp;thinsp;MB). Das bedeutet leider, dass ein Großteil der Windows- und Mac-Nutzer damit wenig anfangen kann. Eine Textdatei enthält jede Buchung in einem definierten Format im Sinn der doppelten Buchführung. Das Programm erzeugt nun Berichte nach den Vorgaben des Benutzers, basierend auf den erfassten Buchungen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Installation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Unter ubuntu ist die Installation denkbar einfach.&lt;/p&gt;
+
+&lt;pre&gt;$ sudo apt-get install ledger&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Beispiel&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zum besseren Verständnis ein kleines Beispiel. Zuerst brauchen wir eine Konten-Struktur. Aktiva sind die Vermögenswerte des Vereins (Bankkonten, Kasse). Aufwendungen beschreiben, wo das Geld hinfließt, Erträge, wo es herkommt. Unter Verbindlichkeiten merken wir uns die Auslagen der Leute.&lt;/p&gt;
+
+&lt;p&gt;Zuerst also die einzelnen Buchungen (Datei beispiel.txt). Adam hat die Raummieten und den Einkauf im Baumarkt ausgelegt, Julia die Miete für die Tonanlage. Die 25 Eintritte gingen in eine Kasse.&lt;/p&gt;
+
+&lt;pre&gt;2011-01-01 Raummiete Januar
+        Aufwendungen::Raummiete                 EUR 50.00
+        Verbindlichkeiten::Adam
+
+2011-02-01 Raummiete Februar
+        Aufwendungen::Raummiete                 EUR 50.00
+        Verbindlichkeiten::Adam
+
+2011-03-01 Raummiete März
+        Aufwendungen::Raummiete                 EUR 50.00
+        Verbindlichkeiten::Adam
+
+2011-03-09 Einkauf Baumarkt für Bühnenbild
+        Aufwendungen::Bühnenbild                EUR 139.35
+        Verbindlichkeiten::Adam
+
+2011-03-12 Miete Tonanlage
+        Aufwendungen::Ton                       EUR 100.00
+        Verbindlichkeiten::Julia
+
+2011-03-15 Einnahmen Eintritt 25x
+        Aktiva::Kasse                           EUR 500.00
+        Erträge::Eintritt
+&lt;/pre&gt;
+
+&lt;p&gt;Mit &lt;em&gt;ledger&lt;/em&gt; lassen wir uns jetzt den aktuellen Stand ausgeben (balance), einmal nur die Hauptkonten, danach mit allen Unterkonten (Option -s):&lt;/p&gt;
+
+&lt;pre&gt;$ ledger -f beispiel.txt balance
+          EUR 500.00  Aktiva
+          EUR 389.35  Aufwendungen
+         EUR -500.00  Erträge
+         EUR -389.35  Verbindlichkeiten
+$ ledger -f beispiel.txt -s balance
+          EUR 500.00  Aktiva::Kasse
+          EUR 389.35  Aufwendungen
+          EUR 139.35    Bühnenbild
+          EUR 150.00    Raummiete
+          EUR 100.00    Ton
+         EUR -500.00  Erträge::Eintritt
+         EUR -389.35  Verbindlichkeiten
+         EUR -289.35    Adam
+         EUR -100.00    Julia
+&lt;/pre&gt;
+
+&lt;p&gt;So sieht man auf einen Blick, was der aktuelle Stand ist. Wichtig bei der Darstellung ist noch, dass sich immer alle Summen zu Null addieren. Die Erträge sind deshalb negativ, weil Geld aus der Allgemeinheit abfließt. Die Aufwendungen sind nach der gleichen Logik positiv, Geld fließt in die Allgemeinheit zurück. Beide Konten sind für die Produktionsbilanz nicht relevant. Die Verbindlichkeiten gehören zum Vereinsvermögen, sie müssen von den Aktiva abgezogen werden, um eine vereinsinterne Bilanz zu ziehen.&lt;/p&gt;
+
+&lt;p&gt;Die Kommandozeile mag für viele abschreckend wirken, jedoch stellt sie eine einfache und vielseitige Möglichkeit für Berichte dar. Man sieht alles Wichtige auf einen Blick, mehr wollte ich nicht.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loblied auf meine Tastatur</title>
+      <link>http://www.mwellner.de/post/2010-10-16-loblied-auf-meine-tastatur/</link>
+      <pubDate>Sat, 16 Oct 2010 13:37:38 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2010-10-16-loblied-auf-meine-tastatur/</guid>
+      <description>&lt;p&gt;Ein jeder Handwerker pflegt sein Werkzeug. Der steinzeitliche Jäger spitzte seinen Speer, der Töpfer achtet darauf, dass sich keine Risse im Brennofen bilden und der Koch ist stets auf die Schärfe seiner Messer und um den guten Zustand seiner Töpfe besorgt. Ich bin Texthandwerker.&lt;/p&gt;
+
+&lt;p&gt;Ich schreibe Berichte und Code, manchmal auch Prosa. Mein wichtigstes Werkzeug ist die Tastatur. Denn Rechner sind austauschbar, Bildschirme sowieso. Und momentan komme ich mit quelloffenen Programmen aus, die sich auf beliebigen Rechnern und Betriebssystemen installieren lassen. Um so wichtiger ist die Tastatur. Millionen Zeichen habe ich getippt in meinem Leben, ich habe sie nicht gezählt. In meinem Kopf bildete sich ein Gedanke, mein Gehirn übersetzt ihn in einen Teilsatz, bildet Wörter, leitet daraus Buchstaben ab und die vielen kleinen Fingerbewegungen laufen parallel dazu ab, die Tastatur klackert vor sich hin, Tastendrücke werden zu Signalen, die im Rechner verarbeitet werden und sofort am Bildschirm als Zeichen dargestellt werden. Faszinierend, wie schnell das geht und wie automatisiert. Millionenfach bewährt, das Ergebnis sind Schulaufsätze, Berichte während des Studiums, Diplomarbeit, wissenschaftliche Publikationen, die Dissertationsschrift, dieses Weblog, tausende Zeilen Code &amp;ndash; die Spitze eines Zeichen-Eisberges. Denn erst durch Schreiben werden Ideen manifest und anderen mitteilbar. Wir leben im Zeitalter der Konzepte, die immer wieder neu erdacht, präsentiert, verändert und verworfen werden, nur ein kleiner Teil wird umgesetzt.&lt;/p&gt;
+
+&lt;p&gt;Programmieren ist letztendlich ähnlich, nur dass die Sprache eingeschränkt ist. Jede Programmiersprache hat ihren eigenen Satz von Befehlen, den man mühsam lernen muss. Aber sobald man größere Projekte umsetzt, beginnt ein schreiberischer Prozess, denn Klassen und Funktionen müssen benannt werden. Man ist völlig frei dabei und es entsteht ein Programm, also ein sprachlich definiertes Universum aus selbsterdachten Bezeichnungen. Und ähnlich wie ein guter Text muss auch guter Code fokussiert und klar sein. Das Gegenstück zum endlosen Absatz ist eine endlose Funktion oder historisch gewachsene Klasse, die man nicht mehr überblickt. Absätze unterteilen gedankliche Einheiten, genau so wie Funktionen und Klassen dies beim Programmieren tun.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;http://www.flickr.com/photos/mwellner/5085580681/&#34; title=&#34;Ergonomische Tastatur by mwellner, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4113/5085580681_83f2c74bcc.jpg&#34; width=&#34;500&#34; height=&#34;324&#34; alt=&#34;Ergonomische Tastatur&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Zwei Tasten fehlen noch zur Vollendung, das V und Links&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Und deshalb bin ich froh, eine wunderbare ergonomische Tastatur zu benutzen, die meine Hände schont. Sie ist ganz und gar darauf ausgelegt, meinen Händen die Tipparbeit zu erleichtern. Für Außenstehende mutet ihr Anblick allerdings befremdlich an, zugunsten der Ergonomie haben die Hersteller die Tasten in zwei Kuhlen angeordnet und einige Tasten in die Mitte der Tastatur versetzt, damit die Daumen stärker gefordert werden. Denn sonst ist es dem armen kleinen Finger vorbehalten, sich bei jedem &lt;em&gt;Enter&lt;/em&gt; mit einer Verrenkung nach rechts zu spreizen, während die Daumen als Muskelprotze der Finger lediglich beim Leerzeichen zum Einsatz kommen.&lt;/p&gt;
+
+&lt;p&gt;Und gestern habe ich diese Tastatur liebevoll auseinander genommen, die verschwitzten Handballenpolster entfernt und alles gründlich gereinigt. Eine schöne Aufgabe, jetzt glänzt sie wieder fast wie zu Beginn und lädt wieder ein zum Tippen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Macht mit bei Email-Verschlüsselung!</title>
+      <link>http://www.mwellner.de/post/2010-08-28-macht-mit-bei-email-verschlusselung/</link>
+      <pubDate>Sat, 28 Aug 2010 22:08:49 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2010-08-28-macht-mit-bei-email-verschlusselung/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Anlass&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vor kurzem habe ich meinen Rechner neu aufgesetzt, nun ist &lt;a href=&#34;http://de.wikipedia.org/wiki/Microsoft_Windows_7&#34;&gt;Windows 7&lt;/a&gt; mein Betriebssystem. &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu Linux&lt;/a&gt; läuft nun als virtuelle Maschine mit dem &lt;a href=&#34;http://www.vmware.com/de/products/player/&#34;&gt;VMware Player&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+  &lt;a href=&#34;http://www.flickr.com/photos/mwellner/4935768178/&#34; title=&#34;Zutritt verboten by mwellner, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4118/4935768178_1a92d6d5f6.jpg&#34; width=&#34;500&#34; height=&#34;338&#34; alt=&#34;Zutritt verboten&#34; /&gt;&lt;/a&gt;
+  
+  &lt;p class=&#34;wp-caption-text&#34;&gt;
+    Privatspäre&lt;br /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Im Zuge der Neuinstallation habe ich mir auch Gedanken zum Thema Email-Sicherheit gemacht. Bereits 2003 hatte ich mir ein Schlüsselpaar (der öffentliche Teil des Schlüssels ist auf diversen Key-Servern verfügbar) erzeugt, dieses aber nur gelegentlich genutzt. Das wird sich nun wieder ändern!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warum verschlüsseln?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Angestoßen durch die Diskussionen über die ständig schrumpfende Privatsphäre möchte ich mir einen Teil meiner Privatsphäre zurückerobern &amp;ndash; private Emails sind da ein wichtiger Bestandteil. Normale Emails sind wie Postkarten, auf allen Servern kann man sie mit den entsprechenden Zugriffsrechten lesen. Die Verschlüsselung ist wie ein Briefumschlag, der den privaten Inhalt vor neugierigen Blicken schützt. Die zunehmende Kommunikation über soziale Netzwerke sehe ich kritisch, da kommerzielle Interessen dort dominieren und die hohen Anfangsinvestitionen irgendwann reinkommen müssen. Gerade Facebook ist durch einige Vorfälle in die Kritik geraten (siehe z.B. &lt;a href=&#34;http://www.zeit.de/2010/35/Facebook&#34;&gt;Facebooks unsichtbare Listen&lt;/a&gt; in der ZEIT).&lt;/p&gt;
+
+&lt;p&gt;Im unternehmerischen Umfeld ist das Verschlüsseln von Daten noch wichtiger, da man wichtige Dokumente ungern an Dritte weiterreichen würde. Dass dies heute nur sehr wenige Firmen machen, ist für mich kaum nachvollziehbar. Verträge, technische Dokumente oder Software werden so quasi als Postkarte versendet, Industriespionage erheblich vereinfacht.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Öffentlicher und geheimer Schlüssel beim RSA-Verfahren&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Technisch beruht die Verschlüsselung von Emails auf dem &lt;a href=&#34;http://de.wikipedia.org/wiki/RSA-Kryptosystem&#34;&gt;RSA-Kryptosystem&lt;/a&gt;. Mit einem geeigneten Programm könnt ihr euch ein Schlüsselpaar erzeugen, welches aus einem geheimen und einem öffentlichen Schlüssel besteht. Den öffentlichen Schlüssel könnt ihr herumschicken, mit ihm kann ich auch Nachrichten an euch verschlüsseln, die ihr nur mit eurem geheimen Schlüssel entschlüsseln könnt. Das Signieren von Nachrichten ist eine andere Sache, dafür nehmt ihr euren geheimen Schlüssel und der Empfänger kann mit Hilfe eures öffentlichen Schlüssels feststellen, ob die Nachricht wirklich von euch stammt.&lt;/p&gt;
+
+&lt;p&gt;Damit das Ganze Sinn macht, brauche ich aber eure Mithilfe. Denn ich allein kann meine Nachrichten lediglich signieren, sie sind dann aber immer noch für jedermann lesbar. Erst wenn ihr mitmacht und mir eure öffentlichen Schlüssel zukommen lasst, kann ich Nachrichten an euch verschlüsseln.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So geht&amp;#8217;s los&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Für die meisten Email-Programme gibt es Zusätze zum Verschlüsseln. Ich persönlich verwende &lt;a href=&#34;http://www.mozillamessaging.com/de/thunderbird/&#34;&gt;Mozilla Thunderbird&lt;/a&gt; mit dem &lt;a href=&#34;http://www.enigmail.net/home/index.php&#34;&gt;Enigmail&lt;/a&gt;-Plugin. Für Windows und damit auch Outlook gibt es mit &lt;a href=&#34;http://www.gpg4win.org&#34;&gt;Gpg4win&lt;/a&gt; ebenfalls ein komfortables Zusatzwerkzeug, mit dem ich auf Arbeit bereits gute Erfahrungen gesammelt habe. In der Linux-Welt ist &lt;a href=&#34;http://www.gnupg.org/&#34;&gt;GnuPG&lt;/a&gt; der Quasi-Standard, die meisten anderen Programme und Werkzeuge basieren darauf.&lt;/p&gt;
+
+&lt;p&gt;Nach der Installation könnt ihr euch ein Schlüsselpaar anlegen. Folgt einfach den Standardvorgaben und macht auf jeden Fall eine Sicherungskopie eurer beiden Schlüssel! Euer privater Schlüssel wird zusätzlich mit einem Passwort geschützt. Dann könnt ihr euren öffentlichen Schlüssel exportieren und herumschicken oder ihn auf einen Schlüssel-Server laden.&lt;/p&gt;
+
+&lt;p&gt;Das Verschlüsseln ist ein wenig gewöhnungsbedürftig und ein zusätzlicher Schritt. Aber ich denke, dass sich dieser Aufwand lohnt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>studiVZ ade</title>
+      <link>http://www.mwellner.de/post/2010-08-10-studivz-ade/</link>
+      <pubDate>Tue, 10 Aug 2010 22:58:36 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2010-08-10-studivz-ade/</guid>
+      <description>&lt;p&gt;Heute habe ich die Löschung meines studiVZ-Nutzerkontos veranlasst. Die Gründe dafür waren vielfältig:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ich bin mittlerweile echt kein Student mehr, wirklich nicht.&lt;/li&gt;
+&lt;li&gt;Ich habe mich in letzter Zeit kaum noch dort betätigt.&lt;/li&gt;
+&lt;li&gt;Auf Facebook sind mehr von meinen Freunden.&lt;/li&gt;
+&lt;li&gt;Weniger Komplexität ist immer besser.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Falls ihr also in Kontakt mit mir bleiben möchtet, stehen euch weiterhin Facebook, twitter und natürlich dieses Weblog zur Verfügung. Bei Facebook bin ich aber auch am Zweifeln, die kommerzielle Ausrichtung (gezielte Werbung), die Datenschutzkontroversen und der geringe Nutzwert stehen auf der Negativseite. Die meisten Beiträge sind eher mäßig und fressen einfach Zeit. Es sind alles Informations-Fetzchen, meist aus fremder Quelle, ganz zu schweigen von den Facebook-Programmen, deren Hauptaufgabe darin zu bestehen scheint, Statusmeldungen am laufenden Band zu produzieren. Ich weiß, wovon ich rede &amp;ndash; auch ich habe Farmville gespielt. Der Nutzen für mich ist primär, auf Inhalte in meinem Weblog hinzuweisen, die dadurch meinen Bekannten eventuell zugänglich werden, wenn sie gerade reinschauen und meine Statusmeldungen nicht ausblenden.&lt;/p&gt;
+
+&lt;p&gt;Twitter nutze ich nicht so oft, im Grunde ist es aber wie ein abgespecktes Facebook, nur kurze Textnachrichten, kein Multimedia-Schnickschnack. Und vor allem keine Emails, mit denen Facebook einen regelmäßig erfreut.&lt;/p&gt;
+
+&lt;p&gt;Aber andererseits ist es auch spannend, am Zahn der Zeit zu sein. Bestimmte Leute kommunizieren gar nicht mehr per Email, da läuft alles über soziale Netzwerke. Für diese Leute existiert man als Facebook-Verachter dann quasi nicht mehr. Es bleibt eine spannende Entscheidung, wieviel man von sich preis gibt und was man davon hat.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu-Linux 10.4 veröffentlicht</title>
+      <link>http://www.mwellner.de/post/2010-05-01-ubuntu-linux-10-4-veroffentlicht/</link>
+      <pubDate>Sat, 01 May 2010 16:58:20 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2010-05-01-ubuntu-linux-10-4-veroffentlicht/</guid>
+      <description>&lt;p&gt;Die nächste Evolutionsstufe des quelloffenen Betriebssystems &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu&lt;/a&gt; wurde gestern vom Stapel gelassen. Ich habe es heute auch zu Hause installiert, nachdem ich letzte Woche auf Arbeit schon die Beta-Version getestet hatte. Vor allem optisch ist es ein gewaltiger Schritt nach vorn, die neuen Standard-Themes Ambience und Radience gefallen mir gut. Doch auch hinter den Kulissen hat sich einiges getan.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ubuntu One&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ubuntu bietet für jeden Nutzer kostenlos 2.0 GB Online-Speicherplatz an, so dass man Ordner, Lesezeichen, Nachrichten und Kontakte zwischen verschiedenen Rechnern synchronisieren kann. Das Upgrade auf 50 GB kostet dann 10$ pro Monat.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thunderbird 3.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Es ist zwar nicht der Verdienst von Ubuntu, aber neu enthalten in der Version 10.4 ist auch die aktuelle Version des Email-Clients &lt;a href=&#34;http://www.mozilla.org/de/thunderbird/&#34;&gt;Thunderbird&lt;/a&gt;. Mit seinem Funktionsumfang (Emails, Adressbuch, Kalender, Aufgaben) kann er durchaus mit Outlook mithalten. Neu in dieser Version ist das Indizieren von Nachrichten, auch wenn diese nicht direkt auf dem Rechner lagern (IMAP). Google Mail bietet das schon lange, jetzt kann man also endlich auch mit Thunderbird alle Nachrichten bequem nach Stichwörtern durchsuchen und muss keine Angst mehr um seine Daten bei Google haben.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Social Networks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ebenfalls neu (zumindest für mich) ist die zusammenhängende Darstellung verschiedener sozialer Netzwerke mit &lt;a href=&#34;http://gwibber.com/&#34;&gt;Gwibber&lt;/a&gt;. Jedenfalls kann ich jetzt simultan Nachrichten auf Facebook und twitter veröffentlichen und anzeigen lassen. An sich ist das natürlich auch nicht neu, aber am Ende entscheidet ja immer, wie gut sich das ins Betriebssystem integriert.&lt;/p&gt;
+
+&lt;p&gt;Damit kann ich nur jedem empfehlen, das Ganze mal auszuprobieren. Die Installation ist nicht schwieriger als mit Windows und es ist einfach immer wieder erstaunlich, was auf Open-Source-Basis alles zustande kommt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Model-View-Controller-Architektur</title>
+      <link>http://www.mwellner.de/post/2010-04-08-model-view-controller-architektur/</link>
+      <pubDate>Thu, 08 Apr 2010 09:27:54 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2010-04-08-model-view-controller-architektur/</guid>
+      <description>&lt;p&gt;MVC ist ein Begriff, der bei Webanwendungen mit Datenbank-Zugriff häufig auftaucht. Derzeit arbeite ich mit mit dem MVC-orientierten &lt;a href=&#34;http://cakephp.org/&#34;&gt;cakePHP&lt;/a&gt;, um eine interne ERP-Lösung zu entwickeln. Jedoch enthält die Webseite eines anderen Entwicklungssystems eine schön geschriebene und sehr anschauliche Beschreibung des MVC-Konzepts (overview [Kohana User Guide]). Anhand des Beispiels einer Bank werden die grundlegenden Eigenschaften dieser Architektur beschrieben und Regeln für die Gestaltung formuliert. Meine derzeitige ERP-Beispiel-Lösung bedarf definitiv einer Überarbeitung&amp;#8230;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Folgt mir auf twitter [@wellnair]</title>
+      <link>http://www.mwellner.de/post/2010-03-23-folgt-mir-auf-twitter-wellnair/</link>
+      <pubDate>Tue, 23 Mar 2010 22:12:58 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2010-03-23-folgt-mir-auf-twitter-wellnair/</guid>
+      <description>&lt;p&gt;Ich weiß, der Hype um &lt;a href=&#34;http://twitter.com&#34;&gt;twitter&lt;/a&gt; ist lange vorbei. Aber dennoch, ich will das auch mal probieren. 140 Zeichen, das wird eine echte Herausforderung. Kein Geschwafel, die reine Essenz. Aber jetzt brauche ich Anhänger, zumindest mal einen als Anfang, sonst twittere ich ins Leere hinein.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2009 / 2010</title>
+      <link>http://www.mwellner.de/post/2010-01-01-2009-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:01:20 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2010-01-01-2009-2010/</guid>
+      <description>&lt;p&gt;Allen Lesern möchte ich ein erfreuliches Jahr 2010 wünschen! Silvester ist ein schöner Moment, um das Vergangene Revue passieren zu lassen und neue Ziele anzuvisieren. Denn meist hat man ein paar freie Tage und ist nach den familiären Weihnachtsfestlichkeiten froh, wieder allein zu sein. Und so möchte ich an dieser Stelle gern aus Weblog-Sicht einen kleinen Rückblick wagen. Die Statistiken beziehen sich auf das neue Weblog-System, welches seit August 2009 installiert ist, meine eigenen Besuche sind nicht eingerechnet. Das Weblog umfasst momentan 522 Artikel, 7 statische Seiten und 97 Kommentare.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seitenaufrufe pro Monat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;August: 701&lt;/li&gt;
+&lt;li&gt;September: 1581&lt;/li&gt;
+&lt;li&gt;Oktober: 1330&lt;/li&gt;
+&lt;li&gt;November: 1218&lt;/li&gt;
+&lt;li&gt;Dezember: 1256&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Die 10 meistbesuchten Seiten&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2006/11/23/latex-template-fuer-diplomarbeit/&#34;&gt;LaTeX-​​Template für Diplomarbeit&lt;/a&gt; (281 Besucher)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2005/03/28/latex-arger-ein-punkt-zuviel/&#34;&gt;LaTeX-​​Ärger, ein Punkt zuviel&lt;/a&gt; (143 Besucher)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2009/05/11/a-latex-template-for-my-dissertation/?lang=en&#34;&gt;A LaTeX template for my dissertation&lt;/a&gt; (111 Besucher)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2008/07/07/schwagalp-santis-ebenalp/&#34;&gt;Schwägalp — Säntis — Ebenalp&lt;/a&gt; (107 Besucher)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2008/12/22/tom-stoppard-arkadien-arcadia/&#34;&gt;Tom Stoppard: Arkadien (Arcadia im Orginal)&lt;/a&gt; (88 Besucher)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2005/05/01/jean-paul-sartre-das-spiel-ist-aus/&#34;&gt;Jean-​​Paul Sartre: Das Spiel ist aus&lt;/a&gt; (77 Besucher)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2009/08/16/vorderer-glarnisch/&#34;&gt;Vorderer Glärnisch&lt;/a&gt; (72 Besucher)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2007/07/30/powerpoint-und-sprachliche-komplexitat/&#34;&gt;PowerPoint-​​Stil und sprachliche Komplexität&lt;/a&gt; (53 Besucher)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2009/11/09/kleine-helferlein-beim-wissenschaftlichen-schreiben-mit-latex/&#34;&gt;Kleine Helferlein beim wissenschaftlichen Schreiben mit LaTeX&lt;/a&gt; (53 Besucher)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mwellner.de/2005/04/20/diplomverteidigung/&#34;&gt;Diplomverteidigung&lt;/a&gt; (48 Besucher)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Spannend ist sicherlich die Top-Plazierung der LaTeX-Beiträge. Danach scheinen Leute sehr häufig zu suchen. Wanderrouten zu konkreten Zielen werden ebenfalls häufig aufgerufen, ebenso wie Artikel über Autoren und Werke. Jedoch braucht ihr keine Angst haben, dass ich ab jetzt nur noch über LaTeX schreibe, diese Statistiken haben für meine weitere Arbeit am Weblog kaum Bedeutung. Das Weblog ist für mich eine Plattform, um meine wechselnden Interessen auszudrücken. Ich tue mich schwer mit einer Fokussierung, die für mehr Besucher sicherlich vonnöten wäre. Aber das kann und will ich nicht. Das Weblog bleibt ein Hobby, um gelegentlich über diverse Themen zu schreiben, angesiedelt irgendwo zwischen Kultur und Technik.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Little Helpers for Scientific Writing with LaTeX</title>
+      <link>http://www.mwellner.de/post/2009-11-11-little-helpers-for-scientific-writing-with-latex/</link>
+      <pubDate>Wed, 11 Nov 2009 00:49:04 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2009-11-11-little-helpers-for-scientific-writing-with-latex/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The document preparation system &lt;a href=&#34;http://en.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt; is well-suited for scientific writing. But which additional components are required? In this article, I will describe how to install all the necessary programs and packages on a &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu-Linux&lt;/a&gt; system to write publications conveniently. The tutorial equally applies to Debian systems, Windows users have to modify the installation procedures accordingly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Requirements, Prerequisites&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;I would like to use &lt;a href=&#34;http://www.vim.org/&#34;&gt;vim&lt;/a&gt; as edi­tor.&lt;/li&gt;
+&lt;li&gt;The result should be a PDF file.&lt;/li&gt;
+&lt;li&gt;After changes to the manuscript, all necessary processing steps (calling latex, bibtex) shall be triggered automatically with one command.&lt;/li&gt;
+&lt;li&gt;I would like to cite my references using &lt;a href=&#34;http://www.apastyle.org/&#34;&gt;APA Style&lt;/a&gt;. That is required by the journal of my choice.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Text­ Edi­tor VIM&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;VIM is a strong tool for editing text. You will find a version on most Linux systems. The &lt;a href=&#34;http://vim-latex.sourceforge.net/&#34;&gt;VIM-​​LaTeX-​​Suite&lt;/a&gt; is a handy tool for a better integration of LaTeX.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install vim&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Although there is a vim-latexsuite package, I advise not to use it. Rather install the package directly in your home directory.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;latexmk&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Perl script latexmk is very useful to automate the document generation. It determines the dependencies (included images and bibliography), checks the status of all files and runs all necessary steps. Without latexmk you have to repeatedly execute the single steps (calling latex, bibtex) to get an output which reflects all changes.&lt;/p&gt;
+
+&lt;p&gt;You have to install Perl (if not already available on your system) and the script itself. Windows users should install &lt;a href=&#34;http://www.activestate.com/activeperl/&#34;&gt;Active Perl&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install perl&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install latexmk&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Using latexmk for PDF output looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+project_directory$ latexmk -pdf dokument.tex&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;bibla­tex&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Although the biblatex package is still beta, I liked the sheer power of it and have used it for my references. Originally I was looking for a solution to use chapter-wise references, but biblatex can do much more and makes reference handling much easier as before. It combines the functionality of a variety of packages.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install biblatex&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;There are new macros for citing references. To make an indirect quote, which is most common for engineers, you would use &lt;em&gt;\parencite{key}&lt;/em&gt;. The macro &lt;em&gt;\printbibliography&lt;/em&gt; creates the list of all cited references. The appearance of the quotes and bibliography is determined by citation styles.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+\usepackage[style=apa]{biblatex}&amp;lt;br /&amp;gt;
+\bibliography{bibfile_name}&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The APA style is available for biblatex but has to be installed manually. After copying the style files you have to update your texmf tree.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo texconfig rehash&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;One problem at this stage was an outdated csquotes package. I had to correct that manually as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After some work I have a complete system ready for editing my third publication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kleine Helferlein beim wissenschaftlichen Schreiben mit LaTeX</title>
+      <link>http://www.mwellner.de/post/2009-11-09-kleine-helferlein-beim-wissenschaftlichen-schreiben-mit-latex/</link>
+      <pubDate>Mon, 09 Nov 2009 23:09:16 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2009-11-09-kleine-helferlein-beim-wissenschaftlichen-schreiben-mit-latex/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ein­lei­tung&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Text­satz­sys­tem &lt;a href=&#34;https://de.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt; eig­net sich her­vor­ra­gend für wis­sen­schaft­li­ches Schrei­ben. Aber wel­che Kom­po­nen­ten braucht man genau? In die­sem Arti­kel möchte ich beschrei­ben, wie man auf einem &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu-​​Linux&lt;/a&gt;–Sys­tem die not­wen­di­gen Pro­gramme und Pakete instal­liert, um seine Publi­ka­tio­nen bequem schrei­ben zu kön­nen. Windows-​​Nutzer kön­nen die Schritte genau so aus­füh­ren, müs­sen aber an eini­gen Stel­len abwei­chend vorgehen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anfor­de­run­gen, Voraussetzungen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ich möchte VIM als Edi­tor benutzen.&lt;/li&gt;
+&lt;li&gt;Das Resul­tat soll eine PDF-​​Datei sein.&lt;/li&gt;
+&lt;li&gt;Nach Ände­run­gen am Manu­skript sol­len alle not­wen­di­gen Ver­ar­bei­tungs­schritte (latex, bib­tex) auto­ma­tisch durch eine Aktion (Maus­klick oder Ein­gabe) erfolgen.&lt;/li&gt;
+&lt;li&gt;Ich möchte nach dem &lt;a href=&#34;http://www.apastyle.org/&#34;&gt;APA-​​Stil&lt;/a&gt; zitie­ren. Das ist von der Zeit­schrift mei­ner Wahl so vorgeschrieben.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Text­edi­tor VIM&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;VIM ist ein sehr mäch­ti­ges Werk­zeug zum Bear­bei­ten von Tex­ten. Auf den meis­ten Linux-​​Systemen ist die­ses Pro­gramm bereits instal­liert. Zur bes­se­ren Inte­gra­tion von LaTeX-​​Dokumenten gibt es die &lt;a href=&#34;http://vim-latex.sourceforge.net/&#34;&gt;VIM-​​LateX-​​Suite&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install vim&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Die LaTeX-Suite sollte man lieber von Hand im Home-Verzeichnis installieren, auf der Homepage gibt es eine Anleitung.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;latexmk&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Perl-​​Script latexmk ist äußerst prak­tisch, um alle not­wen­di­gen Ver­ar­bei­tungs­schritte auto­ma­tisch aus­zu­füh­ren. Es ermit­telt die Abhän­gig­kei­ten (ein­ge­schlos­sene Bil­der, Biblio­gra­fie), prüft den Sta­tus aller Dateien im Pro­jekt und führt dann genau die Schritte aus, wel­che not­wen­dig sind. Wenn man das nicht hat, muss man sehr häu­fig die Ein­zel­schritte (die Pro­gramme latex und bib­tex) aus­füh­ren, um bei Ände­run­gen im Doku­ment ein wirk­lich aktu­el­les PDF zu erhalten.&lt;/p&gt;
+
+&lt;p&gt;Instal­lie­ren muss man Perl (wenn es noch nicht vor­han­den ist) und das Skript selbst. Windows-​​Nutzer soll­ten &lt;a href=&#34;http://www.activestate.com/activeperl/&#34;&gt;Active Perl&lt;/a&gt; instal­lie­ren.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install perl&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install latexmk&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Die Anwen­dung von latexmk sieht dann für PDFs so aus:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+project_directory$ latexmk -pdf dokument.tex&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;bibla­tex&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Obwohl es zur Zeit noch nicht für die All­ge­mein­heit ver­öf­fent­licht ist (beta-​​Stadium), hat mir die Mäch­tig­keit des Pakets bibla­tex so impo­niert, dass ich es für meine Refe­ren­zen gern ver­wende. Ursprüng­lich brauchte ich eine sau­bere Lösung für nach Kapi­teln auf­ge­teilte Refe­ren­zen in mei­ner Dis­ser­ta­ti­ons­schrift, aber bibla­tex kann weit mehr und macht den Umgang mit Refe­ren­zen viel ein­fa­cher als vor­her. Denn bis­lang musste man aus einer unüber­schau­ba­ren Viel­falt von Pake­ten aus­wäh­len, wenn man mit dem Mini­mal­stan­dard von Bib­TeX nicht zufrie­den war. Nun braucht man also nur noch ein Paket — bibla­tex.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install biblatex&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Im Gegen­satz zum nor­ma­len Zitie­ren muss man sich an ein paar neue Befehle gewöh­nen. Ein indi­rek­tes Zitat in Klam­mern, wel­ches bei uns Inge­nieu­ren das häu­figste ist, erhält man mit \parencite{key}. Der Befehl \print­bi­blio­gra­phy erstellt genau an die­ser Stelle ein Refe­renz­ver­zeich­nis (Biblio­gra­phie) mit allen zitier­ten Quel­len. Das Aus­se­hen der Biblio­gra­phie und der Zitate im Text rich­tet sich nach dem Zitier­stil, den man beim Laden des Pake­tes mit ange­ben kann.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+\usepackage[style=apa]{biblatex}&amp;lt;br /&amp;gt;
+\bibliography{bibfile_name}&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Den APA-​​Zitierstil kann man lei­der nur manu­ell instal­lie­ren (siehe Doku­men­ta­tion). Danach muss man aber noch die LaTeX-​​Installation aktua­li­sie­ren.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo texconfig rehash&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Ein Pro­blem war dann noch, dass das csquotes-​​Paket ver­al­tet war. Auch da musste ich manu­ell die Dateien an die rich­tige Stelle kopie­ren und mit tex­con­fig rehash die LaTeX-​​Installation aktualisieren.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fazit&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Etwas Auf­wand ist das schon, dafür steht mir jetzt wie­der ein kom­plet­tes Sys­tem zur Ver­fü­gung, mit dem ich an mei­ner drit­ten Publi­ka­tion fei­len kann.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

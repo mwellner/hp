@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rehash on mathias wellner</title>
+    <link>http://www.mwellner.de/tags/rehash/index.xml</link>
+    <description>Recent content in Rehash on mathias wellner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <atom:link href="http://www.mwellner.de/tags/rehash/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kleine Helferlein für das wissenschaftliche Schreiben mit LaTeX</title>
+      <link>http://www.mwellner.de/post/2009-11-09-vorbereitungen-fur-das-wissenschaftliche-schreiben-mit-latex/</link>
+      <pubDate>Mon, 09 Nov 2009 00:03:32 +0000</pubDate>
+      
+      <guid>http://www.mwellner.de/post/2009-11-09-vorbereitungen-fur-das-wissenschaftliche-schreiben-mit-latex/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Einleitung&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Textsatzsystem &lt;a href=&#34;https://de.wikipedia.org/wiki/LaTeX&#34;&gt;LaTeX&lt;/a&gt; eignet sich hervorragend für wissenschaftliches Schreiben. Aber welche Komponenten braucht man genau? In diesem Artikel möchte ich beschreiben, wie man auf einem &lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu-Linux&lt;/a&gt;-System die notwendigen Programme und Pakete installiert, um seine Publikationen bequem schreiben zu können. Windows-Nutzer können die Schritte genau so ausführen, müssen aber an einigen Stellen abweichend vorgehen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anforderungen, Voraussetzungen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ich möchte &lt;a href=&#34;http://de.wikipedia.org/wiki/Vim&#34;&gt;VIM&lt;/a&gt; als Editor benutzen.&lt;/li&gt;
+&lt;li&gt;Das Resultat soll eine PDF-Datei sein.&lt;/li&gt;
+&lt;li&gt;Nach Änderungen am Manuskript sollen alle notwendigen Verarbeitungsschritte (latex, bibtex) automatisch durch eine Aktion (Mausklick oder Eingabe) erfolgen.&lt;/li&gt;
+&lt;li&gt;Ich möchte nach dem &lt;a href=&#34;http://www.apastyle.org/&#34;&gt;APA-Stil&lt;/a&gt; zitieren. Das ist von der Zeitschrift meiner Wahl so vorgeschrieben.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Texteditor VIM&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;VIM ist ein sehr mächtiges Werkzeug zum Bearbeiten von Texten. Auf den meisten Linux-Systemen ist dieses Programm bereits installiert. Zur besseren Integration von LaTeX-Dokumenten gibt es die &lt;a href=&#34;http://vim-latex.sourceforge.net/&#34;&gt;VIM-LateX-Suite&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install vim&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install vim-latexsuite&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Bei mir gab es ein Problem, die LateX-Suite wurde nicht aktiviert. Das lag daran, dass im normalen VIM-Verzeichnis schon ein file type plugin für LaTeX existiert. Dieser war dann aus unerklärlichen Gründen weiter oben auf der Suchliste als vim-latexsuite. Abhilfe schaffte bei mir die direkte Installation in meinem Home-Verzeichnis. Das ist zwar nicht die optimale Lösung, denn damit ist dieses Programm von Aktualisierungen ausgenommen, jedoch fiel mir erstmal nichts besseres ein.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;latexmk&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Perl-Script latexmk ist äußerst praktisch, um alle notwendigen Verarbeitungsschritte automatisch auszuführen. Es ermittelt die Abhängigkeiten (eingeschlossene Bilder, Bibliografie), prüft den Status aller Dateien im Projekt und führt dann genau die Schritte aus, welche notwendig sind. Wenn man das nicht hat, muss man sehr häufig die Einzelschritte (die Programme latex und bibtex) ausführen, um bei Änderungen im Dokument ein wirklich aktuelles PDF zu erhalten.&lt;/p&gt;
+
+&lt;p&gt;Installieren muss man Perl (wenn es noch nicht vorhanden ist) und das Skript selbst. Windows-Nutzer sollten &lt;a href=&#34;http://www.activestate.com/activeperl/&#34;&gt;Active Perl&lt;/a&gt; installieren.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install perl&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install latexmk&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Die Anwendung von latexmk sieht dann für PDFs so aus:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+project_directory$ latexmk -pdf dokument.tex&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;biblatex&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Obwohl es zur Zeit noch nicht für die Allgemeinheit veröffentlicht ist (beta-Stadium), hat mir die Mächtigkeit des Pakets &lt;a href=&#34;http://www.ctan.org/pkg/biblatex&#34;&gt;biblatex&lt;/a&gt; so imponiert, dass ich es für meine Referenzen gern verwende. Ursprünglich brauchte ich eine saubere Lösung für nach Kapiteln aufgeteilte Referenzen in meiner Dissertationsschrift, aber biblatex kann weit mehr und macht den Umgang mit Referenzen viel einfacher als vorher. Denn bislang musste man aus einer unüberschaubaren Vielfalt von Paketen auswählen, wenn man mit dem Minimalstandard von BibTeX nicht zufrieden war. Nun braucht man also nur noch ein Paket &amp;#8212; biblatex.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo apt-get install biblatex&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Im Gegensatz zum normalen Zitieren muss man sich an ein paar neue Befehle gewöhnen. Ein indirektes Zitat in Klammern, welches bei uns Ingenieuren das häufigste ist, erhält man mit &lt;em&gt;\parencite{key}&lt;/em&gt;. Der Befehl &lt;em&gt;\printbibliography&lt;/em&gt; erstellt genau an dieser Stelle ein Referenzverzeichnis (Bibliographie) mit allen zitierten Quellen. Das Aussehen der Bibliographie und der Zitate im Text richtet sich nach dem Zitierstil, den man beim Laden des Paketes mit angeben kann.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+\usepackage[style=apa]{biblatex}&amp;lt;br /&amp;gt;
+\bibliography{bibfile_name}&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Den &lt;a href=&#34;http://www.ctan.org/pkg/biblatex-apa&#34;&gt;APA-Zitierstil&lt;/a&gt; kann man leider nur manuell installieren (siehe Dokumentation). Danach muss man aber noch die LaTeX-Installation aktualisieren.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;&amp;lt;br /&amp;gt;
+any_directory$ sudo texconfig rehash&amp;lt;br /&amp;gt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Ein Problem war dann noch, dass das &lt;a href=&#34;http://www.ctan.org/tex-archive/macros/latex/contrib/csquotes/&#34;&gt;csquotes-Paket&lt;/a&gt; veraltet war. Auch da musste ich manuell die Dateien an die richtige Stelle kopieren und mit &lt;em&gt;texconfig rehash&lt;/em&gt; die LaTeX-Installation aktualisieren.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fazit&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Etwas Aufwand ist das schon, dafür steht mir jetzt wieder ein komplettes System zur Verfügung, mit dem ich an meiner dritten Publikation feilen kann.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,11 +1,7 @@
 ---
-id: 6934
 title: 'Docker Compose File for WordPress &#038; MariaDB'
 date: 2016-09-14T22:33:45+00:00
 author: Mathias Wellner
-layout: post
-guid: 'http://www.mwellner.de/?p=6934&#038;lang=en'
-permalink: /2016/09/14/docker-compose-file-for-wordpress-mariadb/?lang=en
 categories:
   - software development
 tags:

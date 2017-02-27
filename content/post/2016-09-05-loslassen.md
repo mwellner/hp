@@ -1,11 +1,7 @@
 ---
-id: 6926
 title: Loslassen
 date: 2016-09-05T21:18:53+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6926
-permalink: /2016/09/05/loslassen/
 categories:
   - tagebuch
 ---
@@ -17,52 +13,33 @@ Schön ist, dass sich jetzt viele Leute Zeit nehmen, mich noch einmal zu sehen. 
 
 Morgen steht mir dann noch eine Begegnung der ganz anderen Art bevor &ndash; mit dem kommunalen Verwaltungsapparat. Ich werde mich im Rathaus abmelden. Um meine Steuerangelegenheiten zu regeln, muss ich einen Bevollmächtigten mit Schweizer Anschrift definieren. Die vernetzte und globalisierte Welt endet an der Landesgrenze, Briefe ins ferne nördliche Ausland könnten ja verloren gehen. Wobei das andersherum genau so ist, in einer anderen Angelegenheit war einer deutschen Behörde mein Wohnsitz im Ausland zu weit weg, als das man wichtige Post direkt dorthin schicken könnte. 
 
-> Wie jede Blüte welkt und jede Jugend
-  
-> Dem Alter weicht, blüht jede Lebensstufe,
-  
-> Blüht jede Weisheit auch und jede Tugend
-  
-> Zu ihrer Zeit und darf nicht ewig dauern.
-  
-> Es muß das Herz bei jedem Lebensrufe
-  
-> Bereit zum Abschied sein und Neubeginne,
-  
-> Um sich in Tapferkeit und ohne Trauern
-  
-> In andre, neue Bindungen zu geben.
-  
-> Und jedem Anfang wohnt ein Zauber inne,
-  
-> Der uns beschützt und der uns hilft, zu leben.
-  
-> 
-  
-> Wir sollen heiter Raum um Raum durchschreiten,
-  
-> An keinem wie an einer Heimat hängen,
-  
-> Der Weltgeist will nicht fesseln uns und engen,
-  
-> Er will uns Stuf&#8217; um Stufe heben, weiten.
-  
-> Kaum sind wir heimisch einem Lebenskreise
-  
-> Und traulich eingewohnt, so droht Erschlaffen,
-  
-> Nur wer bereit zu Aufbruch ist und Reise,
-  
-> Mag lähmender Gewöhnung sich entraffen.
-  
-> 
-  
-> Es wird vielleicht auch noch die Todesstunde
-  
-> Uns neuen Räumen jung entgegensenden,
-  
-> Des Lebens Ruf an uns wird niemals enden &#8230;
-  
-> Wohlan denn, Herz, nimm Abschied und gesunde!
-  
-> <cite>Hermann Hesse</cite>
+<blockquote class="blockquote">
+<h4>Stufen</h4>
+Wie jede Blüte welkt und jede Jugend<br>
+Dem Alter weicht, blüht jede Lebensstufe,<br>
+Blüht jede Weisheit auch und jede Tugend<br>
+Zu ihrer Zeit und darf nicht ewig dauern.<br>
+Es muß das Herz bei jedem Lebensrufe<br>
+Bereit zum Abschied sein und Neubeginne,<br>
+Um sich in Tapferkeit und ohne Trauern<br>
+In andre, neue Bindungen zu geben.<br>
+Und jedem Anfang wohnt ein Zauber inne,<br>  
+Der uns beschützt und der uns hilft, zu leben.<br>  
+<br>
+Wir sollen heiter Raum um Raum durchschreiten,<br>
+An keinem wie an einer Heimat hängen,<br>
+Der Weltgeist will nicht fesseln uns und engen,<br>
+Er will uns Stuf&#8217; um Stufe heben, weiten.<br>
+Kaum sind wir heimisch einem Lebenskreise<br>
+Und traulich eingewohnt, so droht Erschlaffen,<br>
+Nur wer bereit zu Aufbruch ist und Reise,<br>
+Mag lähmender Gewöhnung sich entraffen.<br>
+<br>
+Es wird vielleicht auch noch die Todesstunde<br>
+Uns neuen Räumen jung entgegensenden,<br>
+Des Lebens Ruf an uns wird niemals enden &#8230;<br>
+Wohlan denn, Herz, nimm Abschied und gesunde!<br>
+<footer class="blockquote-footer">
+  <cite>Hermann Hesse</cite>
+</footer>
+</blockquote>

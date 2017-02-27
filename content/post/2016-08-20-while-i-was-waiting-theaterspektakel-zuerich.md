@@ -1,17 +1,13 @@
 ---
-id: 6920
 title: While I Was Waiting (Theaterspektakel Zürich)
 date: 2016-08-20T22:43:40+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6920
-permalink: /2016/08/20/while-i-was-waiting-theaterspektakel-zuerich/
 categories:
   - theater/schauspiel
 tags:
-  - Damaskus
-  - Syrien
-  - Theaterspektakel
+  - damaskus
+  - syrien
+  - theaterspektakel
 ---
 Das Zürcher <a href="http://www.theaterspektakel.ch" title="Theater Spektakel" target="_blank">Theaterspektakel</a> bietet internationalen Truppen eine Bühne. Das diesjährige Eröffnungsstück ist **While I Was Waiting** von _Omar Abusaada_ und _Mohammad Al Attar_, die in einem <a href="http://www.nzz.ch/feuilleton/buehne/zuercher-theaterspektakel-in-syrien-gibt-es-nur-propaganda-theater-ld.111564" title="NZZ-Interview" target="_blank">Interview der NZZ</a> einiges zum Stück erklären. 
 

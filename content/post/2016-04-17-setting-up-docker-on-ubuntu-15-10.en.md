@@ -1,15 +1,10 @@
 ---
-id: 6586
 title: Setting up Docker on Ubuntu 15.10
 date: 2016-04-17T17:02:43+00:00
 author: Mathias Wellner
-layout: post
-guid: 'http://www.mwellner.de/?p=6586&#038;lang=en'
-permalink: /2016/04/17/setting-up-docker-on-ubuntu-15-10/?lang=en
 categories:
   - software development
 tags:
-  - "15.10"
   - container
   - development
   - docker

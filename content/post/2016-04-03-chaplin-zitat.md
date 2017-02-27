@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=6565
 permalink: /2016/04/03/chaplin-zitat/
 categories:
-  - tagebuch
+  - zitat
 tags:
   - charlie chaplin
   - erleben
@@ -15,20 +15,16 @@ tags:
   - Zitat
 format: quote
 ---
-Nach einem schönen arte-Abend über Charlie Chaplin mit dem <a href="https://de.wikipedia.org/wiki/Der_gro%C3%9Fe_Diktator" title="Der große Diktator" target="_blank">großen Diktator</a> und einer Doku über die Anfänge des legendären Schauspielers möchte ich hier noch ein Zitat festhalten. 
+Nach einem schönen arte-Abend über Charlie Chaplin mit dem [großen Diktator](https://de.wikipedia.org/wiki/Der_gro%C3%9Fe_Diktator) und einer 
+Doku über die Anfänge des legendären Schauspielers möchte ich hier noch ein Zitat festhalten. 
 
-> Leb so, wie du es für richtig hältst
-  
-> und geh, wohin dein Herz dich führt.
-  
-> Das Leben ist ein Theaterstück
-  
-> ohne vorherige Theaterproben.
-  
-> Darum: Singe, lache, tanze und liebe!
-  
-> Und lebe jeden einzelnen Augenblick
-  
-> deines Lebens, bevor der Vorhang fällt
-  
-> und das Theaterstück ohne Applaus zu Ende geht.
+<blockquote class="blockquote">
+Leb so, wie du es für richtig hältst<br>
+und geh, wohin dein Herz dich führt.<br>  
+Das Leben ist ein Theaterstück<br>  
+ohne vorherige Theaterproben.<br>
+Darum: Singe, lache, tanze und liebe!<br>
+Und lebe jeden einzelnen Augenblick<br>
+deines Lebens, bevor der Vorhang fällt<br>
+und das Theaterstück ohne Applaus zu Ende geht.
+</blockquote>

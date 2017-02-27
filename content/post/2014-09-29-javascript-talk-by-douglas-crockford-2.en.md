@@ -17,7 +17,7 @@ I have recently stumbled upon this talk given by <a href="http://en.wikipedia.or
 
 Here are some quotes.
 
-> We are not paid to use every feature of the language. 
+*We are not paid to use every feature of the language.*
 
 > I made every mistake with JavaScript you could make. 
 

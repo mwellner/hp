@@ -1,7 +1,7 @@
 DefaultContentLanguage = "de"
 languageCode = "de-de"
 title = "mathias wellner"
-baseurl = "https://mwellner.de/"
+baseurl = "/"
 theme = "hugo-theme-bootstrap4-blog"
 
 [permalinks]

@@ -9,9 +9,13 @@ permalink: /2012/09/15/theaterprojekt-ich-treu-suche/
 categories:
   - theater/schauspiel
 tags:
-  - Klima
-  - theater/schauspiel
+  - klima
 ---
-Ich habe mich &ndash; zum ersten Mal vertraglich &ndash; verpflichtet, bei der Theaterproduktion _Ich, treu, suche_ des Theaters [klima](http://www.klima-das-theater.ch) mitzuwirken. Die Premiere ist für Februar 2013 geplant. Noch war ich an keiner Probe, aber ich bin wahnsinnig gespannt auf eine Produktion, die professionellen Ansprüchen genügen soll. 
+Ich habe mich &ndash; zum ersten Mal vertraglich &ndash; verpflichtet, bei der Theaterproduktion _Ich, treu, suche_ des 
+Theaters [klima](http://www.klima-das-theater.ch) mitzuwirken. Die Premiere ist für Februar 2013 geplant. Noch war ich 
+an keiner Probe, aber ich bin wahnsinnig gespannt auf eine Produktion, die professionellen Ansprüchen genügen soll. 
 
-Der wesentliche Unterschied zu meinen bisherigen Theaterproduktionen wird wohl sein, dass alle talentiert und erfahren sind und sich extrem gut vorbereiten auf eine Probe. Da meine erste Probe erst in einigen Wochen sein wird, kann ich mich intensiv vorbereiten, den Text lernen und meinen Charakter erarbeiten. Zum Glück ist er ähnlich angelegt wie in der frischfleisch-Produktion, da kann ich Synergieeffekte nutzen.
+Der wesentliche Unterschied zu meinen bisherigen Theaterproduktionen wird wohl sein, dass alle talentiert und erfahren 
+sind und sich extrem gut vorbereiten auf eine Probe. Da meine erste Probe erst in einigen Wochen sein wird, kann ich 
+mich intensiv vorbereiten, den Text lernen und meinen Charakter erarbeiten. Zum Glück ist er ähnlich angelegt wie in 
+der frischfleisch-Produktion, da kann ich Synergieeffekte nutzen.

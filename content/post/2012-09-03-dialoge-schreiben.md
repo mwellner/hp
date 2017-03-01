@@ -9,12 +9,17 @@ permalink: /2012/09/03/dialoge-schreiben/
 categories:
   - theater/schauspiel
 ---
-Momentan beschäftige ich mich mit dem Schreiben von Dialogen. Für das Frischfleisch-Projekt soll jeder Teilnehmer einen Dialog mit jedem anderen Teilnehmer schreiben. Welche dann verwendet werden &ndash; das steht noch nicht fest. Unser Regisseur entscheidet das dann, und das ist gut so. 
+Momentan beschäftige ich mich mit dem Schreiben von Dialogen. Für das Frischfleisch-Projekt soll jeder Teilnehmer 
+einen Dialog mit jedem anderen Teilnehmer schreiben. Welche dann verwendet werden &ndash; das steht noch nicht fest. 
+Unser Regisseur entscheidet das dann, und das ist gut so. 
 
-Wichtig für einen Dialog ist Reibung, ein nicht vollständig aufgelöster Konflikt. Wenn sich beide Gesprächspartner völlig einig sind, wird kein interessantes Gespräch zwischen ihnen entstehen. Auch Missverständnisse beleben das Geschehen. Aber gleichzeitig soll die Handlung auch vorangetrieben werden. Und so probiere ich mein Glück. Es ist nur ein Vorschlag, der &ndash; wenn überhaupt &ndash; nicht in dieser Form ins Stück kommt. 
+Wichtig für einen Dialog ist Reibung, ein nicht vollständig aufgelöster Konflikt. Wenn sich beide Gesprächspartner 
+völlig einig sind, wird kein interessantes Gespräch zwischen ihnen entstehen. Auch Missverständnisse beleben das 
+Geschehen. Aber gleichzeitig soll die Handlung auch vorangetrieben werden. Und so probiere ich mein Glück. Es ist 
+nur ein Vorschlag, der &ndash; wenn überhaupt &ndash; nicht in dieser Form ins Stück kommt. 
 
 > **Jason:** Hast du meine Tennisbälle gesehen?
-  
+ 
 > **Dennis:** Hast du keine anderen Sorgen als dein verdammtes Tennis?
   
 > **Jason:** Doch, Tennisbälle.

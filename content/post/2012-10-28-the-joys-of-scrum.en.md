@@ -1,11 +1,7 @@
 ---
-id: 3646
 title: The joys of scrum
 date: 2012-10-28T12:24:40+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3646
-permalink: /2012/10/28/the-joys-of-scrum/?lang=en
 categories:
   - software development
 tags:

@@ -9,6 +9,8 @@ date = "2017-03-02T23:18:11+01:00"
 
 Heute war ich zum ersten Mal bei einem Meetup der Gruppe [DarmstadtJS](https://www.meetup.com/DarmstadtJS/). Das Ganze fand in den Büros von [JSperts](https://jsperts.de/) statt, Getränke und Pizzas stellte die Firma netterweise bereit, vielen Dank dafür!
 
+<!--more-->
+
 ### Angular-Erfahrungsbericht
 
 Johannes Rudolph von [meshcloud](https://www.meshcloud.io) referierte über seine praktischen Erfahrungen beim Einsatz von [Angular](https://angular.io). Viele Sachen kamen mir sehr bekannt vor, vor allem die leidvollen Erfahrungen bei einigen Aktualisierungen von Angular selbst und auch von [Angular CLI](https://cli.angular.io). Jedes Update stellte da eine Herausforderung dar, weil es mitunter die ganze Applikation zerlegte oder bestehende Praktiken über den Haufen warf. Und so wechselten sich Euphorie über eine sehr mächtige und produktive Plattform mit Frustration wegen des letzten Updates. 

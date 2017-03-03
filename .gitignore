@@ -1,1 +1,6 @@
 /themes
+/node_modules
+package.json
+/build
+/data
+/source

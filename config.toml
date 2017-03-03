@@ -1,7 +1,7 @@
 DefaultContentLanguage = "de"
 languageCode = "de-de"
 title = "mathias wellner"
-baseurl = "/"
+baseurl = "https://mwellner.de/"
 theme = "hugo-theme-bootstrap4-blog"
 googleAnalytics = "UA-3650294-2"
 

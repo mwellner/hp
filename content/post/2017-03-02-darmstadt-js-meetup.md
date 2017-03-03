@@ -25,6 +25,8 @@ Neben vielen Vorteilen nannte er bei Angular noch einige Einschränkungen.
 - Debugging ist schwierig wegen zone.js und asynchronem Charakter
 - Mangel an Performance Debugging Tools
 
+Hier noch die [Präsentation](https://www.slideshare.net/JohannesRudolph/angular2-a-story-from-the-trenches). 
+
 ### Performance-Optimierung
 
 Der zweite Sprecher war Rubens Bridgewater, sein Thema war die Optimierung von laufzeitkritischem JavaScript-Code. Er schränkte sein Thema immer wieder ein, auf keinen Fall solle man Mikro-Optimierungen vornehmen, da diese oft zu schlechter lesbarem Code führten. Und außerdem würde ohnehin ständig die JavaScript-Engine (z.B. [V8](https://de.wikipedia.org/wiki/V8_(JavaScript-Implementierung)) für Chrome, Opera und Node) verbessert. 

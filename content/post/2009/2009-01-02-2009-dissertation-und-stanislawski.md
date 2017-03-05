@@ -1,25 +1,16 @@
 ---
-id: 908
 title: '2009 &#8211; Dissertation und Stanislawski'
 date: 2009-01-02T15:41:13+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/?p=908
 permalink: /2009/01/02/2009-dissertation-und-stanislawski/
-podPressPostSpecific:
-  - 's:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";'
-jd_tweet_this:
-  - 'yes'
 categories:
   - theater/schauspiel
   - wissenschaft
 tags:
-  - Dissertation
-  - Schwerpunkt
-  - Stanislawski
-  - theater/schauspiel
-  - wissenschaft
-  - Ziel
+  - dissertation
+  - schwerpunkt
+  - stanislawski  
+  - ziel
 ---
 Ein neues Jahr hat begonnen und fällt zusammen mit den kurzen Ferien, welche der Jahreswechsel so mit sich bringt. Ich habe auf einmal Zeit für viele Dinge, für Familie, Freunde und auch für mich. War das letzte Jahr geprägt durch sehr viele verschiedene Aktivitäten und Hobbies, möchte ich mich nunmehr konzentrieren, beruflich auf das Schreiben der Dissertation, privat auf das Schauspielen.
 

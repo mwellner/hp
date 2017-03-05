@@ -1,28 +1,21 @@
 ---
-id: 893
 title: Gute Gespräche, schlechte Gespräche, Bühnengespräche
 date: 2009-01-10T12:55:56+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/?p=893
 permalink: /2009/01/10/gute-gesprache-schlechte-gesprache/
-podPressPostSpecific:
-  - 's:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";'
-jd_tweet_this:
-  - 'yes'
 categories:
   - bilder
   - theater/schauspiel
 tags:
-  - aktives Zuhören
+  - aktives zuhören
   - akzeptieren
-  - Austausch
-  - Bühne
-  - Gespräch
+  - austausch
+  - bühne
+  - gespräch
   - intensiv
   - offen
-  - Offenheit
-  - Zuhören
+  - offenheit
+  - zuhören
 ---
 Gerade in den Weihnachtstagen mit Ferien und Familientreffen ergeben sich eine Vielzahl von persönlichen, längeren Gesprächen. Durch die Vielzahl der Begegnungen ergeben sich nun sowohl gute als auch weniger gute Gespräche. Aus meiner Sicht sind gute Gespräche nur dann möglich, wenn beide Gesprächspartner genügend Raum haben und sich und ihre Befindlichkeit akzeptiert wissen. Und dies ist nur durch wechselseitiges, [aktives Zuhören](http://de.wikipedia.org/wiki/Zuh%C3%B6ren) möglich. Diese Art des Zuhörens bedeutet, dass du dich voll und ganz darauf einlässt, was der Gesprächspartner gerade sagt. Schon die Körpersprache drückt dies aus, durch Zuwenden und Blickkontakt. Du stellst dein Ego zurück und konzentrierst dich darauf, das Gesagte aufzunehmen und nachzuvollziehen. Bei Unklarheiten fragst du kurz nach, ansonsten gehst du durch kurze bestätigende Äußerungen mit. In Gedanken bist du beim geschilderten Geschehen. Diese Art des Zuhörens erfordert Konzentration und eine freundliche, empathische Einstellung.
 

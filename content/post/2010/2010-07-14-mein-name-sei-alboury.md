@@ -7,14 +7,6 @@ excerpt: 'Heute war der letzte Termin des Monolog-Kurses, um 19:40 ging mein per
 layout: post
 guid: http://www.mwellner.de/?p=2849
 permalink: /2010/07/14/mein-name-sei-alboury/
-jd_tweet_this:
-  - 'yes'
-jd_twitter:
-  - 'Ich bin Alboury und komme aus Westafrika - Impressionen vom Monolog-Kurs. #url#'
-wp_jd_bitly:
-  - http://bit.ly/aUl0Cp
-wp_jd_target:
-  - http://www.mwellner.de/2010/07/14/mein-name-sei-alboury/
 categories:
   - theater/schauspiel
 tags:

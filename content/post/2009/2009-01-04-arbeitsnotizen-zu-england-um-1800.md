@@ -1,23 +1,16 @@
 ---
-id: 918
 title: Arbeitsnotizen zu England um 1800
 date: 2009-01-04T02:12:11+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/?p=918
 permalink: /2009/01/04/arbeitsnotizen-zu-england-um-1800/
-podPressPostSpecific:
-  - 's:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";'
-jd_tweet_this:
-  - 'yes'
 categories:
   - theater/schauspiel
 tags:
   - akitiv
   - arkadien
-  - England
-  - Leben
-  - Tom Stoppard
+  - england
+  - leben
+  - tom stoppard
 ---
 Um unser Theaterstück &#8220;Arkadien&#8221; besser zu verstehen, möchte ich mich noch ein wenig mit der politischen, wirtschaftlichen und kulturellen Situation Englands in der frühen Zeitebene (1809/12) beschäftigen. Die Gegenwart, welche als zweite Zeitebene auftaucht, ist intuitiv zugänglich und dient auch mehr der Illustration der Geschehnisse vor 200 Jahren. Um nicht in der Flut des Materials unterzugehen, seien hier ein paar Leitfragen formuliert.
 

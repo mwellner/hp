@@ -7,7 +7,7 @@ googleAnalytics = "UA-3650294-2"
 enableRobotsTXT = true
 
 [permalinks]
-  post = "/:year/:month/:title/"
+  post = "/:year/:month/:day/:title/"
   page = "/:slug/"
 
 [params]

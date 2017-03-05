@@ -1,25 +1,22 @@
 ---
-id: 2573
 title: Grundkurs Stanislawski-Strasberg, 3. Lektion
 date: 2010-03-31T23:39:36+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2573
-permalink: /2010/03/31/grundkurs-stanislawski-strasberg-3-lektion/
+aliases: 
+  - /2010/03/31/grundkurs-stanislawski-strasberg-3-lektion/
 categories:
   - theater/schauspiel
 tags:
-  - Auftritt
+  - auftritt
   - aufwärmen
-  - Einzelszene
-  - Konzentration
-  - Kurzszene
-  - Pedant
-  - Schauspiel
-  - Stuhl
-  - Szene
+  - einzelszene
+  - konzentration
+  - kurzszene
+  - schauspiel
+  - stuhl
+  - szene
 ---
-**Aufwärmen**
+#### Aufwärmen
 
 In nunmehr fast schon gewohnter Manier gingen wir an die Vorbereitung, mit körperlicher Aufwärmung, Zazen-Meditation und Sinneserinnerung. Aber es fiel mir nie so schwer wie heute. Zum einen war ich erkältet, was mein Körpergefühl stark veränderte und meine Konzentrationsfähigkeit beeinträchtigte. Mein Kopf fühlte sich verspannt und schwer an, das ging auch durch die Aufwärmung nicht weg. Und außerdem konnten es zwei Teilnehmer nicht lassen, unentwegt zu lachen. Sie waren direkt neben mir, immer wieder brach ein Lachen hervor. Es nahm kein Ende und zehrte an meinen erkältungsgeschwächten Nerven. In der Nacht zuvor war Vollmond gewesen, vielleicht lag es auch daran. 
 
@@ -27,7 +24,7 @@ Auf jeden Fall waren die ernsthaft sich Aufwärmenden in der Minderzahl, die dre
 
 Zazen und Sinneserinnerung liegen gut bei mir, wobei ich durch die Erkältung zwar weniger konzentriert aber dafür auch weniger ablenkbar war. 
 
-**Einzelszene**
+#### Einzelszene
 
 Die Vorbereitung einer Szene war Hausaufgabe gewesen. Meine Idee hatte ich im Weblog veröffentlicht (Eintrag vom 29. März), wodurch ich zwei hilfreiche Feedbacks erhalten hatte. Damit konnte ich die Szene noch verbessern und war gut vorbereitet. Dennoch, an einigen Stellen hatte ich mir wenig Gedanken gemacht und musste mehr oder weniger improvisieren. 
 
@@ -35,7 +32,7 @@ Meine Anfangsemotion war Wut auf Unordnung. Da konnte ich mich recht einfach hin
 
 Das Feedback war überwiegend positiv, ich hatte den Raum gut genutzt und den Stuhl hervorragend eingesetzt, um meinen Charakter zu illustrieren. Mein fiktiver Mitbewohner war vielleicht nicht ganz realistisch, aber meine eigenen Emotionen ihm gegenüber kamen gut zum Ausdruck. Negativ war die Darstellung der Überraschung, das kam wohl nicht ganz authentisch rüber. Ist auch schwierig, das darzustellen, ich wusste ja schon, was passiert. 
 
-**Hausaufgaben**
+#### Hausaufgaben
 
 drei Materialien/Gegenstände mit allen Sinnen in privater Atmosphäre entdecken
   

@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [params]
   author = "Mathias Wellner"
-  date_format = "15.01.2006"
+  date_format = "02.01.2006"
 
 [Languages]
 [Languages.en]

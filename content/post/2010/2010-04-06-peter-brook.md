@@ -1,19 +1,15 @@
 ---
-id: 2575
 title: Peter Brook
 date: 2010-04-06T23:07:56+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2575
 permalink: /2010/04/06/peter-brook/
 categories:
   - theater/schauspiel
 tags:
-  - Film
-  - Peter Brook
-  - Porträt
-  - Regisseur
-  - theater/schauspiel
+  - film
+  - peter brook
+  - porträt
+  - regisseur
 ---
 Der Film Brook über Brook ([Brook by Brook](http://www.imdb.com/title/tt0306596/)) beginnt mit Klaviermusik, [Peter Brook](http://de.wikipedia.org/wiki/Peter_Brook) spielt auf einem Leipziger [Blüthner](http://www.bluethner.de/)-Klavier. Der Mann ist mir sympathisch. 
 

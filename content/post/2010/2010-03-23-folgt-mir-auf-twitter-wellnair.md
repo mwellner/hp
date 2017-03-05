@@ -1,13 +1,9 @@
 ---
-id: 2554
 title: 'Folgt mir auf twitter [@wellnair]'
 date: 2010-03-23T22:12:58+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2554
-permalink: /2010/03/23/folgt-mir-auf-twitter-wellnair/
 categories:
-  - technik
+  - web
 tags:
   - folgen
   - follow

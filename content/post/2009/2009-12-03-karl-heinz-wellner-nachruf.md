@@ -1,32 +1,19 @@
 ---
-id: 2246
 title: Karl-Heinz Wellner (6.1.1920 – 1.11.2009)
 date: 2009-12-03T23:48:32+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2246
-permalink: /2009/12/03/karl-heinz-wellner-nachruf/
-jd_tweet_this:
-  - 'yes'
 categories:
-  - bilder
   - tagebuch
 tags:
-  - Großvater
-  - Jagdflieger
-  - Jäger
-  - Nachruf
-  - Opa
+  - großvater
+  - jagdflieger
+  - jäger
+  - nachruf
+  - opa
   - sterben
-  - Tod
+  - tod
 ---
-<div style="width: 510px" class="wp-caption aligncenter">
-  <img src="http://www.mwellner.de/images/weblog/2009-12-03.jpg" width="500" height="500" />
-  
-  <p class="wp-caption-text">
-    Bei der Diamantenen Hochzeit im August 2009<br />
-  </p>
-</div>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/32450104884/in/dateposted-public/" title="MW_20090829_5673_bw"><img src="https://c1.staticflickr.com/3/2833/32450104884_bb697f2d32_b.jpg" width="1024" height="1024" alt="MW_20090829_5673_bw"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <pre>Du hattest ein langes Leben.
 Geboren in der Weimarer Republik, 

@@ -1,36 +1,26 @@
 ---
-id: 1890
 title: Bergtour im Bernina-Gebiet
 date: 2009-09-07T07:40:58+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=1890
-permalink: /2009/09/07/die-bergtour-beginnt/
-language:
-  - de
-other-excerpt:
-  - 'For five days, I will trade the amenities of urban living for scant mountain ranges, far away from communication. In this post I show the main points of our five-day trip and describe some experiences with equipment. '
 categories:
-  - 'sport &amp; freizeit'
   - wandern
 tags:
-  - Alpen
+  - alpen
   - alpin
-  - Bergführer
-  - Bergwandern
-  - Diavolezza
-  - Eis
-  - Gebirge
-  - Gletscher
-  - Pickel
-  - Piz Bernina
-  - Piz Mortaratsch
-  - Piz Trovat
-  - Steigeisen
-  - technik
-  - Tour
+  - bergführer
+  - bergwandern
+  - diavolezza
+  - eis
+  - gebirge
+  - gletscher
+  - pickel
+  - piz bernina
+  - piz mortaratsch
+  - piz trovat
+  - steigeisen
+  - tour
   - wandern
-  - Zacken
+  - zacken
 ---
 Für fünf Tage tauschte ich die Annehmlichkeiten des Stadtlebens gegen karge Berglandschaften, fernab von jeglichen Kommunikationsmitteln. Es war eine sehr fordernde, aber auch extrem lohnende Tour im Bernina-Gebiet. 
 
@@ -40,7 +30,7 @@ Für fünf Tage tauschte ich die Annehmlichkeiten des Stadtlebens gegen karge Be
   4. Eis- und Felsausbildung, Coaz-Hütte (2610&thinsp;m)
   5. Passüberschreitung Fourcla Fex-Roseg (3068&thinsp;m), Furtschella-Station, Heimreise
 
-**Auf dem Gletscher**
+#### Auf dem Gletscher
 
 Völlig neu für mich war das Begehen von Gletschern und der Umgang mit Steigeisen, Pickel und verkürztem Seil. Die Gefahr beim Gehen auf dem Eis ist das Hinunterfallen in eine Gletscherspalte. Besonders bei Neuschnee können Spalten bedeckt und damit unsichtbar sein. Deshalb geht man an einem Seil, je nach Schwierigkeit des Geländes mindestens in Zweier-Seilschaften. Wir hatten dafür ein 50&thinsp;m-Halbseil, wobei sich der Vorderste und Hinterste einen Teil des Seils in Schlaufen um den Körper legen. Somit verbleiben zwischen den beiden Alpinisten noch 5-10&thinsp;m Seil. Zu zweit empfiehlt sich noch das Anbringen von Knoten, welche den Sturz in eine Spalte bremsen können, da sich das Seil in diesem Fall ins Eis einschneidet. 
 

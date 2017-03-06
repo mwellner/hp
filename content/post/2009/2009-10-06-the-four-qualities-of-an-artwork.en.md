@@ -1,65 +1,44 @@
 ---
-id: 2055
 title: The four qualities of an artwork
 date: 2009-10-06T20:10:29+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2055
-permalink: /2009/10/06/the-four-qualities-of-an-artwork/?lang=en
 categories:
-  - images
-  - podcast
   - theater/acting
+tags:
+  - art
+  - quality
 ---
 There are these moments in life, when I am contemplating a painting, reading a book, or experiencing a dance performance, when I am struck by the genius of the artwork. It is difficult to say what it is exactly, something resonates in me, hits on a nerve. The Russion actor and director [Michael Chekhov](http://en.wikipedia.org/wiki/Michael_Chekhov) got to the point by differentiating four factors, ease, shape, integrity, and beauty. I would like to comment on this enumeration, taking into account my own experiences with theatre. 
 
-**Ease**
+#### Ease
 
 When you go in a climbing hall, it&#8217;s easy to recognize the advanced climbers. Seemingly relaxed he is hanging at the overhang, pondering how to move on. Then a few well-dosed movements and the difficult part was overcome. For me, climbing &#8212; like any movement &#8212; relates to art. And especially climbing is a symbol for human aspiration to higher things, in this case the deflexion carabiner just below the roof. You need ease while climbing, otherwise you will be hanging like a heavy bag and not make much way. Elegance seems a similar word for the same phenomenon, efficiency alike. The key to success is to use only the muscles which are needed for the task ahead and to make use of physics. But ease does not mean feebleness, it rather appears to be easy but is not. If you go on a climbing route that is too difficult you will experience the opposite, cramping and moving jerkily, using much more effort than needed. 
 
-<div style="width: 590px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/3987674382/" title="Klettern by wellnair, on Flickr"><img src="http://farm3.static.flickr.com/2630/3987674382_74ae8d408f_o.jpg" width="580" height="397" alt="Klettern" /></a>
-  
-  <p class="wp-caption-text">
-    Climbing<br />
-  </p>
-</div>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/3987674382/in/dateposted-public/" title="Klettern"><img src="https://c1.staticflickr.com/3/2630/3987674382_74ae8d408f_o.jpg" width="580" height="397" alt="Klettern"></a>
 
 At theatre ease is equally important. But instead of gravity, which pulls you down while climbing, tension is created by the stage situation, aggravating ease in acting. You are cramping, but not in arms and legs, moreover in your movements and your facial expression. In this state you are not very sensitive towards fellow actors and you also can&#8217;t imagine the inner struggle of your role. 
 
-<div style="width: 590px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/3986891633/" title="Jonglieren by wellnair, on Flickr"><img src="http://farm3.static.flickr.com/2649/3986891633_fa62f90f36_o.jpg" width="580" height="388" alt="Jonglieren" /></a>
-  
-  <p class="wp-caption-text">
-    Juggling with ease<br />
-  </p>
-</div>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/3986891633/in/dateposted-public/" title="Jonglieren"><img src="https://c1.staticflickr.com/3/2649/3986891633_fa62f90f36_o.jpg" width="580" height="388" alt="Jonglieren"></a>
 
 There is one very impressive exercise, introduced by Stanislawski. You are asked to lift or drag a heavy object (grand piano). While doing so you are instructed to imagine your last dinner or the interior of a church. But it&#8217;s almost impossible to do this while pushing hard. What you need &#8212; on stage and while climbing &#8212; is a state of relaxed convergence. 
 
-**Shape**
+#### Shape
 
 When rowing I try to imagine the trajectory of my blade. Physics dictates the ideal shape of this trajectory. The blade should make a long way in the water and rolling back should be slow and gentle, to make the best use of the sliding phase. Therefore, shape is governed by movement efficiency. 
 
-<div style="width: 590px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/3987644626/" title="Performance by wellnair, on Flickr"><img src="http://farm3.static.flickr.com/2631/3987644626_e87a237c6a_o.jpg" width="580" height="388" alt="Performance" /></a>
-  
-  <p class="wp-caption-text">
-    Shape and ease<br />
-  </p>
-</div>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/3987644626/in/dateposted-public/" title="Performance"><img src="https://c1.staticflickr.com/3/2631/3987644626_e87a237c6a_o.jpg" width="580" height="388" alt="Performance"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The stage allows more freedom, the body of the actor is an alterable shape. Thus, it is more difficult to distinguish between good and bad movement shapes. Ideally actors should have a lithe gait and their movements should be nice to observe. Basically you should do some yoga or ballet in parallel to remain lithe and fit. 
 
 I tend to have a very controlled way of walking, owing to hiking, volleyball, and anatomy. That&#8217;s why I have great difficulties to walk easily on the stage. This will possibly remain my big challenge. 
 
-**Integrity**
+#### Integrity
 
 When I take a picture, I need to consider the entire image. It&#8217;s like a puzzle with a number of 3D objects, which are put in relation on the 2D photo. What makes a good composition? In my opinion, photos that tell a story are best. 
 
 A theatre play is not primarily characterized by a spacial relationship, but rather by a temporal one. Characters are introduced, live through things, and leave the stage, changed forever. As actor, you need to create your role by understanding the suspense between beginning and ending. Thus, the artwork of your role is enhanced. 
 
-**Beauty**
+#### Beauty
 
 Pure beauty comes from the inside, if beauty is only external, it is nothing more than attractiveness. Especially in Zurich, many persons of stunning external beauty stroll along, investing heavily in clothes and make-up. But their movements are awkward and their language crude. They are not beautiful but rather nice to look at. 
 

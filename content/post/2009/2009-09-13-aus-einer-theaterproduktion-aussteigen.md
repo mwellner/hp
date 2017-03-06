@@ -1,43 +1,29 @@
 ---
-id: 1903
 title: Backstage ade
 date: 2009-09-13T12:32:04+00:00
 author: Mathias Wellner
-excerpt: 'Ich habe mich entschlossen, aus der <a href="http://www.gessnerallee.ch/diskurse/backstage/index.html">Gessnerallee-Backstage-Produktion</a> auszusteigen. Es war keine leichte Entscheidung und ich möchte in diesem Beitrag meiner Zerrissenheit Ausdruck verleihen. Wenn du auch am Überlegen bist, ob nun in einem Theater- oder anderen Projekt, dann hilft dir dieser Beitrag sicherlich beim Überlegen und Abwägen. '
-layout: post
-guid: http://www.mwellner.de/?p=1903
-permalink: /2009/09/13/aus-einer-theaterproduktion-aussteigen/
-language:
-  - de
-other-excerpt:
-  - 'I have decided to quit the ongoing theatre production from Gessnerallee Backstage in Zurich. In this post, I explain the reasons for quitting, which were mainly contrasting expectations. I am also explaining the differences between classical and theme-oriented theatre. '
 categories:
   - theater/schauspiel
 tags:
-  - Abbruch
-  - Abwägen
-  - Aussteigen
-  - Ausstieg
+  - abbruch
+  - abwägen
+  - aussteigen
+  - ausstieg
   - backstage
   - entscheiden
   - entscheidung
-  - Gessnerallee
+  - gessnerallee
   - klassisch
-  - Produktion
-  - Prozess
-  - quit
-  - theater/schauspiel
-  - theatre
-  - thematisch
-  - Zuerich
+  - produktion
+  - prozess
 ---
-Ich habe mich entschlossen, aus der Gessnerallee-Backstage-Produktion auszusteigen. Es war keine leichte Entscheidung und ich möchte in diesem Beitrag meiner Zerrissenheit Ausdruck verleihen. Wenn du auch am Überlegen bist, ob nun in einem Theater- oder anderen Projekt, dann hilft dir dieser Beitrag sicherlich beim Überlegen und Abwägen. 
+Ich habe mich entschlossen, aus der Gessnerallee-Backstage-Produktion auszusteigen und möchte hier kurz meine Gründe darlegen.  
 
-**Wann aussteigen?**
+#### Wann aussteigen?
 
 Wenn überhaupt, solltest du nur am Anfang einer Produktion aussteigen. Nichts ist schlimmer als ein spätes Aussteigen, wenn der Prozess schon fortgeschritten ist und ein Ersatz schwierig bis unmöglich wird. In jedem Projekt gibt es einen Termin, an dem sich die Teilnehmer entscheiden müssen, ob sie nun dabei sind oder nicht. Bis dahin sollte klar sein, in welche Richtung die Produktion geht und welche Anforderungen an die Teilnehmer gestellt werden. Später aussteigen ist unfair und bringt den Organisatoren heftige Probleme. 
 
-**Klassisch oder thematisch?**
+#### Klassisch oder thematisch?
 
 Bei der Backstage-Produktion standen wir ganz am Anfang, wir hatten ein Kick-Off-Wochenende im Juli und ein weiteres Treffen hinter uns. In diesen ersten Treffen haben wir vor allem Kennenlern-Spielchen gemacht, unsere Erwartungen und Befürchtungen in Form von kurzen Bühnenszenen ausgetauscht und auch begonnen, inhaltlich zu diskutieren. 
 
@@ -49,7 +35,7 @@ Meine Befürchtung beim freien Arbeiten ist, dass wir ewig lang Szenen zu einem 
 
 Dagegen sind die Nachteile bei einem festen Stück vor allem die fest vorgeschriebenen Rollen. Zum einen gibt es die Unterteilung in Haupt- und Nebenrollen, welche für enttäuschte Erwartungen sorgen kann. Zum anderen ist man auf die vom Regisseur verteilte Rolle festgelegt und kann nur bestimmte Aspekte seiner Persönlichkeit einbringen. Außerdem kann der Text künstlich wirken, da man sich fremde Worte zu eigen machen muss. 
 
-**Entscheidung**
+#### Entscheidung
 
 Der Konflikt der unterschiedlichen Erwartungen schwelte also schon seit dem Treffen im Juli, unklar war für mich, wie und wann wir die notwendige Richtungsentscheidung fällen wollten. Meine Hoffnung war, dass ich mit einem mitreißenden Schlussplädoyer die Gruppe vielleicht doch noch in Richtung klassisches Theater hätte bringen können. Doch diese Hoffnung zerstob am Freitag, als mir die Leiterin klarmachte, dass unter ihr die Richtung thematisches Arbeiten verfolgt würde. Zum einen, weil das eher mit der Philosophie des [Theaterhauses Gessnerallee](http://www.gessnerallee.ch/) vereinbar wäre, andererseits wäre das auch ihre persönliche Vorstellung vom Theater. 
 

@@ -1,8 +1,7 @@
 ---
-title: '2009 &#8211; Dissertation und Stanislawski'
+title: '2009: Dissertation und Stanislawski'
 date: 2009-01-02T15:41:13+00:00
 author: Mathias Wellner
-permalink: /2009/01/02/2009-dissertation-und-stanislawski/
 categories:
   - theater/schauspiel
   - wissenschaft
@@ -14,13 +13,7 @@ tags:
 ---
 Ein neues Jahr hat begonnen und fällt zusammen mit den kurzen Ferien, welche der Jahreswechsel so mit sich bringt. Ich habe auf einmal Zeit für viele Dinge, für Familie, Freunde und auch für mich. War das letzte Jahr geprägt durch sehr viele verschiedene Aktivitäten und Hobbies, möchte ich mich nunmehr konzentrieren, beruflich auf das Schreiben der Dissertation, privat auf das Schauspielen.
 
-<div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/3159849990/"><img alt="Shadow on the field" src="http://farm4.static.flickr.com/3078/3159849990_a147e9d528.jpg" title="Shadow on the field" width="500" height="334" /></a>
-  
-  <p class="wp-caption-text">
-    <a href="http://www.flickr.com/photos/mwellner/3159849990/">Shadow on the field</a> by <a href="https://www.flickr.com/photos/mwellner/">wellnair</a>
-  </p>
-</div>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/3159849990/in/dateposted-public/" title="Shadow on the field"><img src="https://c1.staticflickr.com/4/3078/3159849990_a147e9d528_b.jpg" width="1024" height="685" alt="Shadow on the field"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Mit dem Verfassen der Dissertation endet auch meine Zeit als Doktorand. Vier Jahre münden in 100 Seiten. Das Verfassen der Diss ist eine logische Weiterentwicklung von der Diplomarbeit mit einem vorgegebenen eingegrenzten Thema, über Konferenzartikel von zwei bis sechs Seiten und umfangreichere Artikel für wissenschaftliche Zeitschriften. Stets steigen die Komplexität und Selbstverantwortung für das Geschriebene. Somit wäre die Dissertation der vorläufige Höhepunkt meines beruflichen, also wissenschaftlichen Schaffens. Und wie so oft ist das Schwierige nicht der Inhalt, in meinem Fall vier Studien mit virtuellen Umgebungen, sondern der Rahmen und die großen Schlussfolgerungen aus allem. In diesem Werk führe ich Begriffe ein, erarbeite eine Fragestellung und nutze all dies konsequent im Hauptteil, um die Experimente zu beschreiben und auszuwerten. Es ist eine Herausforderung, ich freue und fürchte mich zugleich. Denn ich muss mich gleichsam einschließen und nur darauf konzentrieren, was angesichts all der netten Ablenkungen in Form von kleineren Aufgaben sich schwierig gestalten dürfte.
 

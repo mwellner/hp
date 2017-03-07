@@ -2,6 +2,8 @@
 title: Darmstadt, Sonnenuntergang
 date: 2017-01-13T16:37:48+00:00
 author: Mathias Wellner
+categories:
+  - tagebuch
 tags:
   - darmstadt
   - sonne

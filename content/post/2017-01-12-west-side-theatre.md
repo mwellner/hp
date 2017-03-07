@@ -3,7 +3,7 @@ title: West Side Theatre
 date: 2017-01-12T23:22:49+00:00
 author: Mathias Wellner
 categories:
-  - bilder
+  - tagebuch
 tags:
   - darmstadt
   - west side theatre

@@ -2,7 +2,8 @@
 title: Darmstadt, Landesmuseum
 date: 2017-01-19T08:26:33+00:00
 author: Mathias Wellner
-layout: post
+categories:
+  - tagebuch
 tags:
   - darmstadt
   - landesmuseum

@@ -6,7 +6,7 @@ description = "Erste Rolle in Darmstadt, Prinz John in 'Der Löwe im Winter'"
 date = "2017-03-07T20:32:34+01:00"
 +++
 
-Unverhofft konnte ich meine erste Rolle in einer hiesigen Theatergruppe ergattern. Bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) handelt es sich um eine kulturelle Verbindung mit eigenem Haus zentrumsnah in Darmstadt, ganz in der Nähe des Jugenstilbades. Dort laufen sehr viele kulturelle Aktivitäten, Chor, Theater,Musik und Literatur. 
+Unverhofft konnte ich meine erste Rolle in einer hiesigen Theatergruppe ergattern. Bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) handelt es sich um eine kulturelle Verbindung mit eigenem Haus zentrumsnah in Darmstadt, ganz in der Nähe des Jugenstilbades. Dort laufen sehr viele kulturelle Aktivitäten, Chor, Theater, Musik und Literatur. 
 
 Jedenfalls wurde ich am Sonntag sehr herzlich willkommen geheißen bei meiner ersten Probe als Prinz John in [Der Löwe im Winter](https://de.wikipedia.org/wiki/Der_L%C3%B6we_im_Winter). Die Proben haben schon vor einiger Zeit begonnen, wir probten die Szene 1.5. 
 

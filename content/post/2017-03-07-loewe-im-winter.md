@@ -10,7 +10,7 @@ Unverhofft konnte ich meine erste Rolle in einer hiesigen Theatergruppe ergatter
 
 Jedenfalls wurde ich am Sonntag sehr herzlich willkommen geheißen bei meiner ersten Probe als Prinz John in [Der Löwe im Winter](https://de.wikipedia.org/wiki/Der_L%C3%B6we_im_Winter). Die Proben haben schon vor einiger Zeit begonnen, wir probten die Szene 1.5. 
 
-Es ist eine Schlüsselszene, in der mir mein Bühnenbruder Richard Löwenherz an die Gurgel will, bis unsere Mutter Eleanor dazwischen geht -- mit einem sehr schönen Appell zum Frieden. John ist nicht der hellste, das merkt man deutlich, eine schöne lustige Rolle mit nicht so extrem viel Text. 
+Es ist eine Schlüsselszene, in der mir mein Bühnenbruder Richard Löwenherz an die Gurgel will, bis unsere Mutter Eleanor dazwischen geht -- mit einem sehr schönen Appell zum Frieden. John ist nicht der hellste, das merkt man deutlich, eine schöne lustige Rolle mit wenig Text. 
 
 <blockquote class="blockquote">
 <strong>ELEANOR</strong><br>

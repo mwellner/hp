@@ -10,7 +10,6 @@
     <link rel="canonical" href="{{ .Permalink }}">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet"> 
     {{ "<!-- combined, minified CSS -->" | safeHTML }}
     <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
 
@@ -49,7 +48,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-sm-12 blog-main">
+        <div class="col-sm-11 blog-main">
 
           {{ block "main" . }}
           <!-- The part of the page that begins to differ between templates -->
@@ -73,6 +72,16 @@
       <a href="#">{{ i18n "backToTop" }}</a>
       </p>
     </footer>
+
+    <!-- load fonts here to not block content rendering -->
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+    <script>
+      WebFont.load({
+        google: {
+          families: ['Fira Sans']
+        }
+      });
+    </script>
 
   </body>
   

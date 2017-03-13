@@ -92,3 +92,14 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <dt>Produktion</dt>
   <dd><a href="http://www.dramateure.ch">dramateure</a></dd>
 </dl>
+
+### 2014: Ein idealer Gatte (Oscar Wilde)
+
+<dl>
+  <dt>Aufgabe</dt>
+  <dd>Regie, Produktion</dd>
+  <dt>Autor</dt>
+  <dd><a href="https://de.wikipedia.org/wiki/Oscar_Wilde">Oscar Wilde</a></dd>
+  <dt>Produktion</dt>
+  <dd><a href="http://www.dramateure.ch">dramateure</a></dd>
+</dl>

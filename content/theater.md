@@ -10,6 +10,10 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     <li data-target="#actingPhotos" data-slide-to="0" class="active"></li>
     <li data-target="#actingPhotos" data-slide-to="1"></li>
     <li data-target="#actingPhotos" data-slide-to="2"></li>
+    <li data-target="#actingPhotos" data-slide-to="3"></li>
+    <li data-target="#actingPhotos" data-slide-to="4"></li>
+    <li data-target="#actingPhotos" data-slide-to="5"></li>
+    <li data-target="#actingPhotos" data-slide-to="6"></li>
   </ol>
   <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">

@@ -73,7 +73,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <dt>Rolle</dt>
   <dd>Henry</dd>
   <dt>Autor</dt>
-  <dd><a href="https://de.wikipedia.org/wiki/Tom_Stoppard">Tom Stoppard</dd>
+  <dd><a href="https://de.wikipedia.org/wiki/Tom_Stoppard">Tom Stoppard</a></dd>
   <dt>Produktion</dt>
   <dd><a href="http://www.dramateure.ch">dramateure</a></dd>
 </dl>
@@ -84,7 +84,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <dt>Rolle</dt>
   <dd>Kürmann</dd>
   <dt>Autor</dt>
-  <dd><a href="https://de.wikipedia.org/wiki/Max_Frisch">Max Frisch</dd>
+  <dd><a href="https://de.wikipedia.org/wiki/Max_Frisch">Max Frisch</a></dd>
   <dt>Produktion</dt>
   <dd><a href="http://www.dramateure.ch">dramateure</a></dd>
 </dl>

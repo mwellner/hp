@@ -5,7 +5,7 @@ author: Mathias Wellner
 ---
 Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein gutes Dutzend Produktionen als Schauspieler und eine als Regisseur. Ich habe von 2010 bis 2013 einige Kurse und Praxisproduktionen am [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch) besucht.
 
-Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) bei [Der Löwe im Winter](https://de.wikipedia.org/wiki/Der_L%C3%B6we_im_Winter) von James Goldman. 
+Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) bei [Der Löwe im Winter](https://de.wikipedia.org/wiki/Der_L%C3%B6we_im_Winter) von James Goldman, die Aufführungen sind für Oktober 2017 geplant. 
 
 <div class="card-group">
   <div class="card">

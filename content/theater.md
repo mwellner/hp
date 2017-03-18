@@ -73,33 +73,72 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
 
 ### 2016: Das einzig Wahre (Tom Stoppard)
 
-<dl>
-  <dt>Rolle</dt>
-  <dd>Henry</dd>
-  <dt>Autor</dt>
-  <dd><a href="https://de.wikipedia.org/wiki/Tom_Stoppard">Tom Stoppard</a></dd>
-  <dt>Produktion</dt>
-  <dd><a href="http://www.dramateure.ch">dramateure</a></dd>
-</dl>
+<div class="row">
+  <div class="col-12 col-sm-6 col-lg-4">
+    <a data-flickr-embed="false" href="https://www.flickr.com/photos/mwellner/24390569666/in/album-72157659314528606/" title="MW_20160114_1730"><img class="mt-0" src="https://c1.staticflickr.com/2/1442/24390569666_2f4a6025bd.jpg" width="500" height="334" alt="MW_20160114_1730"></a>
+  </div>
+  <div class="col-12 col-sm-6">
+    <dl>
+      <dt>Rolle</dt>
+      <dd>Henry</dd>
+      <dt>Regie</dt>
+      <dd>Caroline Wloka und Ensemble</dd>
+      <dt>Produktion</dt>
+      <dd><a href="http://www.dramateure.ch">dramateure</a></dd>
+    </dl>
+  </div>
+</div>
 
 ### 2015: Biografie: ein Spiel (Max Frisch)
 
-<dl>
-  <dt>Rolle</dt>
-  <dd>Kürmann</dd>
-  <dt>Autor</dt>
-  <dd><a href="https://de.wikipedia.org/wiki/Max_Frisch">Max Frisch</a></dd>
-  <dt>Produktion</dt>
-  <dd><a href="http://www.dramateure.ch">dramateure</a></dd>
-</dl>
+<div class="row">
+  <div class="col-12 col-sm-6 col-lg-4">
+    <a data-flickr-embed="false"  href="https://www.flickr.com/photos/mwellner/32983162710/in/album-72157677867335763/" title="20150131-_DSC0309"><img class="mt-0" src="https://c1.staticflickr.com/4/3794/32983162710_e5e651a431.jpg" width="500" height="333" alt="20150131-_DSC0309"></a>
+  </div>
+  <div class="col-12 col-sm-6">
+    <dl>
+      <dt>Rolle</dt>
+      <dd>Kürmann</dd>
+      <dt>Regie</dt>
+      <dd>Caroline Wloka</dd>
+      <dt>Produktion</dt>
+      <dd><a href="http://www.dramateure.ch">dramateure</a></dd>
+    </dl>
+  </div>
+</div>
 
 ### 2014: Ein idealer Gatte (Oscar Wilde)
 
-<dl>
-  <dt>Aufgabe</dt>
-  <dd>Regie, Produktion</dd>
-  <dt>Autor</dt>
-  <dd><a href="https://de.wikipedia.org/wiki/Oscar_Wilde">Oscar Wilde</a></dd>
-  <dt>Produktion</dt>
-  <dd><a href="http://www.dramateure.ch">dramateure</a></dd>
-</dl>
+<div class="row">
+  <div class="col-12 col-sm-6 col-lg-4">
+    <a data-flickr-embed="false" href="https://www.flickr.com/photos/mwellner/32562383644/in/album-72157678988387732/" title="_DSC1813"><img class="mt-0" src="https://c1.staticflickr.com/1/769/32562383644_07f1135b51.jpg" width="500" height="333" alt="_DSC1813"></a>
+  </div>
+  <div class="col-12 col-sm-6">
+    <dl>
+      <dt>Aufgabe</dt>
+      <dd>Regie, Produktion</dd>
+      <dt>Autor</dt>
+      <dd><a href="https://de.wikipedia.org/wiki/Oscar_Wilde">Oscar Wilde</a></dd>
+      <dt>Produktion</dt>
+      <dd><a href="http://www.dramateure.ch">dramateure</a></dd>
+    </dl>
+  </div>
+</div>
+
+### 2013: Bananen, vorne links
+
+<div class="row">
+  <div class="col-12 col-sm-6 col-lg-4">
+    <a data-flickr-embed="false" href="https://www.flickr.com/photos/mwellner/11425143673/in/album-72157638774117585/" title="Bananen, vorne links"><img class="mt-0" src="https://c1.staticflickr.com/3/2853/11425143673_6df8b68916.jpg" width="500" height="333" alt="Bananen, vorne links"></a>
+  </div>
+  <div class="col-12 col-sm-6">
+    <dl>
+      <dt>Rolle</dt>
+      <dd>Dennis</dd>
+      <dt>Regie</dt>
+      <dd>Marco Hausammann-Gilardi</dd>
+      <dt>Produktion</dt>
+      <dd><a href="http://theater-frischfleisch.ch/">frischfleisch</a></dd>
+    </dl>
+  </div>
+</div>

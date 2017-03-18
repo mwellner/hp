@@ -5,13 +5,15 @@ author: Mathias Wellner
 ---
 Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein gutes Dutzend Produktionen als Schauspieler und eine als Regisseur. Ich habe von 2010 bis 2013 einige Kurse und Praxisproduktionen am [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch) besucht.
 
-Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) bei [Der Löwe im Winter](https://de.wikipedia.org/wiki/Der_L%C3%B6we_im_Winter) von James Goldman, die Aufführungen sind für Oktober 2017 geplant. 
+Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) bei [Der Löwe im Winter](https://de.wikipedia.org/wiki/Der_L%C3%B6we_im_Winter) von James Goldman, die Aufführungen sind für Oktober 2017 geplant. 
 
 <div class="card-group">
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/2/1442/24390569666_2f4a6025bd.jpg" width="500" height="334" alt="Das einzig Wahre">
+    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/2/1639/24451385654_d67b5c3b80.jpg" width="500" height="334" alt="Das einzig Wahre">
     <div class="card-block">
-      <h4 class="card-title">Das einzig Wahre</h4>
+      <h4 class="card-title">
+        <a href="http://dramateure.ch/wordpress/produktionen/das-einzig-wahre/">Das einzig Wahre</a>
+      </h4>
       <h6 class="card-subtitle text-muted">Tom Stoppard</h6>
       <p class="card-text">
         <dl>
@@ -30,7 +32,9 @@ Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) b
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2888/33325170016_d1d2fa7021.jpg" width="500" height="333" alt="Biografie: ein Spiel">
     <div class="card-block">
-      <h4 class="card-title">Biografie: ein Spiel</h4>
+      <h4 class="card-title">
+        <a href="http://dramateure.ch/wordpress/produktionen/biografie-ein-spiel/">Biografie: ein Spiel</a>
+      </h4>
       <h6 class="card-subtitle text-muted">Max Frisch</h6>
       <p class="card-text">
         <dl>
@@ -49,7 +53,9 @@ Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) b
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/769/32562383644_07f1135b51.jpg" width="500" height="333" alt="Ein idealer Gatte">
     <div class="card-block">
-      <h4 class="card-title">Ein idealer Gatte</h4>
+      <h4 class="card-title">
+        <a href="http://dramateure.ch/wordpress/produktionen/ein-idealer-gatte/">Ein idealer Gatte</a>
+      </h4>
       <h6 class="card-subtitle text-muted">Oscar Wilde</h6>
       <p class="card-text">
         <dl>
@@ -69,7 +75,9 @@ Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) b
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2853/11425143673_6df8b68916.jpg" width="500" height="334" alt="Szenenfoto Bananen, vorne links">
     <div class="card-block">
-      <h4 class="card-title">Bananen, vorne links</h4>
+      <h4 class="card-title">
+        <a href="http://theater-frischfleisch.ch/?page_id=9">Bananen, vorne links</a>
+      </h4>
       <h6 class="card-subtitle text-muted">Eigenentwicklung</h6>
       <p class="card-text">
         <dl>
@@ -105,9 +113,11 @@ Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) b
     </div>
   </div>  
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3811/33405103085_5f49390215.jpg" width="500" height="333" alt="Ein idealer Gatte">
+    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3811/33405103085_5f49390215.jpg" width="500" height="333" alt="Szenenfoto, Onkel Wanja">
     <div class="card-block">
-      <h4 class="card-title">Onkel Wanja</h4>
+      <h4 class="card-title">
+        <a href="http://dramateure.ch/mediawiki/index.php?title=Onkel_Wanja">Onkel Wanja</a>
+      </h4>
       <h6 class="card-subtitle text-muted">Anton Tschechow</h6>
       <p class="card-text">
         <dl>
@@ -129,7 +139,9 @@ Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) b
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2901/33364872366_ca647575a7.jpg" width="500" height="334" alt="Szenenfoto Toscana-Therapie">
     <div class="card-block">
-      <h4 class="card-title">Toscana-Therapie</h4>
+      <h4 class="card-title">
+        <a href="http://dramateure.ch/mediawiki/index.php?title=Toscana-Therapie">Toscana-Therapie</a>
+      </h4>
       <h6 class="card-subtitle text-muted">Robert Gernhard</h6>
       <p class="card-text">
         <dl>
@@ -148,7 +160,9 @@ Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) b
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3939/32563210164_5f6d80efa5.jpg" width="500" height="333" alt="Szenenfoto Halbkontakt">
     <div class="card-block">
-      <h4 class="card-title">Halbkontakt</h4>
+      <h4 class="card-title">
+        <a href="http://theater-frischfleisch.ch/?page_id=56">Halbkontakt</a>
+      </h4>
       <h6 class="card-subtitle text-muted">Lisa Stadler</h6>
       <p class="card-text">
         <dl>
@@ -165,7 +179,7 @@ Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) b
     </div>
   </div>  
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3745/33365659486_96bec9b2aa.jpg" width="500" height="333" alt="Ein idealer Gatte">
+    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2871/33517189015_38daae0f86.jpg" width="500" height="333" alt="Ein idealer Gatte">
     <div class="card-block">
       <h4 class="card-title">Top Dogs</h4>
       <h6 class="card-subtitle text-muted">Urs Widmer</h6>
@@ -184,3 +198,70 @@ Aktuell bin ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) b
     </div>
   </div>  
 </div>
+
+<div class="card-group">
+  <div class="card">
+    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/567/33383205796_25f5938c10.jpg" width="500" height="334" alt="Szenenfoto Arkadien">
+    <div class="card-block">
+      <h4 class="card-title">
+        <a href="http://www.aki.ethz.ch/akitiv/archive/arkadien/index.html">Arkadien</a>
+      </h4>
+      <h6 class="card-subtitle text-muted">Tom Stoppard</h6>
+      <p class="card-text">
+        <dl>
+          <dt>Rolle</dt>
+          <dd>Gus, Noakes</dd>
+          <dt>Regie</dt>
+          <dd>Tobias Grimbacher</dd>
+          <dt>Produktion</dt>
+          <dd><a href="http://www.aki.ethz.ch/akitiv/">akitiv</a></dd>
+          <dt>Aufführungen</dt>
+          <dd>Mai-Jun 2009 (Zürich, Aarau)</dd>
+        </dl>
+      </p>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3126/2573026271_20b9e203a4.jpg" width="500" height="333" alt="Szenenfoto Da waren's nur noch neun">
+    <div class="card-block">
+      <h4 class="card-title">
+        <a href="http://www.aki.ethz.ch/akitiv/archive/nurnochneun/index.html">Da waren's nur noch neun</a>
+      </h4>
+      <h6 class="card-subtitle text-muted">Agatha Christie</h6>
+      <p class="card-text">
+        <dl>
+          <dt>Rolle</dt>
+          <dd>Laurant</dd>
+          <dt>Regie</dt>
+          <dd>Maurice Caviezel</dd>
+          <dt>Produktion</dt>
+          <dd><a href="http://www.aki.ethz.ch/akitiv/">akitiv</a></dd>
+          <dt>Aufführungen</dt>
+          <dd>Mai-Jun 2008 (Zürich)</dd>
+        </dl>
+      </p>
+    </div>
+  </div>  
+  <div class="card">
+    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/689/32581237074_292fe9165b.jpg" width="500" height="333" alt="Szenenfoto Die Lästerschule">
+    <div class="card-block">
+      <h4 class="card-title">
+        <a href="http://www.aki.ethz.ch/akitiv/archive/laesterschule/index.html">Die Lästerschule</a>
+      </h4>
+      <h6 class="card-subtitle text-muted">Richard B. Sheridan</h6>
+      <p class="card-text">
+        <dl>
+          <dt>Rolle</dt>
+          <dd>Joseph Surface</dd>
+          <dt>Regie</dt>
+          <dd>Henning Avenhaus</dd>
+          <dt>Produktion</dt>
+          <dd><a href="http://www.aki.ethz.ch/akitiv/">akitiv</a></dd>
+          <dt>Aufführungen</dt>
+          <dd>Jun-Jul 2007 (Zürich)</dd>
+        </dl>
+      </p>
+    </div>
+  </div>  
+</div>
+

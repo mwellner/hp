@@ -1,11 +1,7 @@
 ---
-id: 5013
 title: Niederlassungsbewilligung
 date: 2014-12-15T17:12:39+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5013
-permalink: /2014/12/15/niederlassungsbewilligung/
 categories:
   - tagebuch
 tags:
@@ -15,7 +11,7 @@ tags:
   - c-ausweis
   - dokument
   - niederlassung
-  - Schweiz
+  - schweiz
   - status
 ---
 Heute habe ich einen Brief eingeworfen, der meinen Status als Ausländer in der Schweiz verändern wird &ndash; mir winkt jetzt eine Niederlassungsbewilligung, offiziell <a href="https://www.bfm.admin.ch/content/bfm/de/home/themen/aufenthalt/eu_efta/ausweis_c_eu_efta.html" title="Ausweis C EU/EFTA" target="_blank">Ausweis C EU/EFTA</a> genannt. Ich brauchte drei Dokumente, 

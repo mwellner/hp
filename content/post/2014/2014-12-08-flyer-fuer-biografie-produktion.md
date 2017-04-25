@@ -1,13 +1,14 @@
 ---
-id: 5008
 title: Flyer für Biografie-Produktion
 date: 2014-12-08T21:50:28+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5008
-permalink: /2014/12/08/flyer-fuer-biografie-produktion/
 categories:
   - theater/schauspiel
+tags:
+  - flyer
+  - quadrat
+  - quadratisch
+  - dramateure
 ---
 Heute habe ich die Flyer für die dramateure-Produktion <a href="http://dramateure.ch/wordpress/produktionen/biografie-ein-spiel/" title="Biografie: Ein Spiel" target="_blank">Biografie: Ein Spiel</a> bestellt, es werden wieder quadratische! Das Schreibmaschinenfoto habe ich in Sachsen aufgenommen, in einem Heimatmuseum bei Leipzig. 
 

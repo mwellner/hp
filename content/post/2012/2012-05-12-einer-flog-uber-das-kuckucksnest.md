@@ -7,14 +7,14 @@ layout: post
 guid: http://www.mwellner.de/?p=3427
 permalink: /2012/05/12/einer-flog-uber-das-kuckucksnest/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühnensprache
   - Kuckucksnest
   - McMurphy
   - r67
   - Schweizerdeutsch
-  - theater/schauspiel
+  - theater
 ---
 Seit 1967 führt die [Theatergruppe r67](http://www.r67.ch) auf &ndash; ein beeindruckendes Beispiel für die Langlebigkeit kultureller Institutionen. Gestern war ich in ihrer aktuellen Produktion, sie spielten [Einer flog über das Kuckucksnest](http://de.wikipedia.org/wiki/Einer_flog_%C3%BCber_das_Kuckucksnest). Der 1975 herausgekommene Film von Miloš Forman mit Jack Nicholson in der Hauptrolle ist wohl den meisten bekannt. Und so ist es äußerst tapfer zu nennen, einen derart bekannten und gelungenen Film mit den Mitteln des Theaters umzusetzen. 
 

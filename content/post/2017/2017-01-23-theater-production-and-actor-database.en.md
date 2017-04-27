@@ -4,7 +4,7 @@ date: 2017-01-23T21:39:44+00:00
 author: Mathias Wellner
 layout: post
 categories:
-  - software development
+  - software
 tags:
   - actor
   - angular

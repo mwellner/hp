@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=5171
 permalink: /2015/03/06/neil-simon-ein-seltsames-paar/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Ein seltsames Paar
   - Neil Simon

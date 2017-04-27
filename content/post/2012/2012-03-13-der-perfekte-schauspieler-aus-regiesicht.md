@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3414
 permalink: /2012/03/13/der-perfekte-schauspieler-aus-regiesicht/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Regie
   - Schauspiel

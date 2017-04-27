@@ -5,7 +5,7 @@ author: Mathias Wellner
 layout: post
 permalink: /2009/01/04/patrick-suskind-der-kontrabass-vorgetragen-von-hubert-kronlachner/
 categories:
-  - theater/schauspiel
+  - theater
 ---
 Es war die 599. Aufführung des &#8220;Kontrabass&#8221;, vorgetragen von Hubert Kronlachner, heute folgt die 600. und vorerst letzte. Der Mann ist 86 und vermag es immer noch, das ausverkaufte Pfauen mit seiner Stimme zu füllen und das Publikum in seinen Bann zu ziehen. Natürlich merkt man das Alter, er läuft bedächtig und man nimmt ihm seine Kontrabass-Karrierevisionen mit Schuberts Forellenquintett nicht mehr so recht ab, aber angesichts des Alters kann man sich nur verneigen und inständig hoffen, dass man selbst in diesem Alter noch am Leben und einigermaßen fit sein möge, ganz zu schweigen von Bühnentauglichkeit.
 

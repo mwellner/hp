@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4512
 permalink: /2014/05/19/der-countdown-laeuft/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Ein idealer Gatte
   - Oscar Wilde @de

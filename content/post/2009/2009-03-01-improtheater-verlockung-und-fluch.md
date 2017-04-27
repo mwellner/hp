@@ -3,7 +3,7 @@ title: Improtheater = Theater light
 date: 2009-03-01T19:26:40+00:00
 author: Mathias Wellner
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - bühne
   - ernsthaft

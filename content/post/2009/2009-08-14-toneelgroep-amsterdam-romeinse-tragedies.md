@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=1330
 permalink: /2009/08/14/toneelgroep-amsterdam-romeinse-tragedies/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Inszenierung
   - Macht
@@ -15,7 +15,7 @@ tags:
   - politik
   - römisch
   - Shakespeare
-  - theater/schauspiel
+  - theater
   - Theaterspektakel
   - Tragödie
   - Werft

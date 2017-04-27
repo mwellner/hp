@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=3149
 permalink: /2011/05/14/robert-gernhardt-toscana-therapie/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - authentisch
   - Bühne
@@ -18,7 +18,7 @@ tags:
   - Rolle
   - Schauspiel
   - Silvia
-  - theater/schauspiel
+  - theater
   - Toscana-Therapie
 ---
 <div style="width: 510px" class="wp-caption aligncenter">

@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4123
 permalink: /2013/11/17/ich-treu-suche-in-muehlhofen/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - alte
   - Auftritt
@@ -18,7 +18,7 @@ tags:
   - Klima
   - mühlhofen
   - suche
-  - theater/schauspiel
+  - theater
   - Tournee
   - treu
 ---

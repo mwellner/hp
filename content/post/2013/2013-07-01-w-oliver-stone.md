@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3886
 permalink: /2013/07/01/w-oliver-stone/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - "43"
   - Film

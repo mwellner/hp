@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3945
 permalink: /2013/07/27/produktionsvorbereitungen/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - An Ideal Husband
   - Oscar Wilde @de

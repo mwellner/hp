@@ -11,7 +11,7 @@ podPressPostSpecific:
 podPressMedia:
   - 's:445:"s:436:"a:1:{i:0;a:10:{s:3:"URI";s:55:"http://www.mwellner.de/sound/Impro-Zusammenstellung.mp3";s:5:"title";s:39:"Musikzusammenstellung für Improtheater";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"4856443";s:8:"duration";s:4:"5:04";s:12:"previewImage";s:86:"https://blogs.ethz.ch/mwellner/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}";";'
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Impro-Theater
   - Improvisation

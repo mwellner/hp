@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=3416
 permalink: /2012/03/14/plakat-onkel-wanja/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Anton Tschechow
   - Blitz
@@ -22,7 +22,7 @@ tags:
   - poster
   - Profil
   - schwarz
-  - theater/schauspiel
+  - theater
   - Wanja
 ---
 <div style="width: 510px" class="wp-caption aligncenter">

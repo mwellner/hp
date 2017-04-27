@@ -10,14 +10,14 @@ podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - agatha christie
   - akitiv
   - and then there were none
   - "Da waren's nur noch neun"
   - premiere
-  - theater/schauspiel
+  - theater
 ---
 Nach einem langen Samstag voller Nervosität, Appetitlosigkeit und einer zehrenden Mischung aus Angespanntheit und Müdigkeit begann gegen 17:00 der Countdown für die Premiere. Wir Schauspieler fanden uns im aki ein, unser Regisseur war &#8211; wie immer &#8211; schon lange da. Es gab noch kleinere Aufbauarbeiten zu absolvieren, danach war Schminken angesagt. Nach einiger Verwirrung, welche Farbtöne und Intensitäten am besten seien (es ist nicht einfach mit all diesem Zeug), waren wir gegen sieben zum Aufwärmen bereit. Unsere an asiatische Morgengymnastik erinnernden Körperbewegungen, Sprachübungen, Zungenkreisen, sanfte meditative Bewegungen in der Gruppe und das obligatorische Glücksritual dauerten eine dreiviertel Stunde, dann zogen wir uns um. Draußen hörten wir schon die Leute, als wir im Umkleideraum letzte Handgriffe machten und in kribbeliger Konzentration versanken. Die Leute wurden eingelassen, unterhielten sich. Irgendwann wurden sie leiser. Dann wurde ich so langsam richtig kribbelig, aber es vergingen noch etliche Minuten, ehe wir dann nach draußen auf unsere Startpositionen gingen. Das Räderwerk begann sich zu drehen.
 

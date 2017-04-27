@@ -14,14 +14,14 @@ wp_jd_clig:
 wp_jd_target:
   - http://cli.gs/tPTSY
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - akitiv
   - Bühne
   - de Laclos
   - Gefährliche Liebschaften
   - Schauspiel
-  - theater/schauspiel
+  - theater
 ---
 Es ist wieder soweit &ndash; die Theatergruppe akitiv bringt am Freitag (30. April) mit den Gefährlichen Liebschaften (de Laclos) ihre elfte Produktion heraus. Ich selbst bin diesmal nicht dabei, aber die Mädels und Jungs haben sich mächtig ins Zeug gelegt und eine tolle Inszenierung hinbekommen. Ich selbst werde am Sonntag, 10. Mai dabei sein und filmen. Es soll wieder ein schöner Mitschnitt für die Nachwelt entstehen. 
 

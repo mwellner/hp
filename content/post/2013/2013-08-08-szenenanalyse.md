@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3959
 permalink: /2013/08/08/szenenanalyse/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - An Ideal Husband
   - Oscar Wilde

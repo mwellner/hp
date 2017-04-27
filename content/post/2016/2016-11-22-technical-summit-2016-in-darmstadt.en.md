@@ -4,7 +4,7 @@ date: 2016-11-22T22:33:37+00:00
 author: Mathias Wellner
 image: https://c1.staticflickr.com/1/770/32727033490_87a429a509_z.jpg
 categories:
-  - software development
+  - software
 tags:
   - conference
   - css

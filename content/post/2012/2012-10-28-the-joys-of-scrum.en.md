@@ -3,12 +3,12 @@ title: The joys of scrum
 date: 2012-10-28T12:24:40+00:00
 author: Mathias Wellner
 categories:
-  - software development
+  - software
 tags:
   - agile
   - brooks
   - scrum
-  - software development
+  - software
 ---
 I am currently working as software developer in a medical device project. The project is &ndash; as usual for projects of large scale &ndash; late in time and over budget. So the decision was taken to add more developers, reminding me of [Brook&#8217;s Law](http://en.wikipedia.org/wiki/Brooks%27s_law):
 

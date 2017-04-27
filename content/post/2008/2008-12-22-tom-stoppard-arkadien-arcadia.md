@@ -9,7 +9,7 @@ permalink: /2008/12/22/tom-stoppard-arkadien-arcadia/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - theater/schauspiel
+  - theater
 ---
 In Ergänzung zu meinem [kurzen Beitrag zum Stück vom 8.11.08](http://www.mwellner.de/2008/11/08/tom-stoppard-arkadien/) möchte ich mich hier intensiver mit dem Inhalt und den angesprochenen Themen des Stückes _Arkadien_ von Tom Stoppard beschäftigen.
 

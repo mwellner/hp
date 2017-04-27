@@ -3,7 +3,7 @@ title: Backstage ade
 date: 2009-09-13T12:32:04+00:00
 author: Mathias Wellner
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - abbruch
   - abwägen

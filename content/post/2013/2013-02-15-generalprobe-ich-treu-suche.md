@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3754
 permalink: /2013/02/15/generalprobe-ich-treu-suche/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - generalprobe
@@ -15,7 +15,7 @@ tags:
   - Klima
   - klima das theater
   - Stück
-  - theater/schauspiel
+  - theater
 ---
 Die letzte Probe vor der morgigen Premiere lief sehr gut durch. Wir brauchten 72 Minuten, mit den Lachern morgen könnten es noch ein paar mehr werden. Und es wird sicher lustig, heute musste sogar unser Regisseur lachen, der das Stück ja in- und auswendig kennt. Ein paar kleine Korrekturen, ich darf an einigen Stellen noch ironischer werden. Aber das sollte gut machbar sein. 
 

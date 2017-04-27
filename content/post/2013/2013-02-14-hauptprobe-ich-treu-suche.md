@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3752
 permalink: /2013/02/14/hauptprobe-ich-treu-suche/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - aufführung
   - Bühne

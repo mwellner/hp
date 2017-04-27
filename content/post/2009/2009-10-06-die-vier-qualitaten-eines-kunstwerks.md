@@ -3,7 +3,7 @@ title: Die vier Qualitäten eines Kunstwerks
 date: 2009-10-06T09:41:11+00:00
 author: Mathias Wellner
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - form
   - gesamtheit

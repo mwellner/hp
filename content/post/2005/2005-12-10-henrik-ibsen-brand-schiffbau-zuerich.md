@@ -7,7 +7,7 @@ layout: post
 guid: http://blogs.ethz.ch/mwellner/2005/12/10/henrik-ibsen-brand-schiffbau-zuerich/
 permalink: /2005/12/10/henrik-ibsen-brand-schiffbau-zuerich/
 categories:
-  - theater/schauspiel
+  - theater
 ---
 Mein erstes Theaterstück in Zürich, es ist schon fast beschämend, dass das so lange gedauert hat. Aber der Anfang ist gemacht, vielleicht gehe ich ja jetzt häufiger. Anlass war der Besuch einer Bekannten, die ich lustigerweise im Nachtzug kennengelernt hatte, auf der Rückfahrt von Dresden nach Zürich Ende November. Vor die Aufgabe gestellt, eine Abendbeschäftigung zu besorgen, schaute ich mich ein wenig im Internet herum und blieb dann an dem Namen **Ibsen** hängen. In Dresden hatte ich zwei wunderbare Stücke von ihm gesehen. &#8220;Ein Volksfeind&#8221; und &#8220;Die Wildente&#8221;. Ersteres hat mich schwer begeistert, es war bis jetzt das beste Theaterstück, was ich gesehen habe.
 

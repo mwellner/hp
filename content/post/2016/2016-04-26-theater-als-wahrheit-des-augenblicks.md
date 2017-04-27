@@ -9,12 +9,12 @@ permalink: /2016/04/26/theater-als-wahrheit-des-augenblicks/
 image: /wp-uploads/2016/04/CHANDOS3-117x150.jpg
 categories:
   - literatur
-  - theater/schauspiel
+  - theater
 tags:
   - Augenblick
   - Brooke
   - Shakespeare
-  - theater/schauspiel
+  - theater
   - Wahrheit
   - William
   - Zitat

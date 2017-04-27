@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4065
 permalink: /2013/09/22/drehtag-fur-fanger-projekt/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - draussen
   - Dreh

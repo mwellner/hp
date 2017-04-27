@@ -7,7 +7,7 @@ layout: post
 guid: http://blogs.ethz.ch/mwellner/2005/06/24/michael-neuwirth-independence-day-oder-die-letzte-bastion-des-mannes/
 permalink: /2005/06/24/michael-neuwirth-independence-day-oder-die-letzte-bastion-des-mannes/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - die bühne
   - dresden

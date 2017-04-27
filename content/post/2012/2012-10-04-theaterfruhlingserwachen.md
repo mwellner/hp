@@ -7,14 +7,14 @@ layout: post
 guid: http://www.mwellner.de/?p=3591
 permalink: /2012/10/04/theaterfruhlingserwachen/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - dramateure
   - Ich treu suche
   - Klima
   - Peer Gynt
   - StuThe
-  - theater/schauspiel
+  - theater
 ---
 Während draußen regnerisches Herbstwetter die Stimmung trübt, sprießen die Theaterprojekte in meinem Umfeld fleißig. Es herrscht Aufbruchsstimmung und viele Termine stehen mittlerweile fest. Da ich momentan an zwei Produktionen als Schauspieler beteiligt bin, ist mein Frühjahr 2013 schon weitgehend ausgebucht. 
 

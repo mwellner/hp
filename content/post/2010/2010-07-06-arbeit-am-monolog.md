@@ -14,7 +14,7 @@ wp_jd_bitly:
 wp_jd_target:
   - ""
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Gliederung
@@ -22,7 +22,7 @@ tags:
   - Schauspiel
   - text
   - Textarbeit
-  - theater/schauspiel
+  - theater
 ---
 Am Anfang ist da mal der Text, wie er vom Autor geschrieben wurde. Damit musst du als Schauspieler arbeiten, um den Monolog adäquat auf die Bühne zu bringen. Eine Herangehensweise ist nun die inhaltliche und emotionale Gliederung des Textes. Dabei unterteilst du den Text in Sinnpakete (inhaltlich) und findest außerdem die emotionalen Wendepunkte. Mit dieser Struktur kannst du den Text zum einen leichter lernen und zum anderen bietet er den Einstieg in die Erarbeitung der Emotionen mithilfe von Sinnesreisen und Sinneserinnerungen. 
 

@@ -14,7 +14,7 @@ wp_jd_bitly:
 wp_jd_target:
   - http://bit.ly/cQcUsq
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - aki
   - akitiv

@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=4085
 permalink: /2013/10/03/lee-strassberg-das-wesen-des-schauspielens/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Intelligenz
   - Lee Strassberg

@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=4454
 permalink: /2014/03/01/first-steps-with-scheme-and-git-2/?lang=en
 categories:
-  - software development
+  - software
 tags:
   - git
   - github

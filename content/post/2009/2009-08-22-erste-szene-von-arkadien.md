@@ -12,7 +12,7 @@ language:
 other-excerpt:
   - ""
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - akitiv
   - Archiv
@@ -28,7 +28,7 @@ tags:
   - schneiden
   - shutter
   - shutter speed
-  - theater/schauspiel
+  - theater
   - Tom Stoppard
   - Ton
   - Tonspur

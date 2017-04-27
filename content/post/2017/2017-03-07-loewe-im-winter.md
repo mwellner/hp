@@ -5,7 +5,7 @@ tags:
   - musische gruppe auerbach
   - the lion in winter
 categories:
-  - theater/schauspiel
+  - theater
 description: Erste Rolle in Darmstadt, Prinz John in 'Der Löwe im Winter'
 date: 2017-03-07T20:32:34+01:00
 ---

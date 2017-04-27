@@ -4,7 +4,7 @@ date: 2016-08-18T23:02:25+00:00
 author: Mathias Wellner
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - falkenstein
   - niedergösgen

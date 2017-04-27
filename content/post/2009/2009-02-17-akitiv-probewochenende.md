@@ -16,7 +16,7 @@ wp_jd_target:
   - http://cli.gs/4yjJX
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Laientheater
   - Massenszene
@@ -24,7 +24,7 @@ tags:
   - stellen
   - Stellprobe
   - Szene
-  - theater/schauspiel
+  - theater
 ---
 Elf Schauspieler, ein Regisseur, sechs Flaschen Wein, ein Kofferraum voll Esswaren, ein Haus in Frauenfeld &#8212; das waren die Zutaten für das erste Probewochenende der laufenden [akitiv](http://www.aki.ethz.ch/akitiv/)-Produktion &#8220;Arkadien&#8221; (Tom Stoppard). Abgeschieden vom Lärm der Großstadt konzentrierten wir uns auf das _Stellen_ von Szenen. Wobei eigentlich immer nur ein Teil der Leute mit Proben direkt beschäftigt war, die anderen lernten Text, kochten oder jonglierten mit Mandarinen.
 

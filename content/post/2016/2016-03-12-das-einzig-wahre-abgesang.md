@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=6536
 permalink: /2016/03/12/das-einzig-wahre-abgesang/
 image: /wp-uploads/2016/03/MW_20160304_2079-150x150.jpg
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Das einzig Wahre
   - dramateure

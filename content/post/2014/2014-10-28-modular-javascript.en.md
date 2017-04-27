@@ -1,18 +1,14 @@
 ---
-id: 4944
 title: Modular JavaScript 1
 date: 2014-10-28T23:20:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4944
-permalink: /2014/10/28/modular-javascript/?lang=en
 categories:
-  - software development
+  - software
 tags:
   - amd
   - commonjs
   - ecma 6
-  - JavaScript
+  - javascript
   - modular
   - module
 ---
@@ -24,7 +20,7 @@ One of the main problems of software development is managing complexity and &nda
 
 I have found some good articles on the topic. 
 
-  * <a href="http://addyosmani.com/writing-modular-js/" target="_blank">Writing Modular JavaScript With AMD, CommonJS & ES Harmony</a> by Addy Osmani
-  * <a href="http://www.2ality.com/2013/07/es6-modules.html" target="_blank">ECMAScript 6 modules: the future is now</a> by Axel Rauschmayer
+  * [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/) by Addy Osmani
+  * [ECMAScript 6 modules: the future is now](http://www.2ality.com/2013/07/es6-modules.html) by Axel Rauschmayer
 
 JavaScript modularity will be the main topic for an internal, upcoming project, so I will dive in the topic in the upcoming weeks.

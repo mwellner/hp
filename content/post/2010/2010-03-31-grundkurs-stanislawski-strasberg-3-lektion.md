@@ -5,7 +5,7 @@ author: Mathias Wellner
 aliases: 
   - /2010/03/31/grundkurs-stanislawski-strasberg-3-lektion/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - auftritt
   - aufwärmen

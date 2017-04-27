@@ -1,18 +1,15 @@
 ---
-id: 4968
 title: Modular JavaScript 2
 date: 2014-11-12T19:51:05+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4968
-permalink: /2014/11/12/modular-javascript-2/?lang=en
 categories:
-  - software development
+  - software
 tags:
   - amd
-  - JavaScript
+  - javascript
   - modules
   - syntax
+  - js
 ---
 On our company website, as on many others, we have a growing JavaScript code base. We are now taking the effort to develop a module system to make it easier to structure the code. 
 

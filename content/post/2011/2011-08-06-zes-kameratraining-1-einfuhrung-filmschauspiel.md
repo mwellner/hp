@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3250
 permalink: /2011/08/06/zes-kameratraining-1-einfuhrung-filmschauspiel/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Film
   - kamera

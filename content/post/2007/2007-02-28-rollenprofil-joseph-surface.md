@@ -7,7 +7,7 @@ layout: post
 guid: http://blogs.ethz.ch/mwellner/2007/02/28/rollenprofil-joseph-surface/
 permalink: /2007/02/28/rollenprofil-joseph-surface/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Die Laesterschule
   - Joseph Surface
@@ -15,7 +15,7 @@ tags:
   - Rolle
   - Schauspiel
   - The School for Scandal
-  - theater/schauspiel
+  - theater
   - Vorbereitung
 ---
 Ich spiele in unserem diesjährigen Theaterstück ([Die Lästerschule](http://de.wikipedia.org/wiki/The_School_for_Scandal) von Richard Brinsley Sheridan) die Rolle des Joseph Surface. Er ist der negative Held des Stückes, intrigant und heuchlerisch. Es ist ohne Zweifel die spannendste Rolle des Stücks, diese Doppelbödigkeit umzusetzen bedeutet eine schauspielerische Herausforderung. Ich möchte mich diesem Charakter ein wenig nähern, der primär als Gegenspieler zum netten Charles konzipiert wurde.

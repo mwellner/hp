@@ -7,11 +7,11 @@ layout: post
 guid: http://www.mwellner.de/?p=3343
 permalink: /2011/11/01/onkel-wanja-legt-los/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Onkel Wanja
   - Produktion
-  - theater/schauspiel
+  - theater
   - Tschechow
   - Wanja
 ---

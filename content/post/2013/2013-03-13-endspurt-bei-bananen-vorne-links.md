@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3791
 permalink: /2013/03/13/endspurt-bei-bananen-vorne-links/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - aufführung
   - Endspurt

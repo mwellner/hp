@@ -5,7 +5,7 @@ author: Mathias Wellner
 aliases: 
   - /2010/03/19/grundkurs-stanislawski-strasberg-1-lektion/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - anspannung
   - aufwärmen

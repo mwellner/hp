@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=3050
 permalink: /2011/01/09/flyermotiv-fur-halbkontakt/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - flyer
   - Gestaltung

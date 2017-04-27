@@ -3,7 +3,7 @@ title: 'Henrik Ibsen &ndash; Die Wildente'
 date: 2016-11-20T23:09:09+00:00
 author: Mathias Wellner
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - hendrik ibsen
   - wildente

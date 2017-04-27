@@ -9,7 +9,7 @@ permalink: /2016/01/20/dramateure-fotosession/
 image: /wp-uploads/2016/01/MW_20160114_1730-150x100.jpg
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Das einzig Wahre
   - dramateure

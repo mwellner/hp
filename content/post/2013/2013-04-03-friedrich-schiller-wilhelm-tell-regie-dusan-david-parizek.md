@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3820
 permalink: /2013/04/03/friedrich-schiller-wilhelm-tell-regie-dusan-david-parizek/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Dialekt
   - Inszenierung

@@ -26,7 +26,7 @@ tags:
   - Software
   - Sport
   - SQL
-  - theater/schauspiel
+  - theater
   - Webdesign
 ---
 Vor ziemlich genau einem Jahr begann ich bei der [Helveting AG](http://www.helveting.ch), einem aufstrebenden Schweizer Ingenieurbüro. Mit dem Doktortitel in der Tasche, nach drei Wochen Arbeitslosigkeit und mitten in einem JobBasis-Kurs der [NewPlacement GmbH](http://www.newplacement.ch) wagte ich den Sprung ins _richtige_ Berufsleben. Und da bin ich nun und reflektiere. 

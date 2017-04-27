@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/blog/?p=1261
 permalink: /2002/10/28/theater-der-vorhang-ist-gefallen/
 categories:
   - tagebuch
-  - theater/schauspiel
+  - theater
 tags:
   - Blacksburg
   - Derniere

@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=4469
 permalink: /2014/03/22/trailer-fuer-ein-idealer-gatte/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - dramateure
   - Ein idealer Gatte

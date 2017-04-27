@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=4578
 permalink: /2014/07/11/frederick-knott-bei-anruf-mord/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - bei anruf mord
   - dial m for murder

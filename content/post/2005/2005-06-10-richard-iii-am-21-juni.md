@@ -7,7 +7,7 @@ layout: post
 guid: http://blogs.ethz.ch/mwellner/2005/06/10/richard-iii-am-21-juni/
 permalink: /2005/06/10/richard-iii-am-21-juni/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Drama
   - dresden
@@ -17,7 +17,7 @@ tags:
   - Richard III.
   - Shakespeare
   - Staatsschauspiel
-  - theater/schauspiel
+  - theater
   - theatre
 ---
 Das [Dresdner Staatsschauspiel](http://www.staatsschauspiel-dresden.de) spielt am 21. Juni das Stück "Richard III." (William Shakespeare). Wen jemand Lust hat mitzukommen, bitte melden. Anbei noch die Stückbeschreibung:

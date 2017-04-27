@@ -9,7 +9,7 @@ permalink: /2010/02/11/paul-claudel-der-tausch-christof-loy/
 jd_tweet_this:
   - 'yes'
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - ehe
@@ -19,7 +19,7 @@ tags:
   - sakrament
   - schiffbau
   - Tausch
-  - theater/schauspiel
+  - theater
 ---
 Theater lebt von Handlung. Es ist die Aufgabe des Regisseurs, aus dem Stücktext die Handlung herauszulesen und den Schauspielern als Hilfe anzubieten. Was ich heute gesehen habe, war das genaue Gegenteil. Der Regisseur hat alle Handlung verbannt und die Schauspieler mit dem Text allein gelassen. Das Stück begann mit Ausschnitten aus dem Text, fast wie eine Ouvertüre wurden Themen angerissen, von verschiedenen Schauspielern. Es waren vier, zwei Männer und zwei Frauen, die dadurch wie austauschbar wirkten. Das war wohl auch die Absicht. Oder es liegt daran, dass der Regisseur vorher Opern gemacht hat. Bei Opern kommt es auf die Arien an, Handlung und Authentizität spielen eine untergeordnete Rolle. 
 

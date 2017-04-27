@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3794
 permalink: /2013/03/17/wahrhaftigkeit-auf-der-buehne/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Abgang
   - Auftritt

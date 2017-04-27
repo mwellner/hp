@@ -9,7 +9,7 @@ permalink: /2007/02/11/richard-brinsley-sheridan/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - theater/schauspiel
+  - theater
 ---
 _Für die Theaterproduktion von Sheridans &#8220;Die Lästerschule&#8221; (The School for Scandal) lohnt es sich, das Leben des Autors und seine Zeit zu verstehen. Das Stück ist zwar recht zeitlos, dennoch entstand es in einem ganz bestimmten historischen Kontext. Die folgenden (eingerückt dargestellten) Zitate stammen aus der &#8220;Kulturgeschichte der Menschheit&#8221; (Durant). Dieses immense Werk hat mir mal eine Tante geschenkt, in der Hoffnung, ich könnte diese Bücher gebrauchen. Und gelegentlich ist es echt praktisch, dieses unerschöpfliche Nachschlagewerk zur Verfügung zu haben. Denn sowohl der deutsche wie auch der englische Wikipedia-Artikel sind recht knapp gehalten._ 
 

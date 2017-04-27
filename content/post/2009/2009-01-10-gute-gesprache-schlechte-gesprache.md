@@ -5,7 +5,7 @@ author: Mathias Wellner
 permalink: /2009/01/10/gute-gesprache-schlechte-gesprache/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - aktives zuhören
   - akzeptieren

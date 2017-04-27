@@ -8,7 +8,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3211
 permalink: /2011/06/21/der-fluch-der-freiheit/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - asuperheroscape
   - Freiheit
@@ -16,7 +16,7 @@ tags:
   - Konzept
   - Rezension
   - Rote Fabrik
-  - theater/schauspiel
+  - theater
   - Wilhelm Tell
 ---
 Freiheit ist ein schöner Begriff, er ist so positiv besetzt, individuell und gesellschaftlich zugleich. Und es liessen sich so viele schöne Konflikte erdenken, die Sehnsucht nach eigener Freiheit könnte mit den Wünschen der Familie aneinandergeraten ([Die Glasmenagerie](http://de.wikipedia.org/wiki/Die_Glasmenagerie)) oder den Konventionen der Gesellschaft ([Madame Bovary](http://de.wikipedia.org/wiki/Madame_Bovary)). All das sind zeitlose Konflikte, die auch im Heute noch funktionieren und in denen sich jeder wiederfindet. 

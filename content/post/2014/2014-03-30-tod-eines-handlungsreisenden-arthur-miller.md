@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4476
 permalink: /2014/03/30/tod-eines-handlungsreisenden-arthur-miller/
 categories:
   - literatur
-  - theater/schauspiel
+  - theater
 tags:
   - Arthur Miller
   - Tod eines Handlungsreisenden

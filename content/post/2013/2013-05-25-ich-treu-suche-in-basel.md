@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3852
 permalink: /2013/05/25/ich-treu-suche-in-basel/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bank
   - Basel

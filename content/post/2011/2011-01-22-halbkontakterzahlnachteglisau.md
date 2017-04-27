@@ -9,7 +9,7 @@ guid: http://www.mwellner.de/?p=3059
 permalink: /2011/01/22/halbkontakterzahlnachteglisau/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Auftritt
   - Eglisau

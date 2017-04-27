@@ -8,14 +8,14 @@ guid: http://www.mwellner.de/blog/?p=1252
 permalink: /2002/09/10/theater-rehearsals/
 categories:
   - tagebuch
-  - theater/schauspiel
+  - theater
 tags:
   - Blacksburg
   - concentration
   - rebel without a cause
   - rehearsal
   - state your name theatre company
-  - theater/schauspiel
+  - theater
   - theatre
   - USA
 ---

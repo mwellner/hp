@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3708
 permalink: /2012/12/16/maxim-gorki-kinder-der-sonne/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bienenwaben
   - Bühnenbild
@@ -17,7 +17,7 @@ tags:
   - Maxim Gorki
   - Revolution
   - Sonne
-  - theater/schauspiel
+  - theater
 ---
 Spontan entschied ich mich, an die Premiere von **Kinder der Sonne** zu gehen. Es war das erste Stück von [Maxim Gorki](http://de.wikipedia.org/wiki/Maxim_Gorki), welches ich sah. Der Name war mir als in der DDR aufgewachsener ein Begriff, aber gelesen hatte ich bislang noch nichts von ihm. 
 

@@ -8,7 +8,7 @@ guid: 'http://www.mwellner.de/?p=6452&#038;lang=en'
 permalink: /2016/01/08/zurb-foundation/?lang=en
 image: /wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-150x95.jpg
 categories:
-  - software development
+  - software
 tags:
   - bootstrap
   - foundation

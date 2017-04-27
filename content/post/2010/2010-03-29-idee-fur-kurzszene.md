@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=2569
 permalink: /2010/03/29/idee-fur-kurzszene/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Auftritt
   - Becher
@@ -16,7 +16,7 @@ tags:
   - Nacht
   - sketch
   - Stuhl
-  - theater/schauspiel
+  - theater
   - Thriller
 ---
 Es soll eine vorbereitete Theater-Kurzszene für eine Person werden, ungefähr zwei Minuten lang. Ich darf sprechen, aber handeln und fühlen sind wichtiger. Es soll schließlich keine Kabarett-Nummer werden. Nachdem ich am letzten Mittwoch eine wenig plausible Handlung gewählt hatte, soll mein Auftritt diesmal glaubwürdig und mitreißend zugleich sein. 

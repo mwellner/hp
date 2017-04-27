@@ -5,7 +5,7 @@ author: Mathias Wellner
 images:
   - https://c1.staticflickr.com/1/713/32475777893_5c265a83f0_n.jpg
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - impro
   - improtheater

@@ -13,13 +13,13 @@ wp_jd_bitly:
 wp_jd_target:
   - http://www.mwellner.de/2010/08/14/anton-tschechow-onkel-wanja/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Land
   - Literatur
   - Russland
   - Stück
-  - theater/schauspiel
+  - theater
   - Tschechow
   - Umwelt
   - Wanja

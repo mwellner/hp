@@ -8,11 +8,11 @@ guid: http://www.mwellner.de/?p=3133
 permalink: /2011/04/16/premiere-toscana-therapie/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - premiere
   - Robert Gernhardt
-  - theater/schauspiel
+  - theater
   - Toscana-Therapie
 ---
 Noch wenige Stunden, dann ist es soweit &ndash; wir werden die Toscana-Therapie zum ersten Mal vor Publikum aufführen. Zur Einstimmung gibt es hier ein paar Bilder von der gestrigen Generalprobe. 

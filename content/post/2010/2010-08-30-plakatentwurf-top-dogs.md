@@ -9,7 +9,7 @@ guid: http://www.mwellner.de/?p=2910
 permalink: /2010/08/30/plakatentwurf-top-dogs/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 ---
 In einem reichlichen Monat ist es soweit &ndash; wir spielen [Top Dogs](http://de.wikipedia.org/wiki/Top_Dogs), ein Stück von Urs Widmer. Es geht um arbeitslose Führungskräfte, die sich in einem Outplacement-Center treffen und sich fit machen für den nächsten Schritt. Es gibt keine durchgehende Handlung, episodenhaft wird der Themenkreis von verschiedenen Seiten beleuchtet. Für mich geht es vor allem um Werte &ndash; Geld, Macht, Familie, Status &ndash; und wie die Charaktere versuchen, daran festzuhalten. 
 

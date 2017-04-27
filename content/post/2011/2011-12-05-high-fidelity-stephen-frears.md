@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3350
 permalink: /2011/12/05/high-fidelity-stephen-frears/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Film
   - High Fidelity

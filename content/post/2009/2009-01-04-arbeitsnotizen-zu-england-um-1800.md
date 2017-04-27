@@ -4,7 +4,7 @@ date: 2009-01-04T02:12:11+00:00
 author: Mathias Wellner
 permalink: /2009/01/04/arbeitsnotizen-zu-england-um-1800/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - akitiv
   - arkadien

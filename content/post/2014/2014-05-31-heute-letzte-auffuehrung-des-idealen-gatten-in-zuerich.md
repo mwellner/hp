@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4515
 permalink: /2014/05/31/heute-letzte-auffuehrung-des-idealen-gatten-in-zuerich/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 ---
 Bei schönstem Maiwetter werden wir heute abend zum letzten Mal in Zürich den Idealen Gatten spielen. Wir haben mehr als 100 Reservationen, es wird also ein volles Haus geben und sicher eine tolle Atmosphäre. Kommt dazu &#8212; es lohnt sich!
 

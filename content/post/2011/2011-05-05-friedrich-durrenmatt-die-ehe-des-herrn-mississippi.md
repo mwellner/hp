@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3141
 permalink: /2011/05/05/friedrich-durrenmatt-die-ehe-des-herrn-mississippi/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Die Ehe des Herrn Mississippi
   - Friedrich Dürrenmatt

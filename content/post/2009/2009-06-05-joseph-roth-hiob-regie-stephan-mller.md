@@ -9,13 +9,13 @@ permalink: /2009/06/05/joseph-roth-hiob-regie-stephan-mller/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Altes Testament
   - Bibel
   - Hiob
   - Neumarkt
-  - theater/schauspiel
+  - theater
 ---
 Schwere Kost ist dieser Stoff schon &mdash; der j&uuml;dische Lehrer Mendel Singer verliert im Laufe der Geschichte so ziemlich alles, seine beiden &auml;lteren S&ouml;hne fallen im Krieg, seine Frau nimmt sich das Leben, die Tochter wird wahnsinnig. Genau wie das alttestamentarische Vorbild Hiob verflucht er schlie&szlig;lich Gott und will nur noch sterben. Doch das unerwartete Gesunden seines j&uuml;ngsten Sohnes ganz am Ende stimmt ihn vers&ouml;hnlich, er schl&auml;ft ein.
 

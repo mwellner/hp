@@ -3,12 +3,12 @@ title: Rollenarbeit
 date: 2009-01-19T22:17:11+00:00
 author: Mathias Wellner
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - akitiv
   - Gestaltung
   - Rolle
-  - theater/schauspiel
+  - theater
 ---
 Die Rollen für unser Stück &#8220;Arkadien&#8221; stehen fest, ich werde in der alten Zeit den Landschaftsarchitekten Richard Noakes und in der Gegenwart den stummen Gus spielen. Ich hatte mir zwar eine größere Rolle erhofft, aber auch diese beiden Rollen verlangen Einiges ab und sind bestimmt lustig zu spielen.
 

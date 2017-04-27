@@ -8,10 +8,10 @@ guid: http://www.mwellner.de/?p=2912
 permalink: /2010/09/16/endspurt-fur-top-dogs/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - StuThe
-  - theater/schauspiel
+  - theater
   - Top Dogs
   - Urs Widmer
 ---

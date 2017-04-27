@@ -3,7 +3,7 @@ title: 'Docker Compose File for WordPress &#038; MariaDB'
 date: 2016-09-14T22:33:45+00:00
 author: Mathias Wellner
 categories:
-  - software development
+  - software
 tags:
   - container
   - Database

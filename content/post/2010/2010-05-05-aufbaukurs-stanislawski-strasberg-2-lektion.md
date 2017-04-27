@@ -13,7 +13,7 @@ wp_jd_clig:
 wp_jd_target:
   - 'http%3A%2F%2Fwww.mwellner.de%2F2010%2F05%2F05%2Faufbaukurs-stanislawski-strasberg-2-lektion%2F'
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Kurs
   - Lesung

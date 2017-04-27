@@ -9,7 +9,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3265
 permalink: /2011/08/19/zes-kameratraining-szenenvorbereitung/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Emotion
   - Gliederung

@@ -9,7 +9,7 @@ guid: http://www.mwellner.de/?p=3205
 permalink: /2011/06/14/lajos_egri_dramatisches_schreiben/
 categories:
   - literatur
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Charakter
@@ -24,7 +24,7 @@ tags:
   - Robert Gernhard
   - Schreiben
   - Stück
-  - theater/schauspiel
+  - theater
   - Toscana-Therapie
 ---
 Die momentane Theaterpause möchte ich nutzen, um mich intensiver mit den Fundamenten des Theaters auseinanderzusetzen. Als Schauspieler versuche ich, den Augenblick auf der Bühne publikumswirksam zu erleben, immer wieder aufs Neue. Die Kenntnis der größeren Zusammenhänge ist dafür nicht unbedingt erforderlich, ein guter Regisseur hat das ominöse Ganze ohnehin im Blick. Aber was genau macht eine gute Szene oder ein gutes Stück aus? Für solche Fragen möchte ich meinen Blick weiten und das Buch [The Art of Dramatic Writing](http://en.wikipedia.org/wiki/Lajos_Egri#The_Art_of_Dramatic_Writing) von [Lajos Egri](http://de.wikipedia.org/wiki/Lajos_Egri) ist ein guter Anfang. 

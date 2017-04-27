@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=5768
 permalink: /2015/05/16/jean-paul-sartredie-schmutzigen-haende/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - die schmutzigen hände
   - Illyrien

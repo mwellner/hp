@@ -14,7 +14,7 @@ tags:
   - James Joyce
   - Joyce
   - pfauen
-  - theater/schauspiel
+  - theater
   - Ulysses
   - Zuerich
 ---

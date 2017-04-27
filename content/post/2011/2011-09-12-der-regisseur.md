@@ -7,12 +7,12 @@ layout: post
 guid: http://www.mwellner.de/?p=3302
 permalink: /2011/09/12/der-regisseur/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Regie
   - Stegemann
-  - theater/schauspiel
+  - theater
 ---
 Was bedeutet es eigentlich, Regisseur zu sein? Es ist einer meiner Träume und ich lese viel darüber derzeit. Und so langsam kristallisiert sich heraus, was sich eigentlich dahinter verbirgt. Wenn man einzig die praktische, unmittelbare Seite sieht, tut man als Regisseur folgendes:
 

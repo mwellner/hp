@@ -8,12 +8,12 @@ guid: http://www.mwellner.de/?p=6326
 permalink: /2015/10/25/henrys-gitarre/
 image: /wp-uploads/2015/10/MW_20151025_1454-150x100.jpg
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Gitarre
   - Musik
-  - theater/schauspiel
+  - theater
 ---
 Wichtige Regel für alle Schauspieler &ndash; Wenn dich dein Regisseur fragt, ob du mal ein Instrument gespielt hast, sage nichts! Ich war unvorsichtig und meinte, ich hätte schon mal Gitarre gespielt. So nahm das Unglück seinen Lauf, eine Ensemble-Partnerin brachte ihre Gitarre mit zur Probe, ich besorgte neue Saiten, zog diese auf und stimmte das gute Teil. Und dann kam dieser schöne Moment, als der erste satte a-moll erklang. Tja, dann werde ich mich jetzt wohl wieder mehr mit meiner musikalischen Seite beschäftigen, damit ich bis Februar was habe, was wir den Zuschauern zumuten können. 
 

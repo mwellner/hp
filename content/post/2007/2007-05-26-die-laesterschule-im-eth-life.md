@@ -9,12 +9,12 @@ permalink: /2007/05/26/die-laesterschule-im-eth-life/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - akitiv
   - Die Laesterschule
   - eth life
-  - theater/schauspiel
+  - theater
   - theatre
 ---
 Im ETH Life erschien jetzt ein Artikel &uuml;ber unser Theaterst&uuml;ck &#8220;Die L&auml;sterschule&#8221;. Ich spiele Joseph Surface, einen sehr unangenehmen, aber spannend zu spielenden Zeitgenossen.

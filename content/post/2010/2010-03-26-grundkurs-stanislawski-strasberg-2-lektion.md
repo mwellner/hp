@@ -6,7 +6,7 @@ excerpt: 'Ich beschreibe den Inhalt der zweiten Lektion im Schauspiel-Kurs nach 
 aliases: 
   - /2010/03/26/grundkurs-stanislawski-strasberg-2-lektion/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - authentisch
   - bühne

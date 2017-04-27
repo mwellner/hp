@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3781
 permalink: /2013/03/03/ich-treu-suche-in-konstanz/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Auftritt
   - Ausland
@@ -16,7 +16,7 @@ tags:
   - erfolg
   - k9
   - konstanz
-  - theater/schauspiel
+  - theater
   - Tournee
 ---
 Tourneealltag, nach fünf Vorstellungen an drei Orten kann man mittlerweile davon sprechen. Immerhin zum ersten Mal im Ausland, obwohl Konstanz nicht wirklich weit entfernt ist von Kreuzlingen, dem Ort unserer Premiere. Vielleicht zwei Kilometer trennen die beiden Spielorte. 

@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=2242
 permalink: /2009/11/27/nikolaj-gogol-der-revisor-sebastian-nubling/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Der Revisor
@@ -19,7 +19,7 @@ tags:
   - Revisor
   - Schauspiel
   - Schauspielhaus
-  - theater/schauspiel
+  - theater
   - Zürich
 ---
 So muss Theater sein &#8212; unterhaltsam, mit Tiefgang, aktuellen Anspielungen und wunderbar ausgearbeiteten Rollen. Das groteske Stück von Gogol zeigt eine korrupte Kleinstadt, die jäh durch die Ankunft eines vermeintlichen Revisors aufgescheucht wird. Aus Angst vor der Aufdeckung der offensichtlichen Missstände hofiert man den Ankömmling, dem seine Rolle als wichtiger Besucher schon bald zu Kopf steigt. Am Ende stellt sich heraus, dass er gar nicht der gefürchtete hohe Beamte war, das Spiel beginnt von Neuem. 

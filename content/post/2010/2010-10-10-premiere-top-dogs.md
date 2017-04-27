@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=2927
 permalink: /2010/10/10/premiere-top-dogs/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Applaus
   - Bühne

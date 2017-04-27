@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=2222
 permalink: /2009/11/18/theatersport/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Auftritt
   - Bühne
@@ -18,7 +18,7 @@ tags:
   - Improtheater
   - Improvisation
   - Stuz
-  - theater/schauspiel
+  - theater
   - Theatersport
 ---
 Man nehme 

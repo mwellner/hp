@@ -15,7 +15,7 @@ wp_jd_target:
 jd_wp_twitter:
   - ' New post: Aufbaukurs Stanislawski-Strasberg, 3. Lektion http://cli.gs/h1HRj'
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - analysieren
   - Arbeit am Stück

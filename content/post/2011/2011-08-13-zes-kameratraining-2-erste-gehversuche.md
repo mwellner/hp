@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3263
 permalink: /2011/08/13/zes-kameratraining-2-erste-gehversuche/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Einstellung
   - kamera

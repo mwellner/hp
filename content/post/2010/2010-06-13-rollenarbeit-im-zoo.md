@@ -13,7 +13,7 @@ wp_jd_bitly:
 wp_jd_target:
   - http://bit.ly/doY0pE
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Affe
   - Rolle

@@ -12,14 +12,14 @@ jd_tweet_this:
   - 'yes'
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - entscheidung
   - Handlung
   - Konzept
   - Regiekonzept
   - Richtungsentscheidung
-  - theater/schauspiel
+  - theater
   - theatre
   - Thema
   - Vorrang

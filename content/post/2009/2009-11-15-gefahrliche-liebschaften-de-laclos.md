@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=2230
 permalink: /2009/11/15/gefahrliche-liebschaften-de-laclos/
 categories:
   - literatur
-  - theater/schauspiel
+  - theater
 tags:
   - Adel
   - akitiv
@@ -24,7 +24,7 @@ tags:
   - Müßiggang
   - Produktion
   - Revolution
-  - theater/schauspiel
+  - theater
   - verführen
   - Verführung
 ---

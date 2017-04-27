@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=3074
 permalink: /2011/02/01/halbkontaktbosermontag/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Andreas Thiel
   - Auftritt
@@ -18,7 +18,7 @@ tags:
   - Hechtplatz
   - Intensität
   - Schauspiel
-  - theater/schauspiel
+  - theater
 ---
 Der perfekte Abend, zehn Minuten für die Ewigkeit beim [Bösen Montag](http://www.boesermontag.ch/). 
 

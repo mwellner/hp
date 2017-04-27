@@ -3,7 +3,7 @@ title: frischfleisch2
 date: 2012-06-07T22:48:02+00:00
 author: Mathias Wellner
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - frischfleisch
   - marco hausammann-gilardi

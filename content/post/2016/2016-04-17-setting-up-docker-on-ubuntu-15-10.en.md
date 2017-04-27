@@ -3,7 +3,7 @@ title: Setting up Docker on Ubuntu 15.10
 date: 2016-04-17T17:02:43+00:00
 author: Mathias Wellner
 categories:
-  - software development
+  - software
 tags:
   - container
   - development

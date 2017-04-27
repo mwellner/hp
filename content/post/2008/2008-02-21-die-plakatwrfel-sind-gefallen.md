@@ -10,7 +10,7 @@ podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - akitiv
   - Diskussion
@@ -19,7 +19,7 @@ tags:
   - Plakatmotiv
   - poster
   - Prozess
-  - theater/schauspiel
+  - theater
   - Verbrechen
 ---
 War es Demokratie? Oder doch eher eine schleichende Resignation, wie sie bei Motiv-Diskussionen allzu oft auftritt. Denn aktiv an der Diskussion beteiligt haben sich nicht wirklich alle Theaterspieler, das Interesse am Diskurs ließ immer mehr nach im Laufe der Zeit. Und auch mein Interesse, neu aufgekommene Ideen in Entwürfe umzusetzen. Hier ist es also, das Gewinnermotiv, welches ganz Zürich in unsere Aufführungen bringen wird.

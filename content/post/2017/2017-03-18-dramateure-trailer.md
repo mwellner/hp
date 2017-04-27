@@ -6,7 +6,7 @@ tags:
   - geschlossene gesellschaft
   - huis clos
 categories:
-  - theater/schauspiel
+  - theater
 date: 2017-03-18T23:32:34+01:00
 ---
 

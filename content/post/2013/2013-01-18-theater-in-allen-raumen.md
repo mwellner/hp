@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=3737
 permalink: /2013/01/18/theater-in-allen-raumen/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Gessnerallee
   - Hans
@@ -17,7 +17,7 @@ tags:
   - Soldat
   - Studenten
   - Teufel
-  - theater/schauspiel
+  - theater
   - Vorführung
   - ZHdK
   - Zürcher Hochschule der Künste

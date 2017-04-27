@@ -7,7 +7,7 @@ layout: post
 guid: http://blogs.ethz.ch/mwellner/2007/05/05/friedrich-duerrenmatt-der-meteor-studententheater-zuerich/
 permalink: /2007/05/05/friedrich-duerrenmatt-der-meteor-studententheater-zuerich/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Authentizit
   - Bewegung
@@ -15,7 +15,7 @@ tags:
   - Kritik
   - Laientheater
   - Studententheater
-  - theater/schauspiel
+  - theater
 ---
 Ein interessantes St&uuml;ck, zugeschnitten auf die Hauptfigur des vergeblich sterben wollenden Literatur-Nobelpreistr&auml;gers Wolfgang Schwitter. Dieser, eigentlich schon f&uuml;r tot erklaert, flieht aus dem Krankenhaus in sein altes Atelier, um dort in Ruhe zu sterben. Doch daraus wird nichts, stattdessen zieht er alle Besucher und Umstehenden ins Verderben, sie sterben in seiner Anwesenheit oder erleben, dass ihre Leben zu einem Tr&uuml;mmerhaufen werden.
 

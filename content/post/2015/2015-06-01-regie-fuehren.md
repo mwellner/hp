@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=5795
 permalink: /2015/06/01/regie-fuehren/
 categories:
-  - theater/schauspiel
+  - theater
 ---
 Zurzeit besuche ich den Kurs <a href="http://zes-info.ch/ZES/Kurs_Schauspielen_unter_Regieanweisung.html" title="Schauspielen unter Regieanweisung" target="_blank">Schauspielen unter Regieanweisung</a>. Das Erarbeiten einer Szene ist ein künstlerischer Prozess, bei dem verschiedene Menschen naturgemäß verschiedene Vorstellungen haben werden. Und als Regisseur darf man diesen Prozess nun lenken und gestalten. Ein wesentliches Element der künstlerischen Arbeit sind die Regieanweisungen. 
 

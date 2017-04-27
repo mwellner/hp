@@ -7,14 +7,14 @@ layout: post
 guid: http://www.mwellner.de/?p=3421
 permalink: /2012/04/14/wanjere-in-zwei-wochen/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Anton Tschechow
   - gz buchegg
   - Onkel Wanja
   - premiere
   - Probe
-  - theater/schauspiel
+  - theater
 ---
 &#8220;Onkel Wanja&#8221; nimmt Gestalt an &ndash; heute haben wir zum ersten Mal Teile des Stückes mit den fast finalen Requisiten und Kostümen geprobt. Morgen folgt dann ein erster Durchlauf, das heißt wir spielen das Stück von Anfang bis Ende. Bislang haben wir immer nur einzelne Szenen geprobt. 
 

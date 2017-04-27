@@ -3,7 +3,7 @@ title: '2009: Dissertation und Stanislawski'
 date: 2009-01-02T15:41:13+00:00
 author: Mathias Wellner
 categories:
-  - theater/schauspiel
+  - theater
   - wissenschaft
 tags:
   - dissertation

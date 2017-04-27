@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=6575
 permalink: /2016/04/16/ade-cricket-schlaeger/
 image: /wp-uploads/2016/04/DSC_4166_web-150x100.jpg
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Das einzig Wahre
   - dramateure

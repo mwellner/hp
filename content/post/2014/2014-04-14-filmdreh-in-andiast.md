@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4499
 permalink: /2014/04/14/filmdreh-in-andiast/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - andiast
   - Berge

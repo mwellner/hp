@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3170
 permalink: /2011/05/19/labview-revisited/?lang=en
 categories:
-  - software development
+  - software
 tags:
   - graphical
   - Labview @en

@@ -8,14 +8,14 @@ guid: http://www.mwellner.de/?p=6446
 permalink: /2016/01/03/theaterplakat/
 image: /wp-uploads/2016/01/plakat-106x150.jpg
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Das einzig Wahre
   - dramateure
   - Gestaltung
   - Motiv
   - Plakat
-  - theater/schauspiel
+  - theater
   - Tom Stoppard
   - Zuerich
 ---

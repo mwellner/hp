@@ -3,7 +3,7 @@ title: While I Was Waiting (Theaterspektakel Zürich)
 date: 2016-08-20T22:43:40+00:00
 author: Mathias Wellner
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - damaskus
   - syrien

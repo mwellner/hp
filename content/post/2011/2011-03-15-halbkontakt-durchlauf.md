@@ -8,13 +8,13 @@ guid: http://www.mwellner.de/?p=3119
 permalink: /2011/03/15/halbkontakt-durchlauf/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - halbkontakt
   - peinlich
   - Rolle
-  - theater/schauspiel
+  - theater
   - ZES
 ---
 Gestern abend haben wir den ersten vollständigen Durchlauf gemacht, er dauerte eine knappe Stunde. Marco meinte dann, wir hätten das Stück einfach nur technisch runtergespielt, es fehlte die Spannung und die Emotionalität, vor allem am Beginn. Aber ich denke, das ist normal für so einen ersten Durchlauf, ich war froh, dass der Text saß und ich immer in die richtige Richtung unterwegs war, da blieb wenig Kapazität für den emotionalen Gehalt. 

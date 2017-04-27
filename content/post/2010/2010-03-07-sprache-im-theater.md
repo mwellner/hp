@@ -7,11 +7,11 @@ layout: post
 guid: http://www.mwellner.de/?p=2503
 permalink: /2010/03/07/sprache-im-theater/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Sprache
   - Stimme
-  - theater/schauspiel
+  - theater
   - tipps
   - übungen
 ---

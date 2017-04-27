@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3387
 permalink: /2012/01/11/erste-szenenprobe-von-onkel-wanja/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - dramateure
   - Onkel Wanja
@@ -17,7 +17,7 @@ tags:
   - stellen
   - Szenenprobe
   - Telegin
-  - theater/schauspiel
+  - theater
   - Tschechow
   - Wanja
 ---

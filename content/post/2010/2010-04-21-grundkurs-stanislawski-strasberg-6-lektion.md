@@ -17,7 +17,7 @@ wp_jd_clig:
 wp_jd_target:
   - http://cli.gs/SnqdM
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Fenster
   - Höhe

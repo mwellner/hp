@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=3729
 permalink: /2013/01/12/endspurt-von-ich-treu-suche/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 ---
 Nicht mehr lange, ein reichlicher Monat bleibt uns noch bis zur Premiere am 15.&nbsp;Februar in Kreuzlingen. Wir haben einen guten Probestand, die meisten Szenen sind auch schon im Detail gearbeitet. Jetzt fehlen nur noch einzelne Szenen und dann natürlich die obligatorischen Durchläufe. 
 

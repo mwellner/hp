@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3311
 permalink: /2011/09/27/die-dramateure-starten-durch/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Auswahl
   - Demokratie
@@ -15,7 +15,7 @@ tags:
   - dramateure
   - Prozess
   - Stückauswahl
-  - theater/schauspiel
+  - theater
 ---
 Eine neue Theatersaison beginnt, heute hatten wir unser erstes Treffen für eine potenzielle Produktion 2012. Es ging vor allem ums Wiedersehen und erste Weichenstellungen. Aber grundsätzlich sieht es gut aus. Die meisten Leute sind wieder mit dabei, so schlimm kann es also bei der letzten Produktion nicht zugegangen sein. Und es gibt sogar zwei Regie-Kandidaten und viele potenzielle Mitorganisatoren. 
 

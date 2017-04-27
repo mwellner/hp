@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=4867
 permalink: /2014/09/29/javascript-talk-by-douglas-crockford-2/?lang=en
 categories:
-  - software development
+  - software
 ---
 It has been a year now since I have entered the ranks of <a href="http://www.comparis.ch" title="comparis.ch" target="_blank">comparis.ch</a>. The major new technology for me to learn in this time has been <a href="http://en.wikipedia.org/wiki/JavaScript" title="Wikipedia - JavaScript" target="_blank">JavaScript</a>. Coming from the classical object-oriented world, it takes a lot of time and patience to understand the prototype-based approach, which is used solely by JavaScript. 
 

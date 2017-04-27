@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4805
 permalink: /2014/08/18/mariano-pensotti-cineastas/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Argentinien
   - Buenos Aires

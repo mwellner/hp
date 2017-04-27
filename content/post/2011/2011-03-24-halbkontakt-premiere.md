@@ -8,12 +8,12 @@ guid: http://www.mwellner.de/?p=3127
 permalink: /2011/03/24/halbkontakt-premiere/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - halbkontakt
   - premiere
-  - theater/schauspiel
+  - theater
   - ZES
 ---
 Es kommt immer. Entweder vor dem ersten Auftritt oder währenddessen. Meine Hand mit dem Buch zittert leicht. Lampenfieber. Ich lese, die &#8220;Schöne Neue Welt&#8221; gibt mir Halt. Aber nicht für lange, Buch ablegen, Mac aufklappen, Rotweinglas und -flasche holen, Molly. Was für eine Frau. Viel spannender als meine Bühnengattin Marion. Ich bin in der Rolle, spüre die Spannung. 

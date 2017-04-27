@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=4776
 permalink: /2014/08/15/szenische-lesung-rosenkranz-und-gueldenstern-tom-stoppard/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - güldenstern
   - hamlet

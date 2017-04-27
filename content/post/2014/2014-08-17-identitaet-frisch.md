@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4778
 permalink: /2014/08/17/identitaet-frisch/
 categories:
   - tagebuch
-  - theater/schauspiel
+  - theater
 tags:
   - Authentizität
   - Biografie

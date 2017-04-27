@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=4482
 permalink: /2014/04/03/urs-widmer/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Neuenschwander
   - Neumarkt

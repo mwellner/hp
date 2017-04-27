@@ -7,7 +7,7 @@ layout: post
 guid: http://blogs.ethz.ch/mwellner/2006/12/07/akitiv-theaterstuecke-fuer-naechstes-jahr/
 permalink: /2006/12/07/akitiv-theaterstuecke-fuer-naechstes-jahr/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - akitiv
   - Auswahl
@@ -19,7 +19,7 @@ tags:
   - Sartre
   - Sheridan
   - Stück
-  - theater/schauspiel
+  - theater
 ---
 Für nächstes Jahr Juni ist wieder ein Theaterstück der Theatergruppe [akitiv](http://www.aki.ethz.ch/akitiv/) geplant. Welches genau wird sich am nächsten Mittwoch entscheiden. Momentan haben wir vier Kandidaten.
 

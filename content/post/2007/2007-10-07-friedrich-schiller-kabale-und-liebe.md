@@ -9,7 +9,7 @@ permalink: /2007/10/07/friedrich-schiller-kabale-und-liebe/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - theater/schauspiel
+  - theater
 ---
 Unter der Regie von David Bösch spielte das [Schauspielhaus Zürich](http://www.schauspielhaus.ch/home) das bekannte Schiller-Drama um die Unmöglichkeit einer standesüberschreitenden Liebe zweier junger Menschen. Ich kannte es aus der Schule, aus dieser Zeit hatte ich eher düstere Erinnerungen an ein langweiliges, trockenes Stück. Aber jeder Stoff hat seine zweite Chance verdient, noch dazu, wenn man an einem Samstagabend mit einer Last-Minute-Karte günstig dazu kommt. Und ich wurde nicht enttäuscht. Eine kraftvolle Inszenierung, die Liebe war als Anfangs- und Schlussmotiv der emotionale Schwerpunkt der Inszenierung.
 

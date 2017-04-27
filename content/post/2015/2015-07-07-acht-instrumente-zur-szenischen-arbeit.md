@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=5820
 permalink: /2015/07/07/acht-instrumente-zur-szenischen-arbeit/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - kommunikation

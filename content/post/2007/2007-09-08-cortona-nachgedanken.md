@@ -9,7 +9,7 @@ permalink: /2007/09/08/cortona-nachgedanken/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - theater/schauspiel
+  - theater
 ---
 Nach einer intensiven Woche in Cortona habe ich bis zur Abfahrt des Busses noch etwas Zeit, meine Gedanken zu ordnen und einige Ausschnitte zu präsentieren. Es gab hier jeden Tag den gleichen Ablauf, welcher sich grob an Konferenzen orientiert, jedoch mit ganz anderen Schwerpunkten.
 

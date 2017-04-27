@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=6653
 permalink: /2016/06/04/russische-rezension-von-das-einzig-wahre/
 image: /wp-uploads/2016/01/flyer_web-150x150.jpg
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Das einzig Wahre
   - The Real Thing

@@ -7,12 +7,12 @@ layout: post
 guid: http://blogs.ethz.ch/mwellner/2006/08/20/modernes-theater/
 permalink: /2006/08/20/modernes-theater/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Handlung
   - kompliziert
   - modern
-  - theater/schauspiel
+  - theater
   - Theaterspektakel
   - unverstaendlich
 ---

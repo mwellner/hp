@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=4606
 permalink: /2014/07/26/max-frisch-biografie-ein-spiel/
 categories:
-  - theater/schauspiel
+  - theater
 ---
 Die Biografie ist einer von mehreren Stück-Kandidaten für die nächste <a href="http://dramateure.ch" title="die dramateure zürich" target="_blank">Dramateure</a>-Produktion. Ich erinnere mich noch sehr positiv an die Neumarkt-Produktion vor einigen Jahren. Im kleinen Theatersaal in der Chorgasse spielten sie dieses Stück zu dritt, ich war hingerissen. 
 

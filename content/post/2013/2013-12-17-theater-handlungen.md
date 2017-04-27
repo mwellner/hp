@@ -8,12 +8,12 @@ guid: http://www.mwellner.de/?p=4152
 permalink: /2013/12/17/theater-handlungen/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Handlung
   - hilfe
-  - theater/schauspiel
+  - theater
 ---
 Als Inspirationsquelle sammle ich hier alle Tätigkeiten, die mir für die Bühne einfallen. Ich überlege gerade, was ich meinen Schauspielern noch zu tun geben könnte für einige lange Szenen im [idealen Gatten](http://dramateure.ch/wordpress/produktionen/ein-idealer-gatte/). 
 

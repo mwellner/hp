@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3494
 permalink: /2012/07/30/rollenarbeit-frischfleisch/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Basketball
   - Impro
@@ -17,7 +17,7 @@ tags:
   - selbstgeschrieben
   - Streetball
   - Stück
-  - theater/schauspiel
+  - theater
 ---
 Es geht voran in unserem selbsterstellten Stück. Wir versuchen zurzeit, durch Improvisationen Szenen zu erarbeiten. Es sind einige gute Sachen dabei, aber vieles funktioniert auch nicht so wirklich. Unsere Haussitzung hat nur gähnende Langeweile produziert. Es liegt vermutlich daran, dass die meisten in der Gruppe noch nicht viel Impro-Erfahrung haben und die Rollen noch nicht so klar definiert sind. 
 

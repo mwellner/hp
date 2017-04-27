@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=5872
 permalink: /2015/08/09/milo-rau-the-dark-ages/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Doku
   - Krieg

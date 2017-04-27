@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=3106
 permalink: /2011/03/12/halbtoscanakontakttherapie/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Andreas
   - Gerhard
@@ -16,7 +16,7 @@ tags:
   - Identität
   - Rolle
   - Stück
-  - theater/schauspiel
+  - theater
   - Toscana-Therapie
 ---
 Ich bin Mathias und spiele momentan in zwei Theaterproduktionen, [halbkontakt](http://www.kulturpunkt8424.ch/Theater_frischfleisch.html) und [Toscana-Therapie](http://dramateure.ch/mediawiki/index.php/Toscana-Therapie). Ich bin also neben Mathias auch Andreas und Gerhard und so langsam verliere ich den Überblick. 

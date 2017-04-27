@@ -4,7 +4,7 @@ date: 2010-04-06T23:07:56+00:00
 author: Mathias Wellner
 permalink: /2010/04/06/peter-brook/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - film
   - peter brook

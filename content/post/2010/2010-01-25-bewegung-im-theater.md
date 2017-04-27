@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=2394
 permalink: /2010/01/25/bewegung-im-theater/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - aufwärmen
   - Bewegung
@@ -15,7 +15,7 @@ tags:
   - laufen
   - physisch
   - Probe
-  - theater/schauspiel
+  - theater
   - übung
 ---
 Theater spielen heißt etwas tun und dabei den gesamten Körper einzusetzen. Eine Theaterprobe muss unbedingt körperliche Aktivitäten enthalten, sonst wird Theater zu einer rein geistigen Übung ohne physische Wahrheit. Ich möchte einige Übungen vorstellen, um Bewegung in die Theaterprobe einzubauen. 

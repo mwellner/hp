@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=4143
 permalink: /2013/12/14/weihnachtsessen-mit-theater/
 categories:
-  - theater/schauspiel
+  - theater
 ---
 Nachdem ich in den Vorjahren mit meinem bisherigen Arbeitgeber stets im Badener Casino zum Weihnachtsessen eingeladen war, ging es mit [Comparis](http://www.comparis.ch) ins [Schloss Rapperswil](http://www.schlossrapperswil.com/). Der Abend bestand aus zwei Teilen, zuerst stellten wir die partizipativ erarbeiteten Werte vor, danach ging es zum gepflegten Abendessen mit einer Improtheater-Einlage der [Barracudas](http://www.die-barracudas.ch/). 
 

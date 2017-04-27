@@ -7,12 +7,12 @@ layout: post
 guid: http://www.mwellner.de/?p=3812
 permalink: /2013/03/29/theaterlicht/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bananen vorne links
   - Frischfleisch
   - Licht
-  - theater/schauspiel
+  - theater
   - Töpferei
 ---
 Heute geschah es wieder &ndash; jener wunderbare Moment, wenn sich eine oft geprobte Szene durch den Einsatz von Licht magisch verwandelt. Schwarzer Hintergrund, selektives Licht, ein bisschen Farbe &ndash; die Zutaten sind einfach beschrieben. Aber die Wirkung ist ungeheuer. 

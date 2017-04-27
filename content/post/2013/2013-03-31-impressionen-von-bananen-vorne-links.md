@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=3815
 permalink: /2013/03/31/impressionen-von-bananen-vorne-links/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Bananen vorne links
   - Bühne

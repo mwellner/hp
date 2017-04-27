@@ -9,7 +9,7 @@ permalink: /2007/09/02/cortona-workshopauswahl/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - theater/schauspiel
+  - theater
 ---
 **[6:22]** Es ist früh am Morgen und der einzige Internet-Rechner im Haus ist frei &#8211; eine Seltenheit bei 150 Leuten. Ich habe, zumindest heute am ersten richtigen Cortona-Tag, meinen Vorsatz, immer um 6:00 aufzustehen, durchhalten können. Gestern gab es vor allem allgemeine Hinweise und sämtliche Workshop-Leiter stellten sich vor. Die Workshops werden quasi jeden Tag zu einer bestimmten Zeit am Nachmittag angeboten und sind auch begrenzt in ihrer Teilnehmerzahl. Man muss sich also entscheiden aus einem grossen Angebot.
 

@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4508
 permalink: /2014/04/28/probefotos-ein-idealer-gatte-oscar-wilde/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Ein idealer Gatte

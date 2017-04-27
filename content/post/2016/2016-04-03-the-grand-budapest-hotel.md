@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=6563
 permalink: /2016/04/03/the-grand-budapest-hotel/
 categories:
   - literatur
-  - theater/schauspiel
+  - theater
 tags:
   - Film
   - grand budapest hotel

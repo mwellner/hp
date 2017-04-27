@@ -3,7 +3,7 @@ title: Theaterarbeit
 date: 2012-07-01T16:10:15+00:00
 author: Mathias Wellner
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - frischfleisch
   - konzept

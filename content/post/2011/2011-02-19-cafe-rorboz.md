@@ -9,14 +9,14 @@ layout: post
 guid: http://www.mwellner.de/?p=3089
 permalink: /2011/02/19/cafe-rorboz/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Cafe Rorboz
   - Frischfleisch
   - halbkontakt
   - Rorbas
-  - theater/schauspiel
+  - theater
 ---
 Unsere zweite Spielstätte für die halbkontakt-Produktion ist das [Café Rorboz](http://www.rorboz.ch/) in Rorbas. Gestern konnten wir uns einen ersten Eindruck vom Lokal verschaffen. 
 

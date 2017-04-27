@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3865
 permalink: /2013/05/28/mutter-hure-konigin/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Griechenland
   - griechisch

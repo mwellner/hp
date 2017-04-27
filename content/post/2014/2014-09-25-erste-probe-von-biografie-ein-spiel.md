@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=4861
 permalink: /2014/09/25/erste-probe-von-biografie-ein-spiel/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Biografie
   - Bühne

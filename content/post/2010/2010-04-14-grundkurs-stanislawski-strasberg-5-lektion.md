@@ -6,7 +6,7 @@ excerpt: 'In der fünften Lektion stand die Fenstersturz-Szene im Mittelpunkt, e
 aliases: 
   - /2010/04/14/grundkurs-stanislawski-strasberg-5-lektion/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - dramatisch
   - fenster

@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3230
 permalink: /2011/07/07/max-frisch-don-juan-oder-die-liebe-zur-geometrie/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Die Liebe zur Geometrie
   - Don Juan

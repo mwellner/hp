@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4131
 permalink: /2013/12/10/relaunch-dramateure-homepage/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - dramateure
   - Homepage

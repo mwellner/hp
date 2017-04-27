@@ -7,7 +7,7 @@ layout: post
 guid: http://blogs.ethz.ch/mwellner/2006/05/07/theater-zweite-auffuehrung/
 permalink: /2006/05/07/theater-zweite-auffuehrung/
 categories:
-  - theater/schauspiel
+  - theater
 ---
 _Mein Name ist Bohun. Ich bin der erfolgreiche Anwalt, Sie haben bestimmt schon von mir gehört._
 

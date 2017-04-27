@@ -8,12 +8,12 @@ guid: http://www.mwellner.de/?p=3710
 permalink: /2012/12/17/probenfotos-ich-treu-suche/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Aufmerksamkeit
   - Requisiten
   - Schauspiel
-  - theater/schauspiel
+  - theater
 ---
 Die Proben zur ersten [Klima](http://www.klima-das-theater.ch)-Produktion gehen gut voran, die Premiere ist in zwei Monaten in Kreuzlingen am Bodensee. Wir haben zwar noch nicht alle Szenen im Detail gemacht, aber der Gesamtablauf steht schon mal. Wir wissen mehr oder weniger, wo wir wann sein werden und was mit den Requisiten geschieht. Das ist schon mal recht gut zu diesem Zeitpunkt. 
 

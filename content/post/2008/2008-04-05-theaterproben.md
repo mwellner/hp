@@ -10,12 +10,12 @@ podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - akitiv
   - Probe
   - Prozess
-  - theater/schauspiel
+  - theater
 ---
 Es geht voran, unser Stück nimmt immer mehr Gestalt an. Es lässt sich schwer beschreiben, wo dieser kreative Prozess genau steht. Die Szenen stehen größtenteils und werden momentan vom Regisseur noch optimiert. Den Text haben jetzt auch fast alle gelernt, das Proben wendet sich also immer mehr dem zeitlichen Ablauf und den Emotionen zu. Wichtig ist immer ein exakter Wechsel, von der einen Stimmung geht es blitzschnell zur nächsten. Hauptsache, das Publikum wird mitgerissen und langweilt sich nicht. Hier noch ein paar Eindrücke von den Proben:
 

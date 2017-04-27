@@ -3,7 +3,7 @@ title: Service Worker Experiments
 date: 2016-11-25T15:54:04+00:00
 author: Mathias Wellner
 categories:
-  - software development
+  - software
 tags:
   - ajax
   - fetch

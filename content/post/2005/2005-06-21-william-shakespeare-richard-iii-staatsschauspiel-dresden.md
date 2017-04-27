@@ -7,7 +7,7 @@ layout: post
 guid: http://blogs.ethz.ch/mwellner/2005/06/21/william-shakespeare-richard-iii-staatsschauspiel-dresden/
 permalink: /2005/06/21/william-shakespeare-richard-iii-staatsschauspiel-dresden/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühnentechnik
   - dresden
@@ -16,7 +16,7 @@ tags:
   - Shakespeare
   - Staatsschauspiel Dresden
   - technik
-  - theater/schauspiel
+  - theater
   - theatre
 ---
 Was für ein Stück! Ich bin beeindruckt, schwelge immer noch in süßen Erinnerungen. Genial Tom Quaas als machtbesessener Tyrann, der für die Königskrone über Leichen geht und dann, am Ziel seiner Träume, unfähig ist zu regieren. Seine Wandlung vom eiskalten Machtmenschen zum wahnsinnigen, selbstzerstörerischen Diktator war wunderbar zu beobachten.

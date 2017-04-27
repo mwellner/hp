@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4162
 permalink: /2013/12/21/ein-idealer-gatte-zwischenbilanz/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Flow

@@ -8,7 +8,7 @@ layout: post
 guid: http://www.mwellner.de/?p=2849
 permalink: /2010/07/14/mein-name-sei-alboury/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Alboury
   - Bühne
@@ -18,7 +18,7 @@ tags:
   - Neger
   - Schauspiel
   - Schwarzer
-  - theater/schauspiel
+  - theater
   - ZES
 ---
 > Gestatten, mein Name ist Alboury. Ich lebe in Westafrika, welches früher von den Franzosen besetzt war. Jetzt sind wir frei, aber die Weißen sind immer noch da und führen sich auf wie einst. Sie verstehen nichts von diesem Land, von unserer Kultur und vom Leben überhaupt. Ich möchte die Leiche meines Bruders abholen, er wollte heute von der Baustelle zurück kommen und man erzählte mir, er sei bei einem Unfall gestorben. 

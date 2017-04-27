@@ -15,7 +15,7 @@ wp_jd_clig:
 wp_jd_target:
   - http://cli.gs/1gYss
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - analytisches Lesen
   - Kurs

@@ -5,7 +5,7 @@ author: Mathias Wellner
 aliases: 
   - /2010/04/07/grundkurs-stanislawski-strasberg-4-lektion/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - kurs
   - schauspiel

@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3740
 permalink: /2013/02/01/ich-langsam-nervoes-werde/
 categories:
-  - theater/schauspiel
+  - theater
 ---
 Noch 14 Tage bis zur Premiere. Langsam wird es ernst, wir biegen mit [Ich, treu, suche](http://www.klima-das-theater.ch) auf die Zielgerade ein. 
 

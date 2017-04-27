@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4582
 permalink: /2014/07/13/theaterfilm/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 ---
 Eine meiner letzten Aufgaben im Rahmen der Theaterproduktion [Ein idealer Gatte](http://www.mwellner.de/schauspiel/ein-idealer-gatte/ "ein idealer gatte") ist das Erstellen des Videos. So ein Video ist eine Erinnerung für die Beteiligten, mit einem Fernsehfilm lässt sich das nicht vergleichen. Dennoch sitzt man eine ganze Weile, ehe alles beisammen ist. Beim Videoschneiden machen sich zwei Bildschirme dann wirklich gut, so kann man das Vorschau-Fenster bequem auf den zweiten Bildschirm legen und hat genug Übersicht für die ganzen Knöpfe und Regler. 
 

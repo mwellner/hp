@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3394
 permalink: /2012/01/22/denis-diderot-paradox-uber-den-schauspieler/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Barbara Villiger Heilig
   - Denis Diderot
@@ -17,7 +17,7 @@ tags:
   - Neumarkt
   - Regie
   - Schauspiel
-  - theater/schauspiel
+  - theater
   - Urs Schaub
   - Zuerich
 ---

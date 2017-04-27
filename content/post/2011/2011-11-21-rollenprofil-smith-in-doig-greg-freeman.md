@@ -7,14 +7,14 @@ layout: post
 guid: http://www.mwellner.de/?p=3347
 permalink: /2011/11/21/rollenprofil-smith-in-doig-greg-freeman/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Doig
   - Greg Freeman
   - Rolle
   - Smith
   - Stück
-  - theater/schauspiel
+  - theater
 ---
 Ich kann es nicht lassen, wieder habe ich mich beim [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch/ZES/ZES.html) eingeschrieben. Es geht um szenisches Arbeiten und Charakterentwicklung, als Basis dient uns das Stück Doig von Greg Freeman. Es ist ein zeitgenössisches, unterhaltsames Stück. 
 

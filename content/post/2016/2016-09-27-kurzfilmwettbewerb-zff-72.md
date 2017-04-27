@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=6968
 permalink: /2016/09/27/kurzfilmwettbewerb-zff-72/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - "72"
   - kurzfilm

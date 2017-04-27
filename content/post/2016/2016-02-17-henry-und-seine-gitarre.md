@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=6504
 permalink: /2016/02/17/henry-und-seine-gitarre/
 image: /wp-uploads/2016/02/guitar-150x100.jpg
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Das einzig Wahre

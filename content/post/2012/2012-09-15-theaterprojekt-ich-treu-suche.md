@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3565
 permalink: /2012/09/15/theaterprojekt-ich-treu-suche/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - klima
 ---

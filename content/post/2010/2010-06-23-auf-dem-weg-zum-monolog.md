@@ -14,7 +14,7 @@ wp_jd_bitly:
 wp_jd_target:
   - http://bit.ly/cUgI9y
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Kurs
@@ -23,7 +23,7 @@ tags:
   - Schauspiel
   - Sprache
   - Szene
-  - theater/schauspiel
+  - theater
   - Tierübung
   - Verkörperung
   - Vorbereitung

@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3511
 permalink: /2012/09/03/dialoge-schreiben/
 categories:
-  - theater/schauspiel
+  - theater
 ---
 Momentan beschäftige ich mich mit dem Schreiben von Dialogen. Für das Frischfleisch-Projekt soll jeder Teilnehmer 
 einen Dialog mit jedem anderen Teilnehmer schreiben. Welche dann verwendet werden &ndash; das steht noch nicht fest. 

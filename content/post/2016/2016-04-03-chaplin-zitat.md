@@ -11,7 +11,7 @@ categories:
 tags:
   - charlie chaplin
   - erleben
-  - theater/schauspiel
+  - theater
   - Zitat
 format: quote
 ---

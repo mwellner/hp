@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=2961
 permalink: /2010/11/05/friedrich-durrenmatt-die-panne-regie-lars-ole-walburg/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Die Panne
   - Dürrenmatt
@@ -17,7 +17,7 @@ tags:
   - Richter
   - Schauspielhaus
   - Stück
-  - theater/schauspiel
+  - theater
   - Traps
   - Walburg
 ---

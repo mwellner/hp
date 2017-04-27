@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3328
 permalink: /2011/10/20/habe-ach-studiert-studententheater-zurich/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Faust
   - Goethe
@@ -18,7 +18,7 @@ tags:
   - Studententheater
   - Szene
   - Szenen
-  - theater/schauspiel
+  - theater
   - Zürich
 ---
 Das [StuThe](http://stuthe.ch/) versprach einen Abend frei nach Faust, der sich aber doch nur sehr sporadisch in die freien Szenen aus dem Studentenleben hineingeschlichen hatte. 

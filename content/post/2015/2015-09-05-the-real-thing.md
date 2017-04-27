@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=6229
 permalink: /2015/09/05/the-real-thing/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Das einzig Wahre
   - The Real Thing

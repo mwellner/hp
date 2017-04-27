@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3746
 permalink: /2013/02/09/resolving-tfs-conflicts-the-hard-way/?lang=en
 categories:
-  - software development
+  - software
 tags:
   - Conflict
   - Conflicts Channel

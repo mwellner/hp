@@ -8,11 +8,11 @@ guid: http://www.mwellner.de/?p=3705
 permalink: /2012/12/10/probefotos-frischfleisch-produktion/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Foto
   - Probe
-  - theater/schauspiel
+  - theater
   - Zentrum für Enwicklung im Schauspiel
   - ZES
 ---

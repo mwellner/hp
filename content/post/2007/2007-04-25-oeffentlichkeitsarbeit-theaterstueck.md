@@ -13,7 +13,7 @@ tags:
   - bekannt machen
   - Medien
   - PR
-  - theater/schauspiel
+  - theater
 ---
 Für unsere Produktion [Die Lästerschule](http://www.aki.ethz.ch/akitiv/) wollen wir möglichst viele Leute begeistern. Hier wollte ich mal sammeln, welche Möglichkeiten es gibt.
 

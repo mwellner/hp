@@ -7,10 +7,10 @@ layout: post
 guid: http://blogs.ethz.ch/mwellner/2006/12/15/yasmina-reza-der-gott-des-gemetzels-schauspielhaus-zuerich/
 permalink: /2006/12/15/yasmina-reza-der-gott-des-gemetzels-schauspielhaus-zuerich/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - pfauen
-  - theater/schauspiel
+  - theater
   - Zuerich
 ---
 Eines sind die Stücke von [Yasmina Reza](https://de.wikipedia.org/wiki/Yasmina_Reza) allesamt: extrem unterhaltsam. So auch heute das Stück **Der Gott des Gemetzels**, welches hier in Zürich uraufgeführt wird. Zwei Ehepaare treffen sich, da sich ihre Kinder geprügelt haben, einer hat dem anderen mit einem Stock einen oder zwei Zähne ausgeschlagen.

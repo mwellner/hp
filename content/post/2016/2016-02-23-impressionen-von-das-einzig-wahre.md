@@ -9,7 +9,7 @@ permalink: /2016/02/23/impressionen-von-das-einzig-wahre/
 image: /wp-uploads/2016/02/3-120x150.jpg
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Das einzig Wahre
   - dramateure

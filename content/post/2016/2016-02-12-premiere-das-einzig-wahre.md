@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=6498
 permalink: /2016/02/12/premiere-das-einzig-wahre/
 image: /wp-uploads/2016/01/MW_20160114_1730-150x100.jpg
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Das einzig Wahre
   - premiere

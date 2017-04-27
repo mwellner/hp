@@ -3,7 +3,7 @@ title: Flyer für Biografie-Produktion
 date: 2014-12-08T21:50:28+00:00
 author: Mathias Wellner
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - flyer
   - quadrat

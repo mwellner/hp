@@ -8,7 +8,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3176
 permalink: /2011/05/28/yasmina-reza-kunst-theater-muntanellas/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Aarau
   - Inszenierung
@@ -17,7 +17,7 @@ tags:
   - Philipp Lenz
   - Rezension
   - Stück
-  - theater/schauspiel
+  - theater
   - Theatertage
   - Yasmina Reza
 ---

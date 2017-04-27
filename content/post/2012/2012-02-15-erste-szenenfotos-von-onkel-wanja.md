@@ -8,14 +8,14 @@ guid: http://www.mwellner.de/?p=3403
 permalink: /2012/02/15/erste-szenenfotos-von-onkel-wanja/
 categories:
   - bilder
-  - theater/schauspiel
+  - theater
 tags:
   - Anton Tschechow
   - Foto
   - Gitarre
   - Onkel Wanja
   - Szenenfoto
-  - theater/schauspiel
+  - theater
 ---
 Ein erstes Szenenfoto wird das Programmheft der [Theatertage Aarau](http://www.theatertage.ch) schmücken. Es zeigt Wanja und Astrow, die auf der Bühne so langsam Gestalt annehmen. 
 

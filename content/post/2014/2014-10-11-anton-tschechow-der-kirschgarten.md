@@ -7,13 +7,13 @@ layout: post
 guid: http://www.mwellner.de/?p=4896
 permalink: /2014/10/11/anton-tschechow-der-kirschgarten/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Anton Tschechow
   - Berlin
   - Kirschgarten
   - Maxim Gorki Theater
-  - theater/schauspiel
+  - theater
 ---
 Im Berliner Maxim-Gorki-Theater sah ich eine sehr eigenwillige Inszenierung von Tschechows Kirschgarten. Das [Gorki](http://gorki.de), wie es sich kurz nennt, wurde von [Theater heute](http://www.theaterheute.de) zum Theater des Jahres 2014 gekürt. Es besitzt ein bunt gemischtes Ensemble und setzt schrille, zeitgenössische Akzente.
 

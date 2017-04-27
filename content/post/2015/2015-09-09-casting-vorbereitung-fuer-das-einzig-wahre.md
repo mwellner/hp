@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=6232
 permalink: /2015/09/09/casting-vorbereitung-fuer-das-einzig-wahre/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Casting
   - Das einzig Wahre

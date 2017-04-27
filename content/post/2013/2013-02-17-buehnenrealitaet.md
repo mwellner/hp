@@ -7,7 +7,7 @@ layout: post
 guid: http://www.mwellner.de/?p=3757
 permalink: /2013/02/17/buehnenrealitaet/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Ich treu suche
@@ -15,7 +15,7 @@ tags:
   - Realität
   - Schauspiel
   - text
-  - theater/schauspiel
+  - theater
 ---
 Die Hauptaufgabe des Schauspielers besteht darin, den gleichen, einstudierten Ablauf immer wieder so zu erleben, als wäre es das erste Mal. Das trifft für den Text zu, den man immer wieder neu entstehen lassen muss, aber auch für die Emotionen. 
 

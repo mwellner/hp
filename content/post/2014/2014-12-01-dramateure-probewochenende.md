@@ -8,7 +8,7 @@ guid: http://www.mwellner.de/?p=4987
 permalink: /2014/12/01/dramateure-probewochenende/
 categories:
   - bilder
-  theater
+  - theater
 tags:
   - Biografie
   - dramateure

@@ -7,13 +7,13 @@ layout: post
 guid: http://www.mwellner.de/?p=3100
 permalink: /2011/02/20/alles-von-max-frisch-theater-neumarkt-2/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
   - Bühne
   - Impro
   - Max Frisch
   - Theater Neumarkt
-  - theater/schauspiel
+  - theater
 ---
 Zu Ehren des bekannten Schweizer Schriftstellers [Max Frisch](http://de.wikipedia.org/wiki/Max_Frisch) konzipierte das Theater Neumarkt einen Abend mit improvisierten Szenen aus dem Werk Frischs. Das Konzept ging nicht auf, abgesehen von einigen wenigen geglückten Szenen war der Großteil langweilig und unspektakulär. 
 

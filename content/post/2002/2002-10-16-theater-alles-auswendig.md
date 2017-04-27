@@ -8,13 +8,13 @@ guid: http://www.mwellner.de/blog/?p=1259
 permalink: /2002/10/16/theater-alles-auswendig/
 categories:
   - tagebuch
-  - theater/schauspiel
+  - theater
 tags:
   - Blacksburg
   - full run
   - Rebel
   - rebel without a cause
-  - theater/schauspiel
+  - theater
   - theatre
   - USA
 ---

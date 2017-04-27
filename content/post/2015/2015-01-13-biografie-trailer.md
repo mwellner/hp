@@ -1,22 +1,17 @@
 ---
-id: 5021
 title: Biografie-Trailer
 date: 2015-01-13T22:08:48+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5021
-permalink: /2015/01/13/biografie-trailer/
-vimeo_poster_image:
-  - http://i.vimeocdn.com/video/502982234_640.jpg
 categories:
-  - theater/schauspiel
+  - theater
 tags:
-  - Biografie
-  - Bühne
-  - Ein Spiel
-  - Max Frisch
-  - Trailer
+  - biografie
+  - bühne
+  - ein spiel
+  - max frisch
+  - trailer
   - video
-format: video
 ---
-[Trailer für &#8220;Biografie: Ein Spiel&#8221; von Max Frisch](http://vimeo.com/116582291)
+Dank unserer fernseh-erfahrenen Regisseurin Caroline Wloka haben wir diesen erstklassigen Trailer für unsere aktuelle Produktion [Biografie -- Ein Spiel](http://dramateure.ch/wordpress/produktionen/biografie-ein-spiel/). 
+
+<iframe src="https://player.vimeo.com/video/116582291?title=0&byline=0&portrait=0" width="1000" height="563" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

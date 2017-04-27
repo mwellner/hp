@@ -1,20 +1,17 @@
 ---
-id: 5169
 title: Bernard-Marie Koltès – Roberto Zuccho
 date: 2015-02-28T00:13:59+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5169
-permalink: /2015/02/28/bernard-marie-koltes-roberto-zuccho/
 categories:
-  - theater/schauspiel
+  - theater
 tags:
-  - Bernard-Marie Koltès
-  - Roberte Zuccho
+  - bernard-marie koltès
+  - roberte zuccho
+  - schauspielhaus zürich  
 ---
 Ein Serienmörder auf der Bühne, wie macht man das? 
 
-Er lebte wirklich, <a href="https://de.wikipedia.org/wiki/Roberto_Succo" title="Roberto Succo" target="_blank">Roberto Succo</a>. Tötete seine Eltern, misshandelte die Leichen, entfloh aus dem Gefängnis über das Dach, verübte weitere Verbrechen, ganz oben auf der Fahndungsliste, zwei Jahre ohne Erfolg. Am Ende Selbstmord, er wollte nicht eingesperrt sein. 
+Er lebte wirklich, [Roberto Succo](https://de.wikipedia.org/wiki/Roberto_Succo). Tötete seine Eltern, misshandelte die Leichen, entfloh aus dem Gefängnis über das Dach, verübte weitere Verbrechen, ganz oben auf der Fahndungsliste, zwei Jahre ohne Erfolg. Am Ende Selbstmord, er wollte nicht eingesperrt sein. 
 
 Das Stück stammt von <a href="https://de.wikipedia.org/wiki/Bernard-Marie_Kolt%C3%A8s" title="Bernard-Marie Koltès" target="_blank">Bernard-Marie Koltès</a>, einem französischen Dramatiker. 
 

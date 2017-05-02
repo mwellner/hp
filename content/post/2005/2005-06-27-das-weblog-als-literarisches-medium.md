@@ -1,21 +1,14 @@
 ---
-id: 466
 title: Das Weblog als literarisches Medium
 date: 2005-06-27T19:00:30+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/06/27/das-weblog-als-literarisches-medium/
-permalink: /2005/06/27/das-weblog-als-literarisches-medium/
 categories:
-  - www
+  - literatur
 tags:
-  - Argumentation
-  - Argumente
-  - Gründe
-  - Internet
-  - Literatur
-  - Medium
-  - Netz
+  - internet
+  - literatur
+  - medium
+  - netz
   - online
   - www
 ---

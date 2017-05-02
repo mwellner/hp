@@ -1,19 +1,15 @@
 ---
-id: 1265
 title: Semesterende, Bluegrass, Weihnachtliches
 date: 2002-12-17T21:29:08+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/blog/?p=1265
-permalink: /2002/12/17/semesterende-bluegrass-weihnachtliches/
 categories:
   - tagebuch
 tags:
-  - Baum
-  - Blacksburg
-  - Schmücken
-  - USA
-  - Weihnachten
+  - baum
+  - blacksburg
+  - schmücken
+  - usa
+  - weihnachten
 ---
 Das Semester ist zu Ende, heute habe ich den letzten Beweis herausgefunden. Morgen werde ich noch ein wenig am Gesamtbild herumfeilen, doch die Furcht, eine Aufgabe nicht lösen zu können, ist nun nicht mehr vorhanden. Am Mittwoch werde ich das Machwerk dann abgeben, der letzte Akt des Semesters. Danach folgen drei lange Wochen mit Weihnachten, Sylvester und dergleichen. Die Vorstellung, in dieser Zeit hier in Blacksburg festzustecken, ist nicht gerade erbaulich. Verlassene Straßen, geschlossene Läden, Trostlosigkeit &#8211; ohne Studenten geht in Blacksburg nichts. Hoffentlich können wir ein billiges altes Auto kriegen und uns gen Süden davonmachen.
 

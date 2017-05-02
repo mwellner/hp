@@ -1,16 +1,11 @@
 ---
-id: 1261
 title: Theater, der Vorhang ist gefallen
 date: 2002-10-28T22:03:12+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/blog/?p=1261
-permalink: /2002/10/28/theater-der-vorhang-ist-gefallen/
 categories:
   - tagebuch
-  - theater
 tags:
-  - Blacksburg
+  - blacksburg
   - Derniere
   - Ende
   - rebel without a cause

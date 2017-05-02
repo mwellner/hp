@@ -1,17 +1,15 @@
 ---
-id: 372
 title: LaTeX-Ärger, ein Punkt zuviel
 date: 2005-03-28T00:00:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/03/28/latex-arger-ein-punkt-zuviel/
-permalink: /2005/03/28/latex-arger-ein-punkt-zuviel/
+categories:
+  - latex
 tags:
-  - LaTeX
-  - Nummerierung
-  - Problem
-  - Punkt
-  - Ueberschriften
+  - latex
+  - nummerierung
+  - problem
+  - punkt
+  - überschriften
 ---
 Bislang habe ich stets über Word-User gelächelt, wenn sie kurz vor Abgabe noch vor irgendwelchen obskuren Problemen standen. Nun hat es mich als passionierten LaTeX-User auch mal erwischt. Der aufgetretene Fehler ist zwar nicht weiter schlimm, aber dennoch nervig.
 

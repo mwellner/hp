@@ -1,20 +1,16 @@
 ---
-id: 1254
 title: The Honor System at Virginia Tech
 date: 2002-09-14T12:12:56+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/blog/?p=1254
-permalink: /2002/09/14/the-honor-system/
 categories:
-  - tagebuch
+  - diary
 tags:
   - cheating
   - classes
   - courses
   - honor system
-  - USA
-  - Virginia Tech
+  - usa
+  - virginia tech
 ---
 Some more details about my studies at Virginia Tech. My courses are Linear Systems Theory, Neural and Fuzzy Systems and Electronic Control of Motor Devices. The first two are on graduate level, what means, that they are a little bit more tough and tricky. The last one is undergraduate level and more relaxing.
 

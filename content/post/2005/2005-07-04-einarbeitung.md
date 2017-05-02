@@ -1,22 +1,16 @@
 ---
-id: 468
 title: Einarbeitung, Werkzeuge
 date: 2005-07-04T15:26:18+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/07/04/einarbeitung/
-permalink: /2005/07/04/einarbeitung/
 categories:
   - tagebuch
 tags:
-  - Editor
-  - GNUplot
-  - Graphen
-  - LaTeX
-  - Textsatz
-  - Vi
-  - Vim
-  - Werkzeuge
+  - editor
+  - gnuplot
+  - latex
+  - textsatz
+  - vim
+  - werkzeuge
 ---
 Ich sitze an meinem Schreibtisch im untersten Stockwerk des Krankenhauses Balgrist. Im Zimmer sind noch drei andere Leute, das Klima ist locker, aber ein jeder macht halt sein Ding. Und mein Ding ist halt momentan die Einarbeitung, wobei ich da auch völlig freie Hand habe. Eine kleine Aufgabe gibt es, ich soll das Programm für das Lokolift-System (der Teil, welcher den Patienten hält) für einen klinischen Test modifizieren. Dafür sind einige Tests notwendig, um dann die Programmänderung durchzuführen. Aber das war auch nicht weiter dringlich, wenn ich das recht verstanden habe.
 

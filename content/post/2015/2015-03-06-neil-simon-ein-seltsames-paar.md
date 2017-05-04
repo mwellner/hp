@@ -1,18 +1,14 @@
 ---
-id: 5171
-title: 'Neil Simon &ndash; Ein seltsames Paar'
+title: Neil Simon -- Ein seltsames Paar
 date: 2015-03-06T21:41:11+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5171
-permalink: /2015/03/06/neil-simon-ein-seltsames-paar/
 categories:
   - theater
 tags:
-  - Ein seltsames Paar
-  - Neil Simon
-  - Odd Couple
-  - Theater Dreierlei
+  - ein seltsames paar
+  - neil simon
+  - odd couple
+  - theater dreierlei
 ---
 Es gibt viele Amateur-Theatergruppen in Zürich, und jetzt mit dem <a href="http://theater-dreierlei.ch" title="Theater Dreierlei" target="_blank">Theater Dreierlei</a> eine mehr. Die meisten Leute dort kenne ich, beim [Idealen Gatten](http://www.mwellner.de/schauspiel/ein-idealer-gatte/ "Ein idealer Gatte") letztes Jahr waren Susanne, Urs und Katharina dabei. Und mit Beat habe ich eine Weile beim <a href="http://zes-info.ch" title="Zentrum für Entwicklung im Schauspiel" target="_blank">ZES</a> geprobt. Also sah ich viele bekannte Gesichter in der <a href="http://www.buehne-s.ch/" title="Bühne S" target="_blank">Bühne S</a> beim Bahnhof Stadelhofen. 
 

@@ -1,13 +1,9 @@
 ---
-id: 5561
 title: UX Munich – Conference Notes
 date: 2015-03-20T22:10:23+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5561
-permalink: /2015/03/20/ux-munich-conference-notes/?lang=en
 categories:
-  - www
+  - diary
 tags:
   - munich
   - user experience

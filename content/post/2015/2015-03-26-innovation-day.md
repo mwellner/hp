@@ -1,13 +1,13 @@
 ---
-id: 5642
 title: Innovation Day
 date: 2015-03-26T17:57:51+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5642
-permalink: /2015/03/26/innovation-day/
 categories:
-  - tagebuch
+  - diary
+tags:
+  - innovation
+  - workshop
+  - comparis
 ---
 Der heutige Comparis-Arbeitstag stand ganz im Zeichen der Innovation. In den großzügigen Räumlichkeiten des Hallenstadions in Zürich-Oerlikon arbeiteten wir in vier Teams an Produkt- und sonstigen Ideen. Ich war stellvertretender Themenverantwortlicher für tragbare Geräte (<a href="https://de.wikipedia.org/wiki/Wearable_Computing" title="Wearable Computing" target="_blank">Wearable Computing</a>), damit konnte ich meine Moderationsfähigkeiten unter Beweis stellen. Wir waren jedoch eine friedliche Gruppe, die vor allem aus Entwicklern bestand. Und wir waren auch produktiv und haben einige tolle Ideen ausformuliert, die jetzt auf ihre Umsetzbarkeit geprüft werden. 
 

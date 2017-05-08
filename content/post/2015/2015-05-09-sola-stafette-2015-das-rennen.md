@@ -1,20 +1,17 @@
 ---
-id: 5744
 title: SOLA-Stafette 2015, das Rennen
 date: 2015-05-09T16:01:46+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5744
-permalink: /2015/05/09/sola-stafette-2015-das-rennen/
 categories:
-  - 'sport &amp; freizeit'
+  - sport
 tags:
   - laufen
   - rennen
-  - SOLA
-  - Stafette
-  - Team
-  - Wettkampf
+  - sola
+  - stafette
+  - team
+  - wettkampf
+  - comparis
 ---
 Heute bin ich zum ersten Mal bei einem großen Laufwettbewerb dabei gewesen, der [SOLA-Stafette](http://portal.sola.asvz.ethz.ch/Seiten/default.aspx "SOLA-Stafette") rund um Zürich. Gemeinsam mit 13 sportlichen Arbeitskollegen von <a href="http://comparis.ch" title="Comparis" target="_blank">Comparis</a> rannten wir eine Gesamtstrecke von 116&thinsp;km. Insgesamt waren 903 Teams am Start.
 

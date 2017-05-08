@@ -1,11 +1,7 @@
 ---
-id: 5057
 title: Literaturtempel
 date: 2014-12-25T23:29:45+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5057
-permalink: /2014/12/25/literaturtempel/
 categories:
   - tagebuch
 tags:

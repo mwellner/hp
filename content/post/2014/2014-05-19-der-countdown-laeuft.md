@@ -1,17 +1,12 @@
 ---
-id: 4512
 title: Der Countdown läuft!
 date: 2014-05-19T13:20:15+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4512
-permalink: /2014/05/19/der-countdown-laeuft/
 categories:
-  - bilder
   - theater
 tags:
-  - Ein idealer Gatte
-  - Oscar Wilde @de
+  - ein idealer gatte
+  - oscar wilde
 ---
 Nur noch wenige Tage bis zur Premiere von &#8220;Ein idealer Gatte&#8221; (Oscar Wilde), meiner ersten Regiearbeit. Ich bin aufgeregt! Wir haben um die 100 Reservationen für die Premiere, zum Glück ist das Boulevard-Theater groß. 
 

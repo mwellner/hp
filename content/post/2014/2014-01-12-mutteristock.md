@@ -1,21 +1,12 @@
 ---
-id: 4175
 title: Mutteristock
 date: 2014-01-12T23:22:43+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4175
-permalink: /2014/01/12/mutteristock/
 categories:
-  - bilder
-  - wandern
+  - tagebuch
 tags:
-  - Alpen
-  - Berge
-  - Bergwandern
-  - muskelkater
+  - alpen
   - mutteristock
-  - Schnee
   - schneeschuhe
   - schwyz
   - wandern

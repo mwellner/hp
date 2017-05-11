@@ -1,19 +1,14 @@
 ---
-id: 4454
 title: First Steps with Scheme and Git
 date: 2014-03-01T11:17:47+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4454
-permalink: /2014/03/01/first-steps-with-scheme-and-git-2/?lang=en
 categories:
   - software
 tags:
   - git
   - github
   - lisp
-  - programming @en
-  - scheme
+  - programming
 ---
 Today, I installed [Git](http://en.wikipedia.org/wiki/Git_%28software%29), joined [github.com](http://github.com) and published my first two code snippets in [Scheme](http://en.wikipedia.org/wiki/Scheme_%28programming_language%29) ([Lisp](http://en.wikipedia.org/wiki/Lisp_programming_language) dialect). 
 

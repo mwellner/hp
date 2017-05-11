@@ -1,24 +1,12 @@
 ---
-id: 4490
 title: Wahre Geschichten
 date: 2014-04-06T22:52:19+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4490
-permalink: /2014/04/06/wahre-geschichten/
 categories:
   - tagebuch
 tags:
   - erzählen
-  - erzähler
-  - erzählerin
-  - Event
-  - format
-  - hub
-  - live
-  - viadukt
-  - wahre geschichten
-  - Zuerich
+  - zürich
 ---
 Heute fand zum ersten Mal ein Abend des Formats [Wahre Geschichten](http://www.wahre-geschichten.com/) statt, in der [Viaduktstrasse 93](http://www.wahre-geschichten.com/zurich/ort). Die Idee ist, dass Leute selbst erlebte, wahre Geschichten erzählen, mit minimalen Hilfsmitteln. Im Wesentlichen ein Mikrofon und ein Publikum. 
 

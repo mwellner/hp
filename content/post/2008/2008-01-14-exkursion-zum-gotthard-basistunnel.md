@@ -1,24 +1,14 @@
 ---
-id: 784
 title: Exkursion zum Gotthard-Basistunnel
 date: 2008-01-14T17:14:20+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/02/02/exkursion-zum-gotthard-basistunnel/
-permalink: /2008/01/14/exkursion-zum-gotthard-basistunnel/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - reisen
 tags:
-  - Alpen
-  - aveth
-  - Basistunnel
-  - Exkursion
-  - Gotthard
-  - NEAT
-  - Sedrun
-  - Tunnel
+  - basistunnel
+  - gotthard
+  - neat
+  - sedrun
 ---
 Um mich herum stehen orange gekleidete Leute mit orangen Helmen und Schutzbrillen. Ansonsten ist da nur dunkles Alpgestein, abgesehen von einigen vergleichsweise kleinen Röhren, eine nach oben, die andere horizontal. Es herrscht ein ohrenbetäubender Lärm hier unten, aber dafür ist es ganzjährig warm. Dennoch, es ist kein schöner Ort, zum Glück fahren die Züge dann später mit mehr als 200 km/h vorbei ohne anzuhalten. Zürich-Mailand in 2 h 40 min, dafür lohnt es schon, 18 Jahre zu bohren und zu sprengen, etliche Milliarden Franken auszugeben und dann – wenn nicht die Japaner schneller sind – den mit 57 km längsten Eisenbahntunnel der Welt zu haben. Es ist ein ambitioniertes Projekt, an dem wohl Alfred Escher seine wahre Freude gehabt hätte.
 

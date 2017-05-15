@@ -1,15 +1,9 @@
 ---
-id: 783
 title: Psychophysiology
 date: 2008-01-17T17:11:31+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/01/17/psychophysiology/
-permalink: /2008/01/17/psychophysiology/?lang=en
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - tagebuch
+  - science
 tags:
   - audience
   - physiology

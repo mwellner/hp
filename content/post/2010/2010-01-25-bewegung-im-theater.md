@@ -1,11 +1,7 @@
 ---
-id: 2394
 title: Bewegung im Theater
 date: 2010-01-25T23:22:06+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2394
-permalink: /2010/01/25/bewegung-im-theater/
 categories:
   - theater
 tags:

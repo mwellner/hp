@@ -1,21 +1,14 @@
 ---
-id: 4091
 title: Start bei comparis.ch
 date: 2013-10-04T20:37:08+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4091
-permalink: /2013/10/04/start-bei-comparis-ch/
 categories:
-  - www
+  - tagebuch
 tags:
   - comparis
-  - Job
   - portal
-  - Technologie
-  - Vergleich
+  - vergleich
   - versicherung
-  - web @de
 ---
 Die ersten Tage bei [comparis.ch](http://www.comparis.ch) sind vorüber. Bei Comparis können Verbraucher zum Beispiel Versicherungen vergleichen oder nach Immobilien und Fahrzeugen suchen. Die Entscheidung liegt natürlich beim Verbraucher, Comparis stellt unabhängig und neutral die Daten zur Entscheidungsfindung zur Verfügung. 
 

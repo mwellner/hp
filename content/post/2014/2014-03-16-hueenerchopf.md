@@ -1,20 +1,12 @@
 ---
-id: 4471
 title: Hüenerchopf
 date: 2014-03-16T23:24:14+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4471
-permalink: /2014/03/16/hueenerchopf/
 categories:
-  - bilder
-  - wandern
+  - tagebuch
 tags:
-  - Alpen
-  - Berge
   - flums
-  - Schneeschuh
-  - Tour
+  - schneeschuh
   - wandern
 ---
 Es war eine schöne Schneeschuhwanderung in der Nähe von Flums. Über immer enger werdende Straßen näherten wir uns Vermol, dem Ausgangsort unserer Wanderung. Dann ging es erst durch Wald, später unter freiem Himmel ungefähr 1000 Höhenmeter rauf zum Gipfel (2172&thinsp;m). 

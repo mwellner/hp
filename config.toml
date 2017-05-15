@@ -14,6 +14,10 @@ enableRobotsTXT = true
   author = "Mathias Wellner"
   date_format = "02.01.2006"
 
+[params.sidebar]
+  about = "Ich lebe in Darmstadt, bändige Angular und spiele Theater."
+
+
 [Languages]
 [Languages.en]
 [Languages.de]

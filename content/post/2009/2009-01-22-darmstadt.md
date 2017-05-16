@@ -8,7 +8,6 @@ categories:
 tags:
   - darmstadt
   - konferenz
-  - sportmotorik
   - tagung
   - vortrag
 ---

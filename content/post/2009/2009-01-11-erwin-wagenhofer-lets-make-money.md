@@ -1,17 +1,13 @@
 ---
-title: "Erwin Wagenhofer: Let's Make Money"
+title: Erwin Wagenhofer -- Let's Make Money
 date: 2009-01-11T20:48:30+00:00
 author: Mathias Wellner
 categories:
-  - politik
+  - tagebuch
 tags:
-  - doku
   - dokumentarfilm
-  - dokumentation
   - film
   - immobilienblase
-  - kapitalismus
-  - spanien
   - steuerflucht
   - steuerhinterziehung
   - steueroasen
@@ -54,10 +50,9 @@ Der Film hat mir vor Augen geführt, zu welchen Exzessen unser Wirtschaftssystem
 
 #### Was kann man tun?
 
-  1. Investiere dein Geld in nachhaltige Anlageformen (siehe Geldanlagen bei der Erklärung von Bern).
+  1. Investiere dein Geld in nachhaltige Anlageformen (siehe Geldanlagen bei der [Erklärung von Bern](https://www.evb.ch)).
   2. Engagiere dich in einer international tätigen Nicht-Regierungs-Organisation.
   3. Spende für eine international tätige Nicht-Regierungs-Organisation.
   4. Kaufe regionale und saisonale Lebensmittel.
   5. Mache Urlaub in der Nähe.
   6. Fahre mit dem Fahrrad und öffentlichen Verkehrsmitteln.
-  7. Verkaufe CDs mit Daten von Steuerflüchtlingen an deren Herkunftsland.

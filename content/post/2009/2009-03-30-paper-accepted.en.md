@@ -8,7 +8,6 @@ tags:
   - audience
   - choking
   - crowd
-  - jset
   - motivation
   - publication
   - publish

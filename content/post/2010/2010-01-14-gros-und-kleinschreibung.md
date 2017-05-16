@@ -1,23 +1,16 @@
 ---
-id: 2374
-title: 'Groß- und kleinschreibung'
+title: Groß- und kleinschreibung
 date: 2010-01-14T00:00:16+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2374
-permalink: /2010/01/14/gros-und-kleinschreibung/
+categories:
+  - tagebuch
 tags:
-  - Alphabet
-  - Buchstabe
-  - Großschreibung
-  - Kleinschreibung
-  - lateinisch
-  - Lesbarkeit
-  - Otl Aicher
-  - Rechtschreibung
-  - Sprache
+  - alphabet
+  - großschreibung
+  - kleinschreibung
+  - lesbarkeit
 ---
-Die Großschreibung auch von Substantiven ist eine Eigenart des Deutschen (und Luxemburgischen). In anderen Sprachen (wie dem Englischen oder Französischen) werden nur Eigennamen und Satzanfänge großgeschrieben. In außereuropäischen Sprachen fehlt diese Unterscheidung ganz. Damit spart man sich zwei separate Alphabete. In diesem Beitrag möchte ich die Herkunft dieses Phänomens erläutern und auch die radikale kleinschreibung auf der basis von otl aichers buch &#8220;typographie&#8221; vorstellen. 
+Die Großschreibung auch von Substantiven ist eine Eigenart des Deutschen (und Luxemburgischen). In anderen Sprachen (wie dem Englischen oder Französischen) werden nur Eigennamen und Satzanfänge großgeschrieben. In außereuropäischen Sprachen fehlt diese Unterscheidung ganz. Damit spart man sich zwei separate Alphabete. In diesem Beitrag möchte ich die Herkunft dieses Phänomens erläutern und auch die radikale kleinschreibung auf der basis von otl aichers buch "typographie" vorstellen. 
 
 **HERKUNFT DER GROSSBUCHSTABEN**
 

@@ -6,11 +6,11 @@ categories:
   - theater
 tags:
   - akitiv
-  - Gestaltung
-  - Rolle
+  - rolle
   - theater
+  - arkadien
 ---
-Die Rollen für unser Stück &#8220;Arkadien&#8221; stehen fest, ich werde in der alten Zeit den Landschaftsarchitekten Richard Noakes und in der Gegenwart den stummen Gus spielen. Ich hatte mir zwar eine größere Rolle erhofft, aber auch diese beiden Rollen verlangen Einiges ab und sind bestimmt lustig zu spielen.
+Die Rollen für unser Stück _Arkadien_ stehen fest, ich werde in der alten Zeit den Landschaftsarchitekten Richard Noakes und in der Gegenwart den stummen Gus spielen. Ich hatte mir zwar eine größere Rolle erhofft, aber auch diese beiden Rollen verlangen Einiges ab und sind bestimmt lustig zu spielen.
 
 Zentral für die gute Darstellung ist die Arbeit an der Rolle, das heißt am Text und darüber hinaus am Füllen der Lücken. Denn gerade bei Nebenrollen bietet der Text recht wenig und man kann sich noch recht viel dazu überlegen. Anhand der Hinweise im Text möchte ich für meine beiden Rollen je eine grobe Biographie erstellen. Diese sollte die Hauptfragen klären, welche der Text offen lässt. Wie wurde Noakes zum Landschaftsarchitekten und Vertreter des malerischen Stils? Warum ist Gus seit seinem fünften Lebensjahr stumm?
 
@@ -18,35 +18,30 @@ Zentral für die gute Darstellung ist die Arbeit an der Rolle, das heißt am Tex
 
 Im Eingangsmonolog zwischen Thomasina und Septimus spielt Noakes bereits eine wichtige Rolle. Denn er hat Mrs. Chater im Gartenpavillion in &#8220;fleischlicher Umarmung&#8221; mit Septimus beobachtet. Thomasina hat das in der Küche aber nur teilweise aufgeschnappt und fragt Septimus, was es mit dieser &#8220;fleischlichen Umarmung&#8221; denn auf sich hätte. Septimus ist empört:
 
-> SEPTIMUS Eine wahre Giftnatter, unser Mr. Noakes. Er gibt sich als Gentleman, als Philosoph des Malerischen, als Visionär, der Berge versetzen und Seen aufstauen kann, aber im himmlischen Gartenplan hat er die Rolle der Schlange. 
+<blockquote class="blockquote">
+SEPTIMUS Eine wahre Giftnatter, unser Mr. Noakes. Er gibt sich als Gentleman, als Philosoph des Malerischen, als Visionär, der Berge versetzen und Seen aufstauen kann, aber im himmlischen Gartenplan hat er die Rolle der Schlange.
+</blockquote>
 
-Später betritt Noakes den Raum, in dem sich der gehörnte Mr. Chater und Septimus befinden und gerät beim Anblick der beiden in Panik. Danach kommen aber Lady Croom, Brice und Thomasina hinzu und diskutieren über die Umgestaltung des Gartens, was von Chater und Septimus als Anspielung auf fleischliche Umarmungen missverstanden wird. Noakes sagt nicht viel, offenbart sich jedoch als Vertreter des pittoresken oder malerischen Stils.
+Später betritt Noakes den Raum, in dem sich der gehörnte Mr. Chater und Septimus befinden und gerät beim Anblick der beiden in Panik. Danach kommen aber Lady Croom, Brice und Thomasina hinzu und diskutieren über die Umgestaltung des Gartens, was von Chater und Septimus als Anspielung auf fleischliche Umarmungen missverstanden wird. Noakes sagt nicht viel, offenbart sich jedoch als Vertreter des pittoresken oder malerischen Stils.<br>
 
-> NOAKES (beantwortet die falsche Frage) Salvator Rosa, Mylady, der Maler. Er ist in der Tat das Musterbeispiel für den pittoresken Stil. 
-
-> BRICE Alles sehr irregulär, Noakes!
-  
-> NOAKES Jawohl, Sir. Irregularität ist eines der Grundprinzipen des malerischen Stils –. 
+<blockquote class="blockquote">
+<p>NOAKES (beantwortet die falsche Frage) Salvator Rosa, Mylady, der Maler. Er ist in der Tat das Musterbeispiel für den pittoresken Stil.</p>
+<p>BRICE Alles sehr irregulär, Noakes!</p>
+<p>NOAKES Jawohl, Sir. Irregularität ist eines der Grundprinzipen des malerischen Stils.</p>
+</blockquote>
 
 Im letzten Bild hat Noakes auch nochmal einen kurzen Auftritt. Die Umgestaltungsarbeiten sind fortgeschritten und die Dampfmaschine ist installiert.
 
-> LADY CROOM Mr. Noakes!
-  
-> NOAKES Mylady —
-  
-> LADY CROOM Was haben Sie mir angetan!
-  
-> NOAKES Es läuft alles sehr zufriedenstellend, Mylady: etwas hinterm Zeitplan zurück, gewiß, aber der Staudamm ist bis nächsten Monat wieder repariert, fast alle frisch gepflanzten Bäume sind stehengeblieben, und die paar, die weggeschwemmt wurden —
-  
-> LADY CROOM (schlägt auf den Tisch) Still!
-             
-> (In der Stille, die darauf folgt, hört man in der
-             
-> Ferne die stampfende Dampfmaschine.)
-             
-> Hören Sie das, Mr. Noakes?
-  
-> NOAKES (stolz und glücklich) Die verbesserte Newcomensche Dampfpumpe — die einzige in England! 
+<blockquote class="blockquote">
+<p>LADY CROOM Mr. Noakes!</p>
+<p>NOAKES Mylady -- </p>
+<p>LADY CROOM Was haben Sie mir angetan!</p>
+<p>NOAKES Es läuft alles sehr zufriedenstellend, Mylady: etwas hinterm Zeitplan zurück, gewiß, aber der Staudamm ist bis nächsten Monat wieder repariert, fast alle frisch gepflanzten Bäume sind stehengeblieben, und die paar, die weggeschwemmt wurden --</p>
+<p>LADY CROOM (schlägt auf den Tisch) Still!</p>
+<p>(In der Stille, die darauf folgt, hört man in der Ferne die stampfende Dampfmaschine.)</p>
+<p>Hören Sie das, Mr. Noakes?</p>
+<p>NOAKES (stolz und glücklich) Die verbesserte Newcomensche Dampfpumpe -- die einzige in England!</p>
+</blockquote>
 
 Lady Croom ist wegen des Lärms nicht so glücklich und macht den armen Noakes wortgewaltig fertig.
 

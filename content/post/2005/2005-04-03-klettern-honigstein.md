@@ -1,42 +1,33 @@
 ---
-id: 363
-title: Wieder klettern
+title: Klettern am Honigstein
 date: 2005-04-03T21:13:01+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/04/03/wieder-klettern/
-permalink: /2005/04/03/wieder-klettern/
 categories:
-  - klettern
+  - tagebuch
 tags:
-  - Alter Weg
-  - draussen
-  - Elbsandsteingebirge
-  - Fels
-  - Felsen
-  - Gruppe
-  - Honigstein
-  - Honigsteinscheibe
+  - elbsandsteingebirge
   - klettern
-  - Saechsische Schweiz
-  - Sonne
+  - saechsische schweiz
 ---
 Es war einfach zu verlockend! Wieder Sonnenschein, wieder lockten die Felsen. Und so fuhr ich &#8211; diesmal mit einer sehr großen Truppe &#8211; erneut hinaus, um auf seltsam geformte Steine zu klettern. Die Bilanz des heutigen Tages kann sich sehen lassen.
 
-<table cellpadding='5'>
+<table class="table">
+  <tr>
+    <th>Felsen</th>
+    <th>Weg</th>
+    <th>Grad</th>
+    <th>Vor- oder Nachstieg</th>
+  </tr>
   <tr>
     <td>
       Honigsteinscheibe
-    </td>
-    
+    </td>    
     <td>
       Alter Weg
-    </td>
-    
+    </td>    
     <td>
       IV
-    </td>
-    
+    </td>    
     <td>
       Vorstieg
     </td>
@@ -45,16 +36,13 @@ Es war einfach zu verlockend! Wieder Sonnenschein, wieder lockten die Felsen. Un
   <tr>
     <td>
       Honigsteinscheibe
-    </td>
-    
+    </td>    
     <td>
       Südwand
-    </td>
-    
+    </td>    
     <td>
       VI
-    </td>
-    
+    </td>    
     <td>
       Nachstieg
     </td>
@@ -63,16 +51,13 @@ Es war einfach zu verlockend! Wieder Sonnenschein, wieder lockten die Felsen. Un
   <tr>
     <td>
       Maiturm
-    </td>
-    
+    </td>    
     <td>
       Alter Weg
-    </td>
-    
+    </td>    
     <td>
       III
-    </td>
-    
+    </td>    
     <td>
       Nachstieg
     </td>

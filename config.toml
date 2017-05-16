@@ -5,6 +5,7 @@ baseurl = "https://mwellner.de/"
 theme = "hugo-theme-bootstrap4-blog"
 googleAnalytics = "UA-3650294-2"
 enableRobotsTXT = true
+paginate = 10
 
 [permalinks]
   post = "/:year/:month/:day/:title/"
@@ -15,9 +16,8 @@ enableRobotsTXT = true
   date_format = "02.01.2006"
 
 [params.sidebar]
-  about = "Ich lebe in Darmstadt, bändige Angular und spiele Theater."
-
+  num_recent_posts = 6
 
 [Languages]
-[Languages.en]
 [Languages.de]
+[Languages.en]

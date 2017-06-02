@@ -1,20 +1,12 @@
 ---
-id: 832
 title: Cortona Speakers
 date: 2008-07-20T22:07:03+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/07/20/cortona-speakers/
-permalink: /2008/07/20/cortona-speakers/?lang=en
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - tagebuch
+  - diary
 tags:
   - cortona
-  - course
-  - ETH
-  - speakers
+  - eth
 ---
 In early September, I will again go to the [Cortona week](http://www.cortona.ethz.ch), which is offered by ETH Zurich. Now the list of lecture and workshop contributors seems complete and we &ndash; the participants &ndash; were asked to moderate sessions. So I went through the list of presenters to see, if any of these persons was particularly interesting for me. And I found interesting persons, but far too many of them. I will introduce four persons to give you an idea about the diversity of persons and topics in this one week in Cortona.
 

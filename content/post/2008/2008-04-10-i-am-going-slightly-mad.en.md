@@ -1,22 +1,9 @@
 ---
-id: 811
 title: I am going slightly mad
 date: 2008-04-10T18:57:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/04/10/i-am-going-slightly-mad/
-permalink: /2008/04/10/i-am-going-slightly-mad/?lang=en
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
-tags:
-  - edit
-  - journal
-  - paper
-  - resubmission
-  - review
+categories:
   - science
-  - submit
-  - write
 ---
 I resubmitted my manuscript to the journal of my choice. The review process has taken a long time, they were almost satisfied with my paper last time but still required a lot of changes to publish it. So now, it is the third or fourth time, I am resubmitting these pages. There are a lot of changes to the manuscript and I learned, what a post-hoc Tukey test was. So here we go again&#8230;
 

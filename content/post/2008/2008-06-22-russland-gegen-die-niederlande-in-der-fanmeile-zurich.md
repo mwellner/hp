@@ -1,26 +1,12 @@
 ---
-id: 824
 title: Russland gegen die Niederlande in der Fanzone Zürich
 date: 2008-06-22T13:17:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/06/22/russland-gegen-die-niederlande-in-der-fanmeile-zurich/
-permalink: /2008/06/22/russland-gegen-die-niederlande-in-der-fanmeile-zurich/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - 'sport &amp; freizeit'
+  - tagebuch
 tags:
-  - bellevue
-  - EM 2008
-  - Europameisterschaft 2008
-  - Fanzone
-  - Fußball
-  - Niederlande
-  - orange
-  - Public Viewing
-  - Russland
-  - Zürich
+  - fußball
+  - zürich
 ---
 Die Fanzone in Zürich befindet sich direkt am Bellevue und damit in der Nähe des Sees. Man kommt nicht einfach so hinein, Sicherheitsleute überprüfen, ob man einen der _verbotenen Gegenstände_ bei sich hat. Mit meinem Rucksack habe ich gemischte Erfahrungen gemacht, manchmal durfte ich ihn mit reinnehmen, manchmal nicht. Aber im Wesentlichen geht es um die kommerziellen Interessen der Standbetreiber, die ihr Bier für 6 CHF (4 EUR) an die durstigen und euphorisierten Fans verkaufen. Deshalb muss man selbst Leitungswasser in bereitstehende Plastikbecher umfüllen, was nur bis zu einer gewissen Menge Sinn geht. Am besten, man hat nur sein prall gefülltes Portemonnaie und Handy dabei, mehr braucht man nicht.
 

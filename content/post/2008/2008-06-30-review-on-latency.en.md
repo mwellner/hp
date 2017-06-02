@@ -1,18 +1,10 @@
 ---
-id: 825
 title: Review on Latency
 date: 2008-06-30T14:38:03+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/06/30/review-on-latency/
-permalink: /2008/06/30/review-on-latency/?lang=en
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
-tags:
-  - latency
-  - multi-modal
-  - review
+categories:
   - science
+tags:
   - virtual reality
 ---
 _With virtual environments and realism being the central topic of my dissertation, I did a review on which latencies are acceptable for virtual environments. The goal of this review was to define requirements for our rowing scenario. I would appreciate feedback and comments on this review._ 

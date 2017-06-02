@@ -1,25 +1,10 @@
 ---
-id: 829
 title: 'Schwägalp &#8211; Säntis &#8211; Ebenalp'
 date: 2008-07-07T21:41:03+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/07/07/schwagalp-santis-ebenalp/
-permalink: /2008/07/07/schwagalp-santis-ebenalp/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
-  - wandern
+  - tagebuch
 tags:
-  - Alpen
-  - Berge
-  - Gipfel
-  - säntis
-  - Schnee
-  - Schneefeld
-  - Trekking
   - wandern
 ---
 Es war eine anspruchsvolle Wanderung, die wir an diesem sonnigen Samstag in Angriff nahmen. Der Anstieg zum Säntis von der Schwägalp bedeutet immerhin die Überwindung von 1200 Höhenmetern, das Reststück zur Ebenalp ist zwar insgesamt fallend, aber doch von abwechslungsreicher Wegführung, so dass man da auch noch auf einige Höhenmeter kommt. Aber so hatte diese Wanderung alles, was man sich nur wünschen kann: steile Anstiege, sich ewig erstreckende Schneefelder in Gipfelnähe, in der Luft stehende Dohlen am Gipfel, blauen Himmel mit viel Sonnenschein, einsame Bergwege, nette Wandergefährten und ausreichend Snacks zwischendurch.

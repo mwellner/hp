@@ -1,24 +1,12 @@
 ---
-id: 815
 title: Besuch aus Berlin
 date: 2008-05-05T23:36:14+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/05/05/besuch-aus-berlin/
-permalink: /2008/05/05/besuch-aus-berlin/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - bilder
-  - theater
+  - tagebuch
 tags:
-  - Foto
-  - kristina
-  - pfauen
-  - portrait
-  - theater
-  - Virginia Woolf
-  - Zuerich
+  - virginia woolf
+  - zürich
 ---
 Drei Tage durchatmen, Theaterbesuch, Käsefondue, Pilatus, Flanieren am See &#8211; Besuche sind eine hervorragende Erfindung. Noch dazu so nette wie Kristina, die ich schon seit der Schule kenne. Gemeinsam verbrachten wir drei wundervolle, entspannte, ereignisreiche Tage. Das war für mich wie ein Kurzurlaub, andere Gedanken, Natur, Sonne ins Gesicht scheinen lassen. Aber der für Mittwoch geplante Drehtermin fürs Schweizer Fernsehen warf seine Schatten voraus, auf dem Pilatus ereilte mich ein Anruf, dass die von mir programmierten Klänge zur falschen Zeit kämen. Und außerdem wäre noch dringend abzuklären, ob nicht die Vorhänge doch schon bis zum nächsten Mittwoch angebracht sein könnten. Aber abgesehen von diesem Schatten waren es sonnige Tage.
 

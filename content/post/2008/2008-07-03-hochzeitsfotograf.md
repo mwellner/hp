@@ -1,24 +1,12 @@
 ---
-id: 827
 title: Hochzeitsfotograf
 date: 2008-07-03T00:05:03+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/07/03/hochzeitsfotograf/
-permalink: /2008/07/03/hochzeitsfotograf/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - bilder
+  - tagebuch
 tags:
-  - Fotograf
-  - fotos
-  - Hochzeit
-  - Kirche
-  - Photograph
-  - Rosen
-  - Trauung
-  - Zeremonie
+  - hochzeit
+  - fotografie
 ---
 <div style="width: 510px" class="wp-caption aligncenter">
   <a href="http://www.flickr.com/photos/mwellner/2631586935/"><img alt="Ring" src="http://farm4.static.flickr.com/3021/2631586935_13820a5d9d.jpg" title="Ring" width="500" height="334" /></a>

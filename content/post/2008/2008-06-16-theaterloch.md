@@ -1,23 +1,11 @@
 ---
-id: 823
 title: Theaterloch
 date: 2008-06-16T20:24:06+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/06/16/theaterloch/
-permalink: /2008/06/16/theaterloch/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - bilder
   - theater
 tags:
-  - agatha christie
   - akitiv
-  - "Da waren's nur noch neun"
-  - danach
-  - theater
-  - Vakuum
 ---
 Was jetzt? Das Theater ist vorbei, damit ein Projekt, für das ich mich während der letzten acht Monate verantwortlich gefühlt habe. Und jetzt ist da plötzlich nichts mehr. Eine Freundin, sie ist Soziologin, nannte es sehr treffend die _Postvakuumphase_. Ein bisschen Nachbereitung war noch, Scheinwerfer zurück bringen, das Nachtreffen in die Wege leiten und eine DVD als ewige Erinnerung erstellen. Aber abgesehen davon falle ich auf mich selbst zurück. Und nachdem ich so viele andere Dinge vernachlässigt habe, mich durch zwei Erkältungen durchschleppte, meine Hobbypianistenkarriere durch Passivität zu Grabe trug und meine ferne Heimat mit Verwandten und Freunden sträflich vernachlässigte, halte ich inne, unschlüssig, ob ich verschnaufen oder gleich wieder losspurten sollte.
 

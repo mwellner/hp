@@ -1,22 +1,9 @@
 ---
-id: 831
 title: Lost in Translation
 date: 2008-07-17T18:28:11+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/07/17/lost-in-translation/
-permalink: /2008/07/17/lost-in-translation/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - wissenschaft
-tags:
-  - Dialekt
-  - Interview
-  - Schweizerdeutsch
-  - Studie
-  - übersetzen
-  - Übersetzung
 ---
 In unserer Ruderstudie sind jetzt die ersten zehn Probanden durch, damit stellte sich auch die Frage, wie wir mit den freien Interviews verfahren sollten. Die Leute konnten sich nach ihrem Experiment recht frei dazu äußern, wie realistisch sie unseren Rudersimulator fanden und was sie am Versuch störte. Wir hatten uns entschlossen, das Interview auf Schweizerdeutsch durchzuführen, damit die Leute freier sprechen können. Dies war aber &ndash; im Rückblick &ndash; keine gute Idee, der Dialekt verführt zu einer ausschweifenden, schwer zu erfassenden Ausdrucksweise. Das merkte ich, als ich die Interviews ins Englische übertrug. Jedoch ist nicht klar, ob dies bei Hochdeutsch als Interviewsprache wesentlich besser gewesen wäre. Gesprochene Sprache ist einfach anders als Schriftsprache, die Frage nach Dialekt oder Hochdeutsch ist da wohl eher sekundär.
 

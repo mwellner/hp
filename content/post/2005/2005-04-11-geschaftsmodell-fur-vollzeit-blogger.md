@@ -19,4 +19,4 @@ Es gibt ja Leute, die verbringen weitaus mehr Zeil als ich damit, ihr Weblog zu 
 
 Da ist zum einen Micropatronage, also alle Leser (was bei einem bekannten Blogger schon eine Menge Leute sein können) spenden einen kleinen Betrag und der Blogger schreibt. So geschehen bei [Jason Kottke](http://www.kottke.org).
 
-Andererseits kann man &uuml;ber Programme wie [Google Adsense](https://www.google.com/adsense) direkt Werbung auf seiner Webseite platzieren und erh&auml;lt Geld f&uuml;r jeden Klick darauf.
+Andererseits kann man über Programme wie [Google Adsense](https://www.google.com/adsense) direkt Werbung auf seiner Webseite platzieren und erhält Geld für jeden Klick darauf.

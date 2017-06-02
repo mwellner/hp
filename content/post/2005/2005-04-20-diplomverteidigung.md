@@ -1,27 +1,12 @@
 ---
-id: 396
 title: Diplomverteidigung
 date: 2005-04-20T08:00:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/04/20/diplomverteidigung/
-permalink: /2005/04/20/diplomverteidigung/
 categories:
   - tagebuch
 tags:
-  - defence
-  - defense
-  - Diplom
-  - Diplomarbeit
-  - Freunde
-  - Praesentation
-  - Publikum
-  - Rhetorik
-  - Training
-  - Traum
-  - TU Dresden
-  - unwirklich
-  - Vortrag
+  - diplomarbeit
+  - tu dresden
 ---
 Ich stehe auf und gehe nach vorn. Der Moment ist gekommen, ein letzter Vortrag, ein letztes Mal Fragen beantworten müssen, dann wird es vorüber sein. Ich schaue in die Runde. Prof. Gerlach sitzt mir gegenüber in der Mitte, neben ihm Dr. Norkus im ungewohnten Anzug. Einige Mitarbeiter des Instituts haben sich zu so früher Stunde eingefunden. Und zu beiden Seiten sitzen Freunde, die mich mit ihren freundlichen gespannten Mienen still anfeuern. Der Vortrag beginnt, ich habe ihn nicht geübt, die Worte fließen, erst etwas holperig, dann immer besser.
 

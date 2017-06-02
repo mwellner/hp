@@ -38,7 +38,7 @@ The babel package allows you to set the language(s) of the document. This effect
 
 _usepackage[utf8]{inputenc}_ 
 
-Almost everybody outside of English-speaking countries runs into problems with special characters like the German Umlauts (&auml;&ouml;&uuml;&Auml;&Ouml;&Uuml;). To make LaTeX process and display these special characters correctly, you need the **inputenc** package. It takes the document&#8217;s [character encoding](http://en.wikipedia.org/wiki/Character_encoding) as argument.
+Almost everybody outside of English-speaking countries runs into problems with special characters like the German Umlauts (äöüäöü). To make LaTeX process and display these special characters correctly, you need the **inputenc** package. It takes the document&#8217;s [character encoding](http://en.wikipedia.org/wiki/Character_encoding) as argument.
 
 _usepackage[T1]{fontenc}_ 
 

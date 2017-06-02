@@ -32,7 +32,7 @@ Es war eine anspruchsvolle Wanderung, die wir an diesem sonnigen Samstag in Angr
   </p>
 </div>
 
-Linker Fuss, rechter Fuss. Erl&ouml;sung &ndash; ich streife den linken Wanderschuh ab. Nach vielen Stunden und Tausenden Schritten waren wir wie verwachsen, umso befremdlicher das Gef&uuml;hl der Erleichterung. Auch der zweite Akt eine Erl&ouml;sung, rechts folgt links. Die Wandersocken dampfen.
+Linker Fuss, rechter Fuss. Erlösung &ndash; ich streife den linken Wanderschuh ab. Nach vielen Stunden und Tausenden Schritten waren wir wie verwachsen, umso befremdlicher das Gefühl der Erleichterung. Auch der zweite Akt eine Erlösung, rechts folgt links. Die Wandersocken dampfen.
 
 <div style="width: 510px" class="wp-caption aligncenter">
   <a href="http://www.flickr.com/photos/mwellner/2641824333/"><img alt="Father and Son" src="http://farm4.static.flickr.com/3009/2641824333_f5e2b9d480.jpg" title="Father and Son" width="500" height="334" /></a>

@@ -1,18 +1,11 @@
 ---
-id: 851
-title: 'Eric Bogosian: subUrbia'
+title: Eric Bogosian -- subUrbia
 date: 2008-11-14T00:00:11+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/11/14/eric-bogosian-suburbia/
-permalink: /2008/11/14/eric-bogosian-suburbia/?lang=en
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
+catetories:
+  - theater
 tags:
-  - Eric Bogosian
-  - play
-  - suburban
-  - suburbia
+  - eric bogosian
 ---
 This is the third and last play we are reading for our next theatre production at [akitiv](http://www.aki.ethz.ch/akitiv/). For me, it&#8217;s the most interesting one, but opinions on that issue diverge in our group.
 

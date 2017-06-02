@@ -1,29 +1,12 @@
 ---
-id: 408
-title: 'Jean-Paul Sartre &ndash; Das Spiel ist aus'
+title: Jean-Paul Sartre -- Das Spiel ist aus
 date: 2005-05-01T11:55:55+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/05/01/jean-paul-sartre-das-spiel-ist-aus/
-permalink: /2005/05/01/jean-paul-sartre-das-spiel-ist-aus/
-jd_tweet_this:
-  - 'yes'
-wp_jd_bitly:
-  - http://bit.ly/b6okWO
-wp_jd_target:
-  - http://www.mwellner.de/2005/05/01/jean-paul-sartre-das-spiel-ist-aus/
 categories:
-  - tagebuch
+  - literatur
 tags:
-  - Besprechung
-  - Buch
-  - Existenzialismus
-  - Jean-Paul Sartre
-  - Liebe
-  - Literatur
-  - Revolution
-  - Rezension
-  - Verrat
+  - existenzialismus
+  - jean-paul sartre
 ---
 Unlängst habe ich mich ein wenig mit Jean-Paul Sartre beschäftigt. Anstöße erhielt ich auf einem Rhetorik-Seminar der [Friedrich-Ebert-Stiftung](http://www.fes.de:80/de/) in Bonn. Ein Physiker aus Berlin stellte in einer seiner Reden das Konzept des Existenzialismus ([Wikipedia-Eintrag](https://de.wikipedia.org/wiki/Existenzialismus)) kurz vor, als dessen bekanntester Vertreter Sartre gilt. Auch mein langjähriger Mitbewohner Matthias hat mir speziell dieses Buch empfohlen.
 

@@ -21,6 +21,6 @@ tags:
   - PhD
   - Prüfung
 ---
-Seltsam, seinen eigenen Namen da zu sehen &mdash; es kommen des &ouml;fteren solche Emails rein, unser Departement entl&auml;sst Doktoren am laufenden Band. Da bin ich nur einer mehr in einer langen Reihe. Es ist hier an der ETH nichts Besonderes daran zu promovieren, das machen eigentlich alle um einen herum. Die Liste der anstehenden Doktorpr&uuml;fungen ist lang.
+Seltsam, seinen eigenen Namen da zu sehen &mdash; es kommen des öfteren solche Emails rein, unser Departement entlässt Doktoren am laufenden Band. Da bin ich nur einer mehr in einer langen Reihe. Es ist hier an der ETH nichts Besonderes daran zu promovieren, das machen eigentlich alle um einen herum. Die Liste der anstehenden Doktorprüfungen ist lang.
 
-Jetzt also auch ich. Bald ist es soweit, ich werde mit einem sch&ouml;nen Titel in die Wirtschaftskrise entlassen.
+Jetzt also auch ich. Bald ist es soweit, ich werde mit einem schönen Titel in die Wirtschaftskrise entlassen.

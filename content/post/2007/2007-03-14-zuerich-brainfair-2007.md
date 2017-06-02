@@ -16,4 +16,4 @@ tags:
   - lokomat
   - Zuerich
 ---
-Die grosse Relevanz von Neurorehabilitation zeigte sich in der Organisation der Brainfair 2007 in Z&uuml;rich. Die Erf&ouml;ffnungsrede von J&uuml;rg Kesselring handelte dementsprechend von den immensen F&auml;higkeiten unseres Gehirns zu lernen. Interessanterweise verwendeten die Redakteure ein Lokomat-Bild, auf dem auch ich teilweise zu sehen bin. Es entstand bei einem fr&uuml;heren Beitrag zum Thema Lokolift.
+Die grosse Relevanz von Neurorehabilitation zeigte sich in der Organisation der Brainfair 2007 in Zürich. Die Erföffnungsrede von Jürg Kesselring handelte dementsprechend von den immensen Fähigkeiten unseres Gehirns zu lernen. Interessanterweise verwendeten die Redakteure ein Lokomat-Bild, auf dem auch ich teilweise zu sehen bin. Es entstand bei einem früheren Beitrag zum Thema Lokolift.

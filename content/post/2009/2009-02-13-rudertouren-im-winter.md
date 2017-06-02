@@ -17,7 +17,7 @@ tags:
   - rudern
   - Winter
 ---
-Heute Morgen waren wir mal wieder in Rennbooten auf dem Z&uuml;risee unterwegs. Vor einem Jahr h&auml;tte ich diese Idee sicher noch total abwegig gefunden, aber mittlerweile habe ich mich an das zeitige Aufstehen gew&ouml;hnt und Freude am Rudern. Hier noch das Protokoll meiner Ausfahrten diesen Winter, nachdem der Kurs nunmehr abgeschlossen ist.
+Heute Morgen waren wir mal wieder in Rennbooten auf dem Zürisee unterwegs. Vor einem Jahr hätte ich diese Idee sicher noch total abwegig gefunden, aber mittlerweile habe ich mich an das zeitige Aufstehen gewöhnt und Freude am Rudern. Hier noch das Protokoll meiner Ausfahrten diesen Winter, nachdem der Kurs nunmehr abgeschlossen ist.
 
 <table cellpadding="5">
   <tr>

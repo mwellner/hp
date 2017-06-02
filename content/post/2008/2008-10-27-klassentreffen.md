@@ -1,35 +1,17 @@
 ---
-id: 847
 title: Klassentreffen
 date: 2008-10-27T01:42:17+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/10/27/klassentreffen/
-permalink: /2008/10/27/klassentreffen/
-podPressPostSpecific:
-  - 's:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";'
 categories:
   - tagebuch
 tags:
-  - 10 Jahre
   - dresden
-  - Klassenkameraden
-  - Klassentreffen
-  - MANOS
-  - Schule
-  - Wiedersehen
+  - klassentreffen
+  - manos
 ---
-Ich komme zu spät, war noch klettern draußen in der Sächsischen Schweiz. Müde bin ich, aber es waren schöne Wege und überhaupt ein schöner, sonniger Herbsttag. Am Papst waren wir, einem ausgedehnten Felsen in der Nähe von Königstein, Arne hatte ihn vor allem wegen der Südseite ausgewählt. Dort lie&szlig; es sich trotz der kühlen Temperaturen aushalten, auch der Felsen war warm genug zum Klettern. Vor ungefähr fünf Jahren hatte ich mit Arne seinen ersten Weg gemacht, an einem kalten Novembertag landeten wir erst nach Umwegen auf dem Gipfel. Heute lief es besser, die richtigen Wege waren schnell gefunden und erklommen. Der raue Sandstein fasste sich gut an, es fühlt sich griffiger als der rutschige Kalkstein oder Granit der Alpen. Und so kam ich nach einem langen Tag an frischer Luft mit vielen schönen Erinnerungen und mit dieser wohligen Müdigkeit zum Klassentreffen und war auch gleich einige Minuten zu spät.
+Ich komme zu spät, war noch klettern draußen in der Sächsischen Schweiz. Müde bin ich, aber es waren schöne Wege und überhaupt ein schöner, sonniger Herbsttag. Am Papst waren wir, einem ausgedehnten Felsen in der Nähe von Königstein, Arne hatte ihn vor allem wegen der Südseite ausgewählt. Dort ließ es sich trotz der kühlen Temperaturen aushalten, auch der Felsen war warm genug zum Klettern. Vor ungefähr fünf Jahren hatte ich mit Arne seinen ersten Weg gemacht, an einem kalten Novembertag landeten wir erst nach Umwegen auf dem Gipfel. Heute lief es besser, die richtigen Wege waren schnell gefunden und erklommen. Der raue Sandstein fasste sich gut an, es fühlt sich griffiger als der rutschige Kalkstein oder Granit der Alpen. Und so kam ich nach einem langen Tag an frischer Luft mit vielen schönen Erinnerungen und mit dieser wohligen Müdigkeit zum Klassentreffen und war auch gleich einige Minuten zu spät.
 
-<div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/2979563704/"><img alt="Arne und der Ring" src="http://farm4.static.flickr.com/3068/2979563704_5eee614703.jpg" title="Arne und der Ring" width="500" height="334" /></a>
-  
-  <p class="wp-caption-text">
-    <a href="http://www.flickr.com/photos/mwellner/2979563704/">Arne und der Ring</a> by <a href="https://www.flickr.com/photos/mwellner/">wellnair</a>
-  </p>
-</div>
-
-Vor unserer Schule war eine riesige Traube, der Bauzaun lie&szlig; auch nicht viel Platz bis zur Stra&szlig;e und einige traten auch auf die Fahrbahn raus, um alle zu begrü&szlig;en und die bekannten Gesichter wieder zu sehen. Alle Gesichter waren vertraut, die Namen sprangen mir sofort ins Gedächtnis und die Atmosphäre war locker und redselig.
+Vor unserer Schule war eine riesige Traube, der Bauzaun ließ auch nicht viel Platz bis zur Straße und einige traten auch auf die Fahrbahn raus, um alle zu begrüßen und die bekannten Gesichter wieder zu sehen. Alle Gesichter waren vertraut, die Namen sprangen mir sofort ins Gedächtnis und die Atmosphäre war locker und redselig.
 
 _Nein, ich bin nicht mehr in Dresden. Ich wohne in Zürich._
 
@@ -84,13 +66,5 @@ _Zürich ist echt schön._
 Und du willst morgen wandern gehen? Nein, ich kann leider nicht, du weisst ja, die Familie, alles verplant.
 
 Man sieht sich, in fünf Jahren.
-
-<div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/3012779319/"><img alt="Dresden main station" src="http://farm4.static.flickr.com/3047/3012779319_7180abf1dc.jpg" title="Dresden main station" width="500" height="334" /></a>
-  
-  <p class="wp-caption-text">
-    <a href="http://www.flickr.com/photos/mwellner/3012779319/">Dresden main station</a> by <a href="https://www.flickr.com/photos/mwellner/">wellnair</a>
-  </p>
-</div>
 
 Nachtrag (Statistik, einbezogen sind 40 Leute): Ungefähr die Hälfte meiner Klasse wohnt zur Zeit in Dresden, die andere ist verstreut vor allem in Deutschland, wobei nur Leipzig und Berlin mehrfach genannt wurden. Im Ausland leben vier Leute: Sabine in Peking, Mischa in Leuven (Belgien), einen hat es nach Oxford (England) verschlagen und mich nach Zürich. Verheiratet sind 14 ehemalige Klassenkameraden, Kinder haben 10.

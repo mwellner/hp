@@ -17,4 +17,4 @@ tags:
   - theater
   - theatre
 ---
-Im ETH Life erschien jetzt ein Artikel &uuml;ber unser Theaterst&uuml;ck &#8220;Die L&auml;sterschule&#8221;. Ich spiele Joseph Surface, einen sehr unangenehmen, aber spannend zu spielenden Zeitgenossen.
+Im ETH Life erschien jetzt ein Artikel über unser Theaterstück &#8220;Die Lästerschule&#8221;. Ich spiele Joseph Surface, einen sehr unangenehmen, aber spannend zu spielenden Zeitgenossen.

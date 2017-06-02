@@ -21,7 +21,7 @@ tags:
   - Wachkoma
   - Zug
 ---
-_Das letzte Wochenende war reich an Eindr&uuml;cken und Erfahrungen. Anlass meiner &ndash; wie allzu oft &ndash; sehr kurzfristig geplanten Reise war die Hochzeit meines ehemaligen Mitbewohners Matthias. Aber eine chronologische Erz&auml;hlung w&uuml;rde meiner assoziativen Erinnerungsflut wohl kaum Gen&uuml;ge leisten. Und w&auml;re au&szlig;erdem langweilig._ 
+_Das letzte Wochenende war reich an Eindrücken und Erfahrungen. Anlass meiner &ndash; wie allzu oft &ndash; sehr kurzfristig geplanten Reise war die Hochzeit meines ehemaligen Mitbewohners Matthias. Aber eine chronologische Erzählung würde meiner assoziativen Erinnerungsflut wohl kaum Genüge leisten. Und wäre außerdem langweilig._ 
 
 Als ich schlief, saß ich im Zug. Eigentlich sollte es ein ICE sein, dieses klimatisierte, komfortable Spitzenprodukt deutscher Ingenieurskunst. Aber in Basel stand da nur so ein lächerlicher IC, der außerdem viel zu kurz war für die vielen Reisenden. Ich hatte zumindest einen Sitzplatz, den ich bis Berlin nicht hergab. Die Reisezeit verbrachte ich in einem Dämmerzustand zwischen Zeitung-Lesen und Schlafen. Ich war müde, da ich am Morgen noch schnell meine Reise von Berlin nach Raben organisieren musste und irgendwas nicht funktionierte auf Arbeit. Aber nach einer Weile fiel all diese Hektik von mir ab. Ich schlief im Sitzen in diesem viel zu warmen Zug.
 

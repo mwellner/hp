@@ -1,24 +1,12 @@
 ---
-id: 2902
 title: Macht mit bei Email-Verschlüsselung!
 date: 2010-08-28T22:08:49+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2902
-permalink: /2010/08/28/macht-mit-bei-email-verschlusselung/
 categories:
-  - bilder
-  - technik
+  - tagebuch
 tags:
-  - Email
-  - Enigmail
-  - GPG
-  - öffentlich
-  - PGP
-  - privat
-  - Privatsphäre
-  - RSA
-  - Verschlüsselung
+  - email
+  - verschlüsselung
 ---
 **Anlass**
 
@@ -46,7 +34,7 @@ Technisch beruht die Verschlüsselung von Emails auf dem [RSA-Kryptosystem](http
 
 Damit das Ganze Sinn macht, brauche ich aber eure Mithilfe. Denn ich allein kann meine Nachrichten lediglich signieren, sie sind dann aber immer noch für jedermann lesbar. Erst wenn ihr mitmacht und mir eure öffentlichen Schlüssel zukommen lasst, kann ich Nachrichten an euch verschlüsseln. 
 
-**So geht&#8217;s los**
+**So geht's los**
 
 Für die meisten Email-Programme gibt es Zusätze zum Verschlüsseln. Ich persönlich verwende [Mozilla Thunderbird](http://www.mozillamessaging.com/de/thunderbird/) mit dem [Enigmail](http://www.enigmail.net/home/index.php)-Plugin. Für Windows und damit auch Outlook gibt es mit [Gpg4win](http://www.gpg4win.org) ebenfalls ein komfortables Zusatzwerkzeug, mit dem ich auf Arbeit bereits gute Erfahrungen gesammelt habe. In der Linux-Welt ist [GnuPG](http://www.gnupg.org/) der Quasi-Standard, die meisten anderen Programme und Werkzeuge basieren darauf. 
 

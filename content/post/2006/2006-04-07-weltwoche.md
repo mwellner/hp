@@ -21,4 +21,4 @@ War ich bislang der fast unumstößlichen Überzeugung, dass es keine bessere (W
 
 Mit der ersten Ausgabe bin ich recht zufrieden, die Artikel sind schön hintergründig, nur mit der optischen Aufmachung der ZEIT kann sich die Weltwoche nicht so recht messen. Auch die schöne Möglichkeit, auf Artikel zu verlinken, funktioniert nicht, da die Inhalte aller Artikel nur den Abbonenten vorbehalten sind. Pro Ausgabe gibt es dennoch einige frei zugängliche Artikel, so dass man auch mal reinschnuppern kann.
 
-**Nachtrag (August 2009):** Nach einem Jahr Weltwoche-Abo kehrte ich reum&uuml;tig zur ZEIT zur&uuml;ck. Die populistische Machart der Weltwoche, vor allem das Leugnen des vom Menschen verursachten Klimawandels, hatten auf Dauer abschreckend gewirkt.
+**Nachtrag (August 2009):** Nach einem Jahr Weltwoche-Abo kehrte ich reumütig zur ZEIT zurück. Die populistische Machart der Weltwoche, vor allem das Leugnen des vom Menschen verursachten Klimawandels, hatten auf Dauer abschreckend gewirkt.

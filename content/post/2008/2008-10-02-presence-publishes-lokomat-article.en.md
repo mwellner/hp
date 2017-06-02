@@ -1,22 +1,11 @@
 ---
-id: 840
 title: PRESENCE publishes Lokomat article
 date: 2008-10-02T11:54:57+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/10/02/presence-publishes-lokomat-article/
-permalink: /2008/10/02/presence-publishes-lokomat-article/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - wissenschaft
+  - science
 tags:
   - lokomat
-  - presence
-  - publication
-  - published
-  - science
-  - study
 ---
 At last! 1.5 years after starting to write, the article [Evaluation of Visual and Auditory Feedback in Virtual Obstacle Walking](http://www.mitpressjournals.org/doi/abs/10.1162/pres.17.5.512) has been published by Presence. This is the final step, now it&#8217;s really over. I hope that my next publications will go a little bit smoother, but you never know what reviewers you get.
 

@@ -21,8 +21,8 @@ tags:
   - PhD
   - Termin
 ---
-Nach fast vier Jahren Doktorat steht jetzt der Termin f&uuml;r die Doktoratspr&uuml;fung fest. Am Dienstag, dem 7. Juli werde ich &mdash; wenn alles gut geht &mdash; diesen wichtigen Schritt absolvieren. Es ist zwar rein administrativ nicht der letzte, da ich danach noch die Pflichtexemplare abgeben muss und die Departementskonferenz dem zustimmen muss, aber gef&uuml;hlsm&auml;&szlig;ig ist es der Abschluss des Doktorats.
+Nach fast vier Jahren Doktorat steht jetzt der Termin für die Doktoratsprüfung fest. Am Dienstag, dem 7. Juli werde ich &mdash; wenn alles gut geht &mdash; diesen wichtigen Schritt absolvieren. Es ist zwar rein administrativ nicht der letzte, da ich danach noch die Pflichtexemplare abgeben muss und die Departementskonferenz dem zustimmen muss, aber gefühlsmäßig ist es der Abschluss des Doktorats.
 
-Mit dem Termin stehen auch die weiteren Termine fest. Drei Wochen vorher muss die Dissertationsschrift in ihrer endg&uuml;ltigen Fassung und die Gutachten meiner Referenten beim Departement eingetroffen sein. Und noch ein paar Wochen eher m&uuml;ssen die Referenten nat&uuml;rlich auch die Arbeit in den H&auml;nden halten.
+Mit dem Termin stehen auch die weiteren Termine fest. Drei Wochen vorher muss die Dissertationsschrift in ihrer endgültigen Fassung und die Gutachten meiner Referenten beim Departement eingetroffen sein. Und noch ein paar Wochen eher müssen die Referenten natürlich auch die Arbeit in den Händen halten.
 
 Es geht also zu Ende und im Herbst beginnt ein neuer Abschnitt.

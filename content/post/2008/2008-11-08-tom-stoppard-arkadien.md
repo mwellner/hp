@@ -1,21 +1,12 @@
 ---
-id: 849
-title: 'Tom Stoppard: Arkadien'
+title: Tom Stoppard -- Arkadien
 date: 2008-11-08T20:16:25+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/11/08/tom-stoppard-arkadien/
-permalink: /2008/11/08/tom-stoppard-arkadien/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - theater
 tags:
   - akitiv
-  - Literatur
-  - Lord Byron
-  - Rezension
-  - theater
+  - tom stoppard
 ---
 Wir, also die [studentische Theatergruppe akitiv](http://www.aki.ethz.ch/akitiv/), suchen zur Zeit nach einem Stück und einem Regisseur für die nächste Produktion. Das [Stoppard](http://de.wikipedia.org/wiki/Stoppard)-Stück haben wir als einen von drei Kandidaten angelesen.
 

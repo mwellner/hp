@@ -1,21 +1,11 @@
 ---
-id: 842
 title: ETH Inaugural Lecture of Marc Pollefeys
 date: 2008-10-07T19:13:49+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2008/10/07/eth-inaugural-lecture-of-marc-pollefeys/
-permalink: /2008/10/07/eth-inaugural-lecture-of-marc-pollefeys/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
+categories:
+  - science
 tags:
-  - chapel hill
-  - computer
-  - ETH
-  - marc pollefeys
-  - model
-  - video
-  - vision
+  - eth
 ---
 An important event in the ETH community are the inaugural lectures. Every newly appointed professor has the duty to present his field of research and his person to the ETH community. Already in the opening words it became clear why [Marc Pollefeys](http://www.cs.unc.edu/~marc/) had been chosen for an ETH professorship. Aged 36, he has published about 90 papers, received numerous prices, and is constantly invited in the editorial board of journals and program board of conferences. His career stations are quite typical, starting in Belgium with PhD and PostDoc, moving to Chapel Hill, USA as assistant and associate professor, and coming to ETH in 2007. It seems that most successful scientists at one point had to go over the Atlantic to compile the merits, which are necessary for being appointed as ETH professor.
 

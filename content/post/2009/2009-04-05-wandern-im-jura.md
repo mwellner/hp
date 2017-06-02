@@ -12,6 +12,6 @@ categories:
   - 'sport &amp; freizeit'
   - wandern
 ---
-Und pl&ouml;tzlich wurde es &#8220;Bonjour&#8221;, erstaunlich im gleichen Land. Nur zwei Stunden Zugfahrt und wir befanden uns in St. Ursanne und damit mitten im Jura. Entlang des Flusses Le Doubs wanderten wir bis Soubey, dann ging es noch den Berg rauf nach Montfaucon. War eine sch&ouml;ne Route, Lagerfeuer und Wurstbraten einbegriffen.
+Und plötzlich wurde es &#8220;Bonjour&#8221;, erstaunlich im gleichen Land. Nur zwei Stunden Zugfahrt und wir befanden uns in St. Ursanne und damit mitten im Jura. Entlang des Flusses Le Doubs wanderten wir bis Soubey, dann ging es noch den Berg rauf nach Montfaucon. War eine schöne Route, Lagerfeuer und Wurstbraten einbegriffen.
 
 [<img src="http://gpsies.com/images/linkus.png" border="0" alt="GPSies - St. Ursann - Soubey - Montfaucon" />](http://gpsies.com/map.do?fileId=imomctajdzusrdxg "GPSies - St. Ursann - Soubey - Montfaucon")

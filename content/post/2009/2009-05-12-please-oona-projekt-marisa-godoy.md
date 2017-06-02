@@ -29,4 +29,4 @@ Das Thema der Tanzaufführung war das grundlegende Bühnendilemma, was tut man d
 
 Ich fand es eine gelungene Umsetzung des Bühnendilemmas mit witzigen Ideen. Aber das Stück ging über das collagenhafte Aneinanderreihen von Klischees nicht hinaus, vielleicht hätten weniger Themen und weniger Fixierung auf die Videotechnik dem Ganzen besser getan.
 
-[St&uuml;ckbesprechung in der NZZ](http://www.nzz.ch/nachrichten/kultur/buehne/zeigen_will_ich_1.2518909.html)
+[Stückbesprechung in der NZZ](http://www.nzz.ch/nachrichten/kultur/buehne/zeigen_will_ich_1.2518909.html)

@@ -11,6 +11,8 @@ als kleinen Beitrag kann man aber einen Trinkbecher zum Preis von 5 Euro erwerbe
 auf den vier Bühnen. 
 
 Zu den bekanntesten Bands gehörte sicherlich [Glasperlenspiel](http://www.glasperlenspiel.com/), die am Samstagabend auf der Hauptbühne spielten. 
+Ich denke bei diesem Namen an das Buch von Hermann Hesse, das ich als Jugendlicher begeistert gelesen hatte. Anspielungen auf den Inhalt des Buches gab es 
+jedoch nicht. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/35067638455/in/dateposted-public/" title="IMG_20170527_222658">
   <img src="https://c1.staticflickr.com/5/4261/35067638455_9172187551_b.jpg" width="1024" height="768" alt="IMG_20170527_222658">

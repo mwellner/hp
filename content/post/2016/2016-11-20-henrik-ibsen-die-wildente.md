@@ -6,8 +6,6 @@ categories:
   - theater
 tags:
   - hendrik ibsen
-  - wildente
-  - schauspielhaus
   - darmstadt
 ---
 Zum ersten mal besuchte ich gestern das <a href="https://www.staatstheater-darmstadt.de/" target="_blank">Darmstädter Staatstheater</a>. Ich hatte 

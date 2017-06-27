@@ -2,10 +2,10 @@
 title: Weihnachtsstimmung in Darmstadt
 date: 2016-11-27T21:50:21+00:00
 author: Mathias Wellner
+categories:
+  - tagebuch
 tags:
   - darmstadt
-  - innenstadt
-  - markt
   - weihnachten
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/33077744035/in/dateposted-public/" title="MW_20161126_3070"><img src="https://c1.staticflickr.com/4/3944/33077744035_44d4eafbd1_b.jpg" width="1024" height="683" alt="MW_20161126_3070"></a>

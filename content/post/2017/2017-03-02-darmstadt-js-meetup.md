@@ -1,11 +1,13 @@
-+++
-title = "DarmstadtJS Meetup"
-tags = ["javascript", "typescript", "jsperts", "angular"]
-categories = ["software"]
-description = "Notizen vom Besuch des Meetups DarmstadtJS"
-images = ["/2016/10/image.jpg"]
-date = "2017-03-02T23:18:11+01:00"
-+++
+---
+title: DarmstadtJS Meetup
+tags: 
+  - javascript
+  - typescript
+categories: 
+  - software
+description: "Notizen vom Besuch des Meetups DarmstadtJS"
+date: "2017-03-02T23:18:11+01:00"
+---
 
 Heute war ich zum ersten Mal bei einem Meetup der Gruppe [DarmstadtJS](https://www.meetup.com/DarmstadtJS/). Das Ganze fand in den Büros von [JSperts](https://jsperts.de/) statt, Getränke und Pizzas stellte die Firma netterweise bereit, vielen Dank dafür!
 

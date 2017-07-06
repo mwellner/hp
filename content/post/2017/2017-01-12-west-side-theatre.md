@@ -6,7 +6,6 @@ categories:
   - tagebuch
 tags:
   - darmstadt
-  - west side theatre
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/32982747871/in/dateposted-public/" title="MW_20170108_0002">
   <img src="https://c1.staticflickr.com/3/2904/32982747871_64d8fe3505_b.jpg" width="1024" height="768" alt="MW_20170108_0002">

@@ -3,8 +3,6 @@ title: Wiesbaden
 tags: 
   - wiesbaden
   - hessen
-  - stadt
-  - städtetour
 categories:
   - reisen
 date: 2017-03-25T19:45:23+01:00

@@ -6,7 +6,6 @@ categories:
   - tagebuch
 tags:
   - darmstadt
-  - landesmuseum
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/32231977764/in/dateposted-public/" title="Landesmuseum"><img src="https://c1.staticflickr.com/3/2792/32231977764_caa58868d4_b.jpg" width="1024" height="768" alt="Landesmuseum"></a>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

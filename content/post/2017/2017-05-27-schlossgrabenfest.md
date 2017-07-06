@@ -1,11 +1,13 @@
-+++
-categories = ["tagebuch"]
-date = "2017-05-28T12:13:49+02:00"
-description = "Bericht vom Schlossgrabenfest in Darmstadt"
-images = ["https://c1.staticflickr.com/5/4261/35067638455_9172187551_m.jpg"]
-tags = ["schlossgrabenfest","darmstadt"]
-title = "Schlossgrabenfest"
-+++
+---
+categories:
+  - tagebuch
+date: 2017-05-28T12:13:49+02:00
+description: Bericht vom Schlossgrabenfest in Darmstadt
+tags:
+  - schlossgrabenfest
+  - darmstadt
+title: Schlossgrabenfest
+---
 Auch in Darmstadt gibt es ein gediegenes Musik-Festival, das [Schlossgrabenfest](http://www.schlossgrabenfest.de). Praktischerweise mit freiem Eintritt, 
 als kleinen Beitrag kann man aber einen Trinkbecher zum Preis von 5 Euro erwerben. Das ganze ging mehrere Tage, Dutzende Bands von nah und fern spielten 
 auf den vier Bühnen. 

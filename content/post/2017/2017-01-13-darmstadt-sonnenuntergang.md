@@ -6,8 +6,6 @@ categories:
   - tagebuch
 tags:
   - darmstadt
-  - sonne
-  - sonnenuntergang
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/mwellner/32262014843/in/dateposted-public/" title="MW_20170113_0005"><img src="https://c1.staticflickr.com/3/2822/32262014843_6fe41131cd_c.jpg" width="800" height="400" alt="MW_20170113_0005"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

@@ -4,7 +4,6 @@ author: Mathias Wellner
 tags: 
   - zürich
   - dramateure
-  - sartre  
 categories:
   - tagebuch
 date: 2017-04-30T23:52:37+01:00

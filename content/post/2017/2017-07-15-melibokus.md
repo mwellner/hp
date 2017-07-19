@@ -19,4 +19,4 @@ Es war eine schöne kleine Tour. Der Anstieg auf den [Melibokus](https://de.wiki
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/35199871833/in/dateposted-public/" title="MW_20170715_0007"><img src="https://farm5.staticflickr.com/4329/35199871833_3e2f2422c2_b.jpg" width="1024" height="768" alt="MW_20170715_0007"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Auf dem Rückweg nach Zwingenberg passierten wir einen Teil der Strecke der [Bergsträßler Weinlagenwanderung](http://www.bergstraesser-wein.de/weinlagenwanderung/). Mitten durch wunderschöne Weinhänge, die im Herbst sicher noch schöner anzuschauen sind. 
+Auf dem Rückweg nach Zwingenberg passierten wir einen Teil der Strecke der [Bergsträßler Weinlagenwanderung](http://www.bergstraesser-wein.de/weinlagenwanderung/). Mitten durch wunderschöne Weinhänge, die im Herbst sicher noch schöner anzuschauen sind. Und dann waren wir auch wieder in Zwingenberg, dem Ausgangspunkt unserer Reise. Zeit für ein Eis war noch, bevor uns die Regionalbahn wieder nach Darmstadt brachte. 

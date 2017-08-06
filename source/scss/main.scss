@@ -138,8 +138,20 @@ h6, .h6 {
 article img {
   max-width: 100%;
   height: auto;
-  margin: 13px auto;
+  margin: 13px auto 0;
 }
+
+figcaption {
+  background-color: #EEE;
+  text-align: center;
+  font-style: italic;
+  font-size: 80%;
+  padding: 0.3em 0.6em;
+  border: 1px solid #AAA;
+  border-top: none;
+  color: #333;
+}
+
 // add margin to sharing icons (except the first one)
 .sharing-icons .nav-item+.nav-item {
   margin-left: 1rem;

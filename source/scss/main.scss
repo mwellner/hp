@@ -43,11 +43,20 @@ h6, .h6 {
 .blog-masthead {
   margin-bottom: 3rem;
   .navbar {
-    background-image: url("../images/waldspirale_header.jpg");
+    background-image: url("../images/kunstakademie.jpg");
     background-size: cover;
-    padding-bottom: 7rem;
+    padding-bottom: 3rem;
+    padding-left: 2rem;
     min-height: 240px;
+    .nav-link {
+      background: linear-gradient(to bottom, hsla(0, 0%, 0%, 0.0), hsla(0, 0%, 0%, 0.5) 20%, hsla(0, 0%, 0%, 0.6) 50%, hsla(0, 0%, 0%, 0.5) 80%, hsla(0, 0%, 0%, 0.0) 100%);
+    }
   }
+  .navbar-brand {
+    color: white;
+    background: linear-gradient(to bottom, hsla(0, 0%, 0%, 0.0), hsla(0, 0%, 0%, 0.5) 20%, hsla(0, 0%, 0%, 0.6) 50%, hsla(0, 0%, 0%, 0.5) 80%, hsla(0, 0%, 0%, 0.0) 100%);    
+    padding: 0.7rem 0.5rem;
+  }  
 }
 
 /* Nav links */

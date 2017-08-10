@@ -141,15 +141,21 @@ article img {
   margin: 13px auto 0;
 }
 
+figure {
+  position: relative;
+}
+
 figcaption {
-  background-color: #EEE;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to bottom, hsla(0, 0%, 0%, 0.1), hsla(0, 0%, 0%, 0.4) 15%, hsla(0, 0%, 0%, 0.6));
   text-align: center;
   font-style: italic;
   font-size: 80%;
   padding: 0.3em 0.6em;
-  border: 1px solid #AAA;
-  border-top: none;
-  color: #333;
+  color: #FFF;
 }
 
 // add margin to sharing icons (except the first one)

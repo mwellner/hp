@@ -4,6 +4,10 @@ title: Bühnenbau mit Styropor
 author: Mathias Wellner
 categories:
   - theater
+tags: 
+  - james goldman
+  - musische gruppe auerbach
+  - darmstadt
 ---
 Ein für mich neuer Aspekt des Theater-Bühnenbaus sind größere Kulissen. Für meine aktuelle Produktion _Der Löwe im Winter_ bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) brauchen wir ein paar Säulen. Also richtig hohe Säulen, übermannshoch. Und so lernte ich heute die Feinheiten der Styroporbearbeitung kennen. 
 

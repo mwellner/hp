@@ -1,19 +1,11 @@
 ---
-id: 701
-title: '&#214;ffentlichkeitsarbeit Theaterst&#252;ck'
+title: Öffentlichkeitsarbeit Theaterstück
 date: 2007-04-25T23:25:23+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/04/25/oeffentlichkeitsarbeit-theaterstueck/
-permalink: /2007/04/25/oeffentlichkeitsarbeit-theaterstueck/
 categories:
-  - tagebuch
+  - theater
 tags:
   - akitiv
-  - bekannt machen
-  - Medien
-  - PR
-  - theater
 ---
 Für unsere Produktion [Die Lästerschule](http://www.aki.ethz.ch/akitiv/) wollen wir möglichst viele Leute begeistern. Hier wollte ich mal sammeln, welche Möglichkeiten es gibt.
 

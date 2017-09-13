@@ -1,13 +1,11 @@
 ---
-id: 683
-title: aveth-news 2007, ausgewählte beiträge
+title: AVETH-News 2007, ausgewählte Beiträge
 date: 2007-01-27T23:47:22+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/01/27/aveth-news-2007-ausgewahlte-beitrage/
-permalink: /2007/01/27/aveth-news-2007-ausgewahlte-beitrage/
+categories:
+  - tagebuch
 ---
-_Für die bald herauskommende AVETH-News 2007 habe ich zwei Artikel beigesteuert. Es beschäftigte mich ein Rückblick auf unser Vorstandwochenende in Einsiedeln und für den Bereich Kultur hatte ich freie Hand. Aber seht selbst&#8230;_ 
+Für die bald herauskommende AVETH-News 2007 habe ich zwei Artikel beigesteuert. Es beschäftigte mich ein Rückblick auf unser Vorstandwochenende in Einsiedeln und für den Bereich Kultur hatte ich freie Hand.
 
 #### Einkehr in Einsiedeln
 
@@ -17,7 +15,7 @@ Die wichtigste Frage war, welches Schwerpunktthema wir uns für das inzwischen s
 
 Weitere Themen, die wir an diesem Wochenende berieten, waren die Fachvereine und welche Wege wir bei der Kommunikation beschreiten wollen. Auf jeden Fall haben wir viele Ideen gesammelt und können so frisch ins neue Jahr starten. Und Spass hat es ausserdem auch noch gemacht. Dafür sorgten einige kleinere Wanderungen in die Umgebung und ein verschollenes Fondue. 
 
-#### Auguste Rodin &#8211; Nichts da mit abstract
+#### Auguste Rodin &#8211; Nichts da mit abstrakt
 
 Niemand Geringerer als der Wegbereiter der modernen Plastik wird ab dem 9. Februar im Zürcher Kunsthaus ausgestellt. 
 

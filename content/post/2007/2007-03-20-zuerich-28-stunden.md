@@ -1,11 +1,9 @@
 ---
-id: 698
-title: 'zuerich &#8211; 28 stunden'
+title: Zürich -- 28 Stunden
 date: 2007-03-20T02:34:48+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/03/20/zuerich-28-stunden/
-permalink: /2007/03/20/zuerich-28-stunden/
+categories:
+  - tagebuch
 ---
 Nur etwas mehr als ein Tag bleibt mir in Zürich, bevor es weiter geht nach Sardinien. Gezeichnet vom Jetlag standen heute zudem auch noch einige Aufgaben an, zwei Konferenzartikel harrten meiner kritischen Begutachtung, eine Regenhose wollte besorgt sein und überhaupt war neuerliches Packen angesagt. So steht jetzt mein großer Rucksack bereit, um morgen mit mir über Rom nach Sardinien zu fliegen. Ursprünglich hatte ich zwei Tage Zürich vorgesehen, aber durch das Chaos in Charlotte am Abreisetag hat sich dieses Polster reduziert. 
 

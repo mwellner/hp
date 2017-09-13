@@ -1,11 +1,9 @@
 ---
-id: 700
-title: 'S&#228;chsil&#252;&#252;te'
+title: Sächsilüüte
 date: 2007-04-16T23:07:22+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/04/16/saechselaeuten/
-permalink: /2007/04/16/saechselaeuten/
+categories:
+  - tagebuch
 ---
 Meine Kleider riechen nach Rauch heute Abend. Zu lange stand ich am großen Feuer, aus dem immer wieder Leute mit Schaufeln Glut herausholten, um die mitgebrachten Bratwürste zu grillieren. Es ist ein Volksfest von riesigem Ausmaß, welches bereits am Nachmittag mit einem Umzug der Zünfte begann. In mittelalterlichen Kostümen, mit Trommeln, Pauken und Trompeten zogen die eingesessenen Zürcher durch die Stadt, zu Fuß, auf Pferden und Kamelen, in bunt geschmückten Fuhrwerken. Auch die Kinder sind mit dabei und marschieren im Pulk ihrer Zunft. Ein besonderer Brauch, der in dieser Form nur in Zürich existiert.
 

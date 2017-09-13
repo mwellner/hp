@@ -1,17 +1,14 @@
 ---
-id: 688
 title: Wie viele Deutsche verträgt die Schweiz?
 date: 2007-02-17T23:34:36+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/02/17/wie-viele-deutsche-vertragt-die-schweiz/
-permalink: /2007/02/17/wie-viele-deutsche-vertragt-die-schweiz/
+categories:
+  - politik
 tags:
-  - Blick
-  - Deutsche
-  - Schweiz
-  - Serie
+  - schweiz
 ---
-Es ist kein Geheimnis &#8211; viele Schweizer fühlen sich von der wachsenden Zahl der Deutschen beunruhigt und fürchten eine Überfremdung. Nun hat die Schweizer Boulevard-Zeitung [Blick](http://www.blick.ch) eine Serie gestartet (Wie viele Deutsche verträgt die Schweiz?), welche die Gemüter erregen soll. Als unmittelbar Betroffener werde ich aber trotzdem meine medialen Gewohnheiten nicht ändern und diese Zeitung weiterhin nicht kaufen.
+Es ist kein Geheimnis -- viele Schweizer fühlen sich von der wachsenden Zahl der Deutschen beunruhigt und fürchten eine Überfremdung. Nun hat die Schweizer Boulevard-Zeitung [Blick](http://www.blick.ch) eine Serie gestartet: Wie viele Deutsche verträgt die Schweiz? Als unmittelbar Betroffener werde ich aber trotzdem meine medialen Gewohnheiten nicht ändern und diese Zeitung weiterhin nicht kaufen.
 
-Dennoch, wenn das Schweizer BILD-Äquivalent ein solches Thema aufgreift und groß herausbringt, lässt das schon einige Rückschlüsse zu. Es gibt eine Abneigung gegen Deutsche in der Schweiz. Die Schweizer, welche ich kenne, würde ich nicht als allemanophob einschätzen. Aber dennoch gibt es einige Klischees über Deutsche, welche auch zum Teil begründet sind. Zum Ersten treten Deutsche meist selbstbewusster auf und reden aggressiver. Es geht schneller, man neigt eher zum Unterbrechen des Gesprächspartners und viele Wörter klingen in Schweizer Ohren recht hart. Dies überrumpelt viel Schweizer, aus deren Sicht die Deutschen sich dann schlicht rüpelhaft aufführen. Ein wenig erinnert mich diese Sicht an die Ost-West-Mentalitätsunterschiede, wenngleich die wenigsten Schweizer von dieser innerdeutschen Problematik wissen. Von daher scheidet die mir nahe liegende Möglichkeit einer Allianz von Ostdeutschen und Schweizern gegen die Wessis leider aus. Beziehungsweise die nahe liegende Einschränkung der bösen Klischees auf die Bewohner der westlichen Bundesländer. Somit bin auch ich gemeint, als ein Bewohner des großen nördlichen Nachbarkantons, welcher die Schweiz langsam unterwandert.
+Dennoch, wenn das Schweizer BILD-Äquivalent ein solches Thema aufgreift und groß herausbringt, lässt das schon einige Rückschlüsse zu. Es gibt eine Abneigung gegen Deutsche in der Schweiz. Die Schweizer, welche ich kenne, würde ich nicht als allemanophob einschätzen. Aber dennoch gibt es einige Klischees über Deutsche, welche gern immer wieder aufgegriffen werden.
+
+Die Deutschen treten meist selbstbewusster auf und reden betonter. Es geht schneller, man neigt eher zum Unterbrechen des Gesprächspartners und viele Wörter klingen in Schweizer Ohren hart. Dies überrumpelt viel Schweizer, aus deren Sicht die Deutschen sich dann schlicht rüpelhaft aufführen. Ein wenig erinnert mich diese Sicht an die Ost-West-Mentalitätsunterschiede, wenngleich die wenigsten Schweizer von dieser innerdeutschen Problematik wissen. Von daher scheidet die mir nahe liegende Möglichkeit einer Allianz von Ostdeutschen und Schweizern gegen die Wessis leider aus. Beziehungsweise die nahe liegende Einschränkung der bösen Klischees auf die Bewohner der westlichen Bundesländer. Somit bin auch ich gemeint, als ein Bewohner des großen nördlichen Nachbarkantons, welcher die Schweiz langsam unterwandert.

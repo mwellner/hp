@@ -1,11 +1,9 @@
 ---
-id: 686
-title: jaws wide shut
+title: Jaws Wide Shut
 date: 2007-02-12T23:25:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/02/12/jaws-wide-shut/
-permalink: /2007/02/12/jaws-wide-shut/
+categories:
+  - tagebuch
 ---
 Ihre grünen Augen sind ganz nah, über mir. Sie schaut konzentriert und arbeitet mit Schweizer Präzision. Ich sitze hilflos da, mit offenem Mund. In Griffweite sehe ich eine Schale mit Instrumenten, die meisten haben spitze Enden und sind leicht gebogen. Wieder wechselt sie das Werkzeug, legt eines mit blutverschmiertem Ende zur Seite. Ihr Blick sagt so etwas wie: na, das kann noch ein Weilchen gehen. Ihre Lippen sind bedeckt von einem Mundschutz. Ist vielleicht besser so, man kann sich bei ihrem Beruf leicht vorstellen, dass da gelegentlich ein leichtes Lächeln auftaucht, wenn sich der vorher noch so tapfere junge Mann, der sich ohne Betäubung behandeln lässt, beim einen oder anderen Zahn ein Zusammenkneifen der Augen nicht verkneifen kann. Ja, es tut weh! Ich hasse Zahnstein. Und jedes einzelne Stück Schokolade, was ich gegessen habe. Und jedes Guetzli (=Keks), welches ich gedankenverloren auf der Suche nach dem schnellen Zucker zwischen meinen Zähnen zermalmte. Ich bereue. Ich werde niemals wieder essen, ich weiß es ganz genau. 
 

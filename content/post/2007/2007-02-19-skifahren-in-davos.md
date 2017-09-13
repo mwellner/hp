@@ -1,19 +1,12 @@
 ---
-id: 689
 title: Skifahren in Davos
 date: 2007-02-19T00:14:39+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/02/19/skifahren-in-davos/
-permalink: /2007/02/19/skifahren-in-davos/
+categories:
+  - sport
 tags:
-  - Abfahrt
-  - Davos
-  - Hang
-  - ski
-  - Skifahren
-  - Winter
-  - Wintersport
+  - davos
+  - skifahren
 ---
 Es ist nicht weit. Etwas mehr als zwei Stunden mit dem Zug, dann steigt man in Davos aus und hat die Qual der Wahl zwischen zwei recht großen Ski-Gebieten, Parsenn zur Rechten und Jakobshorn zur Linken. Kilometer von präparierten Pisten warten auf die vielen Tausend Skifahrer und Snowboarder. Auch auf mich, wobei ich mich inzwischen mit dem siebten Skitag als Fortgeschrittenen betrachte und nicht mehr die Anfänger-Ski ausleihe. Es sind jetzt Allround-Skier, welche ich mit Hilfe der klobigen Stiefel an meinem Körper befestige. Etwas länger und etwas weniger tailliert als die Anfänger-Skier sind sie, greifen besser bei höheren Geschwindigkeiten.
 

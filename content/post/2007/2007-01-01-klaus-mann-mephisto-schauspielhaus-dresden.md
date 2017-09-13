@@ -1,11 +1,9 @@
 ---
-id: 677
-title: 'Klaus Mann: Mephisto (Schauspielhaus Dresden)'
+title: Klaus Mann -- Mephisto (Schauspielhaus Dresden)
 date: 2007-01-01T15:31:13+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/01/01/klaus-mann-mephisto-schauspielhaus-dresden/
-permalink: /2007/01/01/klaus-mann-mephisto-schauspielhaus-dresden/
+tags:
+  - klaus mann
 categories:
   - theater
 ---

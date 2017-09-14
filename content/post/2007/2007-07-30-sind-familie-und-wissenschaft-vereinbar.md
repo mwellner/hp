@@ -1,19 +1,15 @@
 ---
-id: 732
 title: Sind Familie und Wissenschaft vereinbar?
 date: 2007-07-30T21:14:41+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/07/30/sind-familie-und-wissenschaft-vereinbar/
-permalink: /2007/07/30/sind-familie-und-wissenschaft-vereinbar/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
+categories:
+  - schreiben
 ---
-_Fuer die neu entstehende Familien-Homepage der [AVETH](http://www.aveth.ethz.ch) habe ich mich mit dem Thema der Vereinbarkeit von Wissenschaft und Familie beschaeftigt. Hier ein Entwurf, ueber Anmerkungen wuerde ich mich sehr freuen._
+_Für die neu entstehende Familien-Homepage der [AVETH](http://www.aveth.ethz.ch) habe ich mich mit dem Thema der Vereinbarkeit von Wissenschaft und Familie beschäftigt. Hier ein Entwurf, über Anmerkungen würde ich mich sehr freuen._
 
 Die Kinderlosigkeit von Akademikern ist ein weit verbreitetes Phänomen, und Wissenschaftler sind laut einer Studie der Universität Dortmund besonders betroffen. So sind von den untersuchten Jungwissenschaftlern (Doktorandinnen, wissenschaftliche Mitarbeiter und Juniorprofessoren des Bundeslandes Nordrhein-Westfalen) 73,1% ohne Nachwuchs. Und das, obwohl der Wunsch nach Kindern durchaus besteht.
 
-Woran liegt diese Diskrepanz zwischen Kinderwollen und -haben? Das Hauptproblem bei der Wahl einer wissenschaftlichen Karriere ist die grosse Anforderung an die persönliche Mobilität. Zudem sind in der Schweiz und in Deutschland die Verträge von wissenschaftlichen Mitarbeitern meist befristet, nach der festgesetzten Zeit hat man sein Etappenziel erreicht, oder bleibt auf der Strecke. Häufiger Standortwechsel ist ohnehin Pflicht, wenn man später als aussichtsreicher Kandidat vor eine Berufungskommission treten möchte. Diese häufigen Ortswechsel, verbunden mit Phasen der Ungewissheit, wohin es beruflich als nächstes gehen mag, stehen dem Gründen einer eigenen Familie im Wege. Auch die Konferenzen, Pflichttermine eines jeden Nachwuchswissenschaftlers, zollen ihren Tribut.
+Woran liegt diese Diskrepanz zwischen Kinderwollen und -haben? Das Hauptproblem bei der Wahl einer wissenschaftlichen Karriere ist die große Anforderung an die persönliche Mobilität. Zudem sind in der Schweiz und in Deutschland die Verträge von wissenschaftlichen Mitarbeitern meist befristet, nach der festgesetzten Zeit hat man sein Etappenziel erreicht, oder bleibt auf der Strecke. Häufiger Standortwechsel ist ohnehin Pflicht, wenn man später als aussichtsreicher Kandidat vor eine Berufungskommission treten möchte. Diese häufigen Ortswechsel, verbunden mit Phasen der Ungewissheit, wohin es beruflich als nächstes gehen mag, stehen dem Gründen einer eigenen Familie im Wege. Auch die Konferenzen, Pflichttermine eines jeden Nachwuchswissenschaftlers, zollen ihren Tribut.
 
 Ein weiterer Punkt ist das Fehlen informeller Netzwerke. Oft wohnen die eigenen Eltern sehr weit entfernt. Und damit entfällt eine wichtige Stütze bei der Kinderbetreuung. Und wenn dann auch noch in der Hochschule sehr wenige Betreuungsplätze zur Verfügung stehen, erschwert dies zusätzlich das Vorhaben, eine Familie zu gründen.
 
@@ -25,7 +21,7 @@ Erich Fromm beschrieb diesen Gegensatz in seinem bekannten Werk „Haben oder Se
 
 Doch diese totale Kluft zwischen den beiden Wegen resultiert doch nur aus einem begrenzten Denkansatz, welcher Kalkül und Gefühl als unüberwindbare Gegensätze darstellt. Wir brauchen ein mehrdimensionales Denken, bei welchem das Rationale und das Emotionale verschiedene, einander nicht ausschliessende Ausprägungen sind. Doch dafür gilt es die einengenden Fragestellungen, wie eben die nach der Vereinbarkeit von Wissenschaft und Familie, über Bord zu werfen.
 
-Referenzen
+**Referenzen**
 
 Gerhard Schulze, _Jenseits von Haben oder Sein_, NZZ am 30.07.2007
   

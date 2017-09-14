@@ -1,13 +1,9 @@
 ---
-id: 718
 title: Why we need virtual environments for motor rehabilitation
 date: 2007-06-27T18:30:51+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/06/27/why-we-need-virtual-environments-for-motor-rehabilitation/
-permalink: /2007/06/27/why-we-need-virtual-environments-for-motor-rehabilitation/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
+categories:
+  - science
 ---
 I recently stumbled over the publication [T. Mulder: A Process-Oriented Model of Human Motor Behavior: Toward a Theory-Based Rehabilitation Approach](http://www.citeulike.org/user/wellnair/article/1416712). Looking for an underlying red line in the introduction of a planned publication by me, the article fitted extremely well in motivating the usage of virtual environments and other advanced techniques for gait rehabilitation.
 

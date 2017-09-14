@@ -1,13 +1,9 @@
 ---
-id: 728
 title: Schleifen
 date: 2007-07-23T19:55:53+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/07/23/schleifen/
-permalink: /2007/07/23/schleifen/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
+categories:
+  - wissenschaft
 ---
 Zu den weniger angenehmen Tätigkeiten als Doktorand gehört sicherlich das Zuendebringen einer Publikation. Vor mir liegt ein Entwurf dieses Machwerkes, versehen mit zahlreichen Kommentaren, welche ich allesamt möglichst einarbeiten sollte. Es ist ein mühsames Schleifen an vielen Stellen, an einem zusammengeworfenen Haufen Lehm zerbrösele ich die Unebenheiten an der Oberfläche und rücke auch hier und da einen Lehmklumpen an eine andere Stelle, damit der Gesamteindruck harmonischer wird. Die Klumpen muessen gleichmässig angeordnet und äusserlich ähnlich aufgebaut sein, zwischen ihnen spannen sich viele feine Faeden, diese sollen möglichst parallel sein. Keiner von den kleinen Lehmklumpen darf einfach so für sich sein, ohne Faden zu anderen Klumpen wird er gnadenlos wegrationalisiert. Gelegentlich spanne ich auch Fäden zu anderen, schon abgeschlossenen Lehmhaufen, welche ringsum zahlreich vorhanden sind. Diese sind meist schön geschliffen und auch schon gebrannt, allein das Brennen verleiht ihnen einen Glanz, von dem ich nur träumen kann.
 

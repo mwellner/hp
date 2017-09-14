@@ -1,17 +1,11 @@
 ---
-id: 722
-title: 'Das wärs gewesen &#8211; Pilatus'
+title: Das wärs gewesen -- Pilatus
 date: 2007-07-10T23:19:40+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/07/10/das-wars-gewesen-pilatus/
-permalink: /2007/07/10/das-wars-gewesen-pilatus/
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
+categories:
+  - tagebuch
 ---
 Es rückt näher. Eine riesige dunkelgraue Wand wälzt sich auf uns zu. Aus dem Osten &#8211; wie in _Herr der Ringe_ &#8211; naht das Unheil. Gehen wir trotzdem weiter? Links lächelt uns der Pilatus an, der Blick wandert entlang des gebogenen Seilbahnkabels nach oben, wo zwei teure Hotels über Luzern und dem Vierwaldstättersee thronen. Doch es gibt da oben auch den Gipfel der Bergwanderer, irgendwo hinter den Hotels, in der Nähe der Seilbahnbergstation. Wo man Damen in Stöckelschuhen begegnet, sich einen Augenblick anschaut und seiner Wege geht, zwei Welten auf einem Gipfel.
-
-[<img src="http://farm2.static.flickr.com/1402/771851724_a01888e604.jpg" alt="Composition" height="348" width="500" />](http://www.flickr.com/photos/mwellner/771851724/ "Photo Sharing")
 
 Der Wind frischt auf, lähmt uns. Die Sonnencreme haben wir vergebens gekauft, stattdessen wird sich bald die Undurchlässigkeit unserer Regenbekleidung beweisen müssen. Denn einfach so ins Tal wollen wir nicht fahren, zumindest ein bisschen wandern sollte noch möglich sein von hier aus, etwas oberhalb der Baumgrenze.
 
@@ -26,7 +20,5 @@ Das Unwetter ist über uns, man sieht in Richtung Westen noch den lichten Himmel
 In Eigental, was man auch mit h schreiben kann, sitzt das Militär, ein unpassend nettes Gebäude ohne Wachposten, mit Wiese davor und adretten Hinweisschildern. Die Einfahrt ist offen, kein Mensch zu sehen, am Buswendeplatz heftet ein Zettel mit der Telefonnummer vom Schiessstandchef. Von fern hört man die Schiessübungen, aber vielleicht war dies auch bei einer anderen Wanderung. Zu fern, aber doch passt es in dieses Tal, wir reden über Fliegen, Flugstaffeln beim Züri Fäscht und das in der Schweiz abgestürzte deutsche Flugzeug. Was kam heraus bei der Klärung der Absturzursache? War wohl wenig spektakulär und schaffte es nicht in die Schlagzeilen, auch der Absturz war nur in der Schweiz ein Thema und weniger im nördlichen Nachbarland.
 
 Matsch ist überall, man versinkt mit jedem Schritt, meine Hosen sehen furchtbar aus. Es spritzt immer ein wenig hoch und bleibt an der hellen Hose haften. Das könnte man glatt fotografieren, aber erst später, in einer ruhigen Minute. Ein Bild, in dem sich die vielen Schritte ausdrücken, in dem diese Wanderung sichtbar wird.
-
-[<img src="http://farm2.static.flickr.com/1423/771874826_da310ff1b1.jpg" alt="Shoe" height="500" width="334" />](http://www.flickr.com/photos/mwellner/771874826/ "Photo Sharing")
 
 Das Ende? Wir trafen uns am Bahnhof, bereits um acht Uhr morgens. Großes Gedränge, immer sind da Leute, die hastig wo hin müssen. Bauarbeiten, andere Gleise. Die Abfahrt rückt näher. Ich bin allein.

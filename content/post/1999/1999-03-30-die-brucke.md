@@ -1,5 +1,6 @@
 ---
 title: Die Brücke
+slug: die-bruecke
 date: 1999-03-30T21:18:11+00:00
 lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner

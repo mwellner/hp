@@ -1,17 +1,12 @@
 ---
-id: 437
 title: Homepage neu gestaltet
 date: 2005-06-05T23:35:02+00:00
+lastmod: 2017-09-16T19:23:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/06/05/homepage-neu-gestaltet/
-permalink: /2005/06/05/homepage-neu-gestaltet/
 categories:
-  - www
+  - weblog
 tags:
-  - Homepage
-  - Internet
-  - Seite
+  - homepage
 ---
 Soeben habe ich meine [Homepage im neuen Design](http://www.mwellner.de) freigeschalten. Die Änderungen sind folgende:
 

@@ -1,19 +1,14 @@
 ---
-id: 426
-title: 'Vorlesung &#252;ber Kafka'
+title: Vorlesung über Kafka
 date: 2005-05-25T18:00:18+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/05/25/vorlesung-ueber-kafka/
-permalink: /2005/05/25/vorlesung-ueber-kafka/
+categories:
+  - literatur
 tags:
-  - Fragmentierung
-  - Franz Kafka
-  - Literatur
-  - TU Dresden
-  - Vorlesung
+  - franz kafka
 ---
-Durch Zufall habe ich heute einer Vorlesung über Franz Kafka beigewohnt. Wir hatten die große Holzplatte für den Roboterwettbewerb in einem Hörsaal aufgebaut und waren gerade am Testen, als plötzlich immer mehr Studentinnen in den Raum strömten. Ihre Vorlesung war &#8211; ohne unser Wissen &#8211; hierhin verlegt worden, wir mussten weichen. Ich blieb, reihte mich ein unter die Germanistinnen. Denn es sollte um Kafka gehen, ein Schriftsteller, der zwar nicht zu meinen absoluten Favoriten zählt, aber den ich dennoch als wichtigen Autor empfinde.
+Durch Zufall habe ich heute einer Vorlesung über Franz Kafka beigewohnt. Wir hatten die große Holzplatte für den Roboterwettbewerb in einem Hörsaal aufgebaut und waren gerade am Testen, als plötzlich immer mehr Studentinnen in den Raum strömten. Ihre Vorlesung war ohne unser Wissen  hierhin verlegt worden, wir mussten weichen. Ich blieb, reihte mich ein unter die Germanistinnen. Denn es sollte um Kafka gehen, ein Schriftsteller, der zwar nicht zu meinen absoluten Favoriten zählt, aber den ich dennoch als wichtigen Autor empfinde.
 
 **Fragmentierung**
 

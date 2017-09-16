@@ -1,13 +1,12 @@
 ---
-id: 433
 title: Diplomverteidigung
 date: 2005-05-31T11:34:12+00:00
+lastmod: 2017-09-16T19:28:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/05/31/artikelentwurf-zur-diskussion/
-permalink: /2005/05/31/artikelentwurf-zur-diskussion/
 categories:
   - tagebuch
+tags:
+  - diplomarbeit
 ---
 _Dies ist der dritte Entwurf für einen Artikel zum Thema Diplom. Angesprochen sind Studenten der Elektrotechnik, aber auch die Mitarbeiter der Fakultät. Bitte sagt doch mal eure Meinung dazu, ob das so stimmig ist._
 

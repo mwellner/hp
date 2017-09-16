@@ -1,14 +1,14 @@
 ---
 title: Das grüne Rennrad
 date: 2002-08-25T20:06:14+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - radfahren
   - rennrad
   - schlauch
-  - velo
+  - usa
 ---
 Zu den Altlasten unserer Vorgänger gehören neben einer nicht bezahlten Telefonrechnung auch zwei Rennräder. Das eine hat sich 
 Reimund gleich geschnappt, schließlich war er ja auch einen Tag eher da. Bei dem anderen fehlte der Schlauch des hinteren Rades. 

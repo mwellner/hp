@@ -5,10 +5,7 @@ author: Mathias Wellner
 categories:
   - science
 tags:
-  - header
-  - LaTeX
-  - logo
-  - page
+  - latex
 ---
 Given the problem that you want to put one or several logos in your document header, I found the following solution. All the lines have to be inserted in the document preamble, meaning before the \begin{document} line. You will need your logos in the appropriate format (in most cases EPS, pdflatex requires PDF, PNG, or JPG) in your document folder. I will assume logo1.eps and logo2.eps are the file names for the two logos. You will also need the graphicx package to actually include your graphic files.
 

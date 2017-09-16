@@ -1,13 +1,14 @@
 ---
 title: Student Initiatives
 date: 2002-09-01T20:08:52+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
   - diary
 tags:
   - blacksburg
   - virginia tech
-  - squires student center
+  - usa
 ---
 On Friday, most of the students organizations presented themselves in Squires Student Center. Interested to get involved in 
 something I entered the room. It was packed with people, you could hear music playing from one corner, and a babble of voices 

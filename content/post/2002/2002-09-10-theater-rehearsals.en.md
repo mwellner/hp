@@ -1,17 +1,13 @@
 ---
 title: Theater Rehearsals
 date: 2002-09-10T18:32:41+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
-  - diary
+  - theater
 tags:
   - blacksburg
-  - concentration
   - rebel without a cause
-  - rehearsal
-  - state your name theatre company
-  - theater
-  - theatre
   - usa
 ---
 Yesterday we read the whole piece (Rebel Without a Cause), every one his role. I was Officer 1, had not to say that much. But it was all right and I also have the glorious part of shooting Plato, when he plays with his gun and doesn&#8217;t want to give it to somebody.

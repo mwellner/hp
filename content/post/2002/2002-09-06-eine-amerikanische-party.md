@@ -1,22 +1,16 @@
 ---
-id: 1246
 title: Eine Amerikanische Party
 date: 2002-09-06T20:18:57+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/blog/?p=1246
-permalink: /2002/09/06/eine-amerikanische-party/
 categories:
   - tagebuch
 tags:
-  - Alkohol
-  - Bier
-  - Party
-  - USA
+  - usa
 ---
-Darauf habt ihr wahrscheinlich schon lange gewartet &#8211; die Beschreibung einer amerikanischen Party. In der Campus-Zeitung &#8220;Collegiate Times&#8221; findet man so einige Anzeigen dieser mystischen Bruder- und Schwesterschaften mit drei griechischen Buchstaben. Die Gesamtheit der Aktivitäten dieser Gruppierungen wird meist als &#8220;Greek Life&#8221; bezeichnet. Am Anfang hatte ich mir darunter schon etwas Anderes vorgestellt als Parties, aber die Organisation solcher steht bei vielen &#8220;fraternities&#8221; und &#8220;sororities&#8221; anscheinend im Vordergrund. In der westlichen Ecke des Campus erheben sich dann auch die Häuser, speziell für diese Vereinigungen errichtet und mit den jeweiligen griechischen Großbuchstaben versehen.
+Darauf habt ihr wahrscheinlich schon lange gewartet -- die Beschreibung einer amerikanischen Party. In der Campus-Zeitung _Collegiate Times_ findet man so einige Anzeigen dieser mystischen Bruder- und Schwesterschaften mit drei griechischen Buchstaben. Die Gesamtheit der Aktivitäten dieser Gruppierungen wird meist als _Greek Life_ bezeichnet. Am Anfang hatte ich mir darunter schon etwas Anderes vorgestellt als Parties, aber die Organisation solcher steht bei vielen _fraternities_ und _sororities_ anscheinend im Vordergrund. In der westlichen Ecke des Campus erheben sich dann auch die Häuser, speziell für diese Vereinigungen errichtet und mit den jeweiligen griechischen Großbuchstaben versehen.
 
-Heute war es die Bruderschaft Pi-Kappa-Alpha, welche freundlicherweise per Zeitungsannonce auf die Party hinwies. Also nichts wie hin. Unterwegs holte Reimund noch seine ecuadoranische Bekanntschaft Nathalie ab. Er machte uns miteinander bekannt. Sie ist klein, hat lange schwarze Haare und wunderbare große, dunkle Augen. Während Reimund sein Fahrrad stehen ließ und mit Nathalie per Bus fuhr, machten wir drei anderen uns per Rad auf den Weg. Schon von weitem erkannten wir anhand einer größeren Ansammlung Leute und eindeutiger Geräusche den Ort des Geschehens &mdash; eines jener oben beschriebenen Häuser.
+Heute war es die Bruderschaft Pi-Kappa-Alpha, welche freundlicherweise per Zeitungsannonce auf die Party hinwies. Also nichts wie hin. Unterwegs holte Reimund noch seine ecuadoranische Bekanntschaft Nathalie ab. Er machte uns miteinander bekannt. Sie ist klein, hat lange schwarze Haare und wunderbare große, dunkle Augen. Während Reimund sein Fahrrad stehen ließ und mit Nathalie per Bus fuhr, machten wir drei anderen uns per Rad auf den Weg. Schon von weitem erkannten wir anhand einer größeren Ansammlung Leute und eindeutiger Geräusche den Ort des Geschehens -- eines jener oben beschriebenen Häuser.
 
 Rechts von diesem Haus befand sich der Einlass, durch ein langes schwarzes Tuch konnten wir jedoch nichts dahinter erkennen. So muss es auch dem zivilen Polizeifahrzeug gegangen sein, das vor dem Haus parkte. Es war anhand der zwei uniformierten Beamten und dreier gigantischer Antennen auf dem Kofferraum unschwer zu erkennen. Man muss an dieser Stelle vielleicht noch mal hervorheben, dass in Bezug auf Alkohol in den USA zumindest offiziell viel striktere Regeln gelten als in Deutschland. Alkoholhaltige Getränke sind erst ab 21 Jahren zugänglich, weswegen man im Supermarkt oder am Eingang von Kneipen stets seine ID zücken muss.
 
@@ -24,6 +18,6 @@ So auch hier, ein paar ernsthaft dreinblickende Kerle mit schwarzen Shirts kontr
 
 Eine halbe Stunde später hatte sich das Terrain merklich gefüllt, die strikten Regeln hatten keinerlei Bedeutung mehr. Überall drängelten sich Leute durch. Bier wurde auch überall getrunken. Auffallend war die hohe Anzahl an weiblichen Personen, das war für uns E-Techniker schon ein berauschender Anblick. Nach einer Runde Tanzen (so nennt man ja dieses rhythmische, unkoordinierte Bewegen möglichst vieler Gliedmaßen mit dem Ziel, einen harmonischen Gesamteindruck zu erzeugen) brauchten wir wieder frische Luft. Zu diesem Zeitpunkt war es rammeldickevoll in dem Haus und davor, von außen strömten immer mehr Leute hinzu. Die Leute amüsierten sich auch alle, nur wir standen irgendwie neben den Dingen. Irgendwann reichte es uns dann auch, wir beschlossen, lieber noch eine Bar aufzusuchen.
 
-Eine Viertelstunde Fahrrad später waren wir im Zentrum (&#8220;downtown&#8221;), am &#8220;Hokie House&#8221;. Diese dem Sport gewidmete Bar zeichnete sich durch Fernsehbildschirme (Baseball), Billardtische und laute Musik aus. Tische waren auch nicht frei, viele gab es davon ohnehin nicht. Stimmengewirr allerorten, Bier wurde aus großen Henkelgläsern geleert. So richtig unterhalten konnte man sich nicht. Ich war etwas frustriert, fühlte mich vom Regen in die Traufe befördert. Also ging ich, genoss die Heimfahrt in der lauen Nacht.
+Eine Viertelstunde Fahrrad später waren wir im Zentrum (_downtown_), am _Hokie House_. Diese dem Sport gewidmete Bar zeichnete sich durch Fernsehbildschirme (Baseball), Billardtische und laute Musik aus. Tische waren auch nicht frei, viele gab es davon ohnehin nicht. Stimmengewirr allerorten, Bier wurde aus großen Henkelgläsern geleert. So richtig unterhalten konnte man sich nicht. Ich war etwas frustriert, fühlte mich vom Regen in die Traufe befördert. Also ging ich, genoss die Heimfahrt in der lauen Nacht.
 
 Es wird mir stets schleierhaft bleiben, wieso Menschen so viel Zeit mit derartigen Aktivitäten verbringen. Aber sicherlich gibt es noch alternative Möglichkeiten.

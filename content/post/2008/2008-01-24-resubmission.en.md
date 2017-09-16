@@ -1,13 +1,12 @@
 ---
 title: Resubmission
 date: 2008-01-24T17:07:41+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
   - science
 tags:
-  - journal
   - publication
-  - publish
   - scientific writing
 ---
 I did it again. I revised my paper completely and resubmitted it to the journal of my choice. Compared to the [original submission](http://www.mwellner.de/2007/08/29/paper-submission/), the haptic evaluation part was removed, a structural reorganization took place, and many improvements in argumentation and plausibility were added. So now it&#8217;s in the editorial pipeline again.

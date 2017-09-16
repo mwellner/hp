@@ -1,17 +1,14 @@
 ---
 title: Theater, der Vorhang ist gefallen
 date: 2002-10-28T22:03:12+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
   - blacksburg
-  - Derniere
-  - Ende
   - rebel without a cause
-  - State Your Name Theater Company
-  - USA
-  - vorbei
+  - usa
 ---
 Nach drei glorreichen Aufführungen und der Demontage der Bühne ist &#8220;rebel without a cause&#8221; Geschichte. Was bleibt ist die Erinnerung an ein paar sehr anstrengende Wochen mit allabendlichen Proben, an all die Gesichter und Menschen, an die immer wieder motivierenden Reden von unserem Regisseur Mike, an die kleinen Pannen und an viele weitere Einzelheiten. Noch steht uns die Abschlussfete bevor, dann sind die Gedanken der meisten Leute schon bei der nächsten Show, einem noch nicht näher bestimmten Musical.
 

@@ -1,22 +1,13 @@
 ---
-id: 1259
 title: Theater, alles auswendig
 date: 2002-10-16T14:25:21+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/blog/?p=1259
-permalink: /2002/10/16/theater-alles-auswendig/
 categories:
-  - tagebuch
   - theater
 tags:
-  - Blacksburg
-  - full run
-  - Rebel
-  - rebel without a cause
-  - theater
-  - theatre
-  - USA
+  - blacksburg
+  - usa
 ---
 Noch acht Tage bis zur Show! Langsam wird es ernst, Mike (Regisseur) erinnert gerade an wichtige Dinge. Allem voran steht natürlich das Kennen der eigenen Zeilen. Aber auch Requisiten, Kostüme und Öffentlichkeitsarbeit spricht er an, um den Erfolg der Aufführungen zu gewährleisten. Nun wird es ernst, ein erneuter &#8220;full run&#8221; wird wohl in wenigen Minuten beginnen.
 

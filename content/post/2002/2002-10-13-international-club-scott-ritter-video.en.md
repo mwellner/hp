@@ -1,18 +1,13 @@
 ---
 title: International Club, Scott Ritter Video
 date: 2002-10-13T23:51:50+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
   - diary
 tags:
-  - discussion
-  - politics
   - usa
-  - scott ritter
-  - iraq
   - blacksburg
-  - dune
-  - frank herbert
 ---
 You won't believe it, but even here people discuss political issues controversially. The latest example was the most recent International Club Coffee hour. Last Friday I was quite surprised to see the entire room filled with people. Usually there aren't that much, but on this day I had no chance to find a chair. Displayed was a video about Iraq. Scott Ritter, former chief weapon inspector in Iraq, critizised the US government harshly for having contributed a large part to the 1998 expel of weapon inspectors. He concluded that it had never been the interest of the US government to disarm Iraq but to provoke the escalation of the conflict. I mean, this really struck me. The second displayed speaker was a priest, speaking mainly about the consequences of the embargo. He made the shocking comparison that more Iraqi civilians were killed as a result of the embargo than people have died by weapons of mass destruction.
 

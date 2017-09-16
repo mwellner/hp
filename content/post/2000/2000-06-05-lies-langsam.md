@@ -1,7 +1,10 @@
 ---
 title: Lies langsam!
 date: 2000-06-05T21:27:38+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
+categories:
+  - schreiben
 ---
 &#8220;Verdammt!&#8221; ruft der zornig dreinblickende Bibliothekar Anton Litter, der am Steuer seines Opel Corsa gerade wieder die Ampel am Wasaplatz auf Rot springen sieht. Müssen denn gerade heute am Weihnachtsabend so viele Idioten unterwegs sein? Er schaltet das Autoradio aus, denn die Musik nervt einfach. Mit seinen Fäusten trommelt er aufs Lenkrad.
 

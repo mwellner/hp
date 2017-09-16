@@ -1,16 +1,13 @@
 ---
 title: Questionnaires on Presence and Immersive Tendencies
 date: 2008-02-18T19:48:36+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
   - science
 tags:
   - immersion
-  - Immersive Tendencies Questionnaire
-  - presence
   - questionnaire
-  - research
-  - science
 ---
 For our virtual rowing experiment in the [M3 Lab](http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html) we are currently evaluating the usage of questionnaires. And since the term presence is used by many researchers, it is very easy to find dozens of presence questionnaires. I am also a little bit sceptical on using questionnaires for the continuous assessment of presence. Hopefully our kinematic and physiological measurements are sufficient for the continuous part. Nevertheless, it might be useful to include a standard presence questionnaire to compare our data with literature.
 

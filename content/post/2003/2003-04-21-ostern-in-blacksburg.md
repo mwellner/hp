@@ -1,18 +1,13 @@
 ---
 title: Ostern in Blacksburg
 date: 2003-04-21T21:13:08+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
   - blacksburg
-  - eier
-  - ostereier
-  - ostern
-  - suchen
   - usa
-  - verstecken
-  - virginia
 ---
 Im Gegensatz zu Deutschland und den meisten anderen mir bekannten Ländern gibt es hier in den USA keine Feiertage zu Ostern. Eingebettet in zwei ganz normale Arbeitswochen gibt es halt das Wochenende, welches dann entsprechend der Familientradition begangen wird. Viele Menschen zieht es in eine der zahlreichen Kirchen, angeblich sollen bis zu 50&nbsp;Prozent der US-amerikanischen Bevölkerung zu Ostern den Weg zum Gottesdienst finden. Der Ostersonntag ist dann auch entsprechend der Höhepunkt aller Feierlichkeiten.
 

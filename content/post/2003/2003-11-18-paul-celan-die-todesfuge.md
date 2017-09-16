@@ -1,21 +1,14 @@
 ---
 title: Paul Celan -- Die Todesfuge
 date: 2003-11-18T20:50:00+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
   - literatur
 tags:
-  - gedicht
-  - juden
-  - juedisch
-  - konzentrationslager
   - lyrik
-  - milch
   - paul celan
-  - schwarze milch
   - shoah
-  - symbol
-  - tod
 ---
 Im Rahmen der Literaturvorlesung _Literatur der Shoah_ beschäftigen wir uns mit der [Todesfuge von Paul Celan](https://de.wikipedia.org/wiki/Todesfuge). Es ist für mich das beeindruckendste Gedicht, das ich jemals gehört habe. Es ist so dicht gepackt mit Symbolik, wiederholt sich, variiert -- ein geniales Beispiel, was Lyrik alles ausdrücken kann.
 

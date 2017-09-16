@@ -1,16 +1,15 @@
 ---
 title: Weihnachten in der Ferne
 date: 2002-12-25T23:47:48+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
   - blacksburg
-  - herr der ringe
   - usa
   - virginia
   - weihnachten
-  - winter
 ---
 Gern würde ich jetzt erzählen, wie Amerikaner Weihnachten verbringen, welche Traditionen und Bräuche sich hier herausgebildet haben. Doch leider sind alle Leute, die wir kennen, von dannen gezogen. Blacksburg ist momentan eine Geisterstadt. Dazu passt auch der eisige Wind, der momentan durch die Straßen weht. Gestern erzählte ich noch scherzhaft einigen Anrufern, dass wir eine weiße Weihnacht nur durch die höhere Temperatur verpassten, sich infolgedessen Regenschauer ergaben. Doch heute, am Tag danach ziehen die Ausläufer eines Wintersturms über uns hinweg. Doch noch ist es warm im Häuschen.
 

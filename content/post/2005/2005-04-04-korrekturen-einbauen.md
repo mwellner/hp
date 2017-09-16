@@ -1,18 +1,12 @@
 ---
-id: 365
 title: Korrekturen einbauen
 date: 2005-04-04T18:02:22+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/04/04/korrekturen-einbauen/
-permalink: /2005/04/04/korrekturen-einbauen/
+categories:
+  - tagebuch
 tags:
-  - Diplomarbeit
-  - Fehler
-  - Freunde
-  - Korrekturen
-  - redigieren
-  - Tippfehler
+  - diplomarbeit
 ---
 Also bis jetzt hat mir diese ganze Sache mit der Diplomarbeit doch großen Spaß gemacht. Mit meinem kontinuierlichen, entspannten Arbeitsstil kam ich gut voran und hatte doch stets das Gefühl, mich geschickt auszudrücken und klar und verständlich zu schreiben. Doch dann machte ich den Fehler, einigen Freunden meine Diplomarbeit zum Korrekturlesen zu überreichen.
 

@@ -1,7 +1,10 @@
 ---
 title: Die Macht des Schweigens
 date: 1999-06-28T12:42:02+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
+categories:
+  - schreiben
 ---
 Da saß ich nun inmitten meiner Freunde, also der Menschen, die mir am wichtigsten waren. Fröhlich redeten wir über dies und das, übertrieben das eine, zogen jenes ins Lächerliche, machten unsere Witze &#8211; über alles, was nicht niet- und nagelfest ist. Dann folgte nach einer weiteren Witzspirale (einer fing an, der nächste übertrieb maßlos, aber nicht genug, um vor einer nochmaligen Steigerung sicher zu sein, eine weitere funktionierte allerdings nicht mehr &#8211; das war allen klar) eine kleine Pause, alle schmunzelten vergnügt vor sich hin.
 

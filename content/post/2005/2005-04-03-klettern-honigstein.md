@@ -1,12 +1,12 @@
 ---
 title: Klettern am Honigstein
 date: 2005-04-03T21:13:01+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
+  - klettern
 tags:
   - elbsandsteingebirge
-  - klettern
   - saechsische schweiz
 ---
 Es war einfach zu verlockend! Wieder Sonnenschein, wieder lockten die Felsen. Und so fuhr ich &#8211; diesmal mit einer sehr großen Truppe &#8211; erneut hinaus, um auf seltsam geformte Steine zu klettern. Die Bilanz des heutigen Tages kann sich sehen lassen.

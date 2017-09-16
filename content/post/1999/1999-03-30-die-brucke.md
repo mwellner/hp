@@ -1,7 +1,10 @@
 ---
 title: Die Brücke
 date: 1999-03-30T21:18:11+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
+categories:
+  - schreiben
 ---
 In meinem langen und zugegebenermaßen nicht all zu stürmischem Leben hat es nur wenige Dinge gegeben, die mich wirklich bewegt haben, nur wenige Menschen, deren Schicksal mich tief beeindruckt hat. Durch meine anfangs zwar ziemlich fordernde, mittlerweile aber zur Routine erstarrte Arbeit bei der Zentralbank entwickelte sich allerdings in mir auch eine gewisse Neugier auf außergewöhnliche Schicksale, ich will nicht behaupten, dass ich ihnen hinterherjagte, aber wann immer sich die Gelegenheit bot, versuchte ich, ein Gespräch anzuknüpfen. Und nach einer gewissen Zeit des gegenseitigen Kennenlernens war eigentlich ein Großteil der Leute, die ich traf, bereit, mir mehr aus ihrem Leben zu erzählen. Mit einem gewissen Stolz kann ich auch von mir behaupten, ein guter Zuhörer zu sein, dem man sich ruhig anvertrauen kann. Natürlich gibt es immer verschlossene Typen, die niemandem etwas verraten, aber die vielen anderen entschädigen mich durch ihre Geschichten reichlich.
 

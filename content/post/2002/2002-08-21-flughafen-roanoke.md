@@ -1,17 +1,12 @@
 ---
 title: Flughafen Roanoke
 date: 2002-08-21T19:34:19+00:00
+lastmod: 2017-09-16T12:12:12+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - ankunft
-  - benzin
-  - benzinflasche
-  - flasche
-  - fliegen
   - flughafen
-  - sicherheit
   - usa
 ---
 Endlich geschafft, wir sind nun in der Nähe unseres Studienortes Blacksburg. Der Flug verlief mit einigen Schwierigkeiten, die sich aus der Benzinflasche ergaben, welche Mischa zum Campen mit eingepackt hat. Schon in Frankfurt durften wir beide unsere Koffer auspacken, mein Rucksack kam jedoch völlig ohne Auspacken durch. Da nahm das Unheil, das sich durch moderne Kommunikationsmittel fortpflanzte, seinen Anfang. In Cincinnati kam dann der schaurige Höhepunkt. Eine halbe Stunde Verspätung kam durch die besorgten Sicherheitsbeamten zu Stande, und wir waren unter den ersten, welche sich am Gate einfanden. Ich saß schon im Flugzeug, als schließlich der Kapitän hereinkam und mich nochmal hinaus bat. Nach der Untersuchung meiner Laptop-Tasche rang er sich schließlich dazu durch, uns beide durchzulassen. (&#8220;These guys are campers.&#8221;)

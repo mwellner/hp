@@ -4,6 +4,9 @@ date: 2008-02-04T23:43:53+00:00
 author: Mathias Wellner
 categories:
   - theater
+tags:
+  - lernen
+  - text
 ---
 **Wie lernt man am effizientesten Theatertexte?**
 

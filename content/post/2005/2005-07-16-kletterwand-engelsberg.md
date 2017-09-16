@@ -1,17 +1,12 @@
 ---
-id: 475
 title: Kletterwand Engelberg
 date: 2005-07-16T22:55:10+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/07/16/kletterwand-engelsberg/
-permalink: /2005/07/16/kletterwand-engelsberg/
+categories:
+  - klettern
 tags:
-  - assoziativ
-  - Engelberg
-  - fiktiv
-  - geschrieben
-  - Schweiz
+  - engelberg
 ---
 Schwarz-weiß gestreift erhebt sich die Kletterwand vor mir. Überall turnen winzige Gestalten herum, hängen in akrobatischen Stellungen an der Wand. Die Wand hängt überall, ganz oben ist ein Dach. Es gibt hier keine leichten Wege. Französische Skala, die Wege klingen leichter. Eine französische 6a ist eine sächsische 7c. Wir klettern im hohen 6er-Bereich. Zu schwer für mich.
 

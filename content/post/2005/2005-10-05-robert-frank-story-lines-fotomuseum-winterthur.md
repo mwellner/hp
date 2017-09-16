@@ -1,24 +1,12 @@
 ---
-id: 524
-title: 'Robert Frank &#8211; Story Lines (Fotomuseum Winterthur)'
+title: Robert Frank -- Story Lines (Fotomuseum Winterthur)
 date: 2005-10-05T19:45:57+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/10/05/robert-frank-story-lines-fotomuseum-winterthur/
-permalink: /2005/10/05/robert-frank-story-lines-fotomuseum-winterthur/
 categories:
   - tagebuch
 tags:
-  - 50er
-  - Ausstellung
-  - berühmt
-  - bilder
-  - Fotograf
-  - Fotografie
-  - Fotomuseum Winterthur
-  - Robert Frank
-  - The Americans
-  - Werk
+  - robert frank
 ---
 Im [Fotomuseum Winterthur](http://www.fotomuseum.ch) schaute ich mir mit einigen PhD-Kollegen vom [IfA](http://control.ee.ethz.ch) eine Ausstellung von Robert Frank ([[en] Wikipedia](https://en.wikipedia.org/wiki/Robert_Frank)) an. Es war der krönende Abschluss der **PhD seminar** genannten Veranstaltung, bei der alle Doktoranden den Stand ihrer Forschungen darlegen.
 

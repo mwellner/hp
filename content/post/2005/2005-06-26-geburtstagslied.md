@@ -1,88 +1,59 @@
 ---
-id: 463
-title: geburtstagslied
+title: Geburtstagslied
 date: 2005-06-26T23:59:00+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/06/26/geburtstagslied/
-permalink: /2005/06/26/geburtstagslied/
+categories:
+  - tagebuch
+tags:
+  - gerhard schöne
 ---
-_</p> 
+**Gerhard Schöne: Weil ich Geburtstag hab'**
 
-**Gerhard Schöne: Weil ich Geburtstag hab&#8217;**
-
-Bitte heute keinen giftigen Nebel,
-  
-keinen Unfall im Atomkraftwerk,
-  
-keinen Schwefelschnee im Erzgebirge,
-  
-weil ich Geburtstag hab&#8217;.
-
-Bitte heute keinen Toten in Beirut
-  
-und kein Blut heut&#8217; in Afghanistan,
-  
-keinen Anschlag heute auf Nicaragua,
-  
-weil ich Geburtstag hab&#8217;.
-
-Weil ich Geburtstag hab&#8217; und mir was wünschen darf.
-
-Vielleicht &#8216;ne Flasche Sekt aus der SU,
-  
-&#8216;ne Tuete Gummibärchen dazu,
-  
-vielleicht im Bett ein Rendezvous,
-  
-weil ich Geburtstag hab&#8217;.
-
-Doch bitte heut&#8217; kein Attentat in Neu-Delhi,
-  
-bitte heute keinen Giftskandal,
-  
-bitte heute keine Flugzeugentführung  
-,
-  
-weil ich Geburtstag hab&#8217;.
-
-Bitte heute keine Ölpest an der Nordsee,
-  
-keine Folter heut&#8217; in der Türkei,
-  
-keine Kinderarbeit in Taiwan,
-  
-weil ich Geburtstag hab&#8217;.
-
-Weil ich Geburtstag hab&#8217; und mir was wünschen darf.
-
-Keinen Polenwitz in Frankfurt an der Oder,
-  
-keinen Türkenwitz in Frankfurt am Main,
-  
-keinen Schlagstock auf die Kinder Sowetos,
-  
-weil ich Geburtstag hab&#8217;.
-
-Bitte heute keine Rüstungserfolge,
-  
-kalten Kriegern heute keinen Trumpf.
-  
-kein Manöverspiel im Kinderzimmer,
-  
-weil ich Geburtstag hab&#8217;.
-
-Weil ich Geburtstag hab&#8217; und mir was wünschen darf.
-
-Vielleicht, dass mir ein Lied gelingt,
-  
-die Postfrau gute Briefe bringt,
-  
-vielleicht, dass uns der Mut nicht sinkt,
-  
-weil ich Geburtstag hab&#8217;. 
-
-</i> 
+<blockquote class="blockquote">
+Bitte heute keinen giftigen Nebel,<br>
+keinen Unfall im Atomkraftwerk,<br>  
+keinen Schwefelschnee im Erzgebirge,<br>
+weil ich Geburtstag hab'.<br>
+<br>
+Bitte heute keinen Toten in Beirut<br>  
+und kein Blut heut' in Afghanistan,<br>  
+keinen Anschlag heute auf Nicaragua,<br>  
+weil ich Geburtstag hab'.<br>
+<br>
+Weil ich Geburtstag hab' und mir was wünschen darf.<br>
+Vielleicht 'ne Flasche Sekt aus der SU,<br>  
+'ne Tuete Gummibärchen dazu,<br>  
+vielleicht im Bett ein Rendezvous,<br>  
+weil ich Geburtstag hab'.<br>
+<br>
+Doch bitte heut' kein Attentat in Neu-Delhi,<br>  
+bitte heute keinen Giftskandal,<br>  
+bitte heute keine Flugzeugentführung<br>
+weil ich Geburtstag hab'.<br>
+<br>
+Bitte heute keine Ölpest an der Nordsee,<br>  
+keine Folter heut' in der Türkei,<br>  
+keine Kinderarbeit in Taiwan,<br>  
+weil ich Geburtstag hab'.<br>
+<br>
+Weil ich Geburtstag hab' und mir was wünschen darf.<br>
+Keinen Polenwitz in Frankfurt an der Oder,<br>  
+keinen Türkenwitz in Frankfurt am Main,<br>  
+keinen Schlagstock auf die Kinder Sowetos,<br>  
+weil ich Geburtstag hab'.<br>
+<br>
+Bitte heute keine Rüstungserfolge,<br>  
+kalten Kriegern heute keinen Trumpf.<br>  
+kein Manöverspiel im Kinderzimmer,<br>  
+weil ich Geburtstag hab'.<br>
+<br>
+Weil ich Geburtstag hab' und mir was wünschen darf.<br>
+Vielleicht, dass mir ein Lied gelingt,<br>  
+die Postfrau gute Briefe bringt,<br>  
+vielleicht, dass uns der Mut nicht sinkt,<br>  
+weil ich Geburtstag hab'. 
+</blockquote>
 
 Ja, heute war es soweit. Meine Geburt jährte sich zum 26. Mal. Dieses Lied ist mir von meinem 24. Geburtstag in Erinnerung geblieben. Ich war gerade wieder aus den USA zurückgekehrt und fasste wieder Fuß in Dresden. Und besonders meine lieben Mitbewohner machten mir diesen Wiedereinstieg leicht. Zu meinem Geburtstag, der nur wenige Wochen nach meiner Ankunft stattfand, sangen sie am frühen Morgen dieses Lied, dazu spielte Matthias auf der Gitarre die Begleitung. Das war einfach so schön, dieses Gefühl, wieder zu Hause zu sein. 
 

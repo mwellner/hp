@@ -1,13 +1,12 @@
 ---
 title: Die ersten Tage in Züerich
 date: 2005-07-03T18:12:26+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
   - zürich
-  - umzug
-  - ankommen
 ---
 Angekommen. Der Umzug hat gut geklappt, dank vieler netter Leute, die mir dabei geholfen haben. Allen voran mein Vater, der die ganze Strecke mitgefahren ist, um dann am nächsten Morgen mit dem Flieger zurückzukehren. Beim Ein- und Ausladen halfen mir so viele Hände, dass es die reine Freude war.
 

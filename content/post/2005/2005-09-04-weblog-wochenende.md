@@ -1,23 +1,14 @@
 ---
-id: 497
 title: Weblog-Wochenende
 date: 2005-09-04T22:18:34+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/09/04/weblog-wochenende/
-permalink: /2005/09/04/weblog-wochenende/
 categories:
-  - www
+  - weblog
 tags:
-  - Blogger
   - dresden
-  - Social Software
-  - Taggen
-  - Weblog
-  - Wiki
-  - Wochenende
 ---
-Vorbei! Nach zwei Tagen voller intensiver, anstrengender, spannender Gespräche über das Netz, Weblogs, Sicherheit und viele andere Dinge versuche ich jetzt, die vielen Eindrücke zu ordnen und das mich interessierende festzuhalten. Die Hauptsache waren natürlich die Leute mit ihren unterschiedlichen Charakteren und Hintergründen. Vom Abiturienten, der sich Anregungen für seine Berufswahl erhoffte bis zum alteingesessenen alten Hasen war alles dabei, gemeinsam das Interesse für Weblogs, Social Software und die Zukunft dieser Dinge.
+Vorbei! Nach zwei Tagen voller intensiver, anstrengender, spannender Gespräche über das Netz, Weblogs, Sicherheit und viele andere Dinge versuche ich jetzt, die vielen Eindrücke zu ordnen und das mich Interessierende festzuhalten. Die Hauptsache waren natürlich die Leute mit ihren unterschiedlichen Charakteren und Hintergründen. Vom Abiturienten, der sich Anregungen für seine Berufswahl erhoffte bis zum alteingesessenen alten Hasen war alles dabei, gemeinsam das Interesse für Weblogs, Social Software und die Zukunft dieser Dinge.
 
 Ich selbst konnte nicht wirklich viel beitragen, mein kleines Weblog erschien mir auf einmal sehr niedlich im Vergleich zu den doch sehr großen und ausgereiften Projekten der anderen Teilnehmer. Ich konzentrierte mich aufs Zuhören, und da viele Leute gerne reden, war dies wohl auch wichtig und notwendig. Wie in allen Gebieten sind es vor allem die Begriffe, also die Fachsprache, welche die Gruppe der Blogger kennzeichnen. Einige möchte ich etwas beleuchten, vor allem, da sie mir auch teilweise neu waren. Ausführlicher hat [OliverG](http://www.ogok.de/2007/10/das-alte-neue-blog.html), einer der Teilnehmer, das Geschehen in seinem Blog (wo sonst?) dokumentiert.
 

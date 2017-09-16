@@ -1,20 +1,13 @@
 ---
-id: 502
 title: Klettern in Schlieren
 date: 2005-09-17T11:58:46+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/09/17/klettern-in-schlieren/
-permalink: /2005/09/17/klettern-in-schlieren/
 categories:
   - klettern
 tags:
-  - Kletterhalle
-  - klettern
-  - Kletterzentrum
-  - Schlieren
-  - Sportklettern
-  - Zürich
+  - schlieren
+  - zürich
 ---
 In der Nähe von Zürich befindet sich in einem ausgedienten Gebäude des Gaswerkes eine riesige Kletterhalle ([Webseite](http://www.kletterzentrum.com)), nach eigenen Angaben das größte Indoor-Kletterzentrum der Welt. Es ist für jeden etwas dabei, die Schwierigkeiten sind breit gestreut. Die krassesten Wege sind eigentlich nur gigantische Überhänge, abgelöst von nicht ganz so krassen Überhängen. Naja, das ist momentan noch nichts für mich.
 

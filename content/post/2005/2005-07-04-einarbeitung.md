@@ -1,16 +1,12 @@
 ---
 title: Einarbeitung, Werkzeuge
 date: 2005-07-04T15:26:18+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - editor
-  - gnuplot
   - latex
-  - textsatz
-  - vim
-  - werkzeuge
 ---
 Ich sitze an meinem Schreibtisch im untersten Stockwerk des Krankenhauses Balgrist. Im Zimmer sind noch drei andere Leute, das Klima ist locker, aber ein jeder macht halt sein Ding. Und mein Ding ist halt momentan die Einarbeitung, wobei ich da auch völlig freie Hand habe. Eine kleine Aufgabe gibt es, ich soll das Programm für das Lokolift-System (der Teil, welcher den Patienten hält) für einen klinischen Test modifizieren. Dafür sind einige Tests notwendig, um dann die Programmänderung durchzuführen. Aber das war auch nicht weiter dringlich, wenn ich das recht verstanden habe.
 

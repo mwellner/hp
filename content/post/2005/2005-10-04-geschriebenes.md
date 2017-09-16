@@ -1,17 +1,12 @@
 ---
-id: 523
-title: geschriebenes
+title: Geschriebenes
 date: 2005-10-04T22:13:04+00:00
 author: Mathias Wellner
 layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/10/04/geschriebenes/
-permalink: /2005/10/04/geschriebenes/
+categories:
+  - schreiben
 ---
-_
-  
-Ich möchte mal etwas fiktiv werden. Weil es mehr Raum lässt und damit ich nicht verlerne rumzuspinnen&#8230;
-  
-_ 
+_Ich möchte mal etwas fiktiv werden. Weil es mehr Raum lässt und damit ich nicht verlerne rumzuspinnen._
 
 Lichter. Da hinten müssen sie sein. Vor einer Weile noch sah er sie von einer Anhöhe aus. Nur noch dies eine Tal, dann hat er&#8217;s geschafft. Ist in der großen Stadt. 
 

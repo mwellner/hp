@@ -1,21 +1,12 @@
 ---
-id: 535
 title: Morgenstimmung
 date: 2005-10-23T10:49:59+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/10/23/morgenstimmung/
-permalink: /2005/10/23/morgenstimmung/
+categories:
+  - tagebuch
 tags:
-  - Architektur
-  - Glocke
-  - Kirche
-  - Literaturzirkel
-  - Sonntag
-  - Stimmung
-  - träge
-  - verregnet
-  - Zürich
+  - zürich
 ---
 Ein verregneter Sonntag hat begonnen. Das allmorgendliche Ritual des Fensterladen-Zurückklappens gab mir einen Blick auf grauen Himmel und umwölkte Bergketten frei. Kein guter Tag zum Draußensein, zudem regnet es noch. Auch das ist Zürich.
 

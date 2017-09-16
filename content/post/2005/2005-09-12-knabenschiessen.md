@@ -1,22 +1,12 @@
 ---
-id: 499
 title: Knabenschiessen
 date: 2005-09-12T23:49:20+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/09/12/knabenschiessen/
-permalink: /2005/09/12/knabenschiessen/
 categories:
   - tagebuch
 tags:
-  - Brauch
-  - Chilbi
-  - Feiertag
-  - Kanton
-  - Knabenschiessen
-  - Rummel
-  - Tradition
-  - Zuerich
+  - zürich
 ---
 Heute war ein halber Feiertag des Kantons Zürich. Kultureller Hintergrund ist eine Veranstaltung, die Knabenschießen heißt. Alle Knaben (Schüler bis zu einem bestimmten Alter) des Kantons treten in einem Schießwettbewerb gegeneinander an, der Siegerin oder dem Sieger winken saftige Preise (Sponsoren). Zusätzlich gibt es am gesamten Wochenende und natürlich dem Montag Rummelatmosphäre vom Feinsten.
 

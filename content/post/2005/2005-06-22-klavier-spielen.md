@@ -1,13 +1,14 @@
 ---
-id: 458
-title: klavier spielen
+title: Klavier spielen
 date: 2005-06-22T12:53:26+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/06/22/klavier-spielen/
-permalink: /2005/06/22/klavier-spielen/
+categories:
+  - tagebuch
+tags:
+  - klavier
 ---
-Was bedeutet Virtuosität? Der erste Gedanke wäre wohl der, dass virtuose Bewegungen, schnelles Spiel, technisch brillantes Übersetzen, die Hände überall zugleich zu haben &#8211; dass dies alles Virtuosität an den schwarz-weißen Tasten ausmacht. 
+Was bedeutet Virtuosität? Der erste Gedanke wäre wohl der, dass virtuose Bewegungen, schnelles Spiel, technisch brillantes Übersetzen, die Hände überall zugleich zu haben -- dass dies alles Virtuosität an den schwarz-weißen Tasten ausmacht. 
 
 Aber das ist es nicht. Virtuosität bedeutet, einen Ton genau so anzuschlagen, dass er eine bestimmte Stimmung ausdrückt. Es gibt unendlich viele Möglichkeiten, eine Taste zu drücken. Und im Zusammenhang einer Melodie genau die richtige Möglichkeit zu finden, diese eine Taste mit einer bestimmten Kraft, mit dem richtigen Schwung, mit dem richtigen Nachdruck zu betätigen, darin liegt das Geheimnis. Und dies zu tun, ohne darüber nachzudenken, es einfach im Gefühl zu haben, darin unterscheiden sich Amateure von Meistern. 
 

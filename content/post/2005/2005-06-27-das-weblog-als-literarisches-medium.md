@@ -1,16 +1,10 @@
 ---
 title: Das Weblog als literarisches Medium
 date: 2005-06-27T19:00:30+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
 categories:
   - literatur
-tags:
-  - internet
-  - literatur
-  - medium
-  - netz
-  - online
-  - www
 ---
 Momentan nutze ich die literarische Energie, die in mir fließt, zum Schreiben des elektronischen Tagebuchs (Weblog). Auf den ersten Blick mag dies seltsam erscheinen, ich möchte jedoch kurz erläutern, warum ich dieses Medium für geeignet halte, damit zu schreiben und zu veröffentlichen.
 

@@ -1,28 +1,16 @@
 ---
-id: 478
 title: Henri Cartier-Bresson
 date: 2005-07-24T17:25:09+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/07/24/kunsthaus-zuerich/
-permalink: /2005/07/24/kunsthaus-zuerich/
-jd_tweet_this:
-  - 'yes'
-wp_jd_bitly:
-  - http://bit.ly/cKDGSG
-wp_jd_target:
-  - ""
+categories:
+  - tagebuch
 tags:
-  - Ausstellung
-  - Berlin
-  - Fotografie
-  - Giacometti
-  - Henri Cartier-Bresson
-  - Kunst
-  - Kunsthaus
-  - Kunsthaus Zürich
+  - henri cartier-bresson
+  - alberto giadometti
+  - kunsthaus zürich
 ---
-Henri Cartier-Bresson &mdash; ich liebe diesen Namen. Und nebenbei war er auch noch Fotograf, in der ganzen Welt unterwegs, um den entscheidenden Augenblick einzufangen. La moment decisive. Es regnete später, also hatte wohl auch ich den passenden Moment gewählt, um dem trüben Sonntag doch noch etwas abzugewinnen. Sport und Kultur, denn ich fuhr mit dem Fahrrad, und rückzu heißt es immer, sich diesen steilen Berg hochschinden, mein ganz persönliches Tour-de-France-Erlebnis heute.
+Henri Cartier-Bresson &mdash; ich liebe diesen Namen. Und nebenbei war er auch noch Fotograf, in der ganzen Welt unterwegs, um den entscheidenden Augenblick einzufangen. La moment decisive. Es regnete später, also hatte wohl auch ich den passenden Moment gewählt, um dem trüben Sonntag doch noch etwas abzugewinnen. Sport und Kultur, denn ich fuhr mit dem Fahrrad, und auf dem Rückweg nach Witikon heißt es immer, sich diesen steilen Berg hochschinden, mein ganz persönliches Tour-de-France-Erlebnis heute.
 
 Henri Cartier-Bresson war auch Franzose, und Fotograf, aber das sagte ich schon. Im [Kunsthaus Zürich](http://www.kunsthaus.ch) schaute ich mir eine Ausstellung an, über Bresson und den Bildhauer Alberto Giacometti. Sie kannten sich, waren zweitweise Weggefährten. Bresson machte irgendwann ein Porträt des Bildhauers, wundervolle Schwarz-Weiß-Aufnahmen, sie hingen gleich links nach dem Eingang. Ein Gesicht, so markant. Dunkle Augen, voller Kraft blicken sie einen an. Ein Archetyp.
 

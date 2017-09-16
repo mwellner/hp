@@ -1,18 +1,10 @@
 ---
-id: 536
 title: Diplomand
 date: 2005-10-24T22:56:04+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/10/24/diplomand/
-permalink: /2005/10/24/diplomand/
-tags:
-  - Betreuer
-  - Betreuung
-  - Diplomand
-  - Diplomarbeit
-  - Rollenwechsel
-  - Student
+categories:
+  - tagebuch
 ---
 Heute fing ein Diplomand an, den ich betreue. Mein erster. Er kam früh am Morgen und schaute mich mit fragenden Augen an. Da war er also, bereit loszulegen, nachdem ich ihm Instruktionen gegeben hatte. Wir setzten uns also zusammen und besprachen einige Rahmen-Sachen.
 

@@ -1,17 +1,11 @@
 ---
-id: 513
 title: Abstimmung Personenfreizügigkeit
 date: 2005-09-25T12:39:34+00:00
+lastmod: 2017-09-16T19:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/09/25/abstimmung-personenfreizuegigkeit/
-permalink: /2005/09/25/abstimmung-personenfreizuegigkeit/
 categories:
   - politik
 tags:
-  - Abstimmung
-  - Bilaterale
-  - Freizügigkeit
-  - Schweiz
+  - schweiz
 ---
 Heute findet in der Schweiz die Abstimmung zur Personenfreizügigkeit der neuen EU-Beitrittsländer statt. Es ist eine wichtige Abstimmung, wie auch der [ZEIT-Artikel Alpentraum](http://www.zeit.de/2005/39/Deutsche_2fSchweiz) betont. Im Grunde geht es auch um die Zukunft der deutschen Einwanderer, von denen es in den letzten Jahren immer mehr gibt. Denn wenn die Schweiz mit Nein stimmt, könnte das die Beziehungen zur EU verschlechtern und sämtliche bilaterale Abkommen stünden auf dem Prüfstand.

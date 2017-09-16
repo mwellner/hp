@@ -1,28 +1,16 @@
 ---
-id: 421
 title: Abschiedslesung, Stand der Dinge
 date: 2005-05-22T20:20:21+00:00
+lastmod: 2017-09-16T13:09:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/05/22/abschiedslesung-stand-der-dinge/
-permalink: /2005/05/22/abschiedslesung-stand-der-dinge/
+categories:
+  - literatur
 tags:
-  - Baricco
-  - Darbietung
-  - Inszenierung
-  - Lesen
-  - Lesung
-  - Literatur
-  - Musik
-  - Novecento
-  - Planung
-  - Requisiten
-  - Termin
-  - Vorbereitung
+  - alessandro baricco
 ---
-Heute hatte ich mit Mario das erste Arbeitstreffen zur Abschiedslesung von _Novecento_. Wir haben das Buch durchgearbeitet und überlegt, wer welche Abschnitte liest. Das ist wirklich Arbeit, da man viele Entscheidungen treffen muss und die Lesung quasi schon vor dem inneren Auge vorweggenommen wird. Das hat dann auch so an die drei Stunden gedauert, wobei wir auch zwischendurch ein paar Pausen gemacht haben. Aber wir sind bis zum Ende gekommen. Die weiteren Fragen (wie werden einzelne Szenen am besten umgesetzt oder gar schauspielerisch inszeniert) werden wir beim nächsten Treffen klären.
+Heute hatte ich mit Mario das erste Arbeitstreffen zur Abschiedslesung von _Novecento_. Wir haben das Buch durchgearbeitet und überlegt, wer welche Abschnitte liest. Das ist wirklich Arbeit, da man viele Entscheidungen treffen muss und die Lesung quasi schon vor dem inneren Auge vorweggenommen wird. Das hat dann auch so an die drei Stunden gedauert. Aber wir sind bis zum Ende gekommen. Die weiteren Fragen (wie werden einzelne Szenen am besten umgesetzt oder gar schauspielerisch inszeniert) werden wir beim nächsten Treffen klären.
 
-Der **Termin** steht leider noch nicht fest, es gab da Kommunikationsprobleme mit den verantwortlichen Leuten. Am Montag wird sich das Ganze hoffentlich klären. Meine Präferenz liegt auf dem 15.&#160;Juni &#8211; alternativ nannte ich den 07.&#160;Juni. Hoffentlich klappt das noch&#8230;
+Der **Termin** steht leider noch nicht fest, es gab da Kommunikationsprobleme mit den verantwortlichen Leuten. Am Montag wird sich das Ganze hoffentlich klären. Meine Präferenz liegt auf dem 15. Juni -- alternativ nannte ich den 07. Juni. Hoffentlich klappt das noch.
 
 An **Requisiten** werde ich die folgenden Sachen brauchen, falls ihr was habt, meldet euch bitte:
 

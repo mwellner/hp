@@ -199,9 +199,9 @@ section + #disqus_thread {
 }
 
 .blockquote {
-  font-style: italic;
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  background-color: hsla(0, 0%, 0%, 0.05);
   .blockquote-footer {
     font-style: normal;
     margin-top: 0.2rem;

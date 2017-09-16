@@ -1,11 +1,11 @@
 ---
 title: Wroclaw, Jugendaustausch beendet
 date: 2005-04-24T14:30:20+00:00
+lastmod: 2017-09-16T13:09:00+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - jugendaustausch
   - polen
 ---
 Im letzten Mai begann mit einem Treffen in Dresden ein einjähriges deutsch-polnisches Jugendprojekt. Auf deutscher Seite organisiert vom [riesa efau](http://riesa-efau.de/), fanden insgesamt vier Treffen statt. Schön fand ich, polnische Jugendliche im Rahmen eines solchen Projektes kennen zu lernen. Mit Polen verbinde ich jetzt vor allem die Gesichter der polnischen Teilnehmer, einige kenne ich mittlerweile recht gut.

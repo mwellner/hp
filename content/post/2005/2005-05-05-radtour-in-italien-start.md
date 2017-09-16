@@ -1,6 +1,7 @@
 ---
 title: Radtour in Italien -- Start
 date: 2005-05-05T18:19:03+00:00
+lastmod: 2017-09-16T13:09:00+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

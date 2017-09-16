@@ -1,11 +1,11 @@
 ---
-id: 417
-title: 'zuerich &#8211; zwischenstation'
+title: Zürich -- Zwischenstation
+slug: zuerich-zwischenstation
 date: 2005-05-16T17:12:21+00:00
+lastmod: 2017-09-16T13:09:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/05/16/zuerich-zwischenstation/
-permalink: /2005/05/16/zuerich-zwischenstation/
+categories:
+  - tagebuch
 ---
 Erst hier in Zürich (es regnet seit ungefähr drei Stunden) wird mir so richtig klar, wie toll das Wetter südlich der Alpen eigentlich war. Ich bin jetzt nochmal in Zürich, schon bald geht dann mein Nachtzug gen Dresden. Der Urlaub ist vorbei, jetzt habe ich noch ein bisschen Zeit für mich, bevor ich dann endgültig nach Zürich ziehen werde. So einige Pläne habe ich schon jetzt geschmiedet, darunter:
 

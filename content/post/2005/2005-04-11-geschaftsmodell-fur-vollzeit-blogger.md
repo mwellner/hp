@@ -1,19 +1,12 @@
 ---
-id: 386
 title: Geschäftsmodell für Vollzeit-Blogger
 date: 2005-04-11T17:45:22+00:00
+lastmod: 2017-09-16T13:09:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/04/11/geschaftsmodell-fur-vollzeit-blogger/
-permalink: /2005/04/11/geschaftsmodell-fur-vollzeit-blogger/
 categories:
-  - www
+  - tagebuch
 tags:
-  - blog
-  - Finanzierung
-  - Lebensunterhalt
-  - Micropatronage
-  - Weblog
+  - weblog
 ---
 Es gibt ja Leute, die verbringen weitaus mehr Zeil als ich damit, ihr Weblog zu pflegen. Die meisten haben noch einen Job, träumen aber davon, ihre ganze Zeit mit Bloggen zu verbringen. Konzepte, wie man einen solchen Lebensstil finanzieren kann, gibt es mehrere.
 

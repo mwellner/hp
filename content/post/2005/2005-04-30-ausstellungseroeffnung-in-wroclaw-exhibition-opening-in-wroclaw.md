@@ -1,6 +1,7 @@
 ---
 title: Ausstellungseröffnung in Wroclaw
 date: 2005-04-30T18:47:23+00:00
+lastmod: 2017-09-16T13:09:00+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

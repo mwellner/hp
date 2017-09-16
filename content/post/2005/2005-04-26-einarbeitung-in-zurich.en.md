@@ -1,6 +1,7 @@
 ---
 title: Adjustment in Zurich
 date: 2005-04-26T12:53:25+00:00
+lastmod: 2017-09-16T13:09:00+00:00
 author: Mathias Wellner
 categories:
   - diary

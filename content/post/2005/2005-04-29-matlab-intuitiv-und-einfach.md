@@ -1,6 +1,7 @@
 ---
 title: Matlab -- Intuitiv und einfach?
 date: 2005-04-29T23:12:58+00:00
+lastmod: 2017-09-16T13:09:00+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

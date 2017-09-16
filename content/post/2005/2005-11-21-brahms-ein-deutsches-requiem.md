@@ -1,11 +1,8 @@
 ---
-id: 549
-title: 'brahms: ein deutsches requiem'
+title: Brahms -- Ein deutsches Requiem
 date: 2005-11-21T23:51:39+00:00
+lastmod: 2017-09-16T23:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/11/21/brahms-ein-deutsches-requiem/
-permalink: /2005/11/21/brahms-ein-deutsches-requiem/
 categories:
   - tagebuch
 ---

@@ -1,13 +1,13 @@
 ---
-id: 557
 title: Schiffbau Zürich
 date: 2005-12-10T23:19:26+00:00
+lastmod: 2017-09-16T23:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/12/10/schiffbau-zuerich/
-permalink: /2005/12/10/schiffbau-zuerich/
 categories:
-  - tagebuch
+  - theater
+tags:
+  - schiffbau
+  - zürich
 ---
 Schiffbau. Das klingt wuchtig, riesige Hallen stellt man sich vor, in die auch größere Schiffe komplett hinein passen. Und das soll jetzt also eine Theaterspielstätte sein? Erinnerungen werden wach ans Dresdner TIF (Theater in der Fabrik), Raum für experimentelle Stücke von Nachwuchsregisseuren. Nur selten war ich dort, es war mir dann meist doch zu experimentell. Obwohl ich fast nebenan wohnte.
 

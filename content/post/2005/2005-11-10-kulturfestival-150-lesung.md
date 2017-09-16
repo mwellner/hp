@@ -1,20 +1,13 @@
 ---
-id: 544
 title: Kulturfestival 150, Lesung
 date: 2005-11-10T23:22:09+00:00
+lastmod: 2017-09-16T23:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/11/10/kulturfestival-150-lesung/
-permalink: /2005/11/10/kulturfestival-150-lesung/
 categories:
   - tagebuch
 tags:
-  - "150"
-  - ETH
-  - Kontrabass
-  - Kulturfestival
-  - Kulturstelle
-  - Lesung
+  - eth
+  - zürich
 ---
 Im Rahmen meiner Ankunft hier fanden und finden ja zahlreiche Empfänge und Aktivitäten statt. Die ETH &ndash; unter dem Vorwand ihres 150jährigen Bestehens &ndash; hat sich besonders viel einfallen lassen, um mich angemessen willkommen zu heißen. Auch die [Kulturstelle der Studentenvereinigung (VSETH)](http://www.kulturstelle.ethz.ch) mischt da mit, um ein wenig kulturellen Glanz ins Leben der Technikstudenten zu bringen.
 

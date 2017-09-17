@@ -1,13 +1,13 @@
 ---
-id: 572
-title: arbeitskampf in zuerich
+title: Arbeitskampf in Zürich
 date: 2006-01-26T22:51:04+00:00
+lastmod: 2017-09-17T09:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/01/26/arbeitskampf-in-zuerich/
-permalink: /2006/01/26/arbeitskampf-in-zuerich/
 categories:
   - tagebuch
+tags:
+  - streik
+  - zürich
 ---
 Schon dass ich darüber schreibe, betont die Einmaligkeit eines solchen Streiks, bislang habe ich dergleichen nicht bemerkt. Aber es reichte dem technischen Personal des Theaters einfach, aus ihrer Sicht sind nach vier Jahren Lohnerhöhungen schon mal an der Reihe. Hintergründe gibt es auf der [Homepage der Gewerkschaft UNIA](http://www.unia.ch/it/). 
 

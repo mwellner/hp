@@ -1,13 +1,12 @@
 ---
-id: 591
-title: 'George Bernard Shaw &#8211; Man kann nie wissen'
+title: George Bernard Shaw -- Man kann nie wissen
 date: 2006-03-21T23:56:20+00:00
+lastmod: 2017-09-17T09:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/03/21/george-bernard-shaw-man-kann-nie-wissen/
-permalink: /2006/03/21/george-bernard-shaw-man-kann-nie-wissen/
 categories:
   - theater
+tags:
+  - akitiv
 ---
 Mein neustes Hobby ist die Mitwirkung bei einem Theaterstück der Gruppe akitiv. Die Vorbereitungen begannen wohl schon vor langer Zeit, auf jeden Fall hat das Stück _Man kann nie wissen_ (Originaltitel: [You Never Can Tell](https://en.wikipedia.org/wiki/You_Never_Can_Tell)) das Rennen gemacht. Es handelt sich um eine Komödie, in der das Thema Feminismus behandelt wird. 
 

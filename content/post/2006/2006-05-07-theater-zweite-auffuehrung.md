@@ -1,11 +1,8 @@
 ---
-id: 606
-title: 'Man kann nie wissen &#8211; zweite Aufführung'
+title: Man kann nie wissen -- zweite Aufführung
 date: 2006-05-07T23:28:03+00:00
+lastmod: 2017-09-17T09:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/05/07/theater-zweite-auffuehrung/
-permalink: /2006/05/07/theater-zweite-auffuehrung/
 categories:
   - theater
 ---

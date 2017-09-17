@@ -1,24 +1,12 @@
 ---
-id: 568
-title: 'F. Scott Fitzgerald: The Great Gatsby'
+title: F. Scott Fitzgerald -- The Great Gatsby
 date: 2006-01-05T23:11:25+00:00
+lastmod: 2017-09-17T09:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/01/05/f-scott-fitzgerald-the-great-gatsby/
-permalink: /2006/01/05/f-scott-fitzgerald-the-great-gatsby/
 categories:
-  - tagebuch
+  - literature
 tags:
-  - 20s
-  - America
-  - American
-  - book
-  - Fitzgerals
-  - Gatsby
-  - Literature
-  - novel
-  - review
-  - wealth
+  - f scott fitzgerald
 ---
 The next book we are going to discuss in the **Literaturzirkel der ETH Zürich** is "The Great Gatsby", one of the greatest American novels (see Wikipedias [Modern Library 100 Best Novels](https://en.wikipedia.org/wiki/Modern_Library_List_of_Best_20th-Century_Novels)).
 

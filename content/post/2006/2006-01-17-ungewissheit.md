@@ -1,11 +1,10 @@
 ---
-id: 570
-title: ungewissheit
+title: Ungewissheit
 date: 2006-01-17T23:22:29+00:00
+lastmod: 2017-09-17T09:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/01/17/ungewissheit/
-permalink: /2006/01/17/ungewissheit/
+categories:
+  - tagebuch
 ---
 "Rien ne va plus!" 
 
@@ -15,11 +14,11 @@ Die alte Dame ist vornehm gekleidet, ein wenig altmodisch aber doch geschmackvol
 
 _Rot oder Schwarz?_ 
 
-Die Kugel trifft auf die Scheibe in der Mitte, sie ist müde geworden vom eintönigen Rundumlaufen.Sie wird reflektiert, zurückgeschleudert in Richtung Bande. 
+Die Kugel trifft auf die Scheibe in der Mitte, sie ist müde geworden vom eintönigen Rundumlaufen. Sie wird reflektiert, zurückgeschleudert in Richtung Bande. 
 
-Langsam verliert auch die alte Dame ihre Fassung, ihr Puls steigt wie beim Treppensteigen, sie hält &#8211; ohne es zu bemerken &#8211; den Atem an, wird sich dessen bewusst, atmet ruhig, kommt beim nächsten unvorhergesehenen Manöver der kleinen Kugel wieder ins Stocken, atmet hastiger, nimmt die Unterlippe zwischen die Zähne. 
+Langsam verliert auch die alte Dame ihre Fassung, ihr Puls steigt wie beim Treppensteigen, sie hält -- ohne es zu bemerken -- den Atem an, wird sich dessen bewusst, atmet ruhig, kommt beim nächsten unvorhergesehenen Manöver der kleinen Kugel wieder ins Stocken, atmet hastiger, nimmt die Unterlippe zwischen die Zähne. 
 
-Auch die Scheibe wird langsamer, aus dem gleichförmigen Vorbeirauschen von Rotschwarz lassen sich langsam die einzelnen Segmente unterscheiden, man kann ein- und zweistellige Zahlen unterscheiden, auch die grüne Null zeichnet sich als wirrer Kreisel ab. Diese Beruhigung des Laufes wirkt wie ein Magnet auf die Kugel, die irgendwann liegen bleiben wird. 
+Auch die Scheibe wird langsamer, aus dem gleichförmigen Vorbeirauschen von Rotschwarz lassen sich langsam die einzelnen Segmente unterscheiden, man kann ein- und zweistellige Zahlen unterscheiden, auch die grüne Null lässt sich bei ihren Runden beobachten. Diese Beruhigung des Laufes wirkt wie ein Magnet auf die Kugel, die irgendwann liegen bleiben wird. 
 
 _Gerade oder Ungerade?_ 
 

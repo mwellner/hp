@@ -1,27 +1,17 @@
 ---
-id: 581
-title: 'Strauhof Z&#252;rich &#8211; Anna Blume trifft Zuckmayr'
+title: Strauhof Zürich -- Anna Blume trifft Zuckmayr
 date: 2006-02-19T21:14:50+00:00
+lastmod: 2017-09-17T09:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/02/19/strauhof-zuerich-anna-blume-trifft-zuckmayr/
-permalink: /2006/02/19/strauhof-zuerich-anna-blume-trifft-zuckmayr/
 categories:
-  - tagebuch
+  - literatur
 tags:
-  - Aufnahme
-  - Aussprache
-  - Betonung
-  - Dichter
-  - Film
-  - Paul Celan
-  - Schriftsteller
-  - Sprache
-  - Stimme
-  - Strauhof
-  - Todesfuge
-  - Ton
-  - Zuerich
+  - paul celan
+  - christa wolf
+  - peter handtke
+  - thomas mann
+  - zuerich
+  - heinrich böll
 ---
 Die aktuelle Ausstellung des [Strauhof Zürich](http://strauhof.ch/) befasst sich mit Tondokumenten von Dichterstimmen. Da es das noch nicht so lange gibt (technisch bedingt), war die zeitliche Dimension schon mal auf die vergangenen reichlich 100 Jahre beschränkt. Inhaltlich wurden deutschsprachige Autoren genommen, aus Deutschland, Österreich und natürlich der Schweiz. Die Aufteilung des Materials auf Räume wurde nach dem Kontext vorgenommen, so gab es Gespräche, Lesungen, Reden, Darstellungen (bis hin zum Poetry Slam), Rundfunk/TV und andere Kategorien.
 
@@ -38,3 +28,7 @@ Das Schöne für mich war, dass ich viele "Bekannte" wiedersah und neue Verbindu
   * Max Frisch beobachtet Neger (damals durfte er das noch so sagen) in New York und greift die Ungleichbehandlung an, 
 
 Ansonsten waren der Gestaltung vor allem technische Schranken auferlegt. Da in einigen Kabinen Filme liefen, musste alles gut gedämpft sein, um die Stimmen der Dichter wirken zu lassen. Dementsprechend kam weißes Polystyrol und ähnliches Dämpfmaterial zum Einsatz. Die Ästhetik der eingezogenen Wände hielt sich deshalb etwas in Grenzen, aber im Vordergrund standen ja die Stimmen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SSk-ytE9c20?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gVwLqEHDCQE?rel=0" frameborder="0" allowfullscreen></iframe>

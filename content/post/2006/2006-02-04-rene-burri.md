@@ -1,20 +1,11 @@
 ---
-id: 576
 title: Rene Burri
 date: 2006-02-04T17:57:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/02/04/rene-burri/
-permalink: /2006/02/04/rene-burri/
 categories:
   - tagebuch
 tags:
-  - bilder
-  - Fotograf
-  - Henri Cartier-Bresson
-  - Rene Burri
-  - Robert Frank
-  - schwarz-weiß
+  - rene burri
 ---
 Es ist immer wieder schön, wenn sich Kreise schließen. Wenn Verbindungen zwischen Künstlerpersönlichkeiten offenbar werden und man vom anderen schon was gehört hat!
 

@@ -1,13 +1,12 @@
 ---
-id: 603
-title: sechselaeuten
+title: Sechseläuten
 date: 2006-04-24T21:49:03+00:00
+lastmod: 2017-09-17T09:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/04/24/sechselaeuten/
-permalink: /2006/04/24/sechselaeuten/
 categories:
   - tagebuch
+tags:
+  - zürich
 ---
 Sehr passend zu den mittlerweile angenehm warmen Temperaturen fand heute auch das traditionelle Frühlingsfest [Sechseläuten](https://de.wikipedia.org/wiki/Sechsel%C3%A4uten) (_Sächsilüüte_ auf Zürideutsch) statt. Die Zürcher Zünfte präsentierten sich bei einem großen Umzug durch die Innenstadt, abends wurde der Böögg (künstlicher Schnemann) angezündet, dessen Kopf schließlich mit einem lauten Knall nach ca. 10 Minuten explodierte. Die Zeitdauer korreliert angeblich mit dem Sommerwetter, es wird also ein relativ schöner, wenn auch nicht super Sommer (Rekordzeiten liegen um die 5 Minuten). 
 

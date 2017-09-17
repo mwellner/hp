@@ -1,22 +1,13 @@
 ---
-id: 590
 title: Skifahren am Zauberberg
 date: 2006-03-19T22:34:11+00:00
+lastmod: 2017-09-17T09:48:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/03/19/skifahren-am-zauberberg/
-permalink: /2006/03/19/skifahren-am-zauberberg/
 categories:
   - tagebuch
 tags:
-  - Abfahrt
-  - Davos
-  - Fortschritt
-  - Hang
-  - Lernen
-  - ski
-  - Ski fahren
-  - Zauberberg
+  - skifahren
+  - davos
 ---
 Der Zauberberg von Thomas Mann findet seine Entsprechung in Davos, einer der vielen Berge dort war also die Vorlage für den umfangreichen und nicht ganz einfachen Roman. Weniger literarisch ging es die letzten drei Tage zu, ein großer Anteil meiner Mitdoktoranden und Anhängsel bretterte über die Pisten.
 

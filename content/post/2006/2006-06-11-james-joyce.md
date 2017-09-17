@@ -1,22 +1,12 @@
 ---
-id: 620
 title: James Joyce
 date: 2006-06-11T22:00:18+00:00
+lastmod: 2017-09-17T13:28:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/06/11/james-joyce/
-permalink: /2006/06/11/james-joyce/
 categories:
-  - tagebuch
+  - literatur
 tags:
-  - Dubliners
-  - Finnigans Wake
-  - James Joyce
-  - Joyce
-  - pfauen
-  - theater
-  - Ulysses
-  - Zuerich
+  - james joyce
 ---
 Heute morgen im Schauspielhaus: C. Bernd Sucher (Theaterkritiker) bekennt sich zu seiner _Leidenschaft für Joyce_.
 

@@ -1,15 +1,14 @@
 ---
-id: 613
-title: truman capote
+title: Truman Capote
 date: 2006-05-21T22:03:32+00:00
+lastmod: 2017-09-17T13:28:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/05/21/truman-capote/
-permalink: /2006/05/21/truman-capote/
 categories:
   - tagebuch
+tags:
+  - truman capote
 ---
-Ein weiterer Name, den ich mal gehört hatte. Klangvoll und dunkel. Man denkt an. Al Capone. Kapuze. Kaputt. True Man. Truman Show. Oder an "Breakfast at Tiffanys". 
+Ein weiterer Name, den ich mal gehört hatte, mindestens ein Buch von ihm stand im elterlichen Bücherschrank.
 
 Der Film [Capote](https://de.wikipedia.org/wiki/Capote) sollte diese Lücke schließen und da er gerade im Kino am Stadelhofen lief, schaute ich ihn mir an. Die Erscheinung des Schriftstellers ist extrem unangenehm. Er spricht hoch und lispelt, ist recht arrogant und egozentrisch und hält sich schon für jemand Besonderen. Man gewöhnt sich zwar im Laufe des recht langen Films daran, aber so richtig doch nicht, sobald der Hauptdarsteller zu einem längeren Monolog ansetzt, läuft einem ein Schauer über den Rücken. Es war einer dieser Filme, bei denen man ganz froh ist, kein genialer Schriftsteller zu sein. 
 

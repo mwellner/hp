@@ -1,21 +1,10 @@
 ---
-id: 625
 title: Correcting CiteULike when Using with Natbib, sed
 date: 2006-06-18T21:12:47+00:00
+lastmod: 2017-09-17T13:28:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/06/18/correcting-citeulike-when-using-with-natbib-sed/
-permalink: /2006/06/18/correcting-citeulike-when-using-with-natbib-sed/
 categories:
-  - tagebuch
-tags:
-  - BibTeX
-  - LaTeX
-  - make
-  - make file
-  - sed
-  - streamline editor
-  - tool
+  - latex
 ---
 Using [CiteULike](http://www.citeulike.org) for administrating my paper bibliographic information is quite nice. I have all the information I need for citing the sources in papers, as CiteULike provides export capability for BibTeX.
 

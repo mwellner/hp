@@ -1,11 +1,12 @@
 ---
-id: 611
-title: 'antal szerb &#8211; reise im mondlicht'
+title: Antal Szerb -- Reise im Mondlicht
 date: 2006-05-17T23:19:08+00:00
+lastmod: 2017-09-17T13:28:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/05/17/antal-szerb-reise-im-mondlicht-2/
-permalink: /2006/05/17/antal-szerb-reise-im-mondlicht-2/
+categories:
+  - literatur
+tags:
+  - antal szerb
 ---
 Heute hatten wir dann das Treffen. Es macht einfach Spaß, so ein Buch nochmal Revue passieren zu lassen und viele Anspielungen, welche man selbst einfach nicht verstanden hat, von den anderen erklärt zu bekommen. Leider werden Mimi und Mascha sich von der Organisation zurückziehen, sie hatten den Zirkel vor einiger Zeit gegründet. Doch wir machen weiter, nächstes Treffen ist am 22. Juni, wir besprechen _Kassandra_ von der ostdeutschen Schriftstellerin _Christa Wolf_. 
 

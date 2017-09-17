@@ -1,13 +1,12 @@
 ---
-id: 612
-title: 500. todestag christoph kolumbus
+title: 500. Todestag Christoph Kolumbus
 date: 2006-05-20T14:00:07+00:00
+lastmod: 2017-09-17T13:28:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/05/20/500-todestag-christoph-kolumbus/
-permalink: /2006/05/20/500-todestag-christoph-kolumbus/
 categories:
   - tagebuch
+tags:
+  - christoph kolumbus
 ---
 Vor etwas mehr als einem Monat stand ich an seinem Grab. In der riesigen Kathedrale Sevillas hat [Christoph Kolumbus](https://de.wikipedia.org/wiki/Christoph_Kolumbus) seine letzte Ruhe gefunden. In einem zentralen Seitenschiff befindet sich sein Grab. Darauf ein Standbild, vier Männer tragen einen Sarg, ihre Gewänder sind mit Wappen verziert, welche für die Titel und Erfolge seines Lebens stehen. Man schaut auf zu diesen Herren und zum Sarg, im Halbdunkel der Kathedrale. 
 

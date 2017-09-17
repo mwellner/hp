@@ -1,11 +1,12 @@
 ---
-id: 617
-title: 'virtual reality, what&#039;s going on'
+title: Virtual Reality and the Lokomat
 date: 2006-06-01T17:32:14+00:00
+lastmod: 2017-09-17T13:28:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/06/01/virtual-reality-whats-going-on/
-permalink: /2006/06/01/virtual-reality-whats-going-on/
+categories:
+  - science
+tags:
+  - lokomat
 ---
 The system is ready and works now together with the Lokomat. As a first scenario we implemented obstacle walking. You see on our huge screen a tiny figure, walking along a path in an animated landscape. Obstacles are on the path and as soon as they approach the figurine, a different gait trajectory is switched to. We got these trajectories by recording obstacle crossings of six persons. An additional feature is sound, also being activated when the obstacle is crossed. We showed all this at a demonstration for guests on Wednesday. 
 

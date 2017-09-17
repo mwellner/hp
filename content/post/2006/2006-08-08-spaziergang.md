@@ -1,11 +1,8 @@
 ---
-id: 635
 title: spaziergang
 date: 2006-08-08T21:37:52+00:00
+lastmod: 2017-09-17T13:28:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/08/08/spaziergang/
-permalink: /2006/08/08/spaziergang/
 categories:
   - tagebuch
 ---

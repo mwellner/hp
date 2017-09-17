@@ -1,11 +1,8 @@
 ---
-id: 619
 title: Dead Man Cycling
 date: 2006-06-11T20:22:17+00:00
+lastmod: 2017-09-17T13:28:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/06/11/dead-man-cycling/
-permalink: /2006/06/11/dead-man-cycling/
 categories:
   - tagebuch
 ---

@@ -1,11 +1,10 @@
 ---
-id: 618
-title: keine meinung
+title: Keine Meinung
 date: 2006-06-05T23:34:20+00:00
+lastmod: 2017-09-17T13:28:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/06/05/keine-meinung/
-permalink: /2006/06/05/keine-meinung/
+categories:
+  - schreiben
 ---
 Schon früh stellte er fest, dass er eigentlich gar nicht mitreden konnte. In all den Streitfragen, in denen sich die Erwachsenen unterhielten, manchmal regelrecht anschrien, fieberte er für beide Seiten mit. Wie bei einem Spiel zwischen der altvertrauten Mannschaft, von einem Ort, wo man lange Jahre gelebt hat, und der Mannschaft der neuen, unmittelbareren Umgebung. Er schwankte hin und her, freute sich über frivole Attacken, gelungene Konter und pathetischem Stillstand, beider Parteien. 
 

@@ -3,10 +3,10 @@ title: ZEIT-Interview mit ETH-Rektorin
 date: 2007-11-12T22:24:35+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - tagebuch
+tags:
+  - eth zürich
 ---
 Vor einiger Zeit lief mein kostenloses Jahresabo der _Weltwoche_ aus, seither finde ich jeden Donnerstag Abend wieder die [ZEIT](http://www.zeit.de/index) im Briefkasten. Damit knüpfe ich an die Verhältnisse in unserer Dresdner WG an, auch dort war die ZEIT unser ständiger Begleiter. Das Einzige, was mich an dieser erstklassigen Wochenzeitung stört, ist die mangelnde Berichterstattung über die Schweiz, nur ganz selten finden die gewichtigen politischen Ereignisse meiner Wahlheimat Eingang in die Politik-Seiten. Es sind deshalb ganz besondere Momente, in denen mir dann doch mal etwas Schweizerisches in der ZEIT über den Weg läuft.
 

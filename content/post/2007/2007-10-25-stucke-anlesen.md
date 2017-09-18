@@ -3,12 +3,16 @@ title: Stücke anlesen
 date: 2007-10-25T21:50:56+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";'
 categories:
   - theater
+tags:
+  - akitiv
+  - tennessee williams
+  - friedrich dürrenmatt
+  - agatha christie
 ---
 So langsam wird es konkreter mit unserem neuen Theaterprojekt. Wir haben uns jetzt für einen Regisseur entschieden, außerdem für drei Stücke, welche wir in der Gruppe anlesen. Aus diesen drei Vorschlägen werden wir dann eines auswählen.
+<!--more-->
 
   * [Die Katze auf dem heißen Blechdach](http://de.wikipedia.org/wiki/Die_Katze_auf_dem_hei%C3%9Fen_Blechdach) ([Tennessee Williams](http://de.wikipedia.org/wiki/Tennessee_Williams))
   * Und dann gabs keines mehr ([Agatha Christie](http://de.wikipedia.org/wiki/Agatha_Christie))

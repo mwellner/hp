@@ -3,14 +3,9 @@ title: Back to Zurich
 date: 2007-10-03T18:41:16+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
+categories:
+  - diary
 tags:
-  - back
-  - flickr
-  - gondola
-  - photos
-  - travelling
   - venice
 ---
 After one month of traveling to various places I have returned safely to my home base Zurich. The basic difference between here and there was the weather, although this is difficult to judge if you are just at one place.

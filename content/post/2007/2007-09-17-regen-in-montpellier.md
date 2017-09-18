@@ -12,7 +12,12 @@ tags:
 ---
 So ein Sommerunwetter habe ich noch nicht erlebt. Aber da wir vorher nur blauen Himmel und Sonnenschein hatten bei unserem Südfrankreich-Aufenthalt, war es klar, dass dann auch der eine Regentag ins Extreme gehen würde. Es begann harmlos mit etwas Regen, doch schon bald war uns klar, dass wir auch unter den Sonnenschirmen nicht trocken bleiben würden. Es stürmte und goss dazu aus Kannen, somit blieb uns nur der Rückzug in ein Restaurant.
 
-[<img src="http://farm2.static.flickr.com/1059/1424756846_2e3ce0bf5c.jpg" width="500" height="323" alt="Pouring Rain in Montpellier" />](http://www.flickr.com/photos/mwellner/1424756846/ "Photo Sharing")
+<figure>
+  <a href="https://www.flickr.com/photos/mwellner/1424756846/in/photolist-3chCRB-3aUfzd/" title="Pouring Rain in Montpellier">
+    <img src="https://farm2.staticflickr.com/1059/1424756846_fa8c566ff3_o.jpg" width="1280" height="827" alt="Pouring Rain in Montpellier">
+  </a>
+  <figcaption>Regen in Montpellier</figcaption>
+</figure>
 
 Die Kellner retteten die außen essenden Gäste ins Trockene, so manche Mahlzeit war nun zur unfreiwilligen Suppenform übergegangen. Die Sonnenschirme bogen sich unter der Last des angestauten Wassers, einige Kellner gingen raus, um sich gegen das tonnenschwere Sonnenschirmdach zu stemmen und wenigstens etwas Wasser abfließen zu lassen. Chaos allerorten, aber gleichzeitig auch eine Gelassenheit und Zuversicht, dass man mit den Naturgewalten schon fertig würde.
 

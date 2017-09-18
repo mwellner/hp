@@ -3,16 +3,10 @@ title: Sonntag Morgen
 date: 2007-11-04T12:21:16+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
-podPressMedia:
-  - 's:350:"s:341:"a:1:{i:0;a:10:{s:3:"URI";s:51:"http://www.mwellner.de/sound/BeethovenPastorale.mp3";s:5:"title";s:51:"Ludwig van Beethoven: 6. Sinfonie beim tonhalleLATE";s:4:"type";s:9:"audio_mp3";s:4:"size";s:1:"1";s:8:"duration";s:0:"";s:12:"previewImage";s:0:"";s:10:"dimensionW";s:0:"";s:10:"dimensionH";s:0:"";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}";";'
+categorie:
+  - tagebuch
 tags:
-  - Fertigmischung
-  - Fondue
-  - Kaese
-  - Tonhalle
-  - Zubereitung
+  - zürich
 ---
 An manchen Tagen macht es keinen Spaß aufzustehen. Wenn man die Gardinen zurück zieht und sich einem statt einer sonnigen Morgenstimmung nur der Ausblick auf Nebelfelder bietet, könnte man auch gleich im Bett liegen bleiben. Nicht einmal der Üetliberg ist zu sehen mit seinem Antennenturm und der Aussichtsplattform. Es ist alles so gedämpft, ich kann mich nicht einmal an die Kirchenglocken erinnern, die mich sonst jeden Sonntag Morgen eindringlich an die Nachbarschaft eines Kirchengebäudes erinnern.
 

@@ -3,12 +3,12 @@ title: Cortona, Workshopauswahl
 date: 2007-09-02T06:50:31+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
-  - theater
+  - tagebuch
+tags:
+  - cortona
 ---
-**[6:22]** Es ist früh am Morgen und der einzige Internet-Rechner im Haus ist frei &#8211; eine Seltenheit bei 150 Leuten. Ich habe, zumindest heute am ersten richtigen Cortona-Tag, meinen Vorsatz, immer um 6:00 aufzustehen, durchhalten können. Gestern gab es vor allem allgemeine Hinweise und sämtliche Workshop-Leiter stellten sich vor. Die Workshops werden quasi jeden Tag zu einer bestimmten Zeit am Nachmittag angeboten und sind auch begrenzt in ihrer Teilnehmerzahl. Man muss sich also entscheiden aus einem grossen Angebot.
+**[6:22]** Es ist früh am Morgen und der einzige Internet-Rechner im Haus ist frei -- eine Seltenheit bei 150 Leuten. Ich habe, zumindest heute am ersten richtigen Cortona-Tag, meinen Vorsatz, immer um 6:00 aufzustehen, durchhalten können. Gestern gab es vor allem allgemeine Hinweise und sämtliche Workshop-Leiter stellten sich vor. Die Workshops werden quasi jeden Tag zu einer bestimmten Zeit am Nachmittag angeboten und sind auch begrenzt in ihrer Teilnehmerzahl. Man muss sich also entscheiden aus einem grossen Angebot.
 
 Die für mich tollste Präsentation war die der Theaterleute, sie stellten sich mit viel Bühnenpraesenz vorne hin und begannen in einer unverständlichen Sprache ueber die Geschichte des Theaters zu referieren. Man verstand lediglich einige wenige Begriffe wie &#8216;Kollosseum&#8217;, &#8216;Shakespeare&#8217;, &#8216;Goethe&#8217; und &#8216;Schiller&#8217;. Manchmal gerieten sie sich auch in die Haare und stritten darüber, ob nun Goethe oder Schiller wichtiger war. Lustigerweise verstand man all das auch ohne Worte. Als selbst auch dem Theater Verbundener war dann dieser Workshop meine höchste Priorität.
 

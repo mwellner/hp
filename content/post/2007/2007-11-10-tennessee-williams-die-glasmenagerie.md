@@ -1,12 +1,12 @@
 ---
-title: 'Tennessee Williams: Die Glasmenagerie'
+title: Tennessee Williams -- Die Glasmenagerie
 date: 2007-11-10T17:14:15+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - theater
+tags:
+  - tennessee williams
 ---
 Nun habe ich wirklich fast alle aktuellen Stücke im Zürcher Staatsschauspiel gesehen, zumindest die im traditionellen Spielort Pfauen. Gestern also das Drama [Die Glasmenagerie](http://de.wikipedia.org/wiki/Die_Glasmenagerie) des US-amerikanischen Autors [Tennesse Williams](http://de.wikipedia.org/wiki/Tennessee_Williams). Es hat sich gelohnt &#8211; dies kann ich schon zu Beginn sagen.
 

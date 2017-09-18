@@ -3,8 +3,8 @@ title: Auf den Spuren von Wilhelm Tell
 date: 2007-11-30T22:45:07+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
+categories:
+  - tagebuch  
 ---
 Vor kurzem haben zwei Kollegen von mir ihre Doktorarbeit durch die Abschlussverteidigung erfolgreich beendet. Damit bin ich jetzt der dienstälteste Doktorand in der Gruppe. Jedenfalls haben wir uns entschlossen, die beiden Absolventen einer letzten Probe zu unterziehen, welche vom Wilhelm-Tell-Mythos inspiriert war. In der Zehn-Meter-Schiessanlage in Höngg konnten wir dank freundlicher Unterstützung der [Armbrustschützen Höngg](http://www.ashoengg.ch) dieses Ereignis organisieren. Mit einer recht technisierten Armbrust (beleuchtete Wasserwaage, elektronischer Abzug) nahmen die beiden erstmal ein paar normale Scheiben ins Visier.
 

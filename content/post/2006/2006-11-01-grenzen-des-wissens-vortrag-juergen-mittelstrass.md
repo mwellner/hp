@@ -1,7 +1,7 @@
 ---
 title: Jürgen Mittelstrass -- Grenzen des Wissens
 date: 2006-11-01T11:42:25+00:00
-lastmod: 2017-09-17T21:08:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

@@ -1,7 +1,7 @@
 ---
 title: Prekäre Generation
 date: 2006-03-31T22:36:15+00:00
-lastmod: 2017-09-17T09:48:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: George Bernard Shaw -- Man kann nie wissen
 date: 2006-03-21T23:56:20+00:00
-lastmod: 2017-09-17T09:48:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - theater

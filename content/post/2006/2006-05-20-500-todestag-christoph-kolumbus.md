@@ -1,7 +1,7 @@
 ---
 title: 500. Todestag Christoph Kolumbus
 date: 2006-05-20T14:00:07+00:00
-lastmod: 2017-09-17T13:28:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

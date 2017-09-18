@@ -1,7 +1,7 @@
 ---
 title: Salon des Arts
 date: 2006-12-03T00:54:12+00:00
-lastmod: 2017-09-18T21:08:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Oscar Wilde -- Bunbury
 date: 2006-10-01T13:19:13+00:00
-lastmod: 2017-09-17T21:08:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - theater

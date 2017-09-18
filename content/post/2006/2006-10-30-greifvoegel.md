@@ -1,7 +1,7 @@
 ---
 title: Greifvögel
 date: 2006-10-30T21:30:00+00:00
-lastmod: 2017-09-17T21:08:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Strauhof Zürich -- Anna Blume trifft Zuckmayr
 date: 2006-02-19T21:14:50+00:00
-lastmod: 2017-09-17T09:48:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - literatur

@@ -1,7 +1,7 @@
 ---
 title: F. Scott Fitzgerald -- The Great Gatsby
 date: 2006-01-05T23:11:25+00:00
-lastmod: 2017-09-17T09:48:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - literature

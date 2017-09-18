@@ -1,7 +1,7 @@
 ---
 title: James Joyce
 date: 2006-06-11T22:00:18+00:00
-lastmod: 2017-09-17T13:28:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - literatur

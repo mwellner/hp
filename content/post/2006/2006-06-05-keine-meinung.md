@@ -1,7 +1,7 @@
 ---
 title: Keine Meinung
 date: 2006-06-05T23:34:20+00:00
-lastmod: 2017-09-17T13:28:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
   - schreiben

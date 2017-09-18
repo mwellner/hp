@@ -1,6 +1,7 @@
 ---
 title: 'simon stephens: motortown (schauspielhaus zuerich)'
 date: 2006-12-10T00:05:00+00:00
+lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 ---
 Wie lässt sich Krieg darstellen? Noch dazu der Irak-Krieg, der so weit entfernt statt findet, gefiltert durch die Medien. Der britische Autor _Simon Stephens_ lässt den Krieg nach Hause kommen, in Gestalt des Heimehrers Danny.

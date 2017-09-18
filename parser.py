@@ -13,16 +13,22 @@ def step(ext, dirname, names):
             with open(os.path.join(dirname, name), 'r') as fh:
                 lines = fh.readlines()
 
-            was_changed = False
+            found_lastmod = False
+            needs_update = False
             for i, line in enumerate(lines):
                 if line.startswith('lastmod: '):
-                    lines[i] = 'lastmod: ' + modified + '+00:00\n'
-                    was_changed = True
-            if not was_changed:
+                    found_lastmod = True
+                    new_line = 'lastmod: ' + modified + '+00:00\n'
+                    if (new_line[:10] != line[:10]):
+                        print new_line + ' vs. ' + line
+                        lines[i] = new_line
+                        needs_update = True
+            if not found_lastmod:
                 for i, line in enumerate(lines):
                     if line.startswith('date: '):
                         date_index = i
                 lines.insert(date_index + 1, 'lastmod: ' + modified + '+00:00\n')
+                needs_update = True
 
             with open(os.path.join(dirname, name), 'w') as fh:
                 fh.writelines(lines)

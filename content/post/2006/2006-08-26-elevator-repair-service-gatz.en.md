@@ -1,9 +1,10 @@
 ---
-title: 'Elevator Repair Service: Gatz'
+title: Elevator Repair Service -- Gatz
 date: 2006-08-26T21:33:53+00:00
+lastmod: 2017-09-17T21:08:00+00:00
 author: Mathias Wellner
 categories:
-  - arts
+  - literature
 ---
 It&#8217;s his voice. He reads the book ([The Great Gatsby](https://en.wikipedia.org/wiki/Great_Gatsby), written by [F. Scott Fitzgerald](https://en.wikipedia.org/wiki/F._Scott_Fitzgerald)), gets absorbed in it. This American voice, I somehow can still hear it. He carries the play, which lasts altogether over 6 hours. I just saw the first half of it. He reads it all, every single word in it.
 

@@ -1,23 +1,14 @@
 ---
-title: 'Oscar Wilde: Bunbury (Schauspielhaus Pfauen)'
+title: Oscar Wilde -- Bunbury
 date: 2006-10-01T13:19:13+00:00
+lastmod: 2017-09-17T21:08:00+00:00
 author: Mathias Wellner
 categories:
-  - literatur
+  - theater
 tags:
-  - Bedeutung
-  - Bunbury
-  - Earnest
-  - englisch
-  - Erinnerung
-  - MANOS
-  - Oscar Wilde
-  - Schule
-  - Stück
+  - oscar wilde
 ---
 Die altbekannte gesellschaftskritische Komödie **The Importance of Being Earnest** (deutsch: **Bunbury**) feierte gestern im [Pfauen](http://www.schauspielhaus.ch/home) Premiere. Der Regisseur Werner Düggelin inszenierte Wildes Glanzstück schlicht, britisch-steif und sehr unterhaltsam. Und weil nunmal Premiere war, durfte am Ende auch der Regisseur nebst zwei Assistenten auf die Bühne und sich beklatschen lassen. Dabei wurde sogar noch ein Buch beworben, das über diesen Regisseur geschrieben wurde.
-
-_Szenenfoto_
 
 Es ist eins meiner Lieblingsstücke, es knüpfen sich eine Reihe von Erinnerungen daran. So schnupperte ich in der 12. Klasse erstmals als **Algernon** Bühnenluft, als Abschlussstück des Englisch-Leistungskurses spielten wir genau dieses Stück in der Aula der Manos. Wir teilten die Rollen auf, ich erhielt zwei Anteile an der Algernon-Rolle. Es war schön, diese witzige Figur zu spielen, diesen nur sein Vergnügen ernst nehmenden charmanten Querulanten. Der Wortwitz des Stückes sprengte alles, was ich bisher kannte, ein schöner Abschluss des chaotischen Bonk-Leistungskurses.
 

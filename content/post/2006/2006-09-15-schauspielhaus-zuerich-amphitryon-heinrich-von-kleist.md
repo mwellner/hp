@@ -1,9 +1,12 @@
 ---
-title: 'schauspielhaus zuerich: amphitryon (heinrich von kleist)'
+title: Heinrich von Kleist -- Amphitryon
 date: 2006-09-15T23:06:00+00:00
+lastmod: 2017-09-17T21:08:00+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
+  - theater
+tags:
+  - heinrich von kleist
 ---
 Die Saison ist eröffnet! Neue Theaterstücke braucht die Schweiz, und ich war mit einigen Kollegen gleich einen Tag nach dem ersten Spieltag in [Amphitryon](https://de.wikipedia.org/wiki/Amphitryon). Ein alter griechischer Stoff bildet die Grundlage der Kleistschen Dramaturisierung. Der thebanische König Amphitryon kämpft gegen die Athener und schickt seinen Diener los, um die geliebte Frau Alkmene zu informieren. Diese hat derweil Besuch von Zeus, der sich in Amphitryon verwandelt hat. Und auch der Diener trifft sein Ebenbild, den verwandelten Gott Hermes, welcher ihm den Eintritt ins Haus verwehrt. Die Überlegenheit der Götter kriegen beide zu spüren, vor die Wahl gestellt, erkennt Alkmene nicht ihren Gatten. Erst ein Einlenken von Zeus wendet die Geschichte zum Guten, als "Belohnung" gebiert Alkmene einige Zeit später Herkules. 
 

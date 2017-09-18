@@ -1,9 +1,12 @@
 ---
-title: grenzen des wissens (eigener artikel zum thema)
+title: Grenzen des Wissens
 date: 2006-11-01T20:29:47+00:00
+lastmod: 2017-09-17T21:08:00+00:00
 author: Mathias Wellner
+categories:
+  - schreiben
 ---
-_Im Rahmen einer Lehrveranstaltung habe ich mal die Vortragsnotizen (siehe älterer Weblog-Eintrag) in einen Artikel überführt. Bitte gebt mir bis morgen (2.11. um 13:00) Feedback! Dann muss ich den Artikel abschicken._
+_Im Rahmen einer Lehrveranstaltung schrieb ich diesen Artikel._
 
 ### Grenzen des Wissens
 

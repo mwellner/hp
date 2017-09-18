@@ -1,50 +1,24 @@
 ---
-title: spaziergang
+title: Spaziergang in Witikon
 date: 2006-08-08T21:37:52+00:00
 lastmod: 2017-09-17T13:28:00+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
+tags:
+  - zürich
+  - witikon
 ---
 Raus, weg vom Rechner, solange die Sonne scheint. Den Kopf frei bekommen.
   
-Bilder einscannen, monotone Arbeit. Das Negativ wird eingespannt,
-  
-durchleuchtet, langsam abgefahren. Es rattert vor sich hin, wenn aus den runden
-  
+Bilder einscannen, monotone Arbeit. Das Negativ wird eingespannt, durchleuchtet, langsam abgefahren. Es rattert vor sich hin, wenn aus den runden
 Farbkörnern eckige Pixel werden.
 
 Den Fotoapparat habe ich dabei, als ich aus dem Haus gehe. Man kann nie wissen.
   
-Insgeheim hoffe ich immer, Zeuge eines Verbrechens zu werden und ein gestochen
-  
-scharfes Bild davon zu machen. Natürlich aus sicherer Entfernung und unerkannt
-  
-von den Missetätern. Dann wäre ich ein Held, ein Teleobjektiv-Held. Bei der
-  
-Pressekonferenz (die man dann irgendwie einberuft, um diese Heldentat zu
-  
-würdigen) könnte ich dann sagen: &#8220;Danken Sie nicht mir, danken Sie dem
-  
-Hersteller dieser vorzüglichen Kameras und Objektive, danken Sie den vielen
-  
-unbekannten Ingenieuren, die mit kleinen Verbesserungen die Welt voranbringen
-  
-und den Kegel des Rampenlichts scheuen. Sie haben dies möglich gemacht, was vor
-  
-100 Jahren noch undekbar gewesen wäre, als jedes Foto noch eine
-  
-Vorbereitungszeit von einer halben Stunde erforderte.&#8221;
+Insgeheim hoffe ich immer, Zeuge eines Verbrechens zu werden und ein gestochen scharfes Bild davon zu machen. Natürlich aus sicherer Entfernung und unerkannt von den Missetätern. Dann wäre ich ein Held, ein Teleobjektiv-Held. Bei der Pressekonferenz (die man dann irgendwie einberuft, um diese Heldentat zu würdigen) könnte ich dann sagen: "Danken Sie nicht mir, danken Sie dem Hersteller dieser vorzüglichen Kameras und Objektive, danken Sie den vielen unbekannten Ingenieuren, die mit kleinen Verbesserungen die Welt voranbringen und den Kegel des Rampenlichts scheuen. Sie haben dies möglich gemacht, was vor 100 Jahren noch undekbar gewesen wäre, als jedes Foto noch eine Vorbereitungszeit von einer halben Stunde erforderte."
 
-Es geht den Berg hoch, zum alten Dorfkern Witikons. Ein paar Weinreben stehen
-  
-verloren am Hang, alle zusammen ergeben vielleicht dreißig Flaschen Weißwein,
-  
-bestimmt ein edler, sehr trockener Tropfen. Der Miniaturwinzer benötigt dann
-  
-bestimmt auch nur ein einziges Fass pro Jahrgang, um seine flüssigen
-  
-Kostbarkeiten zu lagern.
+Es geht den Berg hoch, zum alten Dorfkern Witikons. Ein paar Weinreben stehen verloren am Hang, alle zusammen ergeben vielleicht dreißig Flaschen Weißwein,bestimmt ein edler, sehr trockener Tropfen. Der Miniaturwinzer benötigt dann bestimmt auch nur ein einziges Fass pro Jahrgang, um seine flüssigen Kostbarkeiten zu lagern.
 
 Rund um eine kleine Kirche, welche erhöht auf dem Berg steht, gruppieren sich ein paar alte Häuser und Gehöfte. Die Kirche bildet den Mittelpunkt dieses übrig gebliebenen Ensembles, dieses alt gebliebenen Orts inmitten pragmatisch-moderner Wohnhäuser. Natürlich ist sie nicht zu vergleichen mit der Hallgrimskirkja, deren Bilder &#8211; gerade erst gescannt &#8211; mich einfach nicht loslassen wollen. Dieses Meisterwerk moderner Architektur! Es vereint die quaderförmigen basaltischen Formen, welche die Insel ausmachen mit einer aus dem Boden wachsenden Rundung, die hinauf zum Himmel zielt. Am schönsten natürlich zur Abendzeit, wenn die tief stehende Sonne dem grauen Beton zauberhafte Farben entlockt.
 

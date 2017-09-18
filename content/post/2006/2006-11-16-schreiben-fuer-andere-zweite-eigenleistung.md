@@ -1,23 +1,13 @@
 ---
-title: 'Schreiben f&#252;r Andere, zweite Eigenleistung'
+title: Schreiben für Andere, zweite Eigenleistung
 date: 2006-11-16T01:28:08+00:00
+lastmod: 2017-09-17T21:08:00+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
-tags:
-  - ETH
-  - frei
-  - Freiheit
-  - Gedanken
-  - Gehirn
-  - Kurs
-  - Neuronen
-  - Neurowissenschaft
-  - Schreiben
-  - Wille
-  - wissenschaft
+  - schreiben
 ---
-Der zweite Eigenbeitrag zum Kurs _Schreiben für Andere_ bestand darin, zum [Manifest der Hirnforscher](http://www.wissenschaft-online.de/pdf/gug-04-06-s030-pdf/834924?file) einen Beitrag zu schreiben. Die Form war &#8211; wie immer &#8211; frei gestellt, ebenso der Publikationsrahmen. Das Manifest veröffentlichten einige der führenden deutschen Neurowissenschaftler 2004. Sie schrieben über den Stand ihrer Wissenschaft und die zu erwartenden Erkenntnisse in zehn, bzw. zwanzig-dreißig Jahren.
+Der zweite Eigenbeitrag zum Kurs _Schreiben für Andere_ bestand darin, zum [Manifest der Hirnforscher](http://www.wissenschaft-online.de/pdf/gug-04-06-s030-pdf/834924?file) einen Beitrag zu schreiben. Die Form war wie immer frei gestellt, ebenso der Publikationsrahmen. Das Manifest veröffentlichten einige der führenden deutschen Neurowissenschaftler 2004. Sie schrieben über den Stand ihrer Wissenschaft und die zu erwartenden Erkenntnisse in zehn, bzw. zwanzig-dreißig Jahren.
+<!--more-->
 
 **Die Gedanken sind frei**
 

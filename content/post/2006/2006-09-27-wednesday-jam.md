@@ -1,9 +1,13 @@
 ---
-title: wednesday jam
+title: Wednesday Jam
 date: 2006-09-27T21:54:00+00:00
+lastmod: 2017-09-17T21:08:00+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
+tags:
+  - jazz
+  - zürich
 ---
 Jeden Mittwoch spielen in der [JazzBaragge](http://www.jazzbaragge.ch/jam.php) ein paar Leute Jazz. Einfach so. Ohne Eintritt. Getränke gibt&#8217;s an der Bar. Jazz. 
 

@@ -1,15 +1,10 @@
 ---
-title: 'Schreiben f&#252;r Andere, dritter Beitrag'
+title: Schreiben für Andere, dritter Beitrag
 date: 2006-12-03T23:11:00+00:00
+lastmod: 2017-09-17T21:08:00+00:00
 author: Mathias Wellner
-tags:
-  - ETH
-  - Holodeck
-  - rehabilitation
-  - Schreiben
-  - virtuelle Szenarien
-  - virtuelle Umgebungen
-  - wissenschaft
+categories:
+  - schreiben
 ---
 _Im Rahmen der Lehrveranstaltung _Schreiben für Andere_ an der ETH Zürich entstand dieser Text. Die Aufgabenstellung war, über das eigene Fachgebiet und seine Bedeutung für bzw. in der Öffentlichkeit zu schreiben. Die Länge des Textes war mit 4000-5000 Zeichen (inklusive Leerschläge) ebenfalls vorgegeben._
 

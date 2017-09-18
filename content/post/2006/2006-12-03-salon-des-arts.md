@@ -1,17 +1,12 @@
 ---
 title: Salon des Arts
 date: 2006-12-03T00:54:12+00:00
+lastmod: 2017-09-18T21:08:00+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - Bewegung
-  - bilder
-  - Fotografie
-  - Lesung
-  - Max Frisch
-  - Mein Name sei Gantenbein
-  - Tanz
+  - max frisch
 ---
 Ende vorigen Jahres veranstaltete die [Kulturstelle der ETH Zürich](http://www.kulturstelle.ethz.ch) ein dreitägiges Kulturfestival, damals anlässlich des 150-jährigen ETH-Bestehens. Damals las ich den Kontrabass und war auch kurzerhand bei der Literatur-Jury eingeplant.
 
@@ -19,8 +14,4 @@ Um es kurz zu machen: dieses Jahr war es genau so. Ein Unterschied ist der Name 
 
 Der zweite Unterschied war das von mir gelesene Buch. Nach dem Kontrabass (Patrick Süßkind) voriges Jahr dieses Mal &#8220;Mein Name sei Gantenbein&#8221; von Max Frisch. Habe ich in Dresden auch schon zwei Mal gelesen, also nichts wirklich Neues. Leider waren auch nur fünf unmittelbare und weitere sieben bis zehn im großen Raum verstreute Zuhörer zugegen. Dennoch, ein kleiner Beitrag zur Salon-Stimmung war getan.
 
-Heute waren dann wohl die meisten Zuschauer da, als etliche Tanzaufführungen am Abend stattfanden. Ich kam leider etwas zu spät, konnte aber doch noch einige Fotos machen. Ich habe mit Langzeit-Belichtung experimentiert, um die Tanzbewegungen zumindest einigermaßen einzufangen. Aber seht selbst:
-
-[](https://www.flickr.com/photos/mwellner/312325398/)
-
-[](https://www.flickr.com/photos/mwellner/312324142/)
+Heute waren dann wohl die meisten Zuschauer da, als etliche Tanzaufführungen am Abend stattfanden. Ich kam leider etwas zu spät, konnte aber doch noch einige Fotos machen. Ich habe mit Langzeit-Belichtung experimentiert, um die Tanzbewegungen zumindest einigermaßen einzufangen. 

@@ -1,9 +1,13 @@
 ---
-title: grenzen des wissens (vortrag juergen mittelstrass)
+title: Jürgen Mittelstrass -- Grenzen des Wissens
 date: 2006-11-01T11:42:25+00:00
+lastmod: 2017-09-17T21:08:00+00:00
 author: Mathias Wellner
+categories:
+  - wissenschaft
 ---
 Als Eröffnung der Vortragsreihe **An den Grenzen des Wissens** der Universität und ETH Zürich sprach Prof. Jürgen Mittelstrass mit dem Titel: _Was heißt "Grenzen des Wissens"?_ 
+<!--more-->
 
 ### Einleitung
 

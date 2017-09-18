@@ -1,16 +1,10 @@
 ---
 title: Modernes Theater
 date: 2006-08-20T22:18:23+00:00
+lastmod: 2017-09-17T21:08:00+00:00
 author: Mathias Wellner
 categories:
   - theater
-tags:
-  - Handlung
-  - kompliziert
-  - modern
-  - theater
-  - Theaterspektakel
-  - unverstaendlich
 ---
 Woran erkennt man ein modernes Theaterstück?
 

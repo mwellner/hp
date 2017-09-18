@@ -1,11 +1,7 @@
 ---
-id: 6350
 title: Sonniger November-München-Nachmittag
 date: 2015-11-09T23:30:38+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6350
-permalink: /2015/11/09/sonniger-november-muenchen-nachmittag/
 image: /wp-uploads/2015/11/MW_20151107_1540-150x113.jpg
 categories:
   - bilder

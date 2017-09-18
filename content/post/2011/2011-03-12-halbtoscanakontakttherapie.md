@@ -1,11 +1,7 @@
 ---
-id: 3106
 title: halbToscanaKontaktTherapie
 date: 2011-03-12T17:11:28+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3106
-permalink: /2011/03/12/halbtoscanakontakttherapie/
 categories:
   - bilder
   - theater

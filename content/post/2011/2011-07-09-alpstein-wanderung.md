@@ -1,11 +1,7 @@
 ---
-id: 3235
 title: Alpstein-Wanderung
 date: 2011-07-09T14:24:01+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3235
-permalink: /2011/07/09/alpstein-wanderung/
 categories:
   - bilder
   - 'sport &amp; freizeit'

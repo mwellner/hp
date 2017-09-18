@@ -1,11 +1,7 @@
 ---
-id: 3382
 title: Wohnungssuche in Zürich
 date: 2012-01-11T22:11:31+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3382
-permalink: /2012/01/11/wohnungssuche-in-zurich/
 categories:
   - tagebuch
 tags:

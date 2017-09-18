@@ -1,11 +1,7 @@
 ---
-id: 669
 title: 'Schreiben f&#252;r Andere, dritter Beitrag'
 date: 2006-12-03T23:11:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/12/03/schreiben-fuer-andere-dritter-beitrag/
-permalink: /2006/12/03/schreiben-fuer-andere-dritter-beitrag/
 tags:
   - ETH
   - Holodeck

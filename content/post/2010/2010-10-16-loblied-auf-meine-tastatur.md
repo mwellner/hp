@@ -1,11 +1,7 @@
 ---
-id: 2942
 title: Loblied auf meine Tastatur
 date: 2010-10-16T13:37:38+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2942
-permalink: /2010/10/16/loblied-auf-meine-tastatur/
 categories:
   - bilder
   - technik

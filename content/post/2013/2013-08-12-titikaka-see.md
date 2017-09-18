@@ -1,11 +1,7 @@
 ---
-id: 3960
 title: Titikaka-See
 date: 2013-08-12T02:06:13+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3960
-permalink: /2013/08/12/titikaka-see/
 categories:
   - bilder
 ---

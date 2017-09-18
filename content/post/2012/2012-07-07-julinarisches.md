@@ -1,11 +1,7 @@
 ---
-id: 3480
 title: Julinarisches
 date: 2012-07-07T11:50:45+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3480
-permalink: /2012/07/07/julinarisches/
 categories:
   - bilder
   - literatur

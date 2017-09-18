@@ -1,11 +1,7 @@
 ---
-id: 4593
 title: Wanderung im Tessin
 date: 2014-07-20T23:28:48+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4593
-permalink: /2014/07/20/wanderung-im-tessin/
 categories:
   - bilder
   - wandern

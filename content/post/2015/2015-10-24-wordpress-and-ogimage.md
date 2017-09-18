@@ -1,11 +1,7 @@
 ---
-id: 6318
 title: WordPress and og:image
 date: 2015-10-24T11:50:25+00:00
 author: Mathias Wellner
-layout: post
-guid: 'http://www.mwellner.de/?p=6318&#038;lang=en'
-permalink: /2015/10/24/wordpress-and-ogimage/?lang=en
 categories:
   - www
 tags:

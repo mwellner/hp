@@ -2,8 +2,6 @@
 title: 'Patrick Süskind: Der Kontrabass (vorgetragen von Hubert Kronlachner)'
 date: 2009-01-04T14:47:43+00:00
 author: Mathias Wellner
-layout: post
-permalink: /2009/01/04/patrick-suskind-der-kontrabass-vorgetragen-von-hubert-kronlachner/
 categories:
   - theater
 ---

@@ -1,12 +1,8 @@
 ---
-id: 3205
 title: 'Lajos Egri &ndash; Dramatisches Schreiben'
 date: 2011-06-14T22:37:38+00:00
 author: Mathias Wellner
 excerpt: 'Einige Kerngedanken des Buches "The Art of Dramatic Writing" von Lajos Egri und Anwendung auf die Toscana-Therapie. '
-layout: post
-guid: http://www.mwellner.de/?p=3205
-permalink: /2011/06/14/lajos_egri_dramatisches_schreiben/
 categories:
   - literatur
   - theater

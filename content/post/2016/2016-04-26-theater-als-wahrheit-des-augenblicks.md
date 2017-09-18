@@ -1,11 +1,7 @@
 ---
-id: 6589
 title: Theater als Wahrheit des Augenblicks
 date: 2016-04-26T21:20:51+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6589
-permalink: /2016/04/26/theater-als-wahrheit-des-augenblicks/
 image: /wp-uploads/2016/04/CHANDOS3-117x150.jpg
 categories:
   - literatur

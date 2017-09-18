@@ -1,11 +1,7 @@
 ---
-id: 3243
 title: Vrenelisgärtli
 date: 2011-08-01T22:11:34+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3243
-permalink: /2011/08/01/vrenelisgartli/
 categories:
   - bilder
   - 'sport &amp; freizeit'

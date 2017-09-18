@@ -1,11 +1,7 @@
 ---
-id: 4573
 title: Hochzeit in Dresden
 date: 2014-06-24T22:59:31+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4573
-permalink: /2014/06/24/hochzeit-in-dresden/
 categories:
   - bilder
   - tagebuch

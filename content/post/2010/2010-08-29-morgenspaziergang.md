@@ -1,11 +1,7 @@
 ---
-id: 2907
 title: Morgenspaziergang
 date: 2010-08-29T13:38:53+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2907
-permalink: /2010/08/29/morgenspaziergang/
 categories:
   - 'sport &amp; freizeit'
 tags:

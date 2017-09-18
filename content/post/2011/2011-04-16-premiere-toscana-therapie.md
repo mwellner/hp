@@ -1,11 +1,7 @@
 ---
-id: 3133
 title: Premiere Toscana-​​Therapie
 date: 2011-04-16T14:21:57+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3133
-permalink: /2011/04/16/premiere-toscana-therapie/
 categories:
   - bilder
   - theater

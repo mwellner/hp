@@ -1,11 +1,7 @@
 ---
-id: 6560
 title: Weltliteratur to go
 date: 2016-03-30T22:49:20+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6560
-permalink: /2016/03/30/weltliteratur-to-go/
 categories:
   - literatur
 tags:

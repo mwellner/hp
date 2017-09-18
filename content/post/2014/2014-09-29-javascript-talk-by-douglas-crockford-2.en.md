@@ -1,11 +1,7 @@
 ---
-id: 4867
 title: JavaScript Talk by Douglas Crockford
 date: 2014-09-29T22:18:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4867
-permalink: /2014/09/29/javascript-talk-by-douglas-crockford-2/?lang=en
 categories:
   - software
 ---

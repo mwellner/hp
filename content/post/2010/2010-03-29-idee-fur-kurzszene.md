@@ -1,11 +1,7 @@
 ---
-id: 2569
 title: Idee für Kurzszene
 date: 2010-03-29T22:02:40+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2569
-permalink: /2010/03/29/idee-fur-kurzszene/
 categories:
   - theater
 tags:

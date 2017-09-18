@@ -2,7 +2,6 @@
 title: Geschriebenes
 date: 2005-10-04T22:13:04+00:00
 author: Mathias Wellner
-layout: post
 categories:
   - schreiben
 ---

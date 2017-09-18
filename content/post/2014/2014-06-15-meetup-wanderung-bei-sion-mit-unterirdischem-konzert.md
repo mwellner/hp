@@ -1,11 +1,7 @@
 ---
-id: 4562
 title: Meetup-Wanderung bei Sion mit unterirdischem Konzert
 date: 2014-06-15T21:56:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4562
-permalink: /2014/06/15/meetup-wanderung-bei-sion-mit-unterirdischem-konzert/
 categories:
   - bilder
   - wandern

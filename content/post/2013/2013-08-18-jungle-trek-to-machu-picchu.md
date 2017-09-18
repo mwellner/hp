@@ -1,11 +1,7 @@
 ---
-id: 3962
 title: Jungle Trek zum Machu Picchu
 date: 2013-08-18T00:07:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3962
-permalink: /2013/08/18/jungle-trek-to-machu-picchu/
 categories:
   - bilder
   - reisen

@@ -1,11 +1,7 @@
 ---
-id: 3959
 title: Szenenanalyse
 date: 2013-08-08T04:51:26+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3959
-permalink: /2013/08/08/szenenanalyse/
 categories:
   - theater
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 779
 title: Musikalische Lesung am 16.12.
 date: 2007-12-06T19:31:26+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2007/12/06/musikalische-lesung-am-1612/
-permalink: /2007/12/06/musikalische-lesung-am-1612/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 ---

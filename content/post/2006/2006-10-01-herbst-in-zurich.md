@@ -1,11 +1,7 @@
 ---
-id: 652
 title: herbst in zürich
 date: 2006-10-01T16:08:48+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/10/01/herbst-in-zurich/
-permalink: /2006/10/01/herbst-in-zurich/
 categories:
   - tagebuch
 ---

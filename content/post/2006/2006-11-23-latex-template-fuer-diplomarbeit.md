@@ -1,11 +1,7 @@
 ---
-id: 665
 title: LaTeX-Template für Diplomarbeit
 date: 2006-11-23T00:47:07+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/11/23/latex-template-fuer-diplomarbeit/
-permalink: /2006/11/23/latex-template-fuer-diplomarbeit/
 ---
 Wer immer eine Diplomarbeit mit LaTeX schreiben möchte, dem kann dieses Template unter Umständen weiter helfen. Was ich damals noch nicht wusste, beinhaltet die Darstellung von Einheiten (Paket units). 
 

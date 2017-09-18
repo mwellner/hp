@@ -1,11 +1,7 @@
 ---
-id: 2207
 title: Little Helpers for Scientific Writing with LaTeX
 date: 2009-11-11T00:49:04+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2207
-permalink: /2009/11/11/little-helpers-for-scientific-writing-with-latex/?lang=en
 categories:
   - technik
 tags:

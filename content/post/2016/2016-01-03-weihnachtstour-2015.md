@@ -1,11 +1,7 @@
 ---
-id: 6441
 title: Weihnachtstour 2015
 date: 2016-01-03T16:32:44+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6441
-permalink: /2016/01/03/weihnachtstour-2015/
 categories:
   - tagebuch
 ---

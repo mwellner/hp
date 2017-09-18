@@ -1,12 +1,8 @@
 ---
-id: 1758
 title: 'Richard David Precht – &quot;Wer bin ich, und wenn ja, wie viele?&quot;'
 date: 2009-08-27T13:26:15+00:00
 author: Mathias Wellner
 excerpt: 'Buchrezension zu Richard David Precht -- Wer bin ich, und wenn ja, wie viele?'
-layout: post
-guid: http://www.mwellner.de/?p=1758
-permalink: /2009/08/27/richard-david-precht-wer-bin-ich/
 enclosure:
   - |
     http://www.mwellner.de/sound/20090827.mp3

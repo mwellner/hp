@@ -1,11 +1,7 @@
 ---
-id: 3710
 title: 'Probenfotos &#8220;Ich, treu, suche&#8221;'
 date: 2012-12-17T23:12:26+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3710
-permalink: /2012/12/17/probenfotos-ich-treu-suche/
 categories:
   - bilder
   - theater

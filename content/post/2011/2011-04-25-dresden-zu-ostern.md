@@ -1,12 +1,8 @@
 ---
-id: 3136
 title: Dresden zu Ostern
 date: 2011-04-25T23:57:19+00:00
 author: Mathias Wellner
 excerpt: Ich beschreibe meine österliche Reise nach Dresden.
-layout: post
-guid: http://www.mwellner.de/?p=3136
-permalink: /2011/04/25/dresden-zu-ostern/
 categories:
   - bilder
   - reisen

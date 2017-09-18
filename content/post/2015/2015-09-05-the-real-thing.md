@@ -1,11 +1,7 @@
 ---
-id: 6229
 title: The Real Thing
 date: 2015-09-05T15:28:37+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6229
-permalink: /2015/09/05/the-real-thing/
 categories:
   - theater
 tags:

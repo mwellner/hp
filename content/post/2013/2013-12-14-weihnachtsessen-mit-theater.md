@@ -1,11 +1,7 @@
 ---
-id: 4143
 title: Weihnachtsessen mit Theater
 date: 2013-12-14T20:19:31+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4143
-permalink: /2013/12/14/weihnachtsessen-mit-theater/
 categories:
   - theater
 ---

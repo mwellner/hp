@@ -1,11 +1,7 @@
 ---
-id: 6410
 title: Schneeschuhtour auf den Furggelenstock
 date: 2015-12-05T19:45:55+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6410
-permalink: /2015/12/05/schneeschuhtour-auf-den-furggelenstock/
 categories:
   - tagebuch
 format: gallery

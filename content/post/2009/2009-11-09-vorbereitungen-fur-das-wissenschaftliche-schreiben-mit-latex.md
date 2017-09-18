@@ -1,12 +1,8 @@
 ---
-id: 2185
 title: Kleine Helferlein für das wissenschaftliche Schreiben mit LaTeX
 date: 2009-11-09T00:03:32+00:00
 author: Mathias Wellner
 excerpt: 'Das Textsatzsystem <a href="http://de.wikipedia.org/wiki/LaTeX">LaTeX</a> eignet sich hervorragend für wissenschaftliches Schreiben. Aber welche Komponenten braucht man genau? In diesem Artikel möchte ich beschreiben, wie man auf einem <a href="http://www.ubuntu.com/">Ubuntu-Linux</a>-System die notwendigen Programme und Pakete installiert, um seine Publikationen bequem schreiben zu können. Windows-Nutzer können die Schritte genau so ausführen, müssen aber an einigen Stellen abweichend vorgehen. '
-layout: post
-guid: http://www.mwellner.de/?p=2185
-permalink: /2009/11/09/vorbereitungen-fur-das-wissenschaftliche-schreiben-mit-latex/
 categories:
   - technik
 tags:

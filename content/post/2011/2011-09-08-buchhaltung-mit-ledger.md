@@ -1,11 +1,7 @@
 ---
-id: 3294
 title: Buchhaltung mit ledger
 date: 2011-09-08T22:29:26+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3294
-permalink: /2011/09/08/buchhaltung-mit-ledger/
 categories:
   - technik
 tags:

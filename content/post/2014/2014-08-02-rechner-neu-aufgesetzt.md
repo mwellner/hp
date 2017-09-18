@@ -1,11 +1,7 @@
 ---
-id: 4633
 title: Rechner neu aufgesetzt
 date: 2014-08-02T22:59:14+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4633
-permalink: /2014/08/02/rechner-neu-aufgesetzt/
 categories:
   - technik
 tags:

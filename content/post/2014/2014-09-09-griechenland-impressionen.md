@@ -1,11 +1,7 @@
 ---
-id: 4852
 title: Griechenland-Impressionen
 date: 2014-09-09T20:06:06+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4852
-permalink: /2014/09/09/griechenland-impressionen/
 categories:
   - bilder
   - reisen

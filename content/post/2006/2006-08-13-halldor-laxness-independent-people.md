@@ -1,11 +1,7 @@
 ---
-id: 637
 title: 'Halldór Laxness: Independent People'
 date: 2006-08-13T18:45:14+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/08/13/halldor-laxness-independent-people/
-permalink: /2006/08/13/halldor-laxness-independent-people/
 categories:
   - tagebuch
 tags:

@@ -1,12 +1,8 @@
 ---
-id: 3211
 title: Der Fluch der Freiheit (asuperheroscape)
 date: 2011-06-21T22:49:07+00:00
 author: Mathias Wellner
 excerpt: 'Rezension des Theaterabends "Der Fluch der Freiheit" in der Roten Fabrik, inszeniert von asuperheroscape. '
-layout: post
-guid: http://www.mwellner.de/?p=3211
-permalink: /2011/06/21/der-fluch-der-freiheit/
 categories:
   - theater
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 6961
 title: Winti-SOLA, Strecke 3
 date: 2016-09-24T16:16:50+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6961
-permalink: /2016/09/24/winti-sola-strecke-3/
 image: /wp-uploads/2016/05/sola_web-100x150.jpg
 categories:
   - 'sport &amp; freizeit'

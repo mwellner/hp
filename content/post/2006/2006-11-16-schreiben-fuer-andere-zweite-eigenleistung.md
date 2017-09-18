@@ -1,11 +1,7 @@
 ---
-id: 664
 title: 'Schreiben f&#252;r Andere, zweite Eigenleistung'
 date: 2006-11-16T01:28:08+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/11/16/schreiben-fuer-andere-zweite-eigenleistung/
-permalink: /2006/11/16/schreiben-fuer-andere-zweite-eigenleistung/
 categories:
   - tagebuch
 tags:

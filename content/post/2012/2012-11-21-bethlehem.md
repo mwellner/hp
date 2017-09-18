@@ -1,11 +1,7 @@
 ---
-id: 3677
 title: Bethlehem
 date: 2012-11-21T19:35:01+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3677
-permalink: /2012/11/21/bethlehem/
 categories:
   - bilder
   - reisen

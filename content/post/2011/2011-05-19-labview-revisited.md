@@ -1,11 +1,7 @@
 ---
-id: 3170
 title: LabVIEW revisited
 date: 2011-05-19T22:01:07+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3170
-permalink: /2011/05/19/labview-revisited/?lang=en
 categories:
   - software
 tags:

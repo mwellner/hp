@@ -1,11 +1,7 @@
 ---
-id: 649
 title: wednesday jam
 date: 2006-09-27T21:54:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/09/27/wednesday-jam/
-permalink: /2006/09/27/wednesday-jam/
 categories:
   - tagebuch
 ---

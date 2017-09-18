@@ -1,11 +1,7 @@
 ---
-id: 5726
 title: München-Wochenende
 date: 2015-05-03T23:06:10+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5726
-permalink: /2015/05/03/muenchen-wochenende/
 categories:
   - tagebuch
 ---

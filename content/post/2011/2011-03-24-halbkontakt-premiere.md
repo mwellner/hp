@@ -1,11 +1,7 @@
 ---
-id: 3127
 title: halbkontakt-​​Premiere
 date: 2011-03-24T01:34:37+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3127
-permalink: /2011/03/24/halbkontakt-premiere/
 categories:
   - bilder
   - theater

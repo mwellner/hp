@@ -1,11 +1,7 @@
 ---
-id: 5779
 title: Toggenburger Höhenweg via Schnebelhorn
 date: 2015-05-17T22:55:33+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5779
-permalink: /2015/05/17/toggenburger-hoehenweg-via-schnebelhorn/
 categories:
   - wandern
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 5816
 title: Schlank durch Schokolade?
 date: 2015-06-20T23:51:24+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5816
-permalink: /2015/06/20/schlank-durch-schokolade/
 categories:
   - wissenschaft
 tags:

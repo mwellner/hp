@@ -1,11 +1,7 @@
 ---
-id: 6787
 title: Klettersteig-Ausflug
 date: 2016-08-02T19:52:23+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6787
-permalink: /2016/08/02/klettersteig-ausflug/
 image: /wp-uploads/2016/08/MW_20160802_0063_web-150x150.jpg
 categories:
   - bilder

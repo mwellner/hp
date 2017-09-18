@@ -1,11 +1,7 @@
 ---
-id: 638
 title: 'Nick Hornby: High Fidelity'
 date: 2006-08-20T14:31:23+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/08/20/nick-hornby-high-fidelity/
-permalink: /2006/08/20/nick-hornby-high-fidelity/
 tags:
   - High Fidelity
   - Musik

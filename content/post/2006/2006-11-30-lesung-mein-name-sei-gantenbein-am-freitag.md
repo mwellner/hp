@@ -1,11 +1,7 @@
 ---
-id: 666
 title: 'Lesung &quot;Mein Name sei Gantenbein&quot; am Freitag'
 date: 2006-11-30T00:38:48+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/11/30/lesung-mein-name-sei-gantenbein-am-freitag/
-permalink: /2006/11/30/lesung-mein-name-sei-gantenbein-am-freitag/
 categories:
   - literatur
 tags:

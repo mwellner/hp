@@ -1,11 +1,7 @@
 ---
-id: 3173
 title: Wanderung auf den Montalin
 date: 2011-05-22T16:42:31+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3173
-permalink: /2011/05/22/wanderung-auf-den-montalin/
 categories:
   - 'sport &amp; freizeit'
   - wandern

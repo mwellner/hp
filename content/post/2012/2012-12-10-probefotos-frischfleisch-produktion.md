@@ -1,11 +1,7 @@
 ---
-id: 3705
 title: Probefotos Frischfleisch-Produktion
 date: 2012-12-10T00:43:59+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3705
-permalink: /2012/12/10/probefotos-frischfleisch-produktion/
 categories:
   - bilder
   - theater

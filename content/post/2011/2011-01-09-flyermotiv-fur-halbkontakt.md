@@ -1,11 +1,7 @@
 ---
-id: 3050
 title: Flyermotiv für Halbkontakt
 date: 2011-01-09T14:00:25+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3050
-permalink: /2011/01/09/flyermotiv-fur-halbkontakt/
 categories:
   - bilder
   - theater

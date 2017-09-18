@@ -1,11 +1,7 @@
 ---
-id: 3597
 title: 'William Shakespeare &ndash; König Lear'
 date: 2012-10-12T21:54:50+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3597
-permalink: /2012/10/12/william-shakespeare-konig-lear/
 categories:
   - literatur
 tags:

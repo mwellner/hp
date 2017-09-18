@@ -1,11 +1,7 @@
 ---
-id: 3427
 title: Einer flog über das Kuckucksnest
 date: 2012-05-12T15:45:38+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3427
-permalink: /2012/05/12/einer-flog-uber-das-kuckucksnest/
 categories:
   - theater
 tags:

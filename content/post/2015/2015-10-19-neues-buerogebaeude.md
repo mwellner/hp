@@ -1,11 +1,7 @@
 ---
-id: 6314
 title: Neues Bürogebäude
 date: 2015-10-19T22:41:38+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6314
-permalink: /2015/10/19/neues-buerogebaeude/
 image: /wp-uploads/2015/10/20151019_162255-150x113.jpg
 categories:
   - bilder

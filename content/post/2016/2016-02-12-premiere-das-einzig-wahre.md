@@ -1,11 +1,7 @@
 ---
-id: 6498
 title: 'Premiere &#8220;Das einzig Wahre&#8221;'
 date: 2016-02-12T03:16:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6498
-permalink: /2016/02/12/premiere-das-einzig-wahre/
 image: /wp-uploads/2016/01/MW_20160114_1730-150x100.jpg
 categories:
   - theater

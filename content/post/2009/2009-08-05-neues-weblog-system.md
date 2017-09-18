@@ -1,11 +1,7 @@
 ---
-id: 1295
 title: Neues Weblog-System
 date: 2009-08-05T22:24:11+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=1295
-permalink: /2009/08/05/neues-weblog-system/
 jd_tweet_this:
   - 'yes'
 categories:

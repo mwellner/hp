@@ -1,11 +1,7 @@
 ---
-id: 3757
 title: Bühnenrealität
 date: 2013-02-17T18:16:23+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3757
-permalink: /2013/02/17/buehnenrealitaet/
 categories:
   - theater
 tags:

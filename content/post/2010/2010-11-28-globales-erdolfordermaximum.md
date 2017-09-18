@@ -1,11 +1,7 @@
 ---
-id: 3022
 title: Globales Erdölfördermaximum
 date: 2010-11-28T14:40:07+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3022
-permalink: /2010/11/28/globales-erdolfordermaximum/
 categories:
   - politik
 tags:

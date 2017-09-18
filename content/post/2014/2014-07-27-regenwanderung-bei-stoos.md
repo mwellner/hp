@@ -1,11 +1,7 @@
 ---
-id: 4617
 title: Regenwanderung bei Stoos
 date: 2014-07-27T22:16:52+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4617
-permalink: /2014/07/27/regenwanderung-bei-stoos/
 categories:
   - bilder
   - wandern

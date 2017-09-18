@@ -1,11 +1,7 @@
 ---
-id: 6222
 title: Bilder vom Norwegen-Urlaub
 date: 2015-09-01T22:55:49+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6222
-permalink: /2015/09/01/bilder-vom-norwegen-urlaub/
 categories:
   - bilder
   - reisen

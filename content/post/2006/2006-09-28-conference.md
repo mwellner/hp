@@ -1,11 +1,7 @@
 ---
-id: 650
 title: Conference MMVR
 date: 2006-09-28T22:04:18+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/09/28/conference/
-permalink: /2006/09/28/conference/
 tags:
   - conference
   - mmvr

@@ -1,11 +1,7 @@
 ---
-id: 4776
 title: 'Szenische Lesung &#8220;Rosenkranz und Güldenstern&#8221; (Tom Stoppard)'
 date: 2014-08-15T23:27:25+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4776
-permalink: /2014/08/15/szenische-lesung-rosenkranz-und-gueldenstern-tom-stoppard/
 categories:
   - theater
 tags:

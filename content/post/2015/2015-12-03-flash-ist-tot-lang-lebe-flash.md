@@ -1,11 +1,7 @@
 ---
-id: 6370
 title: Flash ist tot, lang lebe Flash
 date: 2015-12-03T22:21:35+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6370
-permalink: /2015/12/03/flash-ist-tot-lang-lebe-flash/
 categories:
   - www
 tags:

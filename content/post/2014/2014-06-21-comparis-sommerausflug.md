@@ -1,11 +1,7 @@
 ---
-id: 4571
 title: Comparis-Sommerausflug
 date: 2014-06-21T22:29:55+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4571
-permalink: /2014/06/21/comparis-sommerausflug/
 categories:
   - bilder
   - tagebuch

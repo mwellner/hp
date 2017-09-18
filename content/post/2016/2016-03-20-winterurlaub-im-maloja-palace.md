@@ -1,11 +1,7 @@
 ---
-id: 6556
 title: Winterurlaub im Maloja Palace
 date: 2016-03-20T17:56:05+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6556
-permalink: /2016/03/20/winterurlaub-im-maloja-palace/
 image: /wp-uploads/2016/03/MW_20160313_2101-150x113.jpg
 categories:
   - bilder

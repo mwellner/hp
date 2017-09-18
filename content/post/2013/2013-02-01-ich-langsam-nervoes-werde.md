@@ -1,11 +1,7 @@
 ---
-id: 3740
 title: Ich, langsam, nervös werde
 date: 2013-02-01T00:11:20+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3740
-permalink: /2013/02/01/ich-langsam-nervoes-werde/
 categories:
   - theater
 ---

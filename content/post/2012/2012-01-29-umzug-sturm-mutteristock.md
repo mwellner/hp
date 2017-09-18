@@ -1,11 +1,7 @@
 ---
-id: 3400
 title: Umzug, Sturm, Mutteristock
 date: 2012-01-29T22:22:50+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3400
-permalink: /2012/01/29/umzug-sturm-mutteristock/
 categories:
   - tagebuch
 ---

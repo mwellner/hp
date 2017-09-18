@@ -1,12 +1,8 @@
 ---
-id: 3176
 title: 'Yasmina Reza &ndash; Kunst (Theater Muntanellas)'
 date: 2011-05-28T13:13:35+00:00
 author: Mathias Wellner
 excerpt: 'Besprechung des Theaterstücks Kunst von Yasmina Reza, inszeniert von Philipp Lenz mit dem Theater Muntanella. '
-layout: post
-guid: http://www.mwellner.de/?p=3176
-permalink: /2011/05/28/yasmina-reza-kunst-theater-muntanellas/
 categories:
   - theater
 tags:

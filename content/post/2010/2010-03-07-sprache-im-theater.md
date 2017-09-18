@@ -1,11 +1,7 @@
 ---
-id: 2503
 title: Sprache im Theater
 date: 2010-03-07T02:04:42+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2503
-permalink: /2010/03/07/sprache-im-theater/
 categories:
   - theater
 tags:

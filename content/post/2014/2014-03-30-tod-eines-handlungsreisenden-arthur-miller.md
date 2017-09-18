@@ -1,11 +1,7 @@
 ---
-id: 4476
 title: Tod eines Handlungsreisenden (Arthur Miller)
 date: 2014-03-30T01:10:47+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4476
-permalink: /2014/03/30/tod-eines-handlungsreisenden-arthur-miller/
 categories:
   - literatur
   - theater

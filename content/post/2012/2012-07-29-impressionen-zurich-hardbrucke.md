@@ -1,11 +1,7 @@
 ---
-id: 3490
 title: Nächtliche Impressionen von Zürich (Hardbrücke)
 date: 2012-07-29T14:05:16+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3490
-permalink: /2012/07/29/impressionen-zurich-hardbrucke/
 categories:
   - bilder
 ---

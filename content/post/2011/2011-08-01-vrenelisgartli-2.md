@@ -1,11 +1,7 @@
 ---
-id: 3246
 title: Vrenelisgärtli
 date: 2011-08-01T22:15:01+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3246
-permalink: /2011/08/01/vrenelisgartli-2/?lang=en
 categories:
   - hiking
   - images

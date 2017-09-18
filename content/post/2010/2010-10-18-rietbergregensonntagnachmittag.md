@@ -1,11 +1,7 @@
 ---
-id: 2946
 title: Rietbergregensonntagnachmittag
 date: 2010-10-18T22:05:04+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2946
-permalink: /2010/10/18/rietbergregensonntagnachmittag/
 categories:
   - bilder
 tags:

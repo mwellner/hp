@@ -1,11 +1,7 @@
 ---
-id: 4085
 title: 'Lee Strassberg &ndash; Das Wesen des Schauspielens'
 date: 2013-10-03T21:54:39+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4085
-permalink: /2013/10/03/lee-strassberg-das-wesen-des-schauspielens/
 categories:
   - theater
 tags:

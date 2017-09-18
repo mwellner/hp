@@ -1,11 +1,7 @@
 ---
-id: 3436
 title: Nachtfahrt
 date: 2012-05-28T22:39:35+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3436
-permalink: /2012/05/28/nachtfahrt/
 categories:
   - tagebuch
 tags:

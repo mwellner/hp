@@ -1,11 +1,7 @@
 ---
-id: 3837
 title: Bilder der Vergangenheit
 date: 2013-04-09T22:41:21+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3837
-permalink: /2013/04/09/bilder-der-vergangenheit/
 categories:
   - tagebuch
 tags:

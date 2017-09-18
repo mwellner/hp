@@ -1,11 +1,7 @@
 ---
-id: 3074
 title: halbkontakt@BöserMontag
 date: 2011-02-01T16:08:40+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3074
-permalink: /2011/02/01/halbkontaktbosermontag/
 categories:
   - bilder
   - theater

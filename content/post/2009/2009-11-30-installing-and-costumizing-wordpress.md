@@ -1,11 +1,7 @@
 ---
-id: 1714
 title: Installing and Customizing WordPress
 date: 2009-11-30T00:00:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=1714
-permalink: /2009/11/30/installing-and-costumizing-wordpress/?lang=en
 categories:
   - tagebuch
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 1180
 title: 'Freude am Schauspiel &ndash; ein Credo'
 date: 2009-06-17T22:51:18+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/?p=1180
-permalink: /2009/06/17/freude-am-schauspiel-ein-credo/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:

@@ -1,11 +1,7 @@
 ---
-id: 3511
 title: Dialoge schreiben
 date: 2012-09-03T22:59:07+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3511
-permalink: /2012/09/03/dialoge-schreiben/
 categories:
   - theater
 ---

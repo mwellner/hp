@@ -1,11 +1,7 @@
 ---
-id: 3025
 title: Tiefschnee
 date: 2010-12-21T22:04:50+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3025
-permalink: /2010/12/21/tiefschnee/
 categories:
   - bilder
   - 'sport &amp; freizeit'

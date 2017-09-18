@@ -1,11 +1,7 @@
 ---
-id: 3311
 title: Die Dramateure starten durch
 date: 2011-09-27T23:34:13+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3311
-permalink: /2011/09/27/die-dramateure-starten-durch/
 categories:
   - theater
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 3581
 title: Schlaflos in Südtirol
 date: 2012-09-30T20:01:55+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3581
-permalink: /2012/09/30/schlaflos-in-sudtirol/
 categories:
   - reisen
   - 'sport &amp; freizeit'

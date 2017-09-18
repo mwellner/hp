@@ -1,11 +1,7 @@
 ---
-id: 3702
 title: Krafttraining
 date: 2012-12-05T00:29:15+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3702
-permalink: /2012/12/05/krafttraining/
 categories:
   - tagebuch
 tags:

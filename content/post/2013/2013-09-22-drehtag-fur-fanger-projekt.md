@@ -1,11 +1,7 @@
 ---
-id: 4065
 title: Drehtag für Fänger-Projekt
 date: 2013-09-22T22:11:39+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4065
-permalink: /2013/09/22/drehtag-fur-fanger-projekt/
 categories:
   - bilder
   - theater

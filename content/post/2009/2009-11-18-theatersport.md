@@ -1,11 +1,7 @@
 ---
-id: 2222
 title: Fear Les Fanz vs. Improsant (Theatersport)
 date: 2009-11-18T23:52:30+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2222
-permalink: /2009/11/18/theatersport/
 categories:
   - theater
 tags:

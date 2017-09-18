@@ -1,11 +1,7 @@
 ---
-id: 2818
 title: Rigi bei Nacht
 date: 2010-05-30T11:20:31+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2818
-permalink: /2010/05/30/rigi-bei-nacht/
 jd_tweet_this:
   - 'yes'
 wp_jd_bitly:

@@ -1,11 +1,7 @@
 ---
-id: 5692
 title: 1. Trainingslauf für SOLA-Stafette
 date: 2015-04-14T21:58:09+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5692
-permalink: /2015/04/14/trainingslauf-fuer-strecke-8-der-sola-stafette/
 categories:
   - 'sport &amp; freizeit'
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 6575
 title: Ade, Cricket-Schläger
 date: 2016-04-16T18:34:21+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6575
-permalink: /2016/04/16/ade-cricket-schlaeger/
 image: /wp-uploads/2016/04/DSC_4166_web-150x100.jpg
 categories:
   - theater

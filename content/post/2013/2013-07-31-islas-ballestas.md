@@ -1,11 +1,7 @@
 ---
-id: 3953
 title: Islas Ballestas
 date: 2013-07-31T18:31:38+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3953
-permalink: /2013/07/31/islas-ballestas/
 categories:
   - reisen
 tags:

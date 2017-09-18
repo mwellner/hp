@@ -1,11 +1,7 @@
 ---
-id: 3414
 title: Der perfekte Schauspieler (aus Regiesicht)
 date: 2012-03-13T23:44:03+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3414
-permalink: /2012/03/13/der-perfekte-schauspieler-aus-regiesicht/
 categories:
   - theater
 tags:

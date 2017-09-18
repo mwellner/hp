@@ -1,11 +1,7 @@
 ---
-id: 3708
 title: 'Maxim Gorki &ndash; Kinder der Sonne'
 date: 2012-12-16T01:06:36+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3708
-permalink: /2012/12/16/maxim-gorki-kinder-der-sonne/
 categories:
   - theater
 tags:

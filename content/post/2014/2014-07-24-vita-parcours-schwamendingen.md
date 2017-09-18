@@ -1,11 +1,7 @@
 ---
-id: 4591
 title: Vita Parcours Schwamendingen
 date: 2014-07-24T22:45:37+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4591
-permalink: /2014/07/24/vita-parcours-schwamendingen/
 categories:
   - 'sport &amp; freizeit'
 ---

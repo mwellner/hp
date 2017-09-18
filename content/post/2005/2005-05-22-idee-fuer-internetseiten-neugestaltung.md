@@ -1,11 +1,7 @@
 ---
-id: 422
 title: 'Idee f&#252;r Internetseiten-Neugestaltung'
 date: 2005-05-22T23:30:21+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2005/05/22/idee-fuer-internetseiten-neugestaltung/
-permalink: /2005/05/22/idee-fuer-internetseiten-neugestaltung/
 categories:
   - www
 tags:

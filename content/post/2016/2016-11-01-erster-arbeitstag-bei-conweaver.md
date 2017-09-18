@@ -1,11 +1,7 @@
 ---
-id: 7047
 title: Erster Arbeitstag bei ConWeaver
 date: 2016-11-01T08:36:53+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=7047
-permalink: /2016/11/01/erster-arbeitstag-bei-conweaver/
 categories:
   - bilder
 format: image

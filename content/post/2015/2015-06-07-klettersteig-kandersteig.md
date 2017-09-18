@@ -1,11 +1,7 @@
 ---
-id: 5811
 title: Klettersteig Kandersteig
 date: 2015-06-07T22:43:40+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5811
-permalink: /2015/06/07/klettersteig-kandersteig/
 categories:
   - klettern
 tags:

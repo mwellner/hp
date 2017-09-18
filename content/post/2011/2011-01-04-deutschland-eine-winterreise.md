@@ -1,11 +1,7 @@
 ---
-id: 3032
 title: Deutschland – eine Winterreise
 date: 2011-01-04T23:28:50+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3032
-permalink: /2011/01/04/deutschland-eine-winterreise/
 categories:
   - bilder
   - tagebuch

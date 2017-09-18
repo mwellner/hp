@@ -1,11 +1,7 @@
 ---
-id: 5802
 title: Cortesi-Lesungen bei der KulTour in Baden
 date: 2015-06-06T23:00:58+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5802
-permalink: /2015/06/06/cortesi-lesungen-bei-der-kultour-in-baden/
 categories:
   - literatur
 tags:

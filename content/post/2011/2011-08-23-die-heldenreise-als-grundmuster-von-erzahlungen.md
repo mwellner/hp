@@ -1,11 +1,7 @@
 ---
-id: 3275
 title: Die Heldenreise als Grundmuster von Erzählungen
 date: 2011-08-23T23:52:20+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3275
-permalink: /2011/08/23/die-heldenreise-als-grundmuster-von-erzahlungen/
 categories:
   - literatur
 tags:

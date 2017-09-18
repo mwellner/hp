@@ -1,11 +1,7 @@
 ---
-id: 3302
 title: Der Regisseur
 date: 2011-09-12T21:30:01+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3302
-permalink: /2011/09/12/der-regisseur/
 categories:
   - theater
 tags:

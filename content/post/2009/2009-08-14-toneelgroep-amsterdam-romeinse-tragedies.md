@@ -1,11 +1,7 @@
 ---
-id: 1330
 title: 'Toneelgroep Amsterdam &ndash; Romeinse tragedies'
 date: 2009-08-14T23:51:40+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=1330
-permalink: /2009/08/14/toneelgroep-amsterdam-romeinse-tragedies/
 categories:
   - theater
 tags:

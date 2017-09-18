@@ -1,11 +1,7 @@
 ---
-id: 3911
 title: 'Wanderung Brülisau &#8211; Hoher Kasten &#8211; Wasserauen'
 date: 2013-07-17T22:49:46+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3911
-permalink: /2013/07/17/wanderung-brulisau-hoher-kasten-wasserauen/
 categories:
   - bilder
   - 'sport &amp; freizeit'

@@ -1,11 +1,7 @@
 ---
-id: 660
 title: grenzen des wissens (vortrag juergen mittelstrass)
 date: 2006-11-01T11:42:25+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/11/01/grenzen-des-wissens-vortrag-juergen-mittelstrass/
-permalink: /2006/11/01/grenzen-des-wissens-vortrag-juergen-mittelstrass/
 ---
 Als Eröffnung der Vortragsreihe **An den Grenzen des Wissens** der Universität und ETH Zürich sprach Prof. Jürgen Mittelstrass mit dem Titel: _Was heißt "Grenzen des Wissens"?_ 
 

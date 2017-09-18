@@ -1,11 +1,7 @@
 ---
-id: 4896
 title: 'Anton Tschechow &#8211; Der Kirschgarten'
 date: 2014-10-11T23:45:07+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4896
-permalink: /2014/10/11/anton-tschechow-der-kirschgarten/
 categories:
   - theater
 tags:

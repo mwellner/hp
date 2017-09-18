@@ -1,11 +1,7 @@
 ---
-id: 3670
 title: Grüne Klöße
 date: 2012-11-11T23:36:35+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3670
-permalink: /2012/11/11/grune-klose/
 categories:
   - bilder
   - tagebuch

@@ -1,11 +1,7 @@
 ---
-id: 654
 title: Bachtelberg
 date: 2006-10-14T20:26:07+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/10/14/bachtelberg/
-permalink: /2006/10/14/bachtelberg/
 categories:
   - wandern
 tags:

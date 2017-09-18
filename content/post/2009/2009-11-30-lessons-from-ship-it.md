@@ -1,11 +1,7 @@
 ---
-id: 2427
 title: 'Infrastructure Lessons from &#8220;Ship It!&#8221;'
 date: 2009-11-30T00:00:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2427
-permalink: /2009/11/30/lessons-from-ship-it/?lang=en
 categories:
   - technology
 tags:

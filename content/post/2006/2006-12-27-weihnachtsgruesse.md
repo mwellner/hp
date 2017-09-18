@@ -1,11 +1,7 @@
 ---
-id: 676
 title: weihnachtsgruesse
 date: 2006-12-27T01:02:07+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/12/27/weihnachtsgruesse/
-permalink: /2006/12/27/weihnachtsgruesse/
 ---
 Liebe Weblog-Leser,
   

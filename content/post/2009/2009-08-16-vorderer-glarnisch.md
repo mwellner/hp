@@ -1,11 +1,7 @@
 ---
-id: 1332
 title: Vorderer Glärnisch
 date: 2009-08-16T22:27:21+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=1332
-permalink: /2009/08/16/vorderer-glarnisch/
 language:
   - en
 other-excerpt:

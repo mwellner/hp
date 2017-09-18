@@ -1,11 +1,7 @@
 ---
-id: 4755
 title: Laufen im Irchelpark
 date: 2014-08-10T19:50:26+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4755
-permalink: /2014/08/10/joggen-im-irchelpark/
 categories:
   - bilder
   - 'sport &amp; freizeit'

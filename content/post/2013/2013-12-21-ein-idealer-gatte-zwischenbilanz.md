@@ -1,11 +1,7 @@
 ---
-id: 4162
 title: 'Ein idealer Gatte &#8211; Zwischenbilanz'
 date: 2013-12-21T23:14:21+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4162
-permalink: /2013/12/21/ein-idealer-gatte-zwischenbilanz/
 categories:
   - bilder
   - theater

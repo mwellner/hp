@@ -1,11 +1,7 @@
 ---
-id: 2852
 title: Bergwandern in Österreich
 date: 2010-07-19T23:11:18+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2852
-permalink: /2010/07/19/bergwandern-in-osterreich/
 jd_tweet_this:
   - 'yes'
 jd_twitter:

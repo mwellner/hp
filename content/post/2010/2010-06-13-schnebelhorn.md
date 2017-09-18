@@ -1,11 +1,7 @@
 ---
-id: 2823
 title: Schnebelhorn
 date: 2010-06-13T10:44:48+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2823
-permalink: /2010/06/13/schnebelhorn/
 jd_tweet_this:
   - 'yes'
 wp_jd_bitly:

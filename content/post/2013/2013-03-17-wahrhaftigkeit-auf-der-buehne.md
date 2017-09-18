@@ -1,11 +1,7 @@
 ---
-id: 3794
 title: Wahrhaftigkeit auf der Bühne
 date: 2013-03-17T01:08:07+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3794
-permalink: /2013/03/17/wahrhaftigkeit-auf-der-buehne/
 categories:
   - theater
 tags:

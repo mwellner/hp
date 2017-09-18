@@ -1,11 +1,7 @@
 ---
-id: 3735
 title: Langlauf am Schwedentritt
 date: 2013-01-20T22:09:11+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3735
-permalink: /2013/01/20/langlauf-am-schwedentritt/
 categories:
   - bilder
   - 'sport &amp; freizeit'

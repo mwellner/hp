@@ -1,11 +1,7 @@
 ---
-id: 3403
 title: 'Erste Szenenfotos von &#8220;Onkel Wanja&#8221;'
 date: 2012-02-15T23:19:34+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3403
-permalink: /2012/02/15/erste-szenenfotos-von-onkel-wanja/
 categories:
   - bilder
   - theater

@@ -1,11 +1,7 @@
 ---
-id: 3815
 title: 'Impressionen von &#8220;Bananen, vorne links&#8221;'
 date: 2013-03-31T13:31:02+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3815
-permalink: /2013/03/31/impressionen-von-bananen-vorne-links/
 categories:
   - bilder
   - theater

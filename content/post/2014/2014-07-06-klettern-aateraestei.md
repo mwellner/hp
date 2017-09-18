@@ -1,11 +1,7 @@
 ---
-id: 4584
 title: Klettern im Klettergarten Aaterästei
 date: 2014-07-06T23:51:10+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4584
-permalink: /2014/07/06/klettern-aateraestei/
 categories:
   - bilder
   - klettern

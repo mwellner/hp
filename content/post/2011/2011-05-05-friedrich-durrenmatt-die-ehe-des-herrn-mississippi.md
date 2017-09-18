@@ -1,11 +1,7 @@
 ---
-id: 3141
 title: 'Friedrich Dürrenmatt &ndash; Die Ehe des Herrn Mississippi'
 date: 2011-05-05T22:44:34+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3141
-permalink: /2011/05/05/friedrich-durrenmatt-die-ehe-des-herrn-mississippi/
 categories:
   - theater
 tags:

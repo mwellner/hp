@@ -1,11 +1,7 @@
 ---
-id: 3278
 title: 'Szenische Lesung &#8220;Ein Volksfeind&#8221; (Henrik Ibsen)'
 date: 2011-08-25T22:20:36+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3278
-permalink: /2011/08/25/volksfeind-henrik-ibsen/
 categories:
   - literatur
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 6459
 title: 'Some Henry Quotes from &#8220;The Real Thing&#8221;'
 date: 2016-01-10T01:20:31+00:00
 author: Mathias Wellner
-layout: post
-guid: 'http://www.mwellner.de/?p=6459&#038;lang=en'
-permalink: /2016/01/10/some-henry-quotes-from-the-real-thing/?lang=en
 image: /wp-uploads/2016/01/flyer_web-150x150.jpg
 categories:
   - theater/acting

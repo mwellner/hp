@@ -1,11 +1,7 @@
 ---
-id: 641
 title: emails organisieren
 date: 2006-08-24T22:55:30+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/08/24/emails-organisieren/
-permalink: /2006/08/24/emails-organisieren/
 categories:
   - www
 ---

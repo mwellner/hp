@@ -1,11 +1,7 @@
 ---
-id: 671
 title: 'akitiv &ndash; Theaterstücke für nächstes Jahr'
 date: 2006-12-07T00:17:30+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/12/07/akitiv-theaterstuecke-fuer-naechstes-jahr/
-permalink: /2006/12/07/akitiv-theaterstuecke-fuer-naechstes-jahr/
 categories:
   - theater
 tags:

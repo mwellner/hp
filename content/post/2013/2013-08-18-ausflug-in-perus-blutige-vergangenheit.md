@@ -1,11 +1,7 @@
 ---
-id: 3963
 title: Ausflug in Perus blutige Vergangenheit
 date: 2013-08-18T03:40:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3963
-permalink: /2013/08/18/ausflug-in-perus-blutige-vergangenheit/
 categories:
   - politik
   - reisen

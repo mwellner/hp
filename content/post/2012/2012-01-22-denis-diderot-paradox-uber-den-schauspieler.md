@@ -1,11 +1,7 @@
 ---
-id: 3394
 title: 'Denis Diderot &ndash; Paradox über den Schauspieler'
 date: 2012-01-22T20:54:24+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3394
-permalink: /2012/01/22/denis-diderot-paradox-uber-den-schauspieler/
 categories:
   - theater
 tags:

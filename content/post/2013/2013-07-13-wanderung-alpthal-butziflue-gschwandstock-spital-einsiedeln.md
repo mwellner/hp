@@ -1,11 +1,7 @@
 ---
-id: 3908
 title: 'Wanderung Alpthal &#8211; Butziflue &#8211; Gschwändstock &#8211; Spital &#8211; Einsiedeln'
 date: 2013-07-13T22:03:58+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3908
-permalink: /2013/07/13/wanderung-alpthal-butziflue-gschwandstock-spital-einsiedeln/
 categories:
   - bilder
   - 'sport &amp; freizeit'

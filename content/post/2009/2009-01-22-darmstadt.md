@@ -2,7 +2,6 @@
 title: Darmstadt
 date: 2009-01-22T00:22:35+00:00
 author: Mathias Wellner
-permalink: /2009/01/22/darmstadt/
 categories:
   - wissenschaft
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 1194
 title: 'Doctoral examination &#8211; passed!'
 date: 2009-07-07T17:28:36+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/?p=1194
-permalink: /2009/07/07/doctoral-examination/?lang=en
 podPressPostSpecific:
   - 's:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";'
 tags:

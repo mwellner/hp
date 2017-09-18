@@ -1,11 +1,7 @@
 ---
-id: 5795
 title: Regie führen
 date: 2015-06-01T22:37:19+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5795
-permalink: /2015/06/01/regie-fuehren/
 categories:
   - theater
 ---

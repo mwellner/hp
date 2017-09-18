@@ -1,11 +1,7 @@
 ---
-id: 3812
 title: Theaterlicht
 date: 2013-03-29T22:54:09+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3812
-permalink: /2013/03/29/theaterlicht/
 categories:
   - theater
 tags:

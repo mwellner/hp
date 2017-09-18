@@ -1,11 +1,7 @@
 ---
-id: 2347
 title: Umziehen – Zügeln
 date: 2009-12-29T15:48:09+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2347
-permalink: /2009/12/29/umziehen-zugeln/
 jd_tweet_this:
   - 'yes'
 categories:

@@ -1,11 +1,7 @@
 ---
-id: 2912
 title: Endspurt für „Top Dogs”
 date: 2010-09-16T20:43:48+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2912
-permalink: /2010/09/16/endspurt-fur-top-dogs/
 categories:
   - bilder
   - theater

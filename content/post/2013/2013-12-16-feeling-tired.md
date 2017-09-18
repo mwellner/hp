@@ -1,11 +1,7 @@
 ---
-id: 4148
 title: Feeling tired
 date: 2013-12-16T23:43:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4148
-permalink: /2013/12/16/feeling-tired/?lang=en
 categories:
   - diary
 ---

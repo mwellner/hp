@@ -1,11 +1,7 @@
 ---
-id: 3496
 title: Rigi Hochflue
 date: 2012-08-05T14:32:53+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3496
-permalink: /2012/08/05/rigi-hochflue/
 categories:
   - bilder
   - 'sport &amp; freizeit'

@@ -1,11 +1,7 @@
 ---
-id: 3494
 title: Rollenarbeit Frischfleisch
 date: 2012-07-30T22:57:13+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3494
-permalink: /2012/07/30/rollenarbeit-frischfleisch/
 categories:
   - theater
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 5835
 title: Stadt Brandenburg
 date: 2015-07-12T13:37:42+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5835
-permalink: /2015/07/12/stadt-brandenburg/
 categories:
   - bilder
   - tagebuch

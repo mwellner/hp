@@ -1,5 +1,4 @@
 ---
-id: 702
 title: Anything Flows
 date: 2007-05-03T23:05:14+00:00
 author: Mathias Wellner

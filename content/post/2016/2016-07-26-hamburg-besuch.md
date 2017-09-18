@@ -1,5 +1,4 @@
 ---
-id: 6777
 title: Hamburg-Besuch
 date: 2016-07-26T23:02:36+00:00
 categories:

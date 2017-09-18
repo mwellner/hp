@@ -1,11 +1,7 @@
 ---
-id: 6528
 title: Projektmanagement-Zertifikat
 date: 2016-02-28T10:21:33+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6528
-permalink: /2016/02/28/projektmanagement-zertifikat/
 image: /wp-uploads/2016/02/projektmanagement_ipma_leveld-106x150.png
 categories:
   - tagebuch

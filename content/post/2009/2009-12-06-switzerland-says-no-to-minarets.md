@@ -1,11 +1,7 @@
 ---
-id: 2328
 title: Switzerland Says No to Minarets
 date: 2009-12-06T11:36:35+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2328
-permalink: /2009/12/06/switzerland-says-no-to-minarets/?lang=en
 categories:
   - politics
 tags:

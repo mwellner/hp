@@ -1,11 +1,7 @@
 ---
-id: 6504
 title: Henry und seine Gitarre
 date: 2016-02-17T22:42:54+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6504
-permalink: /2016/02/17/henry-und-seine-gitarre/
 image: /wp-uploads/2016/02/guitar-150x100.jpg
 categories:
   - theater

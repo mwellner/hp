@@ -1,11 +1,7 @@
 ---
-id: 2815
 title: Großer Mythen
 date: 2010-05-24T20:42:16+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2815
-permalink: /2010/05/24/grosser-mythen/
 jd_tweet_this:
   - 'yes'
 wp_jd_clig:

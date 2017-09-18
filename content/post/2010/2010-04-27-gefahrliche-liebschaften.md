@@ -1,12 +1,8 @@
 ---
-id: 2782
 title: Gefährliche Liebschaften
 date: 2010-04-27T22:33:37+00:00
 author: Mathias Wellner
 excerpt: 'Ankündigung des akitiv-Stücks "Gefährliche Liebschaften", welches am Freitag (30.4.) Premiere hat. '
-layout: post
-guid: http://www.mwellner.de/?p=2782
-permalink: /2010/04/27/gefahrliche-liebschaften/
 jd_tweet_this:
   - 'yes'
 wp_jd_clig:

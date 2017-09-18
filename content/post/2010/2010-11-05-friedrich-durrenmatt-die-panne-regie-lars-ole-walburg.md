@@ -1,11 +1,7 @@
 ---
-id: 2961
 title: 'Friedrich Dürrenmatt &ndash; Die Panne (Regie Lars-Ole Walburg)'
 date: 2010-11-05T23:41:33+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2961
-permalink: /2010/11/05/friedrich-durrenmatt-die-panne-regie-lars-ole-walburg/
 categories:
   - theater
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 3307
 title: Zu Besuch in Belgien (Leuven und Brügge)
 date: 2011-09-26T22:38:35+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3307
-permalink: /2011/09/26/zu-besuch-in-belgien-leuven-und-brugge/
 categories:
   - bilder
   - reisen

@@ -1,11 +1,7 @@
 ---
-id: 4856
 title: Smooth Jazz Festival Augsburg
 date: 2014-09-14T00:00:35+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4856
-permalink: /2014/09/14/smooth-jazz-festival-augsburg/
 categories:
   - reisen
 tags:

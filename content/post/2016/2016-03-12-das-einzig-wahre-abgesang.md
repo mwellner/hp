@@ -1,11 +1,7 @@
 ---
-id: 6536
 title: 'Das einzig Wahre &ndash; Abgesang'
 date: 2016-03-12T11:15:03+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6536
-permalink: /2016/03/12/das-einzig-wahre-abgesang/
 image: /wp-uploads/2016/03/MW_20160304_2079-150x150.jpg
 categories:
   - theater

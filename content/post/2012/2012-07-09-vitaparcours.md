@@ -1,11 +1,7 @@
 ---
-id: 3488
 title: Vitaparcours
 date: 2012-07-09T22:24:31+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3488
-permalink: /2012/07/09/vitaparcours/
 categories:
   - 'sport &amp; freizeit'
 ---

@@ -1,11 +1,7 @@
 ---
-id: 4152
 title: Theater-Handlungen
 date: 2013-12-17T22:55:21+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4152
-permalink: /2013/12/17/theater-handlungen/
 categories:
   - bilder
   - theater

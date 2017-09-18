@@ -1,11 +1,7 @@
 ---
-id: 639
 title: Modernes Theater
 date: 2006-08-20T22:18:23+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/08/20/modernes-theater/
-permalink: /2006/08/20/modernes-theater/
 categories:
   - theater
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 3865
 title: Mutter, Hure, Königin
 date: 2013-05-28T12:52:23+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3865
-permalink: /2013/05/28/mutter-hure-konigin/
 categories:
   - theater
 tags:

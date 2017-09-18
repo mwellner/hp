@@ -1,11 +1,7 @@
 ---
-id: 673
 title: 'Yasmina Reza: Der Gott des Gemetzels (Schauspielhaus Zürich)'
 date: 2006-12-15T23:35:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/12/15/yasmina-reza-der-gott-des-gemetzels-schauspielhaus-zuerich/
-permalink: /2006/12/15/yasmina-reza-der-gott-des-gemetzels-schauspielhaus-zuerich/
 categories:
   - theater
 tags:

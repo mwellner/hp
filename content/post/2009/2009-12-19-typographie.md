@@ -1,11 +1,7 @@
 ---
-id: 2335
 title: Typographie
 date: 2009-12-19T15:58:39+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2335
-permalink: /2009/12/19/typographie/
 tags:
   - Font
   - Gestaltung

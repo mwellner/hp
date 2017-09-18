@@ -1,11 +1,7 @@
 ---
-id: 4803
 title: Zürichberg-Runde
 date: 2014-08-21T22:59:41+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4803
-permalink: /2014/08/21/zuerichberg-runde/
 categories:
   - bilder
   - 'sport &amp; freizeit'

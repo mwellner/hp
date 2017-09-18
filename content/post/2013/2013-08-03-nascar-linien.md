@@ -1,11 +1,7 @@
 ---
-id: 3955
 title: Nascar-Linien
 date: 2013-08-03T03:24:01+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3955
-permalink: /2013/08/03/nascar-linien/
 categories:
   - reisen
 tags:

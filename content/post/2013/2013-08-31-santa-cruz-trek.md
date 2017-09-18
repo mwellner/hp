@@ -1,11 +1,7 @@
 ---
-id: 3969
 title: Santa Cruz Trek
 date: 2013-08-31T05:17:46+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3969
-permalink: /2013/08/31/santa-cruz-trek/
 categories:
   - bilder
   - wandern

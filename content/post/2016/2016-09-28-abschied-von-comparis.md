@@ -1,11 +1,7 @@
 ---
-id: 6974
 title: Abschied von Comparis
 date: 2016-09-28T22:45:23+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6974
-permalink: /2016/09/28/abschied-von-comparis/
 categories:
   - tagebuch
 tags:

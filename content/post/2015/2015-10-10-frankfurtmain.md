@@ -1,11 +1,7 @@
 ---
-id: 6293
 title: Frankfurt/Main
 date: 2015-10-10T22:50:40+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6293
-permalink: /2015/10/10/frankfurtmain/
 image: /wp-uploads/2015/10/MW_20151010_1450-150x100.jpg
 categories:
   - bilder

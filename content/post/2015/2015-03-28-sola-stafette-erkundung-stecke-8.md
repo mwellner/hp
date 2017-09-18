@@ -1,11 +1,7 @@
 ---
-id: 5655
 title: SOLA-Stafette, Erkundung Stecke 8
 date: 2015-03-28T16:38:55+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5655
-permalink: /2015/03/28/sola-stafette-erkundung-stecke-8/
 categories:
   - 'sport &amp; freizeit'
 tags:

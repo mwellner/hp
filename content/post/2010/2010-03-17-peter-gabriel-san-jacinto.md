@@ -1,11 +1,7 @@
 ---
-id: 2517
 title: 'Peter Gabriel &ndash; San Jacinto'
 date: 2010-03-17T00:06:26+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2517
-permalink: /2010/03/17/peter-gabriel-san-jacinto/
 tags:
   - biss
   - indianer

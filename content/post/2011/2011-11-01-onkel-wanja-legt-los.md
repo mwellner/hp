@@ -1,11 +1,7 @@
 ---
-id: 3343
 title: Onkel Wanja legt los
 date: 2011-11-01T23:57:21+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3343
-permalink: /2011/11/01/onkel-wanja-legt-los/
 categories:
   - theater
 tags:

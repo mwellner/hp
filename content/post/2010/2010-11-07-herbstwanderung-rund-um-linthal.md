@@ -1,11 +1,7 @@
 ---
-id: 2964
 title: Herbstwanderung rund um Linthal
 date: 2010-11-07T01:34:12+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2964
-permalink: /2010/11/07/herbstwanderung-rund-um-linthal/
 categories:
   - bilder
   - 'sport &amp; freizeit'

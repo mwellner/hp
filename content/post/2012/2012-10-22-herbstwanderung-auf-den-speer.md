@@ -1,11 +1,7 @@
 ---
-id: 3628
 title: Herbstwanderung auf den Speer
 date: 2012-10-22T23:31:21+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3628
-permalink: /2012/10/22/herbstwanderung-auf-den-speer/
 categories:
   - bilder
   - wandern

@@ -1,11 +1,7 @@
 ---
-id: 3945
 title: Produktionsvorbereitungen
 date: 2013-07-27T17:43:04+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3945
-permalink: /2013/07/27/produktionsvorbereitungen/
 categories:
   - theater
 tags:

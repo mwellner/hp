@@ -1,11 +1,7 @@
 ---
-id: 7020
 title: Kathedrale von Palma
 date: 2016-10-27T17:35:51+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=7020
-permalink: /2016/10/27/kathedrale-von-palma/
 image: /wp-uploads/2016/10/MW_20161015_2806-150x100.jpg
 categories:
   - bilder

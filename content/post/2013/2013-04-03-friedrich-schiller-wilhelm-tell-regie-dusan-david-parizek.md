@@ -1,11 +1,7 @@
 ---
-id: 3820
 title: 'Friedrich Schiller &ndash; Wilhelm Tell (Regie Dušan David Pařízek)'
 date: 2013-04-03T22:55:24+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3820
-permalink: /2013/04/03/friedrich-schiller-wilhelm-tell-regie-dusan-david-parizek/
 categories:
   - theater
 tags:

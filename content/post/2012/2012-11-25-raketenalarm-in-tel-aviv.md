@@ -1,11 +1,7 @@
 ---
-id: 3689
 title: Raketenalarm in Tel Aviv
 date: 2012-11-25T19:39:04+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3689
-permalink: /2012/11/25/raketenalarm-in-tel-aviv/
 categories:
   - bilder
   - reisen

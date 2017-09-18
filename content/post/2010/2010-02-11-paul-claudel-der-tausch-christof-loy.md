@@ -1,11 +1,7 @@
 ---
-id: 2453
 title: 'Paul Claudel – &#8220;Der Tausch&#8221; (Regie Christof Loy)'
 date: 2010-02-11T00:06:42+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2453
-permalink: /2010/02/11/paul-claudel-der-tausch-christof-loy/
 jd_tweet_this:
   - 'yes'
 categories:

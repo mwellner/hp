@@ -2,7 +2,6 @@
 title: Fighting with JSON
 date: 2016-11-18T16:47:25+00:00
 author: Mathias Wellner
-layout: post
 categories:
   - software
 tags:

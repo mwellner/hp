@@ -1,11 +1,7 @@
 ---
-id: 2200
 title: Kleine Helferlein beim wissenschaftlichen Schreiben mit LaTeX
 date: 2009-11-09T23:09:16+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2200
-permalink: /2009/11/09/kleine-helferlein-beim-wissenschaftlichen-schreiben-mit-latex/
 jd_tweet_this:
   - 'yes'
 categories:

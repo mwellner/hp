@@ -1,11 +1,7 @@
 ---
-id: 6660
 title: Warten auf Godot (Deutsches Theater Berlin)
 date: 2016-06-05T16:12:47+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6660
-permalink: /2016/06/05/warten-auf-godot-deutsches-theater-berlin/
 image: /wp-uploads/2016/06/godot1-e1465133145539-150x140.jpg
 categories:
   - theater

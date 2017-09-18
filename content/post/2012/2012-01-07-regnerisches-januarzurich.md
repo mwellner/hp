@@ -1,11 +1,7 @@
 ---
-id: 3389
 title: Regnerisches Januarzürich
 date: 2012-01-07T21:37:32+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3389
-permalink: /2012/01/07/regnerisches-januarzurich/
 categories:
   - bilder
 tags:

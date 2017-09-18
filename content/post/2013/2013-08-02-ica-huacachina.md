@@ -1,11 +1,7 @@
 ---
-id: 3954
 title: Ica, Huacachina
 date: 2013-08-02T14:39:47+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3954
-permalink: /2013/08/02/ica-huacachina/
 categories:
   - reisen
 tags:

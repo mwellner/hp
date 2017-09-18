@@ -1,11 +1,7 @@
 ---
-id: 3313
 title: Gourmet-Wanderung in den Alpen
 date: 2011-10-04T20:47:45+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3313
-permalink: /2011/10/04/gourmet-wanderung-in-den-alpen/
 categories:
   - bilder
   - 'sport &amp; freizeit'

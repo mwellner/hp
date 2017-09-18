@@ -1,11 +1,7 @@
 ---
-id: 2230
 title: Gefährliche Liebschaften (de Laclos)
 date: 2009-11-15T18:56:13+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2230
-permalink: /2009/11/15/gefahrliche-liebschaften-de-laclos/
 categories:
   - literatur
   - theater

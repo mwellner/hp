@@ -1,11 +1,7 @@
 ---
-id: 4870
 title: Fotos Familientreffen Leisnig
 date: 2014-10-01T22:55:15+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4870
-permalink: /2014/10/01/fotos-familientreffen-leisnig/
 categories:
   - tagebuch
 ---

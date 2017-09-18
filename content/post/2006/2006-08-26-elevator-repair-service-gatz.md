@@ -1,11 +1,7 @@
 ---
-id: 642
 title: 'Elevator Repair Service: Gatz'
 date: 2006-08-26T21:33:53+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/08/26/elevator-repair-service-gatz/
-permalink: /2006/08/26/elevator-repair-service-gatz/?lang=en
 categories:
   - arts
 ---

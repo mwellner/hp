@@ -1,11 +1,7 @@
 ---
-id: 3250
 title: 'ZES-Kameratraining 1 &ndash; Einführung Filmschauspiel'
 date: 2011-08-06T19:52:38+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3250
-permalink: /2011/08/06/zes-kameratraining-1-einfuhrung-filmschauspiel/
 categories:
   - theater
 tags:

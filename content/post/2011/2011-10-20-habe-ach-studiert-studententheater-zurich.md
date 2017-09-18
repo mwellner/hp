@@ -1,11 +1,7 @@
 ---
-id: 3328
 title: Habe ach! studiert (Studententheater Zürich)
 date: 2011-10-20T23:18:38+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3328
-permalink: /2011/10/20/habe-ach-studiert-studententheater-zurich/
 categories:
   - theater
 tags:

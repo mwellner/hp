@@ -1,11 +1,7 @@
 ---
-id: 2580
 title: Model-View-Controller-Architektur
 date: 2010-04-08T09:27:54+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2580
-permalink: /2010/04/08/model-view-controller-architektur/
 categories:
   - technik
 tags:

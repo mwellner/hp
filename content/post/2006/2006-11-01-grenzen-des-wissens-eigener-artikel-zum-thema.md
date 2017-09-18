@@ -1,11 +1,7 @@
 ---
-id: 661
 title: grenzen des wissens (eigener artikel zum thema)
 date: 2006-11-01T20:29:47+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/11/01/grenzen-des-wissens-eigener-artikel-zum-thema/
-permalink: /2006/11/01/grenzen-des-wissens-eigener-artikel-zum-thema/
 ---
 _Im Rahmen einer Lehrveranstaltung habe ich mal die Vortragsnotizen (siehe älterer Weblog-Eintrag) in einen Artikel überführt. Bitte gebt mir bis morgen (2.11. um 13:00) Feedback! Dann muss ich den Artikel abschicken._
 

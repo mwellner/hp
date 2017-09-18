@@ -1,11 +1,7 @@
 ---
-id: 3237
 title: Bergwandern beim Aletschgletscher
 date: 2011-07-13T15:51:26+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3237
-permalink: /2011/07/13/bergwandern-beim-aletschgletscher/
 categories:
   - bilder
   - 'sport &amp; freizeit'

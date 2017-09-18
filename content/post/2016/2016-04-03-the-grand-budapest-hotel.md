@@ -1,11 +1,7 @@
 ---
-id: 6563
 title: The Grand Budapest Hotel
 date: 2016-04-03T00:26:51+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6563
-permalink: /2016/04/03/the-grand-budapest-hotel/
 categories:
   - literatur
   - theater

@@ -1,11 +1,7 @@
 ---
-id: 3893
 title: 'Wanderung Dielsdorf &ndash; Baden'
 date: 2013-07-06T16:56:36+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3893
-permalink: /2013/07/06/wanderung-dielsdorf-baden/
 categories:
   - 'sport &amp; freizeit'
   - wandern

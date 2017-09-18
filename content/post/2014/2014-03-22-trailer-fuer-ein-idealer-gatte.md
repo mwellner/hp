@@ -1,11 +1,7 @@
 ---
-id: 4469
 title: 'Trailer für &#8220;Ein idealer Gatte&#8221;'
 date: 2014-03-22T13:11:25+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4469
-permalink: /2014/03/22/trailer-fuer-ein-idealer-gatte/
 categories:
   - theater
 tags:

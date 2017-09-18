@@ -1,11 +1,7 @@
 ---
-id: 2469
 title: Schöner Winter
 date: 2010-02-12T23:18:24+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2469
-permalink: /2010/02/12/schoner-winter/
 categories:
   - bilder
 tags:

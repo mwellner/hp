@@ -1,11 +1,7 @@
 ---
-id: 2957
 title: November Blues
 date: 2010-11-02T22:50:02+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2957
-permalink: /2010/11/02/november-blues/
 categories:
   - bilder
 ---

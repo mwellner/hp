@@ -1,11 +1,7 @@
 ---
-id: 2966
 title: 'Szenische Lesung &ndash; Die heilige Johanna der Schlachthöfe (Bertolt Brecht)'
 date: 2010-11-07T14:26:42+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2966
-permalink: /2010/11/07/szenische-lesung-die-heilige-johanna-der-schlachthofe-bertolt-brecht/
 categories:
   - literatur
 tags:

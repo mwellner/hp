@@ -1,11 +1,7 @@
 ---
-id: 4606
 title: 'Max Frisch &ndash; Biografie: Ein Spiel'
 date: 2014-07-26T19:04:32+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4606
-permalink: /2014/07/26/max-frisch-biografie-ein-spiel/
 categories:
   - theater
 ---

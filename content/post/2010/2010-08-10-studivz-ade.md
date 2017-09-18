@@ -1,11 +1,7 @@
 ---
-id: 2868
 title: studiVZ ade
 date: 2010-08-10T22:58:36+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2868
-permalink: /2010/08/10/studivz-ade/
 jd_tweet_this:
   - 'yes'
 wp_jd_bitly:

@@ -2,7 +2,6 @@
 title: Dresden-Spaziergang
 date: 2010-04-03T22:00:51+00:00
 author: Mathias Wellner
-permalink: /2010/04/03/dresden-spaziergang/
 categories:
   - bilder
 tags:

@@ -1,11 +1,7 @@
 ---
-id: 2874
 title: 'Anton Tschechow &ndash; Onkel Wanja'
 date: 2010-08-14T20:49:21+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2874
-permalink: /2010/08/14/anton-tschechow-onkel-wanja/
 jd_tweet_this:
   - 'yes'
 wp_jd_bitly:

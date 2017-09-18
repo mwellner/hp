@@ -1,11 +1,7 @@
 ---
-id: 2807
 title: Aufbaukurs Stanislawski-Strasberg, 3. Lektion
 date: 2010-05-12T23:13:50+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2807
-permalink: /2010/05/12/aufbaukurs-stanislawski-strasberg-3-lektion/
 jd_tweet_this:
   - 'yes'
 wp_jd_clig:

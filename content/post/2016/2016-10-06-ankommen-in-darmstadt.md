@@ -1,11 +1,7 @@
 ---
-id: 6978
 title: Ankommen in Darmstadt
 date: 2016-10-06T21:11:19+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6978
-permalink: /2016/10/06/ankommen-in-darmstadt/
 categories:
   - tagebuch
 tags:

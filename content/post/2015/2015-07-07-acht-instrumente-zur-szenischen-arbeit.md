@@ -1,11 +1,7 @@
 ---
-id: 5820
 title: Acht Instrumente zur szenischen Arbeit
 date: 2015-07-07T22:51:02+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5820
-permalink: /2015/07/07/acht-instrumente-zur-szenischen-arbeit/
 categories:
   - theater
 tags:

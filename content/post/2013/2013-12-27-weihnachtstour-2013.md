@@ -1,11 +1,7 @@
 ---
-id: 4164
 title: Weihnachtstour 2013
 date: 2013-12-27T00:55:17+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4164
-permalink: /2013/12/27/weihnachtstour-2013/
 categories:
   - tagebuch
 tags:

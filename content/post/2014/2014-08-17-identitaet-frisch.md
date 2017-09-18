@@ -1,11 +1,7 @@
 ---
-id: 4778
 title: 'Identität &ndash; Max Frisch &ndash; Biografie'
 date: 2014-08-17T11:12:02+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4778
-permalink: /2014/08/17/identitaet-frisch/
 categories:
   - tagebuch
   - theater

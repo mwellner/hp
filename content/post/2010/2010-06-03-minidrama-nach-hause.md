@@ -1,12 +1,8 @@
 ---
-id: 2821
 title: 'Minidrama &#8220;Nach Hause&#8221;'
 date: 2010-06-03T23:43:56+00:00
 author: Mathias Wellner
 excerpt: 'Wir spielen das Minidram "nach hause" am Sonntag, <em>6. Juni um 14:00</em> in Aarau und am Freitag, <em>18. Juni um 20:00</em> im aki-Garten in Zürich. Zuschauer sind herzlich willkommen! '
-layout: post
-guid: http://www.mwellner.de/?p=2821
-permalink: /2010/06/03/minidrama-nach-hause/
 jd_tweet_this:
   - 'yes'
 wp_jd_bitly:

@@ -1,11 +1,7 @@
 ---
-id: 653
 title: Lokomat-Symposium 2006
 date: 2006-10-06T10:32:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/10/06/lokomat-symposium-2006/
-permalink: /2006/10/06/lokomat-symposium-2006/
 tags:
   - children
   - engineering

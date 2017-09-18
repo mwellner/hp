@@ -1,11 +1,7 @@
 ---
-id: 3754
 title: 'Generalprobe &#8220;Ich, treu, suche&#8221;'
 date: 2013-02-15T00:47:35+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3754
-permalink: /2013/02/15/generalprobe-ich-treu-suche/
 categories:
   - theater
 tags:

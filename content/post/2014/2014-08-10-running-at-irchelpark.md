@@ -1,11 +1,7 @@
 ---
-id: 4764
 title: Running at Irchelpark
 date: 2014-08-10T19:50:26+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4764
-permalink: /2014/08/10/running-at-irchelpark/?lang=en
 categories:
   - images
   - sports

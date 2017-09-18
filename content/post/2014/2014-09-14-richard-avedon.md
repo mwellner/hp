@@ -1,11 +1,7 @@
 ---
-id: 4858
 title: Richard Avedon
 date: 2014-09-14T22:40:14+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4858
-permalink: /2014/09/14/richard-avedon/
 categories:
   - bilder
   - tagebuch

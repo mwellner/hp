@@ -1,11 +1,7 @@
 ---
-id: 4861
 title: 'Erste Probe von &#8220;Biografie: Ein Spiel&#8221;'
 date: 2014-09-25T23:35:10+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4861
-permalink: /2014/09/25/erste-probe-von-biografie-ein-spiel/
 categories:
   - theater
 tags:

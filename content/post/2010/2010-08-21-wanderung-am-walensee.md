@@ -1,12 +1,8 @@
 ---
-id: 2896
 title: Wanderung am Walensee
 date: 2010-08-21T21:27:38+00:00
 author: Mathias Wellner
 excerpt: Wanderbericht, von Walenstadtberg liefen wir nach Quinten
-layout: post
-guid: http://www.mwellner.de/?p=2896
-permalink: /2010/08/21/wanderung-am-walensee/
 categories:
   - 'sport &amp; freizeit'
   - wandern

@@ -1,11 +1,7 @@
 ---
-id: 3230
 title: 'Max Frisch &ndash; Don Juan oder Die Liebe zur Geometrie'
 date: 2011-07-07T23:06:25+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3230
-permalink: /2011/07/07/max-frisch-don-juan-oder-die-liebe-zur-geometrie/
 categories:
   - theater
 tags:

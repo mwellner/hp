@@ -1,11 +1,7 @@
 ---
-id: 3149
 title: Robert Gernhardt – Toscana-​​Therapie
 date: 2011-05-14T13:18:18+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3149
-permalink: /2011/05/14/robert-gernhardt-toscana-therapie/
 categories:
   - bilder
   - theater

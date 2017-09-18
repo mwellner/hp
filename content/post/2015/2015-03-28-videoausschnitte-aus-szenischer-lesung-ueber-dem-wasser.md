@@ -1,11 +1,7 @@
 ---
-id: 5651
 title: 'Videoausschnitte aus szenischer Lesung &#8220;Über dem Wasser&#8221;'
 date: 2015-03-28T10:31:31+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5651
-permalink: /2015/03/28/videoausschnitte-aus-szenischer-lesung-ueber-dem-wasser/
 categories:
   - literatur
 tags:

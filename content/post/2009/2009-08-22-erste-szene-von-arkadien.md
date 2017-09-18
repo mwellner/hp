@@ -1,12 +1,8 @@
 ---
-id: 1715
 title: 'Theater-Video von &#8220;Arkadien&#8221;'
 date: 2009-08-22T17:23:24+00:00
 author: Mathias Wellner
 excerpt: 'Ich habe eine Erinnerungs-DVD für alle Beteiligten der akitiv-Produktion 2009 "Arkadien" (Tom Stoppard) erstellt. In diesem Beitrag erkläre ich die technischen Schwierigkeiten, die mit der Erstellung eines Theater-Videos verbunden sind. '
-layout: post
-guid: http://www.mwellner.de/?p=1715
-permalink: /2009/08/22/erste-szene-von-arkadien/
 language:
   - en
 other-excerpt:

@@ -1,11 +1,7 @@
 ---
-id: 3119
 title: halbkontakt-​​Durchlauf
 date: 2011-03-15T23:39:10+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3119
-permalink: /2011/03/15/halbkontakt-durchlauf/
 categories:
   - bilder
   - theater

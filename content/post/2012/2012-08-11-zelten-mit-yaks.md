@@ -2,7 +2,6 @@
 title: Zelten mit Yaks
 date: 2012-08-11T22:30:12+00:00
 author: Mathias Wellner
-layout: post
 categories:
   - tagebuch
 tags:

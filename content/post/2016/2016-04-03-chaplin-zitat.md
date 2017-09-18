@@ -1,11 +1,7 @@
 ---
-id: 6565
 title: Chaplin-Zitat
 date: 2016-04-03T23:19:26+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6565
-permalink: /2016/04/03/chaplin-zitat/
 categories:
   - zitat
 tags:

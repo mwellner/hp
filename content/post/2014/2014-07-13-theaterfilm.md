@@ -1,11 +1,7 @@
 ---
-id: 4582
 title: Theaterfilm
 date: 2014-07-13T19:20:05+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4582
-permalink: /2014/07/13/theaterfilm/
 categories:
   - bilder
   - theater

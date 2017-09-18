@@ -1,11 +1,7 @@
 ---
-id: 3791
 title: 'Endspurt bei &#8220;Bananen, vorne links&#8221;'
 date: 2013-03-13T23:24:57+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3791
-permalink: /2013/03/13/endspurt-bei-bananen-vorne-links/
 categories:
   - theater
 tags:

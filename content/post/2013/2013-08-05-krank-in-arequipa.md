@@ -1,11 +1,7 @@
 ---
-id: 3957
 title: Krank in Arequipa
 date: 2013-08-05T05:33:47+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3957
-permalink: /2013/08/05/krank-in-arequipa/
 categories:
   - reisen
 tags:

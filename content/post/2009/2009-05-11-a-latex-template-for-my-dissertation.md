@@ -1,11 +1,7 @@
 ---
-id: 1134
 title: A LaTeX template for my dissertation
 date: 2009-05-11T16:49:25+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/?p=1127
-permalink: /2009/05/11/a-latex-template-for-my-dissertation/?lang=en
 podPressPostSpecific:
   - 's:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";'
 tags:

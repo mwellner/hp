@@ -1,11 +1,7 @@
 ---
-id: 2242
 title: 'Nikolaj Gogol – &#8220;Der Revisor&#8221; (Regie Sebastian Nübling)'
 date: 2009-11-27T23:12:39+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2242
-permalink: /2009/11/27/nikolaj-gogol-der-revisor-sebastian-nubling/
 categories:
   - theater
 tags:

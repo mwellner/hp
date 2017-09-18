@@ -1,12 +1,8 @@
 ---
-id: 2837
 title: Arbeit am Monolog
 date: 2010-07-06T23:30:20+00:00
 author: Mathias Wellner
 excerpt: Arbeit am Monolog mit inhaltlicher und emotionaler Gliederung
-layout: post
-guid: http://www.mwellner.de/?p=2837
-permalink: /2010/07/06/arbeit-am-monolog/
 jd_tweet_this:
   - 'yes'
 wp_jd_bitly:

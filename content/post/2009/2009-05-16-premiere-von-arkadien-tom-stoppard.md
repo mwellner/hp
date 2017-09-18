@@ -1,11 +1,7 @@
 ---
-id: 1146
 title: 'Premiere von &#8220;Arkadien&#8221; (Tom Stoppard)'
 date: 2009-05-16T22:30:40+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/?p=1146
-permalink: /2009/05/16/premiere-von-arkadien-tom-stoppard/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:

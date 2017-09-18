@@ -1,11 +1,7 @@
 ---
-id: 3737
 title: Theater in allen Räumen
 date: 2013-01-18T22:34:31+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3737
-permalink: /2013/01/18/theater-in-allen-raumen/
 categories:
   - bilder
   - theater

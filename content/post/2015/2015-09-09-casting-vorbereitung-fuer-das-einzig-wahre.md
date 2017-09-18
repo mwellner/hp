@@ -1,11 +1,7 @@
 ---
-id: 6232
 title: 'Casting-Vorbereitung für &#8220;Das einzig Wahre&#8221;'
 date: 2015-09-09T22:56:19+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6232
-permalink: /2015/09/09/casting-vorbereitung-fuer-das-einzig-wahre/
 categories:
   - theater
 tags:

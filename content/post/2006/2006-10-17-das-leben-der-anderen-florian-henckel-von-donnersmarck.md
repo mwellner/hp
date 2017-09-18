@@ -1,11 +1,7 @@
 ---
-id: 656
 title: das leben der anderen (florian henckel von donnersmarck)
 date: 2006-10-17T00:22:22+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/10/17/das-leben-der-anderen-florian-henckel-von-donnersmarck/
-permalink: /2006/10/17/das-leben-der-anderen-florian-henckel-von-donnersmarck/
 categories:
   - tagebuch
 ---

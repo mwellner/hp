@@ -1,11 +1,7 @@
 ---
-id: 4929
 title: Berliner Lichterfest
 date: 2014-10-12T23:00:12+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4929
-permalink: /2014/10/12/berliner-lichterfest/
 categories:
   - bilder
 tags:

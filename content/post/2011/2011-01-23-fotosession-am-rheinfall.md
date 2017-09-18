@@ -1,11 +1,7 @@
 ---
-id: 3065
 title: Fotosession am Rheinfall
 date: 2011-01-23T12:04:02+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3065
-permalink: /2011/01/23/fotosession-am-rheinfall/
 categories:
   - bilder
 tags:

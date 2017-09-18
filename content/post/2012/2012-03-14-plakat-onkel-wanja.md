@@ -1,11 +1,7 @@
 ---
-id: 3416
 title: 'Plakat &#8220;Onkel Wanja&#8221;'
 date: 2012-03-14T00:00:12+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3416
-permalink: /2012/03/14/plakat-onkel-wanja/
 categories:
   - bilder
   - theater

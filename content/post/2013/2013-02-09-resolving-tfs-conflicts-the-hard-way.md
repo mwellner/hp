@@ -1,11 +1,7 @@
 ---
-id: 3746
 title: Resolving TFS conflicts the hard way
 date: 2013-02-09T00:35:07+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3746
-permalink: /2013/02/09/resolving-tfs-conflicts-the-hard-way/?lang=en
 categories:
   - software
 tags:

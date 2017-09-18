@@ -1,11 +1,7 @@
 ---
-id: 3778
 title: Hopping Dinner
 date: 2013-02-24T15:11:47+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3778
-permalink: /2013/02/24/hopping-dinner/
 categories:
   - tagebuch
 tags:

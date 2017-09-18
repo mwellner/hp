@@ -1,11 +1,7 @@
 ---
-id: 4905
 title: The future of JavaScript, ECMA 6
 date: 2014-10-15T13:43:17+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4905
-permalink: /2014/10/15/future-of-javascript-ecma-6/?lang=en
 categories:
   - tagebuch
 ---

@@ -1,11 +1,7 @@
 ---
-id: 651
 title: 'Oscar Wilde: Bunbury (Schauspielhaus Pfauen)'
 date: 2006-10-01T13:19:13+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/10/01/oscar-wilde-bunbury-schauspielhaus-pfauen/
-permalink: /2006/10/01/oscar-wilde-bunbury-schauspielhaus-pfauen/
 categories:
   - literatur
 tags:

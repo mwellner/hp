@@ -1,11 +1,7 @@
 ---
-id: 4894
 title: Bouldern im minimum
 date: 2014-10-10T22:28:55+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4894
-permalink: /2014/10/10/bouldern-im-minimum/
 categories:
   - klettern
 tags:

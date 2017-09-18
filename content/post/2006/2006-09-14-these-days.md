@@ -1,11 +1,7 @@
 ---
-id: 644
 title: these days
 date: 2006-09-14T23:59:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/09/14/these-days/
-permalink: /2006/09/14/these-days/
 categories:
   - tagebuch
 ---

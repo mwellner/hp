@@ -1,11 +1,7 @@
 ---
-id: 3781
 title: '&nbsp;&quot;Ich, treu, suche&quot; in Konstanz'
 date: 2013-03-03T21:54:06+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3781
-permalink: /2013/03/03/ich-treu-suche-in-konstanz/
 categories:
   - theater
 tags:

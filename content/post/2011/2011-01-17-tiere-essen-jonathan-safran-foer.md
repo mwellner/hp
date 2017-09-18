@@ -1,11 +1,7 @@
 ---
-id: 3053
 title: Tiere essen (Jonathan Safran Foer)
 date: 2011-01-17T23:53:25+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3053
-permalink: /2011/01/17/tiere-essen-jonathan-safran-foer/
 tags:
   - Ernährung
   - Essen

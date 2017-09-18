@@ -1,11 +1,7 @@
 ---
-id: 3350
 title: High Fidelity (Stephen Frears)
 date: 2011-12-05T00:00:48+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3350
-permalink: /2011/12/05/high-fidelity-stephen-frears/
 categories:
   - theater
 tags:

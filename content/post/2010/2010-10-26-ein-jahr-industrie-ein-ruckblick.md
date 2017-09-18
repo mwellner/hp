@@ -1,13 +1,9 @@
 ---
-id: 2952
 title: 'Ein Jahr Industrie &ndash; ein Rückblick'
 date: 2010-10-26T22:36:20+00:00
 author: Mathias Wellner
 excerpt: |
   Vor ziemlich genau einem Jahr begann ich bei der Helveting AG, einem aufstrebenden Schweizer Ingenieurbüro. Mit dem Doktortitel in der Tasche, nach drei Wochen Arbeitslosigkeit und mitten in einem JobBasis-Kurs der NewPlacement GmbH wagte ich den Sprung ins <em>richtige</em> Berufsleben. Und da bin ich nun und reflektiere.
-layout: post
-guid: http://www.mwellner.de/?p=2952
-permalink: /2010/10/26/ein-jahr-industrie-ein-ruckblick/
 categories:
   - tagebuch
 tags:

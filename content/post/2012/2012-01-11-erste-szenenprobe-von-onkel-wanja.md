@@ -1,11 +1,7 @@
 ---
-id: 3387
 title: 'Erste Szenenprobe von &#8220;Onkel Wanja&#8221;'
 date: 2012-01-11T23:50:40+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3387
-permalink: /2012/01/11/erste-szenenprobe-von-onkel-wanja/
 categories:
   - theater
 tags:

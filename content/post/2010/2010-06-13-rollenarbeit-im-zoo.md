@@ -1,11 +1,7 @@
 ---
-id: 2832
 title: Rollenarbeit im Zoo
 date: 2010-06-13T19:04:35+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2832
-permalink: /2010/06/13/rollenarbeit-im-zoo/
 jd_tweet_this:
   - 'yes'
 wp_jd_bitly:

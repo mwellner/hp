@@ -1,11 +1,7 @@
 ---
-id: 3038
 title: Matplotlib as alternative to Matlab
 date: 2011-01-08T23:55:04+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3038
-permalink: /2011/01/08/matplotlib-as-alternative-to-matlab/?lang=en
 categories:
   - science
 tags:

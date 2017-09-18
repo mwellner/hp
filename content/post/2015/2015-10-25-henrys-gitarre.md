@@ -1,11 +1,7 @@
 ---
-id: 6326
 title: Henrys Gitarre
 date: 2015-10-25T23:12:43+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6326
-permalink: /2015/10/25/henrys-gitarre/
 image: /wp-uploads/2015/10/MW_20151025_1454-150x100.jpg
 categories:
   - theater

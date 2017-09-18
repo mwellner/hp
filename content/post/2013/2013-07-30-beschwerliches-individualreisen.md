@@ -1,11 +1,7 @@
 ---
-id: 3950
 title: Beschwerliches Individualreisen
 date: 2013-07-30T05:36:21+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3950
-permalink: /2013/07/30/beschwerliches-individualreisen/
 categories:
   - reisen
 ---

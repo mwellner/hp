@@ -1,11 +1,7 @@
 ---
-id: 3263
 title: 'ZES-Kameratraining 2 &ndash; Erste Gehversuche'
 date: 2011-08-13T19:41:01+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3263
-permalink: /2011/08/13/zes-kameratraining-2-erste-gehversuche/
 categories:
   - theater
 tags:

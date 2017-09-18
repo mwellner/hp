@@ -1,11 +1,7 @@
 ---
-id: 5768
 title: 'Jean-Paul Sartre&thinsp;&ndash;&thinsp;Die schmutzigen Hände'
 date: 2015-05-16T11:39:51+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5768
-permalink: /2015/05/16/jean-paul-sartredie-schmutzigen-haende/
 categories:
   - theater
 tags:

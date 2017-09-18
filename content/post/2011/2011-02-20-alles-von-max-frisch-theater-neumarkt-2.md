@@ -1,11 +1,7 @@
 ---
-id: 3100
 title: Alles von Max Frisch (Theater Neumarkt)
 date: 2011-02-20T14:40:11+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3100
-permalink: /2011/02/20/alles-von-max-frisch-theater-neumarkt-2/
 categories:
   - theater
 tags:

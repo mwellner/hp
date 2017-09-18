@@ -1,11 +1,7 @@
 ---
-id: 646
 title: 'schauspielhaus zuerich: amphitryon (heinrich von kleist)'
 date: 2006-09-15T23:06:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/09/15/schauspielhaus-zuerich-amphitryon-heinrich-von-kleist/
-permalink: /2006/09/15/schauspielhaus-zuerich-amphitryon-heinrich-von-kleist/
 categories:
   - tagebuch
 ---

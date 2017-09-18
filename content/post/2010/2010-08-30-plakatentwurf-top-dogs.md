@@ -1,12 +1,8 @@
 ---
-id: 2910
 title: 'Plakatentwurf &#8220;Top Dogs&#8221;'
 date: 2010-08-30T21:28:16+00:00
 author: Mathias Wellner
 excerpt: 'Schon bald werden wir das zeitgenössische Theaterstück "Top Dogs" aufführen. Ich stelle einen Plakatentwurf zur Diskussion. '
-layout: post
-guid: http://www.mwellner.de/?p=2910
-permalink: /2010/08/30/plakatentwurf-top-dogs/
 categories:
   - bilder
   - theater

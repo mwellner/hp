@@ -1,11 +1,7 @@
 ---
-id: 4805
 title: 'Mariano Pensotti &ndash; Cineastas'
 date: 2014-08-18T20:35:04+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4805
-permalink: /2014/08/18/mariano-pensotti-cineastas/
 categories:
   - bilder
   - theater

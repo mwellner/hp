@@ -1,12 +1,8 @@
 ---
-id: 2849
 title: Mein Name sei Alboury
 date: 2010-07-14T22:26:54+00:00
 author: Mathias Wellner
 excerpt: 'Heute war der letzte Termin des Monolog-Kurses, um 19:40 ging mein persönlicher Vorhang auf und ich war für ein paar Minuten Alboury. Es war der Monolog, an dem ich seit ein paar Wochen arbeite. Heute war ich zufrieden mit dem Resultat. '
-layout: post
-guid: http://www.mwellner.de/?p=2849
-permalink: /2010/07/14/mein-name-sei-alboury/
 categories:
   - theater
 tags:

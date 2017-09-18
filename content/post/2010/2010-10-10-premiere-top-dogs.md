@@ -1,11 +1,7 @@
 ---
-id: 2927
 title: 'Premiere &#8220;Top Dogs&#8221;'
 date: 2010-10-10T12:49:54+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=2927
-permalink: /2010/10/10/premiere-top-dogs/
 categories:
   - bilder
   - theater

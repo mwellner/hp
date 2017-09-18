@@ -1,11 +1,7 @@
 ---
-id: 5872
 title: 'Milo Rau &ndash; The Dark Ages'
 date: 2015-08-09T15:05:12+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5872
-permalink: /2015/08/09/milo-rau-the-dark-ages/
 categories:
   - theater
 tags:

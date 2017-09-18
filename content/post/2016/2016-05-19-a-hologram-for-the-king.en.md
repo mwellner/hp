@@ -1,11 +1,7 @@
 ---
-id: 6603
 title: A Hologram for the King
 date: 2016-05-19T23:34:20+00:00
 author: Mathias Wellner
-layout: post
-guid: 'http://www.mwellner.de/?p=6603&#038;lang=en'
-permalink: /2016/05/19/a-hologram-for-the-king/?lang=en
 categories:
   - diary
 tags:

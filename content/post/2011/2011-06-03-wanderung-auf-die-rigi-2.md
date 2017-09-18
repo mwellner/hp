@@ -1,11 +1,7 @@
 ---
-id: 3193
 title: Wanderung auf die Rigi
 date: 2011-06-03T22:19:37+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3193
-permalink: /2011/06/03/wanderung-auf-die-rigi-2/
 categories:
   - bilder
   - wandern

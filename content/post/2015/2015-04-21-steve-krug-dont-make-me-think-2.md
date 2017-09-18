@@ -1,11 +1,7 @@
 ---
-id: 5699
 title: 'Steve Krug &ndash; Don&#8217;t Make Me Think'
 date: 2015-04-21T22:33:09+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=5699
-permalink: /2015/04/21/steve-krug-dont-make-me-think-2/?lang=en
 categories:
   - technik
 tags:

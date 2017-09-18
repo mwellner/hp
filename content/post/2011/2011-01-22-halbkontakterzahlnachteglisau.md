@@ -1,12 +1,8 @@
 ---
-id: 3059
 title: halbkontakt@ErzählnachtEglisau
 date: 2011-01-22T12:23:10+00:00
 author: Mathias Wellner
 excerpt: Bericht unseres Kurzauftritts bei der Erzählnacht Eglisau (Produktion halbkontakt, theater frischfleisch)
-layout: post
-guid: http://www.mwellner.de/?p=3059
-permalink: /2011/01/22/halbkontakterzahlnachteglisau/
 categories:
   - bilder
   - theater

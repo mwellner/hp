@@ -1,13 +1,9 @@
 ---
-id: 3265
 title: 'ZES-Kameratraining 3 &ndash; Szenenvorbereitung'
 date: 2011-08-19T22:09:45+00:00
 author: Mathias Wellner
 excerpt: |
   Morgen zählt es, wir drehen eine Dialog-Szene in verschiedenen Einstellungen mit Scheinwerfern und allem, was dazu gehört. Sicherlich kommen wir nicht an die Ausstattung eines professionellen Filmsets heran, aber für uns Kamera-Neulinge wird es trotzdem aufregend genug sein. Denn viele Versuche gibt es nicht, eine Einstellung kann aufgrund so vieler technischer Mängel rausfallen, dass es wenig Spielraum für Fehler beim Schauspieler gibt.
-layout: post
-guid: http://www.mwellner.de/?p=3265
-permalink: /2011/08/19/zes-kameratraining-szenenvorbereitung/
 categories:
   - theater
 tags:

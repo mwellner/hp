@@ -1,11 +1,7 @@
 ---
-id: 3565
 title: 'Theaterprojekt &#8220;Ich, treu, suche&#8221;'
 date: 2012-09-15T00:01:13+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3565
-permalink: /2012/09/15/theaterprojekt-ich-treu-suche/
 categories:
   - theater
 tags:

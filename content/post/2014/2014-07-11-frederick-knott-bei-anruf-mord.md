@@ -1,11 +1,7 @@
 ---
-id: 4578
 title: 'Frederick Knott &ndash; Bei Anruf Mord'
 date: 2014-07-11T21:28:44+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4578
-permalink: /2014/07/11/frederick-knott-bei-anruf-mord/
 categories:
   - theater
 tags:

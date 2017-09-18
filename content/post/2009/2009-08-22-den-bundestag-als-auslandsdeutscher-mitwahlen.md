@@ -1,11 +1,7 @@
 ---
-id: 1717
 title: Den Bundestag als Auslandsdeutscher mitwählen
 date: 2009-08-22T14:41:50+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=1717
-permalink: /2009/08/22/den-bundestag-als-auslandsdeutscher-mitwahlen/
 categories:
   - politik
 tags:

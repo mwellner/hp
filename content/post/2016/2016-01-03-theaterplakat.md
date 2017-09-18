@@ -1,11 +1,7 @@
 ---
-id: 6446
 title: Theaterplakat
 date: 2016-01-03T23:16:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6446
-permalink: /2016/01/03/theaterplakat/
 image: /wp-uploads/2016/01/plakat-106x150.jpg
 categories:
   - theater

@@ -1,11 +1,7 @@
 ---
-id: 3421
 title: Wanjere in zwei Wochen
 date: 2012-04-14T23:36:04+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3421
-permalink: /2012/04/14/wanjere-in-zwei-wochen/
 categories:
   - theater
 tags:

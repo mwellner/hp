@@ -1,11 +1,7 @@
 ---
-id: 670
 title: Salon des Arts
 date: 2006-12-03T00:54:12+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/12/03/salon-des-arts/
-permalink: /2006/12/03/salon-des-arts/
 categories:
   - tagebuch
 tags:

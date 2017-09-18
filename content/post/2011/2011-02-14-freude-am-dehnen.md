@@ -1,11 +1,7 @@
 ---
-id: 3087
 title: Freude am Dehnen
 date: 2011-02-14T23:02:03+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3087
-permalink: /2011/02/14/freude-am-dehnen/
 categories:
   - 'sport &amp; freizeit'
 tags:

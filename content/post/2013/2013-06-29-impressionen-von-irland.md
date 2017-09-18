@@ -1,11 +1,7 @@
 ---
-id: 3884
 title: Impressionen von Irland
 date: 2013-06-29T11:56:59+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3884
-permalink: /2013/06/29/impressionen-von-irland/
 categories:
   - bilder
   - reisen

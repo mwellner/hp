@@ -1,11 +1,7 @@
 ---
-id: 3956
 title: 'Nasca &#8211; Arequipa'
 date: 2013-08-04T15:28:34+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3956
-permalink: /2013/08/04/nasca-arequipa/
 categories:
   - reisen
 tags:

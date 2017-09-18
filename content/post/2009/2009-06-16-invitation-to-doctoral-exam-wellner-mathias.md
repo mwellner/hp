@@ -1,11 +1,7 @@
 ---
-id: 1176
 title: Invitation to Doctoral Exam WELLNER, Mathias
 date: 2009-06-16T15:42:12+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/?p=1176
-permalink: /2009/06/16/invitation-to-doctoral-exam-wellner-mathias/
 podPressPostSpecific:
   - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 jd_tweet_this:

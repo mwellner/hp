@@ -1,11 +1,7 @@
 ---
-id: 4515
 title: 'Heute letzte Aufführung des &#8220;Idealen Gatten&#8221; in Zürich'
 date: 2014-05-31T15:55:31+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=4515
-permalink: /2014/05/31/heute-letzte-auffuehrung-des-idealen-gatten-in-zuerich/
 categories:
   - bilder
   - theater

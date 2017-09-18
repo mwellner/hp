@@ -1,11 +1,7 @@
 ---
-id: 6248
 title: 'First timers &ndash; bitte stimmt für diesen Film!'
 date: 2015-09-28T18:26:08+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6248
-permalink: /2015/09/28/first-timers-bitte-stimmt-fuer-diesen-film/
 categories:
   - tagebuch
 ---

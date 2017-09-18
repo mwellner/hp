@@ -1,11 +1,7 @@
 ---
-id: 3352
 title: Was mich bewegt (Rainer Maria Rilke)
 date: 2011-12-16T22:37:28+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3352
-permalink: /2011/12/16/was-mich-bewegt-rainer-maria-rilke/
 categories:
   - literatur
 tags:

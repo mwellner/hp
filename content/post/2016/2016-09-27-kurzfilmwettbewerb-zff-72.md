@@ -1,11 +1,7 @@
 ---
-id: 6968
 title: Kurzfilmwettbewerb ZFF 72
 date: 2016-09-27T22:43:56+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6968
-permalink: /2016/09/27/kurzfilmwettbewerb-zff-72/
 categories:
   - theater
 tags:

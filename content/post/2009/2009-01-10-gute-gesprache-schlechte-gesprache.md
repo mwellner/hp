@@ -2,7 +2,6 @@
 title: Gute Gespräche, schlechte Gespräche, Bühnengespräche
 date: 2009-01-10T12:55:56+00:00
 author: Mathias Wellner
-permalink: /2009/01/10/gute-gesprache-schlechte-gesprache/
 categories:
   - bilder
   - theater

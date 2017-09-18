@@ -1,11 +1,7 @@
 ---
-id: 3221
 title: Vier-Seen-Wanderung
 date: 2011-06-27T23:27:35+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3221
-permalink: /2011/06/27/vier-seen-wanderung/
 categories:
   - bilder
   - wandern

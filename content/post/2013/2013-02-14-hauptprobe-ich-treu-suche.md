@@ -1,11 +1,7 @@
 ---
-id: 3752
 title: 'Hauptprobe &#8220;Ich, treu, suche&#8221;'
 date: 2013-02-14T00:20:58+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=3752
-permalink: /2013/02/14/hauptprobe-ich-treu-suche/
 categories:
   - theater
 tags:

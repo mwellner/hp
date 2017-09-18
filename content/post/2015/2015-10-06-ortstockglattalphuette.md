@@ -1,11 +1,7 @@
 ---
-id: 6274
 title: Ortstock/Glattalphütte
 date: 2015-10-06T22:01:23+00:00
 author: Mathias Wellner
-layout: post
-guid: http://www.mwellner.de/?p=6274
-permalink: /2015/10/06/ortstockglattalphuette/
 image: /wp-uploads/2015/10/MW_20151003_1407-150x100.jpg
 categories:
   - bilder

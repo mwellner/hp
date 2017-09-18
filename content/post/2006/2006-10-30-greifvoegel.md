@@ -1,11 +1,7 @@
 ---
-id: 659
 title: Greifvögel
 date: 2006-10-30T21:30:00+00:00
 author: Mathias Wellner
-layout: post
-guid: http://blogs.ethz.ch/mwellner/2006/10/30/greifvoegel/
-permalink: /2006/10/30/greifvoegel/
 categories:
   - tagebuch
 tags:

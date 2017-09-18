@@ -1,6 +1,7 @@
 ---
 title: Sind Familie und Wissenschaft vereinbar?
 date: 2007-07-30T21:14:41+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - schreiben

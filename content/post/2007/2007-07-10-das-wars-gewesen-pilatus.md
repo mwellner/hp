@@ -1,6 +1,7 @@
 ---
 title: Das wärs gewesen -- Pilatus
 date: 2007-07-10T23:19:40+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

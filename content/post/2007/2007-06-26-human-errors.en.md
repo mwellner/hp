@@ -1,6 +1,7 @@
 ---
 title: Human Weaknesses
 date: 2007-06-26T23:16:04+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - diary

@@ -1,6 +1,7 @@
 ---
 title: Literaturzirkel, nächstes Treffen
 date: 2007-07-26T15:19:30+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - literatur

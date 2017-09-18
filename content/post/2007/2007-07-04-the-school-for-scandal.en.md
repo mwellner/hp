@@ -1,6 +1,7 @@
 ---
 title: The School for Scandal
 date: 2007-07-04T09:47:44+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

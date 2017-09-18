@@ -1,6 +1,7 @@
 ---
 title: From dusk till dawn
 date: 2007-08-28T20:52:39+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - wandern

@@ -1,6 +1,7 @@
 ---
 title: Why we need virtual environments for motor rehabilitation
 date: 2007-06-27T18:30:51+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - science

@@ -1,6 +1,7 @@
 ---
 title: Öffentlichkeitsarbeit Theaterstück
 date: 2007-04-25T23:25:23+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

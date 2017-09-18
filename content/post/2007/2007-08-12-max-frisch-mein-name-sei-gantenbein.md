@@ -1,6 +1,7 @@
 ---
 title: Max Frisch -- Mein Name sei Gantenbein
 date: 2007-08-12T23:02:25+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - literatur

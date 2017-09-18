@@ -1,6 +1,7 @@
 ---
 title: Schalt das Radio ein...
 date: 2007-08-21T22:22:41+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

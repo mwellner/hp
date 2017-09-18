@@ -1,6 +1,7 @@
 ---
 title: Grafische Modellierung
 date: 2007-05-25T17:25:23+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

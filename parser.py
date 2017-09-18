@@ -29,8 +29,10 @@ def step(ext, dirname, names):
                         date_index = i
                 lines.insert(date_index + 1, 'lastmod: ' + modified + '+00:00\n')
                 needs_update = True
-
-            with open(os.path.join(dirname, name), 'w') as fh:
-                fh.writelines(lines)
+            
+            if needs_update:
+                with open(os.path.join(dirname, name), 'w') as fh:
+                    print 'updating file ' + os.path.join(dirname, name)
+                    fh.writelines(lines)
 
 os.path.walk(folder, step, extension)

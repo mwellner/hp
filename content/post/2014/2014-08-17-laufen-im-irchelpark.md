@@ -1,6 +1,7 @@
 ---
 title: Laufen im Irchelpark
 date: 2014-08-17T19:51:30+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - 'sport &amp; freizeit'

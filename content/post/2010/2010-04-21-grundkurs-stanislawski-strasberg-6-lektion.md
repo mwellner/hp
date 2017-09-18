@@ -1,6 +1,7 @@
 ---
 title: Grundkurs Stanislawski-Strasberg, 6. Lektion
 date: 2010-04-21T23:51:26+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: |
   Mit der sechsten Lektion endet der Grundkurs Stanislawski-Strasberg des Zentrums für Entwicklung im Schauspiel. Als Besonderheit sollten wir parallel zur sensorischen Erinnerung einen gelernten neutralen Text sprechen. Danach haben wir uns mit der Verkörperung einer Person beschäftigt. Mein persönlicher Höhepunkt des Abends war das Darstellen der Fenstersturz-Szene als Selbstmörder auf dem Fenstersims.

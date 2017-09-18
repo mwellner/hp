@@ -1,6 +1,7 @@
 ---
 title: A Hologram for the King
 date: 2016-05-19T23:34:20+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - diary

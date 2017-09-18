@@ -1,6 +1,7 @@
 ---
 title: Winterurlaub im Maloja Palace
 date: 2016-03-20T17:56:05+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/03/MW_20160313_2101-150x113.jpg
 categories:

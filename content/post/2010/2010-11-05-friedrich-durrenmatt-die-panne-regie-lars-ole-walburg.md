@@ -1,6 +1,7 @@
 ---
 title: 'Friedrich Dürrenmatt &ndash; Die Panne (Regie Lars-Ole Walburg)'
 date: 2010-11-05T23:41:33+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

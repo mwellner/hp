@@ -1,6 +1,7 @@
 ---
 title: Wintereinbruch Ende Oktober
 date: 2012-10-29T21:09:14+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

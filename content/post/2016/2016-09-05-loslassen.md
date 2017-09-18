@@ -1,6 +1,7 @@
 ---
 title: Loslassen
 date: 2016-09-05T21:18:53+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

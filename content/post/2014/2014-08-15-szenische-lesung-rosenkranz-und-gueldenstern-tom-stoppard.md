@@ -1,6 +1,7 @@
 ---
 title: 'Szenische Lesung &#8220;Rosenkranz und Güldenstern&#8221; (Tom Stoppard)'
 date: 2014-08-15T23:27:25+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

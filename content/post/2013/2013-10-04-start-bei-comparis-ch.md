@@ -1,6 +1,7 @@
 ---
 title: Start bei comparis.ch
 date: 2013-10-04T20:37:08+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,6 +1,7 @@
 ---
 title: Sonniger November-München-Nachmittag
 date: 2015-11-09T23:30:38+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2015/11/MW_20151107_1540-150x113.jpg
 categories:

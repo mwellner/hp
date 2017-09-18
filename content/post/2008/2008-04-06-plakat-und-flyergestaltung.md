@@ -1,6 +1,7 @@
 ---
 title: 'Plakat- und Flyergestaltung für Theaterproduktion'
 date: 2008-04-06T15:41:27+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: |
   In diesem Beitrag möchte ich den kreativen Prozess beschreiben, welcher zu den Druckdaten führte. Am Ende werde ich auch auf einige technische Details zum verwendeten Programm (Adobe InDesign CS3) eingehen.

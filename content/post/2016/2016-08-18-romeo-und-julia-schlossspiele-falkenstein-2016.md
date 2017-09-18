@@ -1,6 +1,7 @@
 ---
 title: Romeo und Julia (Schlossspiele Falkenstein 2016)
 date: 2016-08-18T23:02:25+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

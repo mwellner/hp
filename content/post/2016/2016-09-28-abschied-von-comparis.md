@@ -1,6 +1,7 @@
 ---
 title: Abschied von Comparis
 date: 2016-09-28T22:45:23+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

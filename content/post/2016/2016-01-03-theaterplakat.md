@@ -1,6 +1,7 @@
 ---
 title: Theaterplakat
 date: 2016-01-03T23:16:00+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/01/plakat-106x150.jpg
 categories:

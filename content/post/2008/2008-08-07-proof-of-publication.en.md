@@ -1,6 +1,7 @@
 ---
 title: Proof for publication has arrived
 date: 2008-08-07T18:32:46+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - science

@@ -1,6 +1,7 @@
 ---
 title: 'Milo Rau &ndash; The Dark Ages'
 date: 2015-08-09T15:05:12+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,6 +1,7 @@
 ---
 title: 'Videoausschnitte aus szenischer Lesung &#8220;Über dem Wasser&#8221;'
 date: 2015-03-28T10:31:31+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - literatur

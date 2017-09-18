@@ -1,6 +1,7 @@
 ---
 title: Projektmanagement-Zertifikat
 date: 2016-02-28T10:21:33+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/02/projektmanagement_ipma_leveld-106x150.png
 categories:

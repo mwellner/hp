@@ -1,6 +1,7 @@
 ---
 title: frischfleisch2
 date: 2012-06-07T22:48:02+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

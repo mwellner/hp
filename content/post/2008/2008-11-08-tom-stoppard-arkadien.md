@@ -1,6 +1,7 @@
 ---
 title: Tom Stoppard -- Arkadien
 date: 2008-11-08T20:16:25+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

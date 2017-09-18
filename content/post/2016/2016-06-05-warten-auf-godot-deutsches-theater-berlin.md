@@ -1,6 +1,7 @@
 ---
 title: Warten auf Godot (Deutsches Theater Berlin)
 date: 2016-06-05T16:12:47+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/06/godot1-e1465133145539-150x140.jpg
 categories:

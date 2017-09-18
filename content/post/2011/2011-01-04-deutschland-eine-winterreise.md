@@ -1,6 +1,7 @@
 ---
 title: Deutschland – eine Winterreise
 date: 2011-01-04T23:28:50+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

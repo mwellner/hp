@@ -1,6 +1,7 @@
 ---
 title: Besuch aus Berlin
 date: 2008-05-05T23:36:14+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

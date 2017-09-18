@@ -1,6 +1,7 @@
 ---
 title: Grundkurs Stanislawski-Strasberg, 2. Lektion
 date: 2010-03-26T00:11:10+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: 'Ich beschreibe den Inhalt der zweiten Lektion im Schauspiel-Kurs nach der Methodik von Stanislawski und Strasberg. Nach einer umfangreichen Erwärmung, Zazen-Meditation und Sinneserinnerung gingen wir direkt an kurze Einzelimprovisationen mit Vorbereitung. Die Auftritte aller Teilnehmer und das Feedback nahmen den Rest der Zeit in Anspruch. Interessant ist der Aufbau eines Repertoires an emotionalen Erinnerungen, der durch Sinneserinnerungen vorbereitet wird. '
 aliases: 

@@ -1,6 +1,7 @@
 ---
 title: Eric Bogosian -- subUrbia
 date: 2008-11-14T00:00:11+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 catetories:
   - theater

@@ -1,6 +1,7 @@
 ---
 title: Wanjere in zwei Wochen
 date: 2012-04-14T23:36:04+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

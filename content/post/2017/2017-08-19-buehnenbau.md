@@ -1,5 +1,6 @@
 ---
 date: "2017-08-19T22:51:32"
+lastmod: 2017-09-18T22:28:53+00:00
 title: Bühnenbau mit Styropor
 author: Mathias Wellner
 categories:

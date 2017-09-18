@@ -1,6 +1,7 @@
 ---
 title: Gefährliche Liebschaften
 date: 2010-04-27T22:33:37+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: 'Ankündigung des akitiv-Stücks "Gefährliche Liebschaften", welches am Freitag (30.4.) Premiere hat. '
 jd_tweet_this:

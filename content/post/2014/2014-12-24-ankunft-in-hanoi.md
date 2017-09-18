@@ -1,6 +1,7 @@
 ---
 title: Ankunft in Hanoi
 date: 2014-12-24T23:03:36+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

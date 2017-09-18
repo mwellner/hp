@@ -1,6 +1,7 @@
 ---
 title: Gott ist tot?
 date: 2015-03-06T23:19:05+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - literatur

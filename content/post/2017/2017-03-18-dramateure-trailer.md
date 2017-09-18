@@ -7,6 +7,7 @@ tags:
 categories:
   - theater
 date: 2017-03-18T23:32:34+01:00
+lastmod: 2017-09-18T22:28:53+00:00
 ---
 
 Meine ehemalige Truppe aus Zürich, die [dramateure](http://dramateure.ch) treten bald mit dem Sartre-Klassiker [Geschlossene Gesellschaft](https://de.wikipedia.org/wiki/Geschlossene_Gesellschaft) auf. Zur Einstimmung hier der Trailer.

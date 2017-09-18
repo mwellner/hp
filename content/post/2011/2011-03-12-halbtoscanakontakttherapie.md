@@ -1,6 +1,7 @@
 ---
 title: halbToscanaKontaktTherapie
 date: 2011-03-12T17:11:28+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

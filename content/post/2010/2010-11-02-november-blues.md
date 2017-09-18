@@ -1,6 +1,7 @@
 ---
 title: November Blues
 date: 2010-11-02T22:50:02+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

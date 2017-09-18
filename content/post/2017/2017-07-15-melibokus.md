@@ -1,5 +1,6 @@
 ---
 date: "2017-07-15T22:39:42"
+lastmod: 2017-09-18T22:28:53+00:00
 title: Melibokus und Schloss Auerbach
 author: Mathias Wellner
 categories:

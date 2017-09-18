@@ -1,6 +1,7 @@
 ---
 title: Probefotos "Ein idealer Gatte" (Oscar Wilde)
 date: 2014-04-28T16:56:15+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

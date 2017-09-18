@@ -1,6 +1,7 @@
 ---
 title: 'Szenische Lesung &#8220;Ein Volksfeind&#8221; (Henrik Ibsen)'
 date: 2011-08-25T22:20:36+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - literatur

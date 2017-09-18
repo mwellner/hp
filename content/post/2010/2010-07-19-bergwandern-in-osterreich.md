@@ -1,6 +1,7 @@
 ---
 title: Bergwandern in Österreich
 date: 2010-07-19T23:11:18+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 jd_tweet_this:
   - 'yes'

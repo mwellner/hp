@@ -1,6 +1,7 @@
 ---
 title: Neues Bürogebäude
 date: 2015-10-19T22:41:38+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2015/10/20151019_162255-150x113.jpg
 categories:

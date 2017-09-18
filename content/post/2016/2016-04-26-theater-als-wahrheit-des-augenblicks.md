@@ -1,6 +1,7 @@
 ---
 title: Theater als Wahrheit des Augenblicks
 date: 2016-04-26T21:20:51+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/04/CHANDOS3-117x150.jpg
 categories:

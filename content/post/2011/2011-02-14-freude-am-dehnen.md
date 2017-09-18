@@ -1,6 +1,7 @@
 ---
 title: Freude am Dehnen
 date: 2011-02-14T23:02:03+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - 'sport &amp; freizeit'

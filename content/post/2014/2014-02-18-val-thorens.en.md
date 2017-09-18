@@ -1,6 +1,7 @@
 ---
 title: Val Thorens
 date: 2014-02-20T23:27:40+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - diary

@@ -1,6 +1,7 @@
 ---
 title: 'Impressionen von &#8220;Bananen, vorne links&#8221;'
 date: 2013-03-31T13:31:02+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

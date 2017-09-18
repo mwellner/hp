@@ -1,6 +1,7 @@
 ---
 title: Little Helpers for Scientific Writing with LaTeX
 date: 2009-11-11T00:49:04+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - technik

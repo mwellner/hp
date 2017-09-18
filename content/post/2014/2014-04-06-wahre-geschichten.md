@@ -1,6 +1,7 @@
 ---
 title: Wahre Geschichten
 date: 2014-04-06T22:52:19+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

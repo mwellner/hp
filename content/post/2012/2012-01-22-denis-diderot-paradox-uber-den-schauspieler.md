@@ -1,6 +1,7 @@
 ---
 title: 'Denis Diderot &ndash; Paradox über den Schauspieler'
 date: 2012-01-22T20:54:24+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

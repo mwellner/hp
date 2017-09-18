@@ -1,6 +1,7 @@
 ---
 title: 'Nikolaj Gogol – &#8220;Der Revisor&#8221; (Regie Sebastian Nübling)'
 date: 2009-11-27T23:12:39+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,6 +1,7 @@
 ---
 title: ubuntu 8.04 released
 date: 2008-11-30T00:00:00+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - software

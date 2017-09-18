@@ -1,6 +1,7 @@
 ---
 title: Theaterproben
 date: 2008-04-05T17:57:25+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

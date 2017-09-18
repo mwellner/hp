@@ -1,6 +1,7 @@
 ---
 title: Arbeit am Monolog
 date: 2010-07-06T23:30:20+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: Arbeit am Monolog mit inhaltlicher und emotionaler Gliederung
 jd_tweet_this:

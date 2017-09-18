@@ -1,6 +1,7 @@
 ---
 title: 'Endspurt bei &#8220;Bananen, vorne links&#8221;'
 date: 2013-03-13T23:24:57+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

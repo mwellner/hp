@@ -1,6 +1,7 @@
 ---
 title: Weihnachtsstimmung in Darmstadt
 date: 2016-11-27T21:50:21+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

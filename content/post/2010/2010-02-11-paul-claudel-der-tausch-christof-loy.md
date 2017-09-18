@@ -1,6 +1,7 @@
 ---
 title: 'Paul Claudel – &#8220;Der Tausch&#8221; (Regie Christof Loy)'
 date: 2010-02-11T00:06:42+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 jd_tweet_this:
   - 'yes'

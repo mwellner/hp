@@ -1,6 +1,7 @@
 ---
 title: Habe ach! studiert (Studententheater Zürich)
 date: 2011-10-20T23:18:38+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

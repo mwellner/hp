@@ -1,6 +1,7 @@
 ---
 title: Resolving TFS conflicts the hard way
 date: 2013-02-09T00:35:07+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - software

@@ -1,6 +1,7 @@
 ---
 title: Wohnungssuche in Zürich
 date: 2012-01-11T22:11:31+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

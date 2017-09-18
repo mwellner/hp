@@ -1,6 +1,7 @@
 ---
 title: Wie ich meine Bilder archiviere
 date: 2009-08-25T20:45:18+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: 'Wenn du ein Hobbyfotograf mit digitaler Kamera bist, kennst du das Problem -- im Laufe der Zeit stapeln sich Hunderte Aufnahmen auf der Festplatte, der Überblick geht verloren und ein einziger Festplatten-Crash kann alle Arbeit zunichte machen. Bei mir ist jetzt nach vier Jahren mit geschätzten 10.000 Fotos der Moment gekommen, in dem ich mich dem Thema Archivierung systematisch widmen möchte. '
 jd_tweet_this:

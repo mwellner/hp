@@ -1,6 +1,7 @@
 ---
 title: Ten Reasons to Typeset Scientific Texts in LaTeX
 date: 2008-12-15T22:44:15+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - science

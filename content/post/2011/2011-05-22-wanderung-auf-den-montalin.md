@@ -1,6 +1,7 @@
 ---
 title: Wanderung auf den Montalin
 date: 2011-05-22T16:42:31+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - 'sport &amp; freizeit'

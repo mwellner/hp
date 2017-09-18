@@ -1,5 +1,6 @@
 ---
 date: "2017-08-27T15:51:23"
+lastmod: 2017-09-18T22:28:53+00:00
 title: Flyermotiv für "Der Löwe im Winter"
 author: Mathias Wellner
 categories:

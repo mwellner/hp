@@ -1,6 +1,7 @@
 ---
 title: Gefährliche Liebschaften (de Laclos)
 date: 2009-11-15T18:56:13+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - literatur

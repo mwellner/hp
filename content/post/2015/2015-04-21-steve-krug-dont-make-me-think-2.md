@@ -1,6 +1,7 @@
 ---
 title: 'Steve Krug &ndash; Don&#8217;t Make Me Think'
 date: 2015-04-21T22:33:09+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - technik

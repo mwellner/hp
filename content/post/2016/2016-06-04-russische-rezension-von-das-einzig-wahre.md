@@ -1,6 +1,7 @@
 ---
 title: 'Russische Rezension von &#8220;Das einzig Wahre&#8221;'
 date: 2016-06-04T16:28:19+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/01/flyer_web-150x150.jpg
 categories:

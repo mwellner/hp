@@ -1,6 +1,7 @@
 ---
 title: Technical Summit 2016 in Darmstadt
 date: 2016-11-22T22:33:37+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: https://c1.staticflickr.com/1/770/32727033490_87a429a509_z.jpg
 categories:

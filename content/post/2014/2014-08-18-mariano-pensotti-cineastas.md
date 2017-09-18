@@ -1,6 +1,7 @@
 ---
 title: 'Mariano Pensotti &ndash; Cineastas'
 date: 2014-08-18T20:35:04+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

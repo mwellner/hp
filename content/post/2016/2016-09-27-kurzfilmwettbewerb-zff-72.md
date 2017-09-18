@@ -1,6 +1,7 @@
 ---
 title: Kurzfilmwettbewerb ZFF 72
 date: 2016-09-27T22:43:56+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

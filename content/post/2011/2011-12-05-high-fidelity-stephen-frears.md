@@ -1,6 +1,7 @@
 ---
 title: High Fidelity (Stephen Frears)
 date: 2011-12-05T00:00:48+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

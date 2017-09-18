@@ -1,6 +1,7 @@
 ---
 title: The future of JavaScript, ECMA 6
 date: 2014-10-15T13:43:17+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

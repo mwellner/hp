@@ -1,6 +1,7 @@
 ---
 title: 'Infrastructure Lessons from &#8220;Ship It!&#8221;'
 date: 2009-11-30T00:00:00+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - technology

@@ -1,6 +1,7 @@
 ---
 title: Filmdreh in Andiast
 date: 2014-04-14T23:17:42+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

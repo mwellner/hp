@@ -1,6 +1,7 @@
 ---
 title: Der perfekte Schauspieler (aus Regiesicht)
 date: 2012-03-13T23:44:03+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

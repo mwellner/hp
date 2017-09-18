@@ -1,6 +1,7 @@
 ---
 title: Beschwerliches Individualreisen
 date: 2013-07-30T05:36:21+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - reisen

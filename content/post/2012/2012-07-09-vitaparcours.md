@@ -1,6 +1,7 @@
 ---
 title: Vitaparcours
 date: 2012-07-09T22:24:31+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - 'sport &amp; freizeit'

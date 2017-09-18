@@ -1,6 +1,7 @@
 ---
 title: Klettersteig-Ausflug
 date: 2016-08-02T19:52:23+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/08/MW_20160802_0063_web-150x150.jpg
 categories:

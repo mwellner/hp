@@ -1,6 +1,7 @@
 ---
 title: 2. Trainingslauf für SOLA-Stafette
 date: 2015-04-19T14:30:05+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - 'sport &amp; freizeit'

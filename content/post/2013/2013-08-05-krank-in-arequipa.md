@@ -1,6 +1,7 @@
 ---
 title: Krank in Arequipa
 date: 2013-08-05T05:33:47+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - reisen

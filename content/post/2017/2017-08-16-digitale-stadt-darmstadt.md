@@ -1,5 +1,6 @@
 ---
 date: "2017-08-16T21:40:15"
+lastmod: 2017-09-18T22:28:53+00:00
 title: Darmstadt -- Digitale Stadt
 author: Mathias Wellner
 categories:

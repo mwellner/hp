@@ -1,6 +1,7 @@
 ---
 title: Matplotlib as alternative to Matlab
 date: 2011-01-08T23:55:04+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - science

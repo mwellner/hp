@@ -1,6 +1,7 @@
 ---
 title: 'Schwägalp &#8211; Säntis &#8211; Ebenalp'
 date: 2008-07-07T21:41:03+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

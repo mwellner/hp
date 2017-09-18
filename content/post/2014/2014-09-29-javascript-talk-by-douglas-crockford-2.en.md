@@ -1,6 +1,7 @@
 ---
 title: JavaScript Talk by Douglas Crockford
 date: 2014-09-29T22:18:00+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - software

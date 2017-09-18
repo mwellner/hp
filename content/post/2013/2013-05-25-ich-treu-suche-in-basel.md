@@ -1,6 +1,7 @@
 ---
 title: 'Basler Aufführungen von &#8220;Ich, treu, suche&#8221;'
 date: 2013-05-25T22:42:39+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

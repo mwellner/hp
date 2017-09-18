@@ -1,6 +1,7 @@
 ---
 title: Kathedrale von Palma
 date: 2016-10-27T17:35:51+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/10/MW_20161015_2806-150x100.jpg
 categories:

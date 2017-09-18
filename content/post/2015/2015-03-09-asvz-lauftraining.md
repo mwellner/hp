@@ -1,6 +1,7 @@
 ---
 title: ASVZ-Lauftraining
 date: 2015-03-09T20:57:00+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - sport

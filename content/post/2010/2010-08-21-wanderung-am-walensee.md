@@ -1,6 +1,7 @@
 ---
 title: Wanderung am Walensee
 date: 2010-08-21T21:27:38+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: Wanderbericht, von Walenstadtberg liefen wir nach Quinten
 categories:

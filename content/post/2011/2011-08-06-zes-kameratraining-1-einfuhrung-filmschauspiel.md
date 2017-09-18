@@ -1,6 +1,7 @@
 ---
 title: 'ZES-Kameratraining 1 &ndash; Einführung Filmschauspiel'
 date: 2011-08-06T19:52:38+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

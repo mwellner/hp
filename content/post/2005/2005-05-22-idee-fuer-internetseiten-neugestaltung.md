@@ -1,6 +1,7 @@
 ---
 title: 'Idee f&#252;r Internetseiten-Neugestaltung'
 date: 2005-05-22T23:30:21+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - www

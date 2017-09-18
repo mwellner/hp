@@ -1,6 +1,7 @@
 ---
 title: Winti-SOLA, Strecke 3
 date: 2016-09-24T16:16:50+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/05/sola_web-100x150.jpg
 categories:

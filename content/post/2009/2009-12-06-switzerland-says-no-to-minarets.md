@@ -1,6 +1,7 @@
 ---
 title: Switzerland Says No to Minarets
 date: 2009-12-06T11:36:35+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - politics

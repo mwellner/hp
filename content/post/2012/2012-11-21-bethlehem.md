@@ -1,6 +1,7 @@
 ---
 title: Bethlehem
 date: 2012-11-21T19:35:01+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

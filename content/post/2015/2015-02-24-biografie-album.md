@@ -1,6 +1,7 @@
 ---
 title: Biografie-Album
 date: 2015-02-24T22:54:18+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

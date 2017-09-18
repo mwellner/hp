@@ -1,6 +1,7 @@
 ---
 title: Auf dem Weg zum Monolog
 date: 2010-06-23T23:40:14+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: 'Der Theater-Monolog kann zur Sternstunde eines Schauspielers werden. Du hast die Bühne ganz für dich allein und an dir allein liegt es auch, ob sich die Zuschauer prächtig amüsieren oder zu Tode langweilen. Was macht einen guten Monolog aus? Wie bereitest du dich optimal darauf vor? '
 jd_tweet_this:

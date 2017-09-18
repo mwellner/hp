@@ -1,6 +1,7 @@
 ---
 title: Modular JavaScript 2
 date: 2014-11-12T19:51:05+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - software

@@ -1,6 +1,7 @@
 ---
 title: Lazy Finca
 date: 2016-10-28T15:08:55+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

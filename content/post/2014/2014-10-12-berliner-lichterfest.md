@@ -1,6 +1,7 @@
 ---
 title: Berliner Lichterfest
 date: 2014-10-12T23:00:12+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

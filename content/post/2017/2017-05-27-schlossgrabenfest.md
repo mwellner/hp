@@ -2,6 +2,7 @@
 categories:
   - tagebuch
 date: 2017-05-28T12:13:49+02:00
+lastmod: 2017-09-18T22:28:53+00:00
 description: Bericht vom Schlossgrabenfest in Darmstadt
 tags:
   - schlossgrabenfest

@@ -1,6 +1,7 @@
 ---
 title: Russland gegen die Niederlande in der Fanzone Zürich
 date: 2008-06-22T13:17:00+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

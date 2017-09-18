@@ -1,6 +1,7 @@
 ---
 title: Schweiz stimmt für Ausweitung der Personenfreizügigkeit
 date: 2009-02-08T18:41:45+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - politik

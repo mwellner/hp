@@ -1,6 +1,7 @@
 ---
 title: Wanderung zum Morteratsch-Gletscher
 date: 2016-08-07T18:40:31+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

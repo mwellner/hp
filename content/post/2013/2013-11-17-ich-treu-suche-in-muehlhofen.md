@@ -1,6 +1,7 @@
 ---
 title: Ich, treu, suche in Mühlhofen
 date: 2013-11-17T12:57:58+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,6 +1,7 @@
 ---
 title: Rollenarbeit im Zoo
 date: 2010-06-13T19:04:35+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 jd_tweet_this:
   - 'yes'

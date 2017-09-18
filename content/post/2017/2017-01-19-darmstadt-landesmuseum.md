@@ -1,6 +1,7 @@
 ---
 title: Darmstadt, Landesmuseum
 date: 2017-01-19T08:26:33+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

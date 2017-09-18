@@ -1,6 +1,7 @@
 ---
 title: Schöner Winter
 date: 2010-02-12T23:18:24+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

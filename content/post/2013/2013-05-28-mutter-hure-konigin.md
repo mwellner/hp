@@ -1,6 +1,7 @@
 ---
 title: Mutter, Hure, Königin
 date: 2013-05-28T12:52:23+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

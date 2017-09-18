@@ -1,6 +1,7 @@
 ---
 title: 'Erste Szenenprobe von &#8220;Onkel Wanja&#8221;'
 date: 2012-01-11T23:50:40+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

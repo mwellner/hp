@@ -1,6 +1,7 @@
 ---
 title: 'Jean-Paul Sartre&thinsp;&ndash;&thinsp;Die schmutzigen Hände'
 date: 2015-05-16T11:39:51+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

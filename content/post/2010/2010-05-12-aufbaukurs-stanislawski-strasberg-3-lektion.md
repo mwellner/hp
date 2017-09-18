@@ -1,6 +1,7 @@
 ---
 title: Aufbaukurs Stanislawski-Strasberg, 3. Lektion
 date: 2010-05-12T23:13:50+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 jd_tweet_this:
   - 'yes'

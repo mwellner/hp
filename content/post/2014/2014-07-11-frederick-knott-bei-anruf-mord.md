@@ -1,6 +1,7 @@
 ---
 title: 'Frederick Knott &ndash; Bei Anruf Mord'
 date: 2014-07-11T21:28:44+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

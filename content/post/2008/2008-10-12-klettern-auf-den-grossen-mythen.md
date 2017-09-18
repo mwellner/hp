@@ -1,6 +1,7 @@
 ---
 title: Klettern auf den Grossen Mythen
 date: 2008-10-12T22:41:34+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

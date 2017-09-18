@@ -1,6 +1,7 @@
 ---
 title: 'Premiere &#8220;Das einzig Wahre&#8221;'
 date: 2016-02-12T03:16:00+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/01/MW_20160114_1730-150x100.jpg
 categories:

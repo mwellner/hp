@@ -1,6 +1,7 @@
 ---
 title: Bouldern im minimum
 date: 2014-10-10T22:28:55+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - klettern

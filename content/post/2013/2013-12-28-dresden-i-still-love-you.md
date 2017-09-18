@@ -1,6 +1,7 @@
 ---
 title: Dresden -- I still love you
 date: 2013-12-28T12:49:33+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

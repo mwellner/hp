@@ -1,6 +1,7 @@
 ---
 title: Aufbaukurs Stanislawski-Strasberg, 1. Lektion
 date: 2010-04-28T23:20:21+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: |
   Es geht ohne Verzug weiter, nach sechs Lektionen Grundkurs schließt sich jetzt nahtlos der Aufbaukurs des Zentrums für Entwicklung im Schauspiel an. Es begann wie immer mit den bekannten Elementen Aufwärmen, Zazen und Sinneserinnerung. Dann arbeiteten wir mit einem Text, mit Hilfe von verschiedenen Lesetechniken näherten wir uns einer Szene.

@@ -1,6 +1,7 @@
 ---
 title: 'Trailer für &#8220;Ein idealer Gatte&#8221;'
 date: 2014-03-22T13:11:25+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

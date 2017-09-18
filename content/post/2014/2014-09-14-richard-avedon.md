@@ -1,6 +1,7 @@
 ---
 title: Richard Avedon
 date: 2014-09-14T22:40:14+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

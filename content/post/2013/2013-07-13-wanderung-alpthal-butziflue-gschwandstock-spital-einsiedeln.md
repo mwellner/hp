@@ -1,6 +1,7 @@
 ---
 title: 'Wanderung Alpthal &#8211; Butziflue &#8211; Gschwändstock &#8211; Spital &#8211; Einsiedeln'
 date: 2013-07-13T22:03:58+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

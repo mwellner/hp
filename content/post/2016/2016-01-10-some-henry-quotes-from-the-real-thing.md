@@ -1,6 +1,7 @@
 ---
 title: 'Some Henry Quotes from &#8220;The Real Thing&#8221;'
 date: 2016-01-10T01:20:31+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/01/flyer_web-150x150.jpg
 categories:

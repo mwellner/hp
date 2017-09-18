@@ -1,6 +1,7 @@
 ---
 title: Innovation Day
 date: 2015-03-26T17:57:51+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - diary

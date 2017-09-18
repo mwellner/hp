@@ -1,6 +1,7 @@
 ---
 title: Café Rorboz
 date: 2011-02-19T20:00:02+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: |
   Unsere zweite Spielstätte für die halbkontakt-Produktion ist das Café Rorboz in Rorbas. Gestern konnten wir uns einen ersten Eindruck vom Lokal verschaffen.

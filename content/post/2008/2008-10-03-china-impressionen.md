@@ -1,6 +1,7 @@
 ---
 title: China, Impressionen
 date: 2008-10-03T22:33:01+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - reisen

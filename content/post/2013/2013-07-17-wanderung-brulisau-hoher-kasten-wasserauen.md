@@ -1,6 +1,7 @@
 ---
 title: 'Wanderung Brülisau &#8211; Hoher Kasten &#8211; Wasserauen'
 date: 2013-07-17T22:49:46+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

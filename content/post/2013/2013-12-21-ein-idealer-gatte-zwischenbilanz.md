@@ -1,6 +1,7 @@
 ---
 title: 'Ein idealer Gatte &#8211; Zwischenbilanz'
 date: 2013-12-21T23:14:21+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

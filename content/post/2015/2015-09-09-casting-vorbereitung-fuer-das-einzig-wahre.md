@@ -1,6 +1,7 @@
 ---
 title: 'Casting-Vorbereitung für &#8220;Das einzig Wahre&#8221;'
 date: 2015-09-09T22:56:19+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

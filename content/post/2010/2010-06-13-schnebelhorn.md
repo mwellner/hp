@@ -1,6 +1,7 @@
 ---
 title: Schnebelhorn
 date: 2010-06-13T10:44:48+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 jd_tweet_this:
   - 'yes'

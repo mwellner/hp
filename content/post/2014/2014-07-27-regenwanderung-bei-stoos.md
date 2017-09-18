@@ -1,6 +1,7 @@
 ---
 title: Regenwanderung bei Stoos
 date: 2014-07-27T22:16:52+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

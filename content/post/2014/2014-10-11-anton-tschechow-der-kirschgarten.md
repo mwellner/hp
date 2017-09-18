@@ -1,6 +1,7 @@
 ---
 title: 'Anton Tschechow &#8211; Der Kirschgarten'
 date: 2014-10-11T23:45:07+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

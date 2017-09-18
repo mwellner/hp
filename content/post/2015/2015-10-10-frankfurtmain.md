@@ -1,6 +1,7 @@
 ---
 title: Frankfurt/Main
 date: 2015-10-10T22:50:40+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 image: /wp-uploads/2015/10/MW_20151010_1450-150x100.jpg
 categories:

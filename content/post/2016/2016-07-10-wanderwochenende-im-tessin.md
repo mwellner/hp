@@ -1,6 +1,7 @@
 ---
 title: Wanderwochenende im Tessin
 date: 2016-07-10T21:48:04+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

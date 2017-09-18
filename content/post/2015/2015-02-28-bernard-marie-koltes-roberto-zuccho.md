@@ -1,6 +1,7 @@
 ---
 title: Bernard-Marie Koltès – Roberto Zuccho
 date: 2015-02-28T00:13:59+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater

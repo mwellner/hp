@@ -1,6 +1,7 @@
 ---
 title: 'Heute letzte Aufführung des &#8220;Idealen Gatten&#8221; in Zürich'
 date: 2014-05-31T15:55:31+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - bilder

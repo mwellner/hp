@@ -1,6 +1,7 @@
 ---
 title: Implementing simple ajax show/hide effects with cakePHP
 date: 2010-04-15T09:56:52+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - www

@@ -1,6 +1,7 @@
 ---
 title: 'William Shakespeare &ndash; König Lear'
 date: 2012-10-12T21:54:50+00:00
+lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - literatur

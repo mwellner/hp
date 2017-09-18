@@ -1,6 +1,7 @@
 ---
 title: Klaus Mann -- Mephisto (Schauspielhaus Dresden)
 date: 2007-01-01T15:31:13+00:00
+lastmod: 2017-09-18T21:08:00+00:00
 author: Mathias Wellner
 tags:
   - klaus mann

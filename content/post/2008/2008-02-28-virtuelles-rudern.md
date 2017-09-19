@@ -1,7 +1,7 @@
 ---
 title: Virtuelles Rudern
 date: 2008-02-28T20:54:07+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

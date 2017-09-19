@@ -1,7 +1,7 @@
 ---
 title: Klavier spielen
 date: 2005-06-22T12:53:26+00:00
-lastmod: 2017-09-16T19:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

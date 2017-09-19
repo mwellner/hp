@@ -1,7 +1,7 @@
 ---
 title: Kulturfestival 150, Jury
 date: 2005-12-04T02:33:38+00:00
-lastmod: 2017-09-16T23:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

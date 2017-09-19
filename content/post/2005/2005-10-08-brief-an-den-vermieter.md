@@ -1,7 +1,7 @@
 ---
 title: Brief an den Vermieter
 date: 2005-10-08T21:47:44+00:00
-lastmod: 2017-09-16T19:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - schreiben

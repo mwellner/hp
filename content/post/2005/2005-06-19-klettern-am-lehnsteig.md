@@ -1,7 +1,7 @@
 ---
 title: Klettern am Lehnsteig
 date: 2005-06-19T21:40:45+00:00
-lastmod: 2017-09-16T19:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - klettern

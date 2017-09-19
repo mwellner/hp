@@ -1,7 +1,7 @@
 ---
 title: Ein allerletzter Tag in Prag
 date: 2005-06-09T23:53:09+00:00
-lastmod: 2017-09-16T19:28:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - reisen

@@ -1,7 +1,7 @@
 ---
 title: Rund um den Zürichsee
 date: 2005-08-28T21:54:32+00:00
-lastmod: 2017-09-16T19:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - sport

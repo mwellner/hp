@@ -1,7 +1,7 @@
 ---
 title: Wechselfälle
 date: 2005-06-20T23:59:49+00:00
-lastmod: 2017-09-16T19:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

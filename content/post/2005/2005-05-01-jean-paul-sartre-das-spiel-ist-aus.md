@@ -1,7 +1,7 @@
 ---
 title: Jean-Paul Sartre -- Das Spiel ist aus
 date: 2005-05-01T11:55:55+00:00
-lastmod: 2017-09-16T13:09:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - literatur

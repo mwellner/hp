@@ -1,7 +1,7 @@
 ---
 title: Frauenkirchen-Mania
 date: 2005-11-02T22:05:43+00:00
-lastmod: 2017-09-16T19:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

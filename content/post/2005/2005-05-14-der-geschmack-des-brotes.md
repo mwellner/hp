@@ -1,7 +1,7 @@
 ---
 title: Der Geschmack des Brotes
 date: 2005-05-14T14:51:11+00:00
-lastmod: 2017-09-16T13:09:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - reisen

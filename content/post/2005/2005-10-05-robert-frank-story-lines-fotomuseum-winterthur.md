@@ -1,7 +1,7 @@
 ---
 title: Robert Frank -- Story Lines (Fotomuseum Winterthur)
 date: 2005-10-05T19:45:57+00:00
-lastmod: 2017-09-16T19:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Control Theory
 date: 2005-04-26T18:47:31+00:00
-lastmod: 2017-09-16T13:09:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - science

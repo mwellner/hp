@@ -1,7 +1,7 @@
 ---
 title: Einarbeitung in Zürich
 date: 2005-04-26T12:53:25+00:00
-lastmod: 2017-09-16T13:09:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Die Kunst des Klavierspielens
 date: 2005-11-30T00:04:11+00:00
-lastmod: 2017-09-16T23:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

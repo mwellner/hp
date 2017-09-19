@@ -1,7 +1,7 @@
 ---
 title: The Honor System at Virginia Tech
 date: 2002-09-14T12:12:56+00:00
-lastmod: 2017-09-16T12:12:12+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - diary

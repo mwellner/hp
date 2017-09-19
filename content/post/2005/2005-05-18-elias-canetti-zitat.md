@@ -2,7 +2,7 @@
 title: Zitat von Elias Canetti
 slug: elias-canetti-zitat
 date: 2005-05-18T15:22:41+00:00
-lastmod: 2017-09-16T13:09:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - literatur

@@ -2,7 +2,7 @@
 title: Zürich -- Zwischenstation
 slug: zuerich-zwischenstation
 date: 2005-05-16T17:12:21+00:00
-lastmod: 2017-09-16T13:09:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

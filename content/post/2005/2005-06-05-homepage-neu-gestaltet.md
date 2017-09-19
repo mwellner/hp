@@ -1,7 +1,7 @@
 ---
 title: Homepage neu gestaltet
 date: 2005-06-05T23:35:02+00:00
-lastmod: 2017-09-16T19:23:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - weblog

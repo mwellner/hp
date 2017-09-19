@@ -1,7 +1,7 @@
 ---
 title: Klettern im Rathener Gebiet
 date: 2005-05-27T21:47:25+00:00
-lastmod: 2017-09-16T19:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - klettern

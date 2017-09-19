@@ -1,7 +1,7 @@
 ---
 title: Stockholm
 date: 2014-01-06T21:55:29+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - reisen

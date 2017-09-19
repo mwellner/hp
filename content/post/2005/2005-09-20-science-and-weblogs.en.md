@@ -1,7 +1,7 @@
 ---
 title: Science and Weblogs
 date: 2005-09-20T13:42:31+00:00
-lastmod: 2017-09-16T19:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - science

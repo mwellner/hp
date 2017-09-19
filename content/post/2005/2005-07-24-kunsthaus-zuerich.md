@@ -1,7 +1,7 @@
 ---
 title: Henri Cartier-Bresson
 date: 2005-07-24T17:25:09+00:00
-lastmod: 2017-09-16T19:48:00+00:00
+lastmod: 2017-09-19T23:14:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

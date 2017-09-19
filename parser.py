@@ -19,8 +19,8 @@ def step(ext, dirname, names):
                 if line.startswith('lastmod: '):
                     found_lastmod = True
                     new_line = 'lastmod: ' + modified + '+00:00\n'
-                    if (new_line[:10] != line[:10]):
-                        print new_line + ' vs. ' + line
+                    if new_line[:19] != line[:19]:
+                        print new_line[:19] + ' vs. ' + line[:19]
                         lines[i] = new_line
                         needs_update = True
             if not found_lastmod:

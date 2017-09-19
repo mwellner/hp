@@ -4,16 +4,9 @@ date: 2013-01-20T22:09:11+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
+  - sport
 tags:
-  - Einsiedeln
-  - Langlauf
-  - Schwedentritt
-  - Skaten
-  - Sonne
-  - Winter
-  - Wintersport
+  - langlauf
 ---
 Winter in Zürich sind hart. Nicht so sehr wegen der Kälte oder des Schnees, aber oft liegt eine graue Decke über der Stadt, die aufs Gemüt drückt. Das Beste ist dann, in die Berge zu gehen, wenige Hundert Meter höher sieht die Welt meist ganz anders aus. 
 

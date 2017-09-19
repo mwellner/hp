@@ -6,10 +6,7 @@ author: Mathias Wellner
 categories:
   - theater
 tags:
-  - aufführung
-  - Bühne
-  - Ich treu suche
-  - Klima
+  - ich treu suche
   - klima das theater
   - kreuzlingen
 ---

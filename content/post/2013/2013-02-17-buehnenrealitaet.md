@@ -6,13 +6,7 @@ author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Bühne
-  - Ich treu suche
-  - Klima
-  - Realität
-  - Schauspiel
-  - text
-  - theater
+  - ich treu suche  
 ---
 Die Hauptaufgabe des Schauspielers besteht darin, den gleichen, einstudierten Ablauf immer wieder so zu erleben, als wäre es das erste Mal. Das trifft für den Text zu, den man immer wieder neu entstehen lassen muss, aber auch für die Emotionen. 
 

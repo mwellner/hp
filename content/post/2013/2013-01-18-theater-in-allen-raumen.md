@@ -4,20 +4,10 @@ date: 2013-01-18T22:34:31+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - theater
 tags:
-  - Gessnerallee
-  - Hans
-  - Märchen
-  - Schauspiel
-  - Soldat
-  - Studenten
-  - Teufel
-  - theater
-  - Vorführung
-  - ZHdK
-  - Zürcher Hochschule der Künste
+  - zhdk
+  - zürich
 ---
 Die Theatersparte der [Zürcher Hochschule der Künste](http://www.zhdk.ch) zeigte an zwei Abenden zahlreiche Projekte ihrer Studierenden. In fast allen Räumen des Hochschulgebäudes an der Gessnerallee gab es ein vielgestaltiges und schönes Programm. 
 

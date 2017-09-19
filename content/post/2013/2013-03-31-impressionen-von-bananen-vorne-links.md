@@ -1,16 +1,13 @@
 ---
-title: 'Impressionen von &#8220;Bananen, vorne links&#8221;'
+title: Bananen, vorne links -- Impressionen
 date: 2013-03-31T13:31:02+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - theater
 tags:
-  - Bananen vorne links
-  - Bühne
-  - Frischfleisch
-  - ZES
+  - bananen vorne links
+  - zes
 ---
 Die Generalprobe ist überstanden, am Donnerstag feiern wir die Premiere von &#8220;Bananen, vorne links&#8221;. Nach zweieinhalb Tagen Probe habe ich ein gutes Gefühl, es ist doch noch eine runde Sache geworden &ndash; was einzig und allein unserem Regisseur zu verdanken ist. Hier noch einige Impressionen von der Hauptprobe, ein herzliches Dankeschön geht an unseren Fotografen [Alexander Zipes](http://www.photoza.de). 
 

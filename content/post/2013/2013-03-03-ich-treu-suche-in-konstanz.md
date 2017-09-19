@@ -1,20 +1,12 @@
 ---
-title: '&nbsp;&quot;Ich, treu, suche&quot; in Konstanz'
+title: Ich, treu, suche in Konstanz
 date: 2013-03-03T21:54:06+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Auftritt
-  - Ausland
-  - Bühne
-  - Deutschland
-  - erfolg
-  - k9
-  - konstanz
-  - theater
-  - Tournee
+  - ich treu suche
 ---
 Tourneealltag, nach fünf Vorstellungen an drei Orten kann man mittlerweile davon sprechen. Immerhin zum ersten Mal im Ausland, obwohl Konstanz nicht wirklich weit entfernt ist von Kreuzlingen, dem Ort unserer Premiere. Vielleicht zwei Kilometer trennen die beiden Spielorte. 
 

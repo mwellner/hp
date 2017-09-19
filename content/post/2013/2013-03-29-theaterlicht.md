@@ -6,11 +6,7 @@ author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Bananen vorne links
-  - Frischfleisch
-  - Licht
-  - theater
-  - Töpferei
+  - bananen vorne links
 ---
 Heute geschah es wieder &ndash; jener wunderbare Moment, wenn sich eine oft geprobte Szene durch den Einsatz von Licht magisch verwandelt. Schwarzer Hintergrund, selektives Licht, ein bisschen Farbe &ndash; die Zutaten sind einfach beschrieben. Aber die Wirkung ist ungeheuer. 
 

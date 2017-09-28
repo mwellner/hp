@@ -1,10 +1,13 @@
 ---
-title: Literaturzirkel, nächstes Treffen
+title: Mein Name sei Gantenbein
 date: 2007-07-26T15:19:30+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-28T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - literatur
+tags:
+  - eth zürich
+  - max frisch
 ---
 Beim nächsten Treffen des Literaturzirkels der ETH werden wir [Mein Name sei Gantenbein](http://de.wikipedia.org/wiki/Mein_Name_sei_Gantenbein) von [Max Frisch](http://de.wikipedia.org/wiki/Max_Frisch) diskutieren. Literaturbegeisterte sind herzlich willkommen, sich der Diskussion anzuschliessen! Voraussetzung ist, bis zum Besprechungstermin (24.9. um 19:00, Ort ist das VSETH-Büro im CAB-Gebäude) das Buch gelesen zu haben, was aber in zwei Monaten gut zu schaffen sein sollte.
 

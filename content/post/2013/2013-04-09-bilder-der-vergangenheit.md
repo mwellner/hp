@@ -1,20 +1,16 @@
 ---
 title: Bilder der Vergangenheit
 date: 2013-04-09T22:41:21+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-28T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - Erinnerung
-  - Familie
-  - nachlass
-  - negativ
-  - scannen
+  - filmscanner
 ---
 Es könnte der Beginn eines Filmes sein. Ein Nachlass, bestehend aus alten Dias und Negativen. In einem Stoffbeutel liegt alles durcheinander, beim Aufräumen schmiss ich alles hinein, was mir erhaltenswert erschien. Und beim Sichten zieht das ganze Leben meines Vaters an mir vorbei, angefangen von experimentellen Aufnahmen von einer Silberkugel am Weihnachtsbaum, über Nahaufnahmen von Kerzen, Nachtaufnahmen von Dresden, Familiengeburtstage mit bekannten, aber viel jüngeren Gesichtern, völlig unbekannte Leute, und natürlich viele Fotos von uns als Kindern. 
 
-
+<iframe width="784" height="441" src="https://www.youtube.com/embed/1OWlvH__kQk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Der Filmscanner zieht den Streifen ein, das geht sogar automatisch für mehrere Fotos nacheinander. Immer eins weiter, dann dauert es ein paar Minuten mit dem Scannen. Stunden gehen so vorbei. Und nur wenige Bilder sind wirklich erhaltenswert. Manchmal geht etwas schief, dann bleibt der Scanner mittendrin hängen. Einfach so. Einmal war es, als ich das Schreibtischlicht einschaltete. Ein kleiner Spannungseinbruch brachte den Scanner durcheinander. 
 

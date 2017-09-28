@@ -1,12 +1,13 @@
 ---
 title: Theaterlicht
 date: 2013-03-29T22:54:09+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-28T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
   - bananen vorne links
+  - zes
 ---
 Heute geschah es wieder &ndash; jener wunderbare Moment, wenn sich eine oft geprobte Szene durch den Einsatz von Licht magisch verwandelt. Schwarzer Hintergrund, selektives Licht, ein bisschen Farbe &ndash; die Zutaten sind einfach beschrieben. Aber die Wirkung ist ungeheuer. 
 

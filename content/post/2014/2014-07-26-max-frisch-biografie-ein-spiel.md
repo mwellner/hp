@@ -1,7 +1,7 @@
 ---
 title: "Max Frisch -- Biografie: Ein Spiel"
 date: 2014-07-26T19:04:32+00:00
-lastmod: 2017-09-29T23:49:24+00:00
+lastmod: 2017-09-30T00:14:59+00:00
 author: Mathias Wellner
 categories:
   - theater

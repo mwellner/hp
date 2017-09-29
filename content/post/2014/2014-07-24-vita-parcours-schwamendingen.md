@@ -1,7 +1,7 @@
 ---
 title: Vita Parcours Schwamendingen
 date: 2014-07-24T22:45:37+00:00
-lastmod: 2017-09-29T23:42:05+00:00
+lastmod: 2017-09-30T00:14:59+00:00
 author: Mathias Wellner
 categories:
   - sport

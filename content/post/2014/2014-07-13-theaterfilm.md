@@ -1,7 +1,7 @@
 ---
 title: Theaterfilm
 date: 2014-07-13T19:20:05+00:00
-lastmod: 2017-09-29T23:41:20+00:00
+lastmod: 2017-09-30T00:14:59+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,7 +1,7 @@
 ---
 title: Rechner neu aufgesetzt
 date: 2014-08-02T22:59:14+00:00
-lastmod: 2017-09-29T23:43:25+00:00
+lastmod: 2017-09-30T00:14:59+00:00
 author: Mathias Wellner
 categories:
   - technik

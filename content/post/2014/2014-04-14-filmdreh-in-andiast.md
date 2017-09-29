@@ -1,7 +1,7 @@
 ---
 title: Filmdreh in Andiast
 date: 2014-04-14T23:17:42+00:00
-lastmod: 2017-09-29T23:37:02+00:00
+lastmod: 2017-09-30T00:14:59+00:00
 author: Mathias Wellner
 categories:
   - film

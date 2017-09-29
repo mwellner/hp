@@ -1,7 +1,7 @@
 ---
 title: 'Biografie: Ein Spiel, Erste Probe'
 date: 2014-09-25T23:35:10+00:00
-lastmod: 2017-09-29T23:55:52+00:00
+lastmod: 2017-09-30T00:14:59+00:00
 author: Mathias Wellner
 categories:
   - theater

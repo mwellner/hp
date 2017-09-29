@@ -1,10 +1,12 @@
 ---
 title: The future of JavaScript, ECMA 6
 date: 2014-10-15T13:43:17+00:00
-lastmod: 2017-09-30T00:02:12+00:00
+lastmod: 2017-09-30T00:15:25+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
+  - programming
+tags:
+  - javascript
 ---
 This are my notes from the JavaScript Days 2014 in Berlin. The session was focussed on a selection of the new features, which are proposed as the new official standard for JavaScript, ECMA 6. It is not released yet, but all major browsers already support part of the features and there are even ways to use the new features already with a precompile step. Examples are [traceur](https://github.com/google/traceur-compiler) from Google, [TypeScript](http://www.typescriptlang.org/) from Microsoft or [Regenerator](https://facebook.github.io/regenerator/) from Facebook. 
 

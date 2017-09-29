@@ -1,7 +1,7 @@
 ---
 title: Hochzeit in Dresden
 date: 2014-06-24T22:59:31+00:00
-lastmod: 2017-09-29T23:39:00+00:00
+lastmod: 2017-09-30T00:14:59+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

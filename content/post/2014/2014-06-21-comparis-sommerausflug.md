@@ -1,7 +1,7 @@
 ---
 title: Comparis-Sommerausflug
 date: 2014-06-21T22:29:55+00:00
-lastmod: 2017-09-29T23:38:31+00:00
+lastmod: 2017-09-30T00:14:59+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

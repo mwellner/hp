@@ -1,7 +1,7 @@
 ---
 title: Mariano Pensotti -- Cineastas
 date: 2014-08-18T20:35:04+00:00
-lastmod: 2017-09-29T23:48:41+00:00
+lastmod: 2017-09-30T00:14:59+00:00
 author: Mathias Wellner
 categories:
   - theater

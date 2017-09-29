@@ -1,7 +1,7 @@
 ---
 title: Wanderung im Tessin
 date: 2014-07-20T23:28:48+00:00
-lastmod: 2017-09-29T23:41:46+00:00
+lastmod: 2017-09-30T00:14:59+00:00
 author: Mathias Wellner
 categories:
   - wandern

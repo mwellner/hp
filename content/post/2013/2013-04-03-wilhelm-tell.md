@@ -1,7 +1,7 @@
 ---
 title: Friedrich Schiller -- Wilhelm Tell
 date: 2013-04-03T22:55:24+00:00
-lastmod: 2017-09-28T21:18:06+00:00
+lastmod: 2017-09-29T19:50:18+00:00
 author: Mathias Wellner
 categories:
   - theater

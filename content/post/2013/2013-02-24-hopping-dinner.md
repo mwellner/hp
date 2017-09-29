@@ -1,7 +1,7 @@
 ---
 title: Hopping Dinner
 date: 2013-02-24T15:11:47+00:00
-lastmod: 2017-09-19T23:20:14+00:00
+lastmod: 2017-09-29T19:50:18+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

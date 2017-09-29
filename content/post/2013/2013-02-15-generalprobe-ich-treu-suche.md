@@ -1,7 +1,7 @@
 ---
 title: Ich, treu, suche -- Generalprobe
 date: 2013-02-15T00:47:35+00:00
-lastmod: 2017-09-19T23:19:33+00:00
+lastmod: 2017-09-29T19:50:18+00:00
 author: Mathias Wellner
 categories:
   - theater

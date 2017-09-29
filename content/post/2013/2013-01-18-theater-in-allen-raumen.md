@@ -1,7 +1,7 @@
 ---
 title: Theater in allen Räumen
 date: 2013-01-18T22:34:31+00:00
-lastmod: 2017-09-19T23:17:42+00:00
+lastmod: 2017-09-29T19:50:18+00:00
 author: Mathias Wellner
 categories:
   - theater

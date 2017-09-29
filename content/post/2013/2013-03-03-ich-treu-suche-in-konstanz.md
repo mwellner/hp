@@ -1,7 +1,7 @@
 ---
 title: Ich, treu, suche in Konstanz
 date: 2013-03-03T21:54:06+00:00
-lastmod: 2017-09-19T23:20:46+00:00
+lastmod: 2017-09-29T19:50:18+00:00
 author: Mathias Wellner
 categories:
   - theater

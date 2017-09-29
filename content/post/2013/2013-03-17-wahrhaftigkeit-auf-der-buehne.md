@@ -1,7 +1,7 @@
 ---
 title: Wahrhaftigkeit auf der Bühne
 date: 2013-03-17T01:08:07+00:00
-lastmod: 2017-09-19T23:21:24+00:00
+lastmod: 2017-09-29T19:50:18+00:00
 author: Mathias Wellner
 categories:
   - theater

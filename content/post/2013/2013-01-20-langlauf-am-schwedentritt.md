@@ -1,7 +1,7 @@
 ---
 title: Langlauf am Schwedentritt
 date: 2013-01-20T22:09:11+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-19T23:18:04+00:00
 author: Mathias Wellner
 categories:
   - sport

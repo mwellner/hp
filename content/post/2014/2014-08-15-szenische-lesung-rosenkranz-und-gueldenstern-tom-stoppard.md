@@ -1,18 +1,12 @@
 ---
-title: 'Szenische Lesung &#8220;Rosenkranz und Güldenstern&#8221; (Tom Stoppard)'
+title: Szenische Lesung, Rosenkranz und Güldenstern
 date: 2014-08-15T23:27:25+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-29T23:44:50+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - güldenstern
-  - hamlet
-  - Lesung
-  - rosenkranz
-  - Shakespeare
-  - stoppard
-  - tot
+  - tom stoppard
 ---
 Am 22. September findet die nächste szenische Lesung statt. Nach einer längeren Unterbrechung möchte ich mit einem ganz besonderen Leckerbissen aufwarten, _Rosenkranz und Güldenstern_ von Tom Stoppard (<a href="http://en.wikipedia.org/wiki/Rosencrantz_and_Guildenstern_Are_Dead" title="Rosencrantz and Guildenstern are dead" target="_blank">englischer Wikipedia-Artikel</a>). Der Autor ist mir seit der <a href="http://www.aki.ethz.ch/akitiv/archive/arkadien/index.html" title="Arkadien" target="_blank">akitiv-Arkadien-Produktion</a> von 2009 ein Begriff. Wir spielten damals eins der späteren Stücke von Stoppard, _Rosenkranz und Güldenstern_ ist eines seiner ersten und brachte ihm den Durchbruch als Theaterautor. 
 

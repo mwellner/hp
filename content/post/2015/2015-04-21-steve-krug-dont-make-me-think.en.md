@@ -1,32 +1,18 @@
 ---
-title: 'Steve Krug &ndash; Don&#8217;t Make Me Think'
+title: Steve Krug -- Don't Make Me Think
 date: 2015-04-21T22:33:09+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:13:11+00:00
 author: Mathias Wellner
 categories:
-  - technik
-tags:
-  - design
-  - interface
-  - perception
-  - user experience
   - ux
 ---
-<div id="attachment_5707" style="width: 282px" class="wp-caption alignright">
-  <img src="/wp-uploads/2015/04/krug_book_cover-272x350.jpg" alt="Steve Krug &ndash; Don&#039;t Make Me Think (Book Cover)" width="272" height="350" class="size-medium wp-image-5707" srcset="http://www.mwellner.de/wp-uploads/2015/04/krug_book_cover-272x350.jpg 272w, http://www.mwellner.de/wp-uploads/2015/04/krug_book_cover-116x150.jpg 116w, http://www.mwellner.de/wp-uploads/2015/04/krug_book_cover.jpg 504w" sizes="(max-width: 272px) 100vw, 272px" />
-  
-  <p class="wp-caption-text">
-    Steve Krug &ndash; Don&#8217;t Make Me Think
-  </p>
-</div> In the field of user experience (UX), the book written by 
-
-<a href="https://en.wikipedia.org/wiki/Steve_Krug" title="Steve Krug" target="_blank">Steve Krug</a> is considered a classic. It is not too long, following his own principles of brevity and clarity in content presentation. I am reading this, because I experience UX discussions at work (<a href="http://comparis.ch" title="comparis.ch" target="_blank">comparis.ch</a>) quite often. 
+In the field of user experience (UX), the book written by <a href="https://en.wikipedia.org/wiki/Steve_Krug" title="Steve Krug" target="_blank">Steve Krug</a> is considered a classic. It is not too long, following his own principles of brevity and clarity in content presentation. I am reading this, because I experience UX discussions at work (<a href="http://comparis.ch" title="comparis.ch" target="_blank">comparis.ch</a>) quite often. 
 
 Krug starts with a chapter on how people actually perceive and work with web pages. Instead of carefully reading and deliberately choosing the right option, people behave completely different. Krug outlines these findings as
 
-  1. We don&#8217;t read pages. We scan them.
-  2. We don&#8217;t make optimal choices. We satisfice.
-  3. We don&#8217;t figure out how things work. We muddle through.
+  1. We don't read pages. We scan them.
+  2. We don't make optimal choices. We satisfice.
+  3. We don't figure out how things work. We muddle through.
 
 With these findings in mind, he gives recommendations on how to design web sites as _billboards_. Most is common sense, but he has a very good way of explaning and presenting it. 
 
@@ -38,7 +24,7 @@ With these findings in mind, he gives recommendations on how to design web sites
 
 **Get The Book**
 
-[Don&#8217;t Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://www.amazon.de/gp/product/B00HJUBRPG/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00HJUBRPG&linkCode=as2&tag=mathiaswellne-21&linkId=E5JMWR7SYRUC4MAB)<img src="http://ir-de.amazon-adsystem.com/e/ir?t=mathiaswellne-21&#038;l=as2&#038;o=3&#038;a=B00HJUBRPG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://www.amazon.de/gp/product/B00HJUBRPG/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00HJUBRPG&linkCode=as2&tag=mathiaswellne-21&linkId=E5JMWR7SYRUC4MAB)<img src="http://ir-de.amazon-adsystem.com/e/ir?t=mathiaswellne-21&#038;l=as2&#038;o=3&#038;a=B00HJUBRPG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Suggested Further Reading**
 

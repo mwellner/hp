@@ -1,20 +1,12 @@
 ---
 title: Rechner neu aufgesetzt
 date: 2014-08-02T22:59:14+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-29T23:43:25+00:00
 author: Mathias Wellner
 categories:
   - technik
 tags:
-  - ablauf
-  - bios
-  - Boot
-  - desktop
-  - dual
-  - installation
   - linux
-  - pc
-  - setup
   - windows
 ---
 So schwierig war es gar nicht. Nach der Anschaffung einer flinken SSD (<a href="http://de.wikipedia.org/wiki/Solid-State-Drive" title="Solid-State-Disk" target="_blank">Solid-State-Disk</a>) durfte ich meinen heimischen Desktop-Rechner neu installieren. Und nach nur wenigen Stunden steht das System wie vorher. Jetzt kann ich die restlichen Programme nach und nach dazu installieren. Aber letztendlich ist so eine Neuinstallation die einzige Chance, das System zu entschlacken. 

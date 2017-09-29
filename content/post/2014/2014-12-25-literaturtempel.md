@@ -1,16 +1,12 @@
 ---
 title: Literaturtempel
 date: 2014-12-25T23:29:45+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:06:08+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
-tags:
-  - hanoi
-  - konfuzius
-  - literaturtempel
-  - vietnam
   - reisen
+tags:
+  - vietnam
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/34120561951/in/dateposted-public/" title="Blumenpracht am Literaturtempel"><img src="https://c1.staticflickr.com/3/2806/34120561951_4d1d83012c_b.jpg" width="1024" height="683" alt="Blumenpracht am Literaturtempel"></a>
 

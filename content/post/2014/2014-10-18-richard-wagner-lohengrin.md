@@ -1,15 +1,12 @@
 ---
 title: Richard Wagner -- Lohengrin
 date: 2014-10-18T23:58:43+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:02:30+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
-tags:
-  - lohengrin
   - oper
-  - opernhaus
-  - wagner
+tags:
+  - richard wagner
   - zürich
 ---
 Im Opernhaus war ich bisher ein seltener Gast, doch der Besuch von [Lohengrin](http://www.opernhaus.ch/vorstellung/detail/lohengrin-04-07-2015-4339/) im Zürcher Opernhaus könnte das ändern. Es war eine grandiose Vorstellung, stimm- und bildgewaltig zugleich. Witzig fand ich auch die Inszenierungsidee, die Brabanter als Bayern darzustellen. Und so sah man in den Massenszenen mit gefühlten 100 Leuten dann auch ein Meer von weißen Hemden, Lederhosen und Dirndln. Auch Lohengrin trug Lederhosen, der nicht von einem Schwan gezogen wurde, sondern nach einem grandiosen Menschenwirbel plötzlich im weißen Hemd in der Mitte lag, wie ein Neugeborenes. 

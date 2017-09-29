@@ -1,18 +1,13 @@
 ---
 title: Dramateure-Probewochenende
 date: 2014-12-01T22:10:53+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:04:12+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Biografie
   - dramateure
-  - Dreh
-  - Frisch
-  - Mauserhütte
-  - Produktion
-  - schwyz
+  - max frisch
 ---
 Recht spät war es diesmal, das erste Probewochenende der <a href="http://dramateure.ch/wordpress/produktionen/biografie-ein-spiel/" target="_blank">Biografie-Produktion</a>. Wir übernachteten in der Mauserhütte in der Nähe von Schwyz. Von dort hatten wir einen herrlichen Ausblick über das Nebelmeer, welches für alle Leute unterhalb von 900&thinsp;m einen trüben Tag bedeutete. 
 

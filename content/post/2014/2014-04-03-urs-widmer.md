@@ -1,13 +1,11 @@
 ---
 title: Urs Widmer
 date: 2014-04-03T21:46:35+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-29T23:36:36+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - neuenschwander
-  - neumarkt
   - studententheater
   - top dogs
 ---

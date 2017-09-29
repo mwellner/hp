@@ -1,16 +1,12 @@
 ---
 title: Ankunft in Hanoi
 date: 2014-12-24T23:03:36+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:05:52+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
-tags:
-  - hanoi
-  - moped
-  - motorrad
-  - vietnam
   - reisen
+tags:
+  - vietnam
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/33409877664/in/dateposted-public/" title="Motorradfahrer in Hanoi"><img src="https://c1.staticflickr.com/3/2844/33409877664_36b2d37b4a_b.jpg" width="1024" height="683" alt="Motorradfahrer in Hanoi"></a>
 

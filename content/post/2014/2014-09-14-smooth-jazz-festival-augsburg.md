@@ -1,16 +1,13 @@
 ---
 title: Smooth Jazz Festival Augsburg
 date: 2014-09-14T00:00:35+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-29T23:55:06+00:00
 author: Mathias Wellner
 categories:
   - reisen
 tags:
-  - Augsburg
-  - Jazz
-  - Musik
-  - Parktheater
-  - Smooth
+  - augsburg
+  - jazz
 ---
 Nicht weit von der Wohnung meiner Freunde befindet sich das wunderschöne [Parktheater im Kurhaus Göggingen](http://www.augsburg.smoothjazzfestival.de/location/parktheater/). Es wurde vor ein paar Jahren komplett im Jugendstil restauriert. Man flaniert durch Gänge, ein Park lädt im Sommer zum Verweilen ein, prunkvoll verzierte Säulen und Geländer überall, viel Platz im Hauptsaal; ein Augenschmaus. Es wäre ein absoluter Traum, hier Oscar Wilde aufzuführen. 
 

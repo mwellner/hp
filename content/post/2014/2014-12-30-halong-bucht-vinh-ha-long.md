@@ -1,15 +1,11 @@
 ---
 title: Halong-Bucht (Vịnh Hạ Long)
 date: 2014-12-30T22:17:06+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:06:52+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
+  - reisen
 tags:
-  - bucht
-  - diesel
-  - halong
-  - schiff
   - vietnam
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/33408888614/in/dateposted-public/" title="Halong-Bucht"><img src="https://c1.staticflickr.com/3/2808/33408888614_6b0aa478c1_b.jpg" width="1024" height="654" alt="Halong-Bucht"></a>

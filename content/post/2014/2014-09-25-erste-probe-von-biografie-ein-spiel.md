@@ -1,18 +1,12 @@
 ---
-title: 'Erste Probe von &#8220;Biografie: Ein Spiel&#8221;'
+title: 'Biografie: Ein Spiel, Erste Probe'
 date: 2014-09-25T23:35:10+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-29T23:55:52+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Biografie
-  - Bühne
-  - Frisch
-  - Max
-  - Probe
-  - Produktion
-  - Rollenarbeit
+  - max frisch
 ---
 In der aktuellen dramateure-Produktion <a href="http://dramateure.ch/wordpress/produktionen/biografie-ein-spiel/" title="Biografie: Ein Spiel" target="_blank">Biografie: Ein Spiel</a> spiele ich Hannes Kürmann, einen Verhaltensforscher, der sein Leben nochmal neu beginnen kann. Heute war die erste Probe mit meiner Bühnenpartnerin Antoinette Stein. Da unsere Beziehung für das Stück von zentraler Bedeutung ist, sprachen wir recht ausführlich über die Charaktere und auch über unsere Bühnen-Ehe. 
 

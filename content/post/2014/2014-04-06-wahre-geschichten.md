@@ -1,12 +1,11 @@
 ---
 title: Wahre Geschichten
 date: 2014-04-06T22:52:19+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-29T23:36:45+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - erzählen
   - zürich
 ---
 Heute fand zum ersten Mal ein Abend des Formats [Wahre Geschichten](http://www.wahre-geschichten.com/) statt, in der [Viaduktstrasse 93](http://www.wahre-geschichten.com/zurich/ort). Die Idee ist, dass Leute selbst erlebte, wahre Geschichten erzählen, mit minimalen Hilfsmitteln. Im Wesentlichen ein Mikrofon und ein Publikum. 

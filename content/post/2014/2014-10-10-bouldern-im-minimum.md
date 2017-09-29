@@ -1,14 +1,12 @@
 ---
 title: Bouldern im minimum
 date: 2014-10-10T22:28:55+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:00:53+00:00
 author: Mathias Wellner
 categories:
   - klettern
 tags:
   - bouldern
-  - klettern
-  - minimum
 ---
 Wieder einen neuen Ort in Zürich entdeckt &ndash; das <a href="http://www.minimum.ch" title="minimum" target="_blank">minimum</a> in der Flüelastrasse. Es ist ein Boulder-Lokal, man klettert also recht schwere und kurze Wege, dicke Matten sichern nach unten ab. Wenn man nicht mehr weiter kann, lässt man sich fallen. 
 

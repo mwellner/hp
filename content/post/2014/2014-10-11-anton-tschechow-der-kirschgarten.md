@@ -1,26 +1,15 @@
 ---
-title: 'Anton Tschechow &#8211; Der Kirschgarten'
+title: Anton Tschechow -- Der Kirschgarten
 date: 2014-10-11T23:45:07+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:01:35+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Anton Tschechow
-  - Berlin
-  - Kirschgarten
-  - Maxim Gorki Theater
-  - theater
+  - anton tschechow
+  - berlin
 ---
 Im Berliner Maxim-Gorki-Theater sah ich eine sehr eigenwillige Inszenierung von Tschechows Kirschgarten. Das [Gorki](http://gorki.de), wie es sich kurz nennt, wurde von [Theater heute](http://www.theaterheute.de) zum Theater des Jahres 2014 gekürt. Es besitzt ein bunt gemischtes Ensemble und setzt schrille, zeitgenössische Akzente.
-
-<div id="attachment_4922" style="width: 860px" class="wp-caption aligncenter">
-  <a href="/wp-uploads/2014/10/MW_20141012_7606.jpg"><img src="/wp-uploads/2014/10/MW_20141012_7606-1024x683.jpg" alt="Maxim-Gorki-Theater" width="850" height="566" class="size-large wp-image-4922" srcset="http://www.mwellner.de/wp-uploads/2014/10/MW_20141012_7606-1024x683.jpg 1024w, http://www.mwellner.de/wp-uploads/2014/10/MW_20141012_7606-300x200.jpg 300w, http://www.mwellner.de/wp-uploads/2014/10/MW_20141012_7606-224x150.jpg 224w, http://www.mwellner.de/wp-uploads/2014/10/MW_20141012_7606-150x100.jpg 150w" sizes="(max-width: 850px) 100vw, 850px" /></a>
-  
-  <p class="wp-caption-text">
-    Maxim-Gorki-Theater
-  </p>
-</div>
 
 Das Stück in seiner Originalfassung beschreibt den nutzlos gewordenen Adel, der sich am Schönen erfreut, aber völlig lebensuntüchtig ist. Wie der Kirschgarten am Ende abgeholzt wird, verschwindet auch der Adel von der Bildfläche. 
 

@@ -1,14 +1,13 @@
 ---
 title: Mannheim und Heidelberg
 date: 2014-10-26T23:01:25+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:02:40+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
   - heidelberg
   - mannheim
-  - nachtwandel
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/34323543571/in/dateposted-public/" title="Wasserturm in Mannheim"><img src="https://c1.staticflickr.com/5/4178/34323543571_0fc237f613_b.jpg" width="1024" height="683" alt="Wasserturm in Mannheim"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

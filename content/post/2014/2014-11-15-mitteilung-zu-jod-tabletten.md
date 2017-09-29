@@ -1,18 +1,12 @@
 ---
 title: Mitteilung zu Jod-Tabletten
 date: 2014-11-15T12:26:05+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:03:56+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - atomkraft
-  - jod
-  - kernkraft
-  - reaktor
-  - Schweiz
-  - stilllegung
-  - tabletten
+  - schweiz
 ---
 Letzte Woche erhielt ich &ndash; nach einer vorherigen Ankündigung &ndash; eine Packung Jodtabletten. Diese sollen die Anwohner im 50&thinsp;km-Umkreis der Schweizer Kernkraftwerke vor den Gefahren von radioaktivem Jod schützen. Dazu kam ein weiterer Brief mit ergänzenden Informationen, den ich hier gern wiedergeben möchte. 
 
@@ -46,7 +40,5 @@ Zuständig für die Jodtabletten-Verteilung
 </blockquote>
 
 Es stellte sich nun heraus, dass dieser Brief nicht von der Geschäftsstelle Kaliumiodid-Versorgung stammt, sondern von Greenpeace Schweiz (<a href="http://www.greenpeace.org/switzerland/de/Uber-uns/Medienstelle/Medienmitteilungen/Jodtabletten-schuetzen-nur-bedingt-und-schaffen-keine-Sicherheit/" title="Greenpeace Schweiz: Jodverteilung" target="_blank">Medienmitteilung Jodverteilung</a>). 
-
-
 
 Ich kann die Forderung nach Abschaltung der Kernkraftwerke nur unterstützen. Es gibt, abgesehen von den Jodtabletten, kein wirkliches Konzept für eine Reaktorkatastrophe. In der dichtbesiedelten Schweiz und auch in den Nachbarländern würde ein Reaktorunfall Millionen von Menschen betreffen. Die Schweiz hat nach Fukushima zwar einen langsamen Ausstieg aus der Kernenergie beschlossen, aber das bedeutet noch viele Jahre Restlaufzeit für sehr alte Reaktoren (siehe <a href="http://www.greenpeace.org/switzerland/de/Publikationen/Reports-Atom/Risiko-Altreaktoren-Schweiz/" title="Risiki Altreaktoren in der Schweiz" target="_blank">Studie zu Schweizer Kernkraftwerken</a>).

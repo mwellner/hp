@@ -1,16 +1,12 @@
 ---
 title: Modular JavaScript 2
 date: 2014-11-12T19:51:05+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-09-30T00:03:29+00:00
 author: Mathias Wellner
 categories:
   - software
 tags:
-  - amd
   - javascript
-  - modules
-  - syntax
-  - js
 ---
 On our company website, as on many others, we have a growing JavaScript code base. We are now taking the effort to develop a module system to make it easier to structure the code. 
 

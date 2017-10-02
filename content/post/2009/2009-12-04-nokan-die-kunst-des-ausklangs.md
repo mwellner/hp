@@ -1,22 +1,10 @@
 ---
-title: 'Nokan -- Die Kunst des Ausklangs'
+title: Nokan -- Die Kunst des Ausklangs
 date: 2009-12-04T22:59:37+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - film
-tags:
-  - abschied
-  - ausklang
-  - beerdigung
-  - film
-  - japan
-  - nokan
-  - reise
-  - tod
-  - trauer
-  - verlust
-  - zeremonie
 ---
 Das kürzeste Einstellungsgespräch, das man sich vorstellen kann: &#8220;Wollen Sie auch richtig mit anpacken?&#8221; &#8211; &#8220;Klar.&#8221; &#8211; &#8220;Gut, Sie haben den Job.&#8221;
 

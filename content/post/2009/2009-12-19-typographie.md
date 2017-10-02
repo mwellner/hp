@@ -3,15 +3,8 @@ title: Typographie
 date: 2009-12-19T15:58:39+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-tags:
-  - Font
-  - Gestaltung
-  - LaTeX
-  - Schrift
-  - text
-  - Textsatz
-  - Typografie
-  - Typographie
+categories:
+  - tagebuch
 ---
 Durch meine Tätigkeiten als Redakteur, Gestalter eines Theater-Abendprogramms und Autor eines Weblogs kam ich schon oft mit dem Setzen von Text in Berührung. Aber eigentlich ist mein Wissen recht begrenzt, beziehungsweise geprägt durch die Arbeit mit [LaTeX](http://en.wikipedia.org/wiki/LaTeX), einem Textsatzsystem vor allem für wissenschaftliche Publikationen. Von daher waren mir einige typographische Grundsätze in Fleisch und Blut übergegangen, welche bei LaTeX von [KOMA-Script](http://www.ctan.org/tex-archive/macros/latex/contrib/koma-script/) umgesetzt werden, unter anderem
 

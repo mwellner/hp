@@ -4,16 +4,7 @@ date: 2009-10-06T09:41:11+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - theater
-tags:
-  - form
-  - gesamtheit
-  - klettern
-  - kunst
-  - leichtigkeit
-  - qualität
-  - rudern
-  - schönheit
+  - kultur
 ---
 Es gibt diese Momente, in denen ich beim Anblick eines Gemäldes, beim Lesen eines Buches oder beim Erleben einer Tanzvorführung die Genialität des Künstlers spüre. Es ist schwer zu sagen, was es genau ist, etwas resoniert in mir, trifft einen Nerv. Der russische Schauspieler und Regisseur [Michael Tschechow](http://de.wikipedia.org/wiki/Michael_Tschechow) brachte diese Qualitäten in seinem Buch &#8220;Die Kunst des Schauspielers&#8221; auf den Punkt, für ihn sind es Leichtigkeit, Form, Ganzheitlichkeit und Schönheit. Ich möchte diese Aufzählung gern kommentieren, auch in Bezug auf meine eigenen Theatererfahrungen. 
 

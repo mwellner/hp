@@ -4,17 +4,7 @@ date: 2009-11-11T00:49:04+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - technik
-tags:
-  - APA
-  - biblatex
-  - Editor
-  - LaTeX
-  - latexmk
-  - scientific writing
-  - texmf
-  - Vim
-  - vim-latexsuite
+  - latex
 ---
 **Introduction**
 

@@ -1,16 +1,10 @@
 ---
-title: 'Infrastructure Lessons from &#8220;Ship It!&#8221;'
+title: Ship It!
 date: 2009-11-30T00:00:00+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - technology
-tags:
-  - compiler
-  - development
-  - integration
-  - smart
-  - Software @en
+  - software
 ---
 When a lot of people work together on software projects, a lot of things can go wrong. The book [Ship It!](http://www.amazon.com/Practical-Guide-Successful-Software-Projects/dp/0974514047) by Jared Richardson and William Gwaltney Jr. introduces a number of techniques and tools to make software development teams more productive. During my time at the Sensory Motor Systems Lab, I was responsible for setting up a software development process for a small team. Therefore, most of the issues are well-known to me. And I guess, that we could have done much better by using more of the techniques described in the book. 
 

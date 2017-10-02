@@ -4,10 +4,7 @@ date: 2009-10-06T20:10:29+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - theater/acting
-tags:
-  - art
-  - quality
+  - arts
 ---
 There are these moments in life, when I am contemplating a painting, reading a book, or experiencing a dance performance, when I am struck by the genius of the artwork. It is difficult to say what it is exactly, something resonates in me, hits on a nerve. The Russion actor and director [Michael Chekhov](http://en.wikipedia.org/wiki/Michael_Chekhov) got to the point by differentiating four factors, ease, shape, integrity, and beauty. I would like to comment on this enumeration, taking into account my own experiences with theatre. 
 

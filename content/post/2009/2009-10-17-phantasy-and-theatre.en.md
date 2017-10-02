@@ -4,13 +4,7 @@ date: 2009-10-17T12:36:30+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - images
   - theater
-tags:  
-  - acting
-  - phantasy
-  - theatre
-  - stanislawski
 ---
 Imagine, you would have absolutely no phantasy &#8212; wouldn&#8217;t that be a dreadful existence? Because only the evocation of images and ideas beyond existing ones enables you to solve unknown problems and to put yourself in the position of fellow people, thus facilitating interpersonal relations. 
 

@@ -6,17 +6,7 @@ author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Auftritt
-  - Bühne
-  - CAB
-  - ETH
-  - Impro
-  - Impro-Theater
-  - Improtheater
-  - Improvisation
-  - Stuz
-  - theater
-  - Theatersport
+  - improtheater
 ---
 Man nehme 
 

@@ -6,15 +6,7 @@ author: Mathias Wellner
 categories:
   - politik
 tags:
-  - abstimmung
-  - islam
-  - minarett
-  - minarettverbot
-  - muslime
   - schweiz
-  - volksabstimmung
-  - volksentscheid
-  - volksinitiative  
 ---
 Am letzten Sonntag konnten die Schweizer über eine Vorlage der [Volksinitiative für ein Bauverbot von Minaretten](http://www.admin.ch/ch/d/pore/vi/vis353.html) abstimmen. Im Vorfeld hatte man dieser Initiative wenig Chancen eingeräumt, jedoch wurde sie mit einer klaren Mehrheit von 57.5% angenommen (genaue Resultate in dieser [Tagesanzeiger-Grafik](http://www.tagesanzeiger.ch/schweiz/standard/57-Prozent-sagten-Ja-zum-MinarettVerbot/story/31785289)). Nur vier Kantone stimmten dagegen, alle übrigen dafür. 
 

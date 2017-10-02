@@ -5,14 +5,6 @@ lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
-tags:
-  - großvater
-  - jagdflieger
-  - jäger
-  - nachruf
-  - opa
-  - sterben
-  - tod
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/32450104884/in/dateposted-public/" title="MW_20090829_5673_bw"><img src="https://c1.staticflickr.com/3/2833/32450104884_bb697f2d32_b.jpg" width="1024" height="1024" alt="MW_20090829_5673_bw"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

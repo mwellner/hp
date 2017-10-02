@@ -6,22 +6,7 @@ author: Mathias Wellner
 categories:
   - wandern
 tags:
-  - alpen
-  - alpin
-  - bergführer
-  - bergwandern
-  - diavolezza
-  - eis
-  - gebirge
-  - gletscher
-  - pickel
-  - piz bernina
-  - piz mortaratsch
-  - piz trovat
-  - steigeisen
-  - tour
-  - wandern
-  - zacken
+  - engadin
 ---
 Für fünf Tage tauschte ich die Annehmlichkeiten des Stadtlebens gegen karge Berglandschaften, fernab von jeglichen Kommunikationsmitteln. Es war eine sehr fordernde, aber auch extrem lohnende Tour im Bernina-Gebiet. 
 

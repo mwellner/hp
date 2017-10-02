@@ -7,23 +7,8 @@ categories:
   - literatur
   - theater
 tags:
-  - Adel
   - akitiv
-  - Bühne
-  - erobern
-  - Eroberung
-  - Frankreich
-  - französisch
-  - Gefährliche Liebschaften
-  - Geschlecht
-  - Laclos
-  - Liaisons Dangereuses
-  - Müßiggang
-  - Produktion
-  - Revolution
-  - theater
-  - verführen
-  - Verführung
+  - de laclos
 ---
 Die Theatergruppe [akitiv](http://www.aki.ethz.ch/akitiv/) produziert aktuell das Stück [Gefährliche Liebschaften](http://de.wikipedia.org/wiki/Gef%C3%A4hrliche_Liebschaften) von Pierre-Ambroise-François Choderlos de Laclos. Es war der Favorit unseres Regisseurs. Die Grundlage der Bühnenfassung ist der Briefroman &#8220;Les Liaisons Dangereuses&#8221; aus dem Jahr 1782. 
 

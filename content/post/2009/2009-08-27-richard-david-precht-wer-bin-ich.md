@@ -1,37 +1,13 @@
 ---
-title: 'Richard David Precht – &quot;Wer bin ich, und wenn ja, wie viele?&quot;'
+title: Richard David Precht -- Wer bin ich, und wenn ja, wie viele?
 date: 2009-08-27T13:26:15+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 excerpt: 'Buchrezension zu Richard David Precht -- Wer bin ich, und wenn ja, wie viele?'
-enclosure:
-  - |
-    http://www.mwellner.de/sound/20090827.mp3
-    12698964
-    audio/mpeg
-    a:5:{s:6:"format";s:14:"default-format";s:8:"keywords";s:30:"Descartes, Denken, Philosophie";s:6:"author";s:15:"Mathias Wellner";s:6:"length";s:5:"13:15";s:8:"explicit";s:2:"no";}
-language:
-  - en
-other-excerpt:
-  - ""
 categories:
   - literatur
-  - podcast
 tags:
-  - Buch
-  - Denken
-  - existenziell
-  - Fragen
-  - Jeremy Bentham
-  - Literatur
-  - Philosophie
-  - Rene Descartes
-  - Rezension
-  - Richard David Precht
-  - Töten
-  - Utilitarismus
-  - Wer bin ich?
-  - wissenschaft
+  - richard david precht
 ---
 Wie kurzweilig und interessant die Beschäftigung mit philosophischen Themen sein kann, zeigt [Richard David Precht](http://de.wikipedia.org/wiki/Richard_David_Precht) in seinem Buch &#8220;Wer bin ich, und wenn ja, wie viele?&#8221; Schon die Wahl der Überschrift zeigt seine unorthodoxe Herangehensweise an Philosophie, die sich dann auch durch das gesamte Buch zieht. Denn anstatt von den wichtigen Philosophen auszugehen und deren Werke zusammenzufassen, steht für ihn stets eine konkrete Frage im Mittelpunkt eines Kapitels, welche er gekonnt mit einem Philosophen und seinem Wirkungsort verknüpft. 
 

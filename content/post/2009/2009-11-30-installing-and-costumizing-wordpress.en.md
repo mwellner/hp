@@ -4,24 +4,11 @@ date: 2009-11-30T00:00:00+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
+  - weblog
 tags:
-  - configure @en
-  - customize @en
-  - experience @en
-  - helper @en
-  - install @en
-  - installation @en
-  - plugin @en
-  - selection @en
-  - tag @en
-  - tagging @en
-  - theme @en
-  - tools @en
-  - Weblog @en
-  - Wordpress @en
+  - wordpress
 ---
-It&#8217;s been a week since I moved my Weblog from [ETH Weblog services](http://blogs.ethz.ch) to my own server. This move has been a great success so far. In this post I would like to share some initial problems and how I overcame them and which plugins I decided to use.
+It's been a week since I moved my Weblog from [ETH Weblog services](http://blogs.ethz.ch) to my own server. This move has been a great success so far. In this post I would like to share some initial problems and how I overcame them and which plugins I decided to use.
 
 **Installation**
 

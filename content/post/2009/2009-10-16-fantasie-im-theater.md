@@ -5,13 +5,6 @@ lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater
-tags:
-  - fantasie
-  - imagination
-  - konzentration
-  - phantasie
-  - training
-  - vorstellungskraft
 ---
 Stellen Sie sich vor, Sie hätten absolut keine Fantasie &#8212; wäre das nicht ein trostloses Dasein? Denn erst das Hervorrufen von Bildern und Ideen jenseits des Existierenden lässt Sie unbekannte Probleme lösen und ermöglicht es Ihnen, sich in andere Menschen hineinzuversetzen und somit zwischenmenschliche Beziehungen aufzubauen. 
 

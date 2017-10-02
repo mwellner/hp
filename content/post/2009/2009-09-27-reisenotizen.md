@@ -6,21 +6,7 @@ author: Mathias Wellner
 categories:
   - reisen
 tags:
-  - baskenland
-  - bilbao
-  - burbia
-  - el bierzo
-  - gehry
-  - guggenheim
-  - industrie
-  - kunst
-  - modern
-  - museum
-  - nebel
-  - serra
   - spanien
-  - stadt
-  - wandern
 ---
 #### Architektur und Kunst in Bilbao
 

@@ -1,7 +1,7 @@
 ---
 title: Handling huge amounts of raw data with Matlab
 date: 2009-04-07T12:12:41+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T13:15:23+00:00
 author: Mathias Wellner
 categories:
   - programming

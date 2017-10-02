@@ -1,7 +1,7 @@
 ---
 title: Theater-Video von Arkadien
 date: 2009-08-22T17:23:24+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T13:45:42+00:00
 author: Mathias Wellner
 categories:
   - theater

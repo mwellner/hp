@@ -1,7 +1,7 @@
 ---
 title: Zivilschutzanlage
 date: 2009-06-30T22:19:14+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T13:31:52+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

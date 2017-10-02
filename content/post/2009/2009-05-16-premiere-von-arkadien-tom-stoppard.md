@@ -1,7 +1,7 @@
 ---
 title: Tom Stoppard -- Arkadien, Premiere
 date: 2009-05-16T22:30:40+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T13:21:43+00:00
 author: Mathias Wellner
 categories:
   - theater

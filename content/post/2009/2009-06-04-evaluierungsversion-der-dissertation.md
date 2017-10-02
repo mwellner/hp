@@ -1,7 +1,7 @@
 ---
 title: Evaluierungsversion der Dissertation
 date: 2009-06-04T14:06:32+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T13:22:34+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

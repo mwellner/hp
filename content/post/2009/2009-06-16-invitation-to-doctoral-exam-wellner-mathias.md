@@ -1,7 +1,7 @@
 ---
 title: Invitation to Doctoral Exam WELLNER, Mathias
 date: 2009-06-16T15:42:12+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T13:23:54+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

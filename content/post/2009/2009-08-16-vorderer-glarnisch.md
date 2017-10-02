@@ -1,7 +1,7 @@
 ---
 title: Vorderer Glärnisch
 date: 2009-08-16T22:27:21+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T13:40:47+00:00
 author: Mathias Wellner
 categories:
   - wandern

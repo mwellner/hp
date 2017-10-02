@@ -1,7 +1,7 @@
 ---
 title: 'Toneelgroep Amsterdam &ndash; Romeinse tragedies'
 date: 2009-08-14T23:51:40+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T13:40:11+00:00
 author: Mathias Wellner
 categories:
   - theater

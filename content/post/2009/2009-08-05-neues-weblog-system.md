@@ -1,7 +1,7 @@
 ---
 title: Neues Weblog-System
 date: 2009-08-05T22:24:11+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T13:39:08+00:00
 author: Mathias Wellner
 categories:
   - weblog

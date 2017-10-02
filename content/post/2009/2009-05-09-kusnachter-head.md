@@ -1,7 +1,7 @@
 ---
 title: Küsnachter Head
 date: 2009-05-09T20:33:56+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T13:17:14+00:00
 author: Mathias Wellner
 categories:
   - sport

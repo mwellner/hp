@@ -1,7 +1,7 @@
 ---
 title: Nikolaj Gogol -- Der Revisor
 date: 2009-11-27T23:12:39+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T14:48:24+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,7 +1,7 @@
 ---
 title: Umziehen, Zügeln
 date: 2009-12-29T15:48:09+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T14:51:49+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

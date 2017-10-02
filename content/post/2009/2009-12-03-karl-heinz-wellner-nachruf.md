@@ -1,7 +1,7 @@
 ---
 title: Karl-Heinz Wellner (6.1.1920 – 1.11.2009)
 date: 2009-12-03T23:48:32+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T14:49:57+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

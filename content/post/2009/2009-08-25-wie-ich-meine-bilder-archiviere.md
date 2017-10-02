@@ -1,7 +1,7 @@
 ---
 title: Wie ich meine Bilder archiviere
 date: 2009-08-25T20:45:18+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T14:42:41+00:00
 author: Mathias Wellner
 categories:
   - fotografie

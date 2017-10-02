@@ -1,7 +1,7 @@
 ---
 title: Phantasy and Theatre
 date: 2009-10-17T12:36:30+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T14:45:46+00:00
 author: Mathias Wellner
 categories:
   - theater

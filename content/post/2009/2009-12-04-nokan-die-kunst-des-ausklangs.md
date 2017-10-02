@@ -1,7 +1,7 @@
 ---
 title: Nokan -- Die Kunst des Ausklangs
 date: 2009-12-04T22:59:37+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-02T14:52:02+00:00
 author: Mathias Wellner
 categories:
   - film

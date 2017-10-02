@@ -6,21 +6,8 @@ author: Mathias Wellner
 categories:
   - politik
 tags:
-  - Abstimmung
-  - Antrag
-  - beantragen
-  - Briefwahl
-  - Bundestag
-  - Bundeswahlleiter
-  - Deutschland
-  - Parlament
-  - Partei
-  - Parteien
-  - politik
-  - Wahl
-  - wählen
-  - Wahlschein
-  - Wahlunterlagen
+  - bundestagswahl
+  - deutschland
 ---
 Wenn ihr, so wie ich, im Ausland lebende Deutsche seid, solltet ihr demnächst euren Wahlschein beantragen. Der Stichtag ist der 6. September, bis dahin muss der Antrag bei der Gemeinde eingehen, wo ihr zuletzt gewohnt habt. Voraussetzung ist natürlich, dass ihr keinen Wohnsitz mehr in Deutschland habt, sonst gehen die Wahlunterlagen ohnehin an diese Adresse.
 

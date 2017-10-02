@@ -3,17 +3,8 @@ title: A LaTeX template for my dissertation
 date: 2009-05-11T16:49:25+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";'
-tags:
-  - documents
-  - LaTeX
-  - layout
-  - package
-  - pdfTeX
-  - template
-  - text
-  - typography
+categories:
+  - latex
 ---
 In the recent weeks I have spent a lot of time to polish the draft of my dissertation with the help of LaTeX. In this article, I would like to share the packages I used. This list of packages comes close to a template, but you must still decide which package you need.
 

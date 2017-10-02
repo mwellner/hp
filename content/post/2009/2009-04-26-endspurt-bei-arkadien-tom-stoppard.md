@@ -1,23 +1,13 @@
 ---
-title: 'Endspurt bei &#8220;Arkadien&#8221; (Tom Stoppard)'
+title: Tom Stoppard -- Arkadien, Endspurt
 date: 2009-04-26T16:22:25+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - theater
 tags:
   - akitiv
-  - arkadien
-  - design
-  - Endspurt
-  - Foto
-  - Fraktal
-  - Plakat
-  - theater
-  - theatre
-  - Tom Stoppard
+  - tom stoppard
 ---
 In drei Wochen haben wir Premiere, so langsam beginnt der Endspurt. Die meisten Sachen sind geklärt, jetzt müssen wir uns noch darum kümmern, dass auch tatsächlich Leute kommen. Eine erste Maßnahme war die Gestaltung eines passenden Plakats, wie letztes Jahr hatten wir erst in der Gruppe Ideen gesammelt, dann eine ausgewählt und fotografisch umgesetzt. Am Ende setzte sich das Duell-Motiv durch, bei dem sich ein männliches Mitglied der alten Zeit mit Steinschlosspistole und ein weibliches der neuen Zeit mit Laptop Rücken an Rücken gegenüber stehen. Den Hintergrund bildet ein Fraktal.
 

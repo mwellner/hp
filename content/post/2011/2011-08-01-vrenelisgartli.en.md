@@ -5,8 +5,6 @@ lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - hiking
-  - images
-  - sports and hobbies
 ---
 I finished another mountain tour and crested the peak Vrenelisgärtli. It was an easy mountain tour with a longer glacier passage, a steep, almost vertical rock wall and a snow-covered ridge. 
 

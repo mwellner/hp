@@ -3,20 +3,10 @@ title: please (OONA Projekt / Marisa Godoy)
 date: 2009-05-12T22:22:24+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - theater
 tags:
-  - Auftreten
-  - Bühne
-  - Bühnendilemma
-  - gefallen
-  - Gessnerallee
-  - Klischee
-  - Performance
-  - Tanz
-  - theater
+  - gessnerallee
 ---
 Seit April bin ich im Gessnerallee Backstage-Programm dabei. Das ist eine Kombination aus wöchentlichem Theatertraining und gemeinsamen Vorstellungsbesuchen, durchgeführt von [Golda Eppstein](http://www.eppstein.ch/).
 

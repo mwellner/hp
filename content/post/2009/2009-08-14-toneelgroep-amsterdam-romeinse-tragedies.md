@@ -6,17 +6,9 @@ author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Inszenierung
-  - Macht
-  - modern
-  - politik
-  - römisch
-  - Shakespeare
-  - theater
-  - Theaterspektakel
-  - Tragödie
-  - Werft
-  - Zürich
+  - william shakespeare
+  - theaterspektakel
+  - zürich
 ---
 Im Rahmen des [Zürcher Theaterspektakels](http://www.theaterspektakel.ch/) besuchte ich heute die _Römischen Tragödien_ der holländischen Gruppe [Toneelgroep Amsterdam](http://www.toneelgroepamsterdam.nl). Ausgangspunkt der ambitionierten Produktion waren die drei Shakespeare-Tragödien [Coriolanus](http://en.wikipedia.org/wiki/Coriolanus_(play)), [Julius Caesar](http://en.wikipedia.org/wiki/Julius_Caesar_%28play%29), and [Antony and Cleopatra](http://en.wikipedia.org/wiki/Antony_and_Cleopatra). Die Inszenierung nutzte eine moderne Übersetzung ins Holländische (soweit ich das anhand der deutschen Simultanübertitel beurteilen kann) und stellte alle wesentlichen Charaktere in Business-Kleidung dar. Ort war ebenfalls eine Business-Lounge, als Zuschauer konnte man sich frei bewegen. Ich probierte das auch aus, jedoch spielten die meisten Szenen dann doch auf der Bühne zwischen Lounge und Zuschauerraum, so dass man vom normalen Sitzplatz den besten Blick auf die Geschehnisse hatte. Kameras fingen das Geschehen ein und stellten es auf Bildschirmen in der Lounge dar, ich fand das aber mit der Zeit etwas anstrengend.
 

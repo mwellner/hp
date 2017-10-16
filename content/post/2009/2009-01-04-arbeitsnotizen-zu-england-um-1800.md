@@ -1,7 +1,7 @@
 ---
 title: Arbeitsnotizen zu England um 1800
 date: 2009-01-04T02:12:11+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-16T23:31:26+00:00
 author: Mathias Wellner
 categories:
   - theater

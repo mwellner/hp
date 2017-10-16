@@ -1,7 +1,7 @@
 ---
 title: 2009 -- Dissertation und Stanislawski
 date: 2009-01-02T15:41:13+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-16T23:31:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Bilder vom China-Urlaub
 date: 2008-10-20T22:07:43+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-10-16T23:30:49+00:00
 author: Mathias Wellner
 categories:
   - reisen

@@ -6,18 +6,7 @@ author: Mathias Wellner
 categories:
   - theater
 tags:
-  - bühne
-  - ernsthaft
-  - erster satz letzter satz
   - impro
-  - improvisation
-  - lustig
-  - mimik
-  - spiel
-  - übertreiben
-  - übertrieben
-  - unterhaltsam
-  - unterhaltung
 ---
 Nach unserem ersten Auftritt als Improtheatergruppe (siehe [Impromatch in Uster](http://www.mwellner.de/2009/02/26/impromatch-in-uster/)) möchte ich reflektieren, wie es sich angefühlt hat, auf der Bühne vor Publikum zu improvisieren und welche Art Spiel dadurch begünstigt wird.
 

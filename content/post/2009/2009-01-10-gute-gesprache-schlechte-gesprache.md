@@ -4,18 +4,7 @@ date: 2009-01-10T12:55:56+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - theater
-tags:
-  - aktives zuhören
-  - akzeptieren
-  - austausch
-  - bühne
-  - gespräch
-  - intensiv
-  - offen
-  - offenheit
-  - zuhören
+  - tagebuch
 ---
 Gerade in den Weihnachtstagen mit Ferien und Familientreffen ergeben sich eine Vielzahl von persönlichen, längeren Gesprächen. Durch die Vielzahl der Begegnungen ergeben sich nun sowohl gute als auch weniger gute Gespräche. Aus meiner Sicht sind gute Gespräche nur dann möglich, wenn beide Gesprächspartner genügend Raum haben und sich und ihre Befindlichkeit akzeptiert wissen. Und dies ist nur durch wechselseitiges, [aktives Zuhören](http://de.wikipedia.org/wiki/Zuh%C3%B6ren) möglich. Diese Art des Zuhörens bedeutet, dass du dich voll und ganz darauf einlässt, was der Gesprächspartner gerade sagt. Schon die Körpersprache drückt dies aus, durch Zuwenden und Blickkontakt. Du stellst dein Ego zurück und konzentrierst dich darauf, das Gesagte aufzunehmen und nachzuvollziehen. Bei Unklarheiten fragst du kurz nach, ansonsten gehst du durch kurze bestätigende Äußerungen mit. In Gedanken bist du beim geschilderten Geschehen. Diese Art des Zuhörens erfordert Konzentration und eine freundliche, empathische Einstellung.
 

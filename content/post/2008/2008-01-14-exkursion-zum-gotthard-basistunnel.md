@@ -6,8 +6,7 @@ author: Mathias Wellner
 categories:
   - reisen
 tags:
-  - gotthard
-  - sedrun
+  - schweiz
 ---
 Um mich herum stehen orange gekleidete Leute mit orangen Helmen und Schutzbrillen. Ansonsten ist da nur dunkles Alpgestein, abgesehen von einigen vergleichsweise kleinen Röhren, eine nach oben, die andere horizontal. Es herrscht ein ohrenbetäubender Lärm hier unten, aber dafür ist es ganzjährig warm. Dennoch, es ist kein schöner Ort, zum Glück fahren die Züge dann später mit mehr als 200 km/h vorbei ohne anzuhalten. Zürich-Mailand in 2 h 40 min, dafür lohnt es schon, 18 Jahre zu bohren und zu sprengen, etliche Milliarden Franken auszugeben und dann – wenn nicht die Japaner schneller sind – den mit 57 km längsten Eisenbahntunnel der Welt zu haben. Es ist ein ambitioniertes Projekt, an dem wohl Alfred Escher seine wahre Freude gehabt hätte.
 

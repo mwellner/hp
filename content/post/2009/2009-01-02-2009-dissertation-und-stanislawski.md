@@ -8,7 +8,6 @@ categories:
 tags:
   - dissertation
   - stanislawski  
-  - ziel
 ---
 Ein neues Jahr hat begonnen und fällt zusammen mit den kurzen Ferien, welche der Jahreswechsel so mit sich bringt. Ich habe auf einmal Zeit für viele Dinge, für Familie, Freunde und auch für mich. War das letzte Jahr geprägt durch sehr viele verschiedene Aktivitäten und Hobbies, möchte ich mich nunmehr konzentrieren, beruflich auf das Schreiben der Dissertation, privat auf das Schauspielen.
 

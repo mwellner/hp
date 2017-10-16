@@ -4,14 +4,7 @@ date: 2009-01-11T20:48:30+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
-tags:
-  - dokumentarfilm
-  - film
-  - immobilienblase
-  - steuerflucht
-  - steuerhinterziehung
-  - steueroasen
+  - filme
 ---
 Der österreichische Filmemacher Erwin Wagenhofer wagte sich in seinem neuesten Film [Let&#8217;s Make Money](http://www.letsmakemoney.at) an ein Thema, das durch die Finanzkrise eine ungeheure Aktualität hat: Wie arbeitet Geld und wohin fließt es? Nachdem er sich in [We Feed the World](http://www.we-feed-the-world.at/) (2007) mit den Absurditäten der Nahrungsmittelerzeugung und -verteilung beschäftigte, hat er nun mit dem globalen Finanzsystem ein weitaus komplexeres Thema angepackt. Im Gegensatz zum zurzeit vielleicht bekanntesten Dokumentarfilmer [Michael Moore](http://de.wikipedia.org/wiki/Michael_Moore) hält er sich komplett aus seinem Filmen heraus und somit an die klassische Lehre des Dokumentarfilmens. Damit erreicht er zwar kein Millionenpublikum wie Moores Filme, aber eine höhere Glaubwürdigkeit.
 

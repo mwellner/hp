@@ -6,7 +6,7 @@ author: Mathias Wellner
 categories:
   - wissenschaft
 tags:
-  - eth
+  - eth zürich
 ---
 Heute beginnt die Studie mit Wettbewerbern in unserem [Rudersimulator](http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html). Bis zum Jahresende werden zehn Probandinnen und Probanden gegen die virtuellen Gegner antreten. Wir wollen herausfinden, ob man in Stresssituationen sein Verhalten ändert.
 

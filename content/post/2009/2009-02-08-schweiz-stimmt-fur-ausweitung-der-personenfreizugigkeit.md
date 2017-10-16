@@ -5,6 +5,8 @@ lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - politik
+tags:
+  - schweiz
 ---
 Viel stand heute auf dem Spiel. Es ging zwar nur um die Ausdehnung der Personenfreizügigkeit auf die neuen EU-Mitgliedsstaaten Bulgarien und Rumänien, aber bei einer Ablehnung hätte die EU den Großteil der bisherigen Verträge gekündigt. Dazu gehören zum Beispiel das Schengen-Abkommen für erleichterten Grenzverkehr, das Abkommen zur Personenfreizügigkeit für erleichterte Niederlassung und die Mitwirkung am EU-Forschungsprogramm. Bei einem &#8220;Nein&#8221; hätten sich also auch die Regeln für mich als Wahlschweizer mit Deutschem Pass geändert.
 

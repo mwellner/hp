@@ -8,8 +8,6 @@ categories:
 tags:
   - akitiv
   - aveth
-  - rollenprofil
-  - theater
 ---
 Die erste komplette Arbeitswoche im neuen Jahr ist vorüber. Mit Schwung habe ich auch viele neue Dinge begonnen und einige alte abgeschlossen. Wir hatten die erste [akitiv](http://www.aki.ethz.ch/akitiv/)-Theaterprobe des neuen Jahres und an diesem Tag auch den Rückzug eines Schauspielers zu beklagen. Ich brauche ein Rollenprofil, einen Lebenslauf, eine genaue Vorstellung, wie dieser Staatsanwalt tickt. 
 

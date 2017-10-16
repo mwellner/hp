@@ -7,9 +7,8 @@ categories:
   - theater
 tags:
   - akitiv
-  - rolle
-  - theater
   - arkadien
+  - tom stoppard
 ---
 Die Rollen für unser Stück _Arkadien_ stehen fest, ich werde in der alten Zeit den Landschaftsarchitekten Richard Noakes und in der Gegenwart den stummen Gus spielen. Ich hatte mir zwar eine größere Rolle erhofft, aber auch diese beiden Rollen verlangen Einiges ab und sind bestimmt lustig zu spielen.
 

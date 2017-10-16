@@ -7,7 +7,6 @@ categories:
   - science
 tags:
   - publication
-  - scientific writing
 ---
 I did it again. I revised my paper completely and resubmitted it to the journal of my choice. Compared to the [original submission](http://www.mwellner.de/2007/08/29/paper-submission/), the haptic evaluation part was removed, a structural reorganization took place, and many improvements in argumentation and plausibility were added. So now it&#8217;s in the editorial pipeline again.
 

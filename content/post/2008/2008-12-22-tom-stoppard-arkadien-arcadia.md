@@ -7,6 +7,8 @@ categories:
   - theater
 tags:
   - tom stoppard
+  - akitiv
+  - arkadien
 ---
 In Ergänzung zu meinem [kurzen Beitrag zum Stück vom 8.11.08](http://www.mwellner.de/2008/11/08/tom-stoppard-arkadien/) möchte ich mich hier intensiver mit dem Inhalt und den angesprochenen Themen des Stückes _Arkadien_ von Tom Stoppard beschäftigen.
 
@@ -22,13 +24,15 @@ Ein weiteres Thema ist die wandelnde Bedeutung einer idealen Umgebung, von _Arka
 
 In der zweiten Zeitebene des Stückes, der Gegenwart, erforscht die aktuelle Hausherrin die Geschichte des Gartens. Daneben recherchieren die Autorin Hannah und der Literaturprofessor Bernhard vergangene Ereignisse. Während Hannah sich mit der Eremitage beschäftigt, ist Bernhard versessen darauf, mit dem berühmten Gast Lord Byron wissenschaftlichen Ruhm zu erlangen. Außerdem entdeckt Valentine Coverly, ein Wissenschaftler, die Notizbücher Thomasinas und bemerkt darin ihre Vorahnungen dessen, was heute als Chaostheorie und Thermodynamik bekannt ist. Valentine ist fasziniert von der Chaostheorie, die für ihn eine Verschmelzung von Vorherbestimmung und Zufall bedeutet und dann doch wieder regelmäßige Strukturen offenbart.
 
-> Das Unvorhersagbare und das Vorbestimmte entfalten sich zugleich, um alles so zu erschaffen, wie es ist. Es
-  
-> ist so, wie die Natur sich selbst erschafft, auf jeder Stufe, die Schneeflocke genauso wie der Schneesturm. Ich find das alles zutiefst beglückend. Wieder ganz am Anfang zu sein und fast nichts zu wissen. 
+<blockquote class="blockquote">
+  Das Unvorhersagbare und das Vorbestimmte entfalten sich zugleich, um alles so zu erschaffen, wie es ist. Es ist so, wie die Natur sich selbst erschafft, auf jeder Stufe, die Schneeflocke genauso wie der Schneesturm. Ich find das alles zutiefst beglückend. Wieder ganz am Anfang zu sein und fast nichts zu wissen. 
+</blockquote>
 
 Eine irdischere Erklärung des Unvorhersagbaren kommt von der achtzehnjährigen Chloe Coverly:
 
-> Das Universum ist schon deterministisch, wie Newton gesagt hat, vielmehr, es möchte gern so sein, aber was einzig und allein total schiefläuft, is’, daß Leute irgendwelche Leute mögen, die an dieser Stelle im Plan nicht vorgesehen sind. 
+<blockquote class="blockquote">
+  Das Universum ist schon deterministisch, wie Newton gesagt hat, vielmehr, es möchte gern so sein, aber was einzig und allein total schiefläuft, is’, daß Leute irgendwelche Leute mögen, die an dieser Stelle im Plan nicht vorgesehen sind. 
+</blockquote>
 
 Dies ist ebenfalls ein Thema, welches sich durch das ganze Stück zieht. Schon die ersten Worte drehen sich um Liebe und Sex, und tatsächlich sind die meisten Charaktere verliebt, jedoch wird ihr Gefühl meist nicht erwidert. Semptimus hat zwar Sex mit Mrs. Chater, empfindet jedoch offensichtlich wenig für sie. Stattdessen liebt er Lady Croom, was diese durch einen Brief erfährt, den er für den Fall seines Todes in seinem Zimmer hinterlegt. Er wird dann auch am Abend auf ihr Zimmer bestellt, muss dann jedoch einem polnischen Klavierstimmer weichen. Thomasina schwärmt von Lord Byron, verliebt sich aber in Septimus, der jedoch ihre Liebe nicht erwidern kann und will. Captain Brice ist ganz verrückt nach Mrs Chater, die er dann nach dem Tod des unglücklichen Ezra Chater ehelicht. Im Jetzt verführt Bernard Chloe, um sie aber baldigst sitzen zu lassen.
 

@@ -3,16 +3,10 @@ title: Impromatch in Uster
 date: 2009-02-26T23:46:57+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-images:
-  - https://c1.staticflickr.com/1/713/32475777893_5c265a83f0_n.jpg
 categories:
   - theater
 tags:
   - impro
-  - improtheater
-  - match
-  - theatersport
-  - uster
 ---
 Der erste öffentliche Auftritt unserer [Improtheatergruppe](http://improzuerich.blogspot.de/) im [Freizeit- und Jugendzentrum Uster](http://www.frjz.ch/) war ein voller Erfolg! Wir konnten uns in einem Impro-Match sogar knapp gegen die Gruppe _Taramtamtam_ &ndash; den Lokalmatador &ndash; durchsetzen.
 

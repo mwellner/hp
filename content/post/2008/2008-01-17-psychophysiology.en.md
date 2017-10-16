@@ -6,11 +6,8 @@ author: Mathias Wellner
 categories:
   - science
 tags:
-  - audience
-  - physiology
-  - psychology
-  - psychophysiology
   - virtual environment
+  - eth zurich
 ---
 A new topic which we recently entered for our virtual rowing project in the [M3 lab](http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html) is the assessment of psychological states (stress, engagement, frustration) with physiological parameters (heart rate, skin conductance, brain activity). The term [psychophysiology](http://en.wikipedia.org/wiki/Psychophysiology) describes this scientific area best. 
 

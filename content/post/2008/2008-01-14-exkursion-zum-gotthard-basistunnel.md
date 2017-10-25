@@ -1,7 +1,7 @@
 ---
 title: Exkursion zum Gotthard-Basistunnel
 date: 2008-01-14T17:14:20+00:00
-lastmod: 2017-10-16T23:26:34+00:00
+lastmod: 2017-10-17T00:03:05+00:00
 author: Mathias Wellner
 categories:
   - reisen

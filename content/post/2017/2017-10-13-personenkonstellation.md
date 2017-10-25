@@ -1,6 +1,6 @@
 ---
 date: "2017-10-13T23:38:41"
-lastmod: 2017-10-16T23:41:07+00:00
+lastmod: 2017-10-17T00:03:05+00:00
 title: Der Löwe im Winter -- Personenkonstellation
 author: Mathias Wellner
 categories:

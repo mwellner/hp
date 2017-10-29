@@ -11,7 +11,7 @@ tags:
 ---
 Das Versepos [Eugen Onegin](https://de.wikipedia.org/wiki/Eugen_Onegin) von [Alexander Puschkin](https://de.wikipedia.org/wiki/Alexander_Sergejewitsch_Puschkin) gilt als modernes russisches Nationalepos und wird jedem Schulkind in Russland näher gebracht. [Pjotr Tschaikowski](https://de.wikipedia.org/wiki/Pjotr_Iljitsch_Tschaikowski) schuf 1878 daraus eine [Oper](https://de.wikipedia.org/wiki/Eugen_Onegin_(Oper)). Ich hatte das große Vergnügen, mir das Werk in der [Frankfurter Oper](http://www.oper-frankfurt.de/) anzuschauen. 
 
-<!-- more -->
+<!--more-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Olgn-Sfbv2I?rel=0" frameborder="0" allowfullscreen></iframe>
 

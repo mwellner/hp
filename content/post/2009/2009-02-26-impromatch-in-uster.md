@@ -1,7 +1,7 @@
 ---
 title: Impromatch in Uster
 date: 2009-02-26T23:46:57+00:00
-lastmod: 2017-10-17T00:03:05+00:00
+lastmod: 2017-10-26T00:15:33+00:00
 author: Mathias Wellner
 categories:
   - theater

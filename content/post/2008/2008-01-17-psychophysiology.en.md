@@ -1,7 +1,7 @@
 ---
 title: Psychophysiology
 date: 2008-01-17T17:11:31+00:00
-lastmod: 2017-10-17T00:03:05+00:00
+lastmod: 2017-10-26T00:15:33+00:00
 author: Mathias Wellner
 categories:
   - science

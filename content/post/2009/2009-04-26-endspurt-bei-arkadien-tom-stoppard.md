@@ -1,7 +1,7 @@
 ---
 title: Tom Stoppard -- Arkadien, Endspurt
 date: 2009-04-26T16:22:25+00:00
-lastmod: 2017-10-17T00:03:05+00:00
+lastmod: 2017-10-26T00:15:33+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,6 +1,6 @@
 ---
 date: "2017-10-15T23:38:41"
-lastmod: 2017-10-25T23:57:00+00:00
+lastmod: 2017-10-26T00:15:33+00:00
 title: Grube Messel
 author: Mathias Wellner
 categories:

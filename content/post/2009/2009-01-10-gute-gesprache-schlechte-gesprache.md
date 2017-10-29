@@ -1,7 +1,7 @@
 ---
 title: Gute Gespräche, schlechte Gespräche, Bühnengespräche
 date: 2009-01-10T12:55:56+00:00
-lastmod: 2017-10-17T00:03:05+00:00
+lastmod: 2017-10-26T00:15:33+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

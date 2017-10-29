@@ -5,11 +5,31 @@ author: Mathias Wellner
 ---
 Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein gutes Dutzend Produktionen als Schauspieler und eine als Regisseur. Ich habe von 2010 bis 2013 einige Kurse und Praxisproduktionen am [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch) besucht.
 
-Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) bei [Der Löwe im Winter](https://de.wikipedia.org/wiki/Der_L%C3%B6we_im_Winter) von James Goldman, die Aufführungen sind für Oktober 2017 geplant. 
-
-<div class="card-group">
+<div class="card-columns">
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/2/1639/24451385654_d67b5c3b80.jpg" width="500" height="334" alt="Das einzig Wahre">
+    <img class="card-img-top mt-0" src="https://farm5.staticflickr.com/4460/37553968276_bae379c720.jpg" alt="Der Löwe im Winter">
+    <div class="card-block">
+      <h4 class="card-title">
+        <a href="https://mga-darmstadt.de/der-loewe-im-winter">Der Löwe im Winter</a>
+      </h4>
+      <h6 class="card-subtitle text-muted">James Goldman</h6>
+      <p class="card-text">
+        <dl>
+          <dt>Rolle</dt>
+          <dd>John</dd>
+          <dt>Regie</dt>
+          <dd>Carsten Meffert</dd>
+          <dt>Produktion</dt>
+          <dd><a href="http://mga-darmstadt.de">mga darmstadt</a></dd>
+          <dt>Aufführungen</dt>
+          <dd>Okt-Nov 2017 (Darmstadt)</dd>
+        </dl>
+      </p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/2/1639/24451385654_d67b5c3b80.jpg" alt="Das einzig Wahre">
     <div class="card-block">
       <h4 class="card-title">
         <a href="http://dramateure.ch/wordpress/produktionen/das-einzig-wahre/">Das einzig Wahre</a>
@@ -29,8 +49,9 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
       </p>
     </div>
   </div>
+
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2888/33325170016_d1d2fa7021.jpg" width="500" height="333" alt="Biografie: ein Spiel">
+    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2888/33325170016_d1d2fa7021.jpg" alt="Biografie: ein Spiel">
     <div class="card-block">
       <h4 class="card-title">
         <a href="http://dramateure.ch/wordpress/produktionen/biografie-ein-spiel/">Biografie: ein Spiel</a>
@@ -49,9 +70,10 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
         </dl>
       </p>
     </div>
-  </div>  
+  </div>
+
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/769/32562383644_07f1135b51.jpg" width="500" height="333" alt="Ein idealer Gatte">
+    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/769/32562383644_07f1135b51.jpg" alt="Ein idealer Gatte">
     <div class="card-block">
       <h4 class="card-title">
         <a href="http://dramateure.ch/wordpress/produktionen/ein-idealer-gatte/">Ein idealer Gatte</a>
@@ -68,10 +90,8 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
         </dl>
       </p>
     </div>
-  </div>  
-</div>
+  </div>
 
-<div class="card-group">
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2853/11425143673_6df8b68916.jpg" width="500" height="334" alt="Szenenfoto Bananen, vorne links">
     <div class="card-block">
@@ -93,6 +113,7 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
       </p>
     </div>
   </div>
+
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3674/33405029955_82f380731e.jpg" width="500" height="333" alt="Szenenfoto Ich, treu, suche">
     <div class="card-block">
@@ -111,7 +132,8 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
         </dl>
       </p>
     </div>
-  </div>  
+  </div>
+
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3811/33405103085_5f49390215.jpg" width="500" height="333" alt="Szenenfoto, Onkel Wanja">
     <div class="card-block">
@@ -132,10 +154,8 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
         </dl>
       </p>
     </div>
-  </div>  
-</div>
+  </div>
 
-<div class="card-group">
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2901/33364872366_ca647575a7.jpg" width="500" height="334" alt="Szenenfoto Toscana-Therapie">
     <div class="card-block">
@@ -157,6 +177,7 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
       </p>
     </div>
   </div>
+
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3939/32563210164_5f6d80efa5.jpg" width="500" height="333" alt="Szenenfoto Halbkontakt">
     <div class="card-block">
@@ -177,7 +198,8 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
         </dl>
       </p>
     </div>
-  </div>  
+  </div>
+
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2871/33517189015_38daae0f86.jpg" width="500" height="333" alt="Ein idealer Gatte">
     <div class="card-block">
@@ -196,10 +218,8 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
         </dl>
       </p>
     </div>
-  </div>  
-</div>
+  </div>
 
-<div class="card-group">
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/567/33383205796_25f5938c10.jpg" width="500" height="334" alt="Szenenfoto Arkadien">
     <div class="card-block">
@@ -221,6 +241,7 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
       </p>
     </div>
   </div>
+
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3126/2573026271_20b9e203a4.jpg" width="500" height="333" alt="Szenenfoto Da waren's nur noch neun">
     <div class="card-block">
@@ -241,7 +262,8 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
         </dl>
       </p>
     </div>
-  </div>  
+  </div>
+
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/689/32581237074_292fe9165b.jpg" width="500" height="333" alt="Szenenfoto Die Lästerschule">
     <div class="card-block">
@@ -264,4 +286,3 @@ Aktuell spiele ich bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/
     </div>
   </div>  
 </div>
-

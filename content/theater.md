@@ -1,6 +1,6 @@
 ---
 title: Theater
-date: 2017-03-18T21:21:00+00:00
+date: 2017-10-29T15:23:09+00:00
 lastmod: 2017-10-29T15:23:09+00:00
 author: Mathias Wellner
 ---
@@ -285,5 +285,24 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
         </dl>
       </p>
     </div>
-  </div>  
+  </div>
+
+  <div class="card">
+    <div class="card-block">
+      <h4 class="card-title">
+        <a href="http://www.aki.ethz.ch/akitiv/archive/mankannniewissen">Man kann nie wissen</a>
+      </h4>
+      <h6 class="card-subtitle text-muted">Bernard Shaw</h6>
+      <p class="card-text">
+        <dl>
+          <dt>Rolle</dt>
+          <dd>Bohun</dd>
+          <dt>Produktion</dt>
+          <dd><a href="http://www.aki.ethz.ch/akitiv/">akitiv</a></dd>
+          <dt>Aufführungen</dt>
+          <dd>Mai 2006 (Zürich)</dd>
+        </dl>
+      </p>
+    </div>
+  </div>
 </div>

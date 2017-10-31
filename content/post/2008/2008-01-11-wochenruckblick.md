@@ -1,7 +1,7 @@
 ---
 title: Wochenrückblick
 date: 2008-01-11T17:15:08+00:00
-lastmod: 2017-10-26T00:15:33+00:00
+lastmod: 2017-10-31T23:25:44+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

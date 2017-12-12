@@ -8,7 +8,7 @@ categories:
 tags:
   - staatstheater darmstadt  
 ---
-Das [hiesige Staatstheater](https://www.staatstheater-darmstadt.de) bietet einige [Mitmach-Angebote](https://www.staatstheater-darmstadt.de/mitmachen/mitmachen/kategorien/mitspielen.html). Nachdem ich letztes Jahr zu spät dran war, hatte ich mir den Termin für diese Spielzeil rechtzeitig notiert und fand mich pünktlich am Künstlereingang des Staatstheaters ein. 
+Das [hiesige Staatstheater](https://www.staatstheater-darmstadt.de) bietet einige [Mitmach-Angebote](https://www.staatstheater-darmstadt.de/mitmachen/mitmachen/kategorien/mitspielen.html), für mich relevant eigentlich nur die Theaterwerkstatt für Erwachsene. Nachdem ich letztes Jahr zu spät dran war, hatte ich mir den Termin für diese Spielzeil rechtzeitig notiert und fand mich pünktlich am Künstlereingang des Staatstheaters ein. 
 
 Welch ein Andrang, mindestens hundert Leute tummelten sich am Eingang, alle mussten sich in eine Liste eintragen, damit im Brandfall der Überblick gewahrt blieb. Ein Teil stellte sich als Chor heraus, aber nach den anfänglichen Irritationen waren es immer noch an die 70 Leute, die in einem länglichen Raum Platz nahmen, auf Hockern und Kissen, viele standen auch. 
 

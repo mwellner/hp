@@ -30,10 +30,6 @@ h6, .h6 {
   }
 }
 
-a {
-  font-family: $font-family-sans-serif;
-}
-
 /*
  * Override Bootstrap's default container.
  */
@@ -139,7 +135,15 @@ a {
 }
 .blog-post-meta {
   margin-bottom: 1.25rem;
-  color: #999;
+  color: #777;  
+  font-family: $font-family-sans-serif;
+  font-size: 1rem;
+  .fa {
+    color: #999;
+  }
+  time {
+    margin-right: 0.7rem;
+  }
 }
 article img {
   max-width: 100%;

@@ -10,9 +10,9 @@
 
 body {
   color: #333;
-  background-color: #f7f7f7;
+  background-color: #eee;
   font-family: $font-family-serif;
-  font-size: 1.15rem;
+  font-size: 1.1rem;
 }
 
 h1, .h1,
@@ -30,6 +30,9 @@ h6, .h6 {
   }
 }
 
+a {
+  font-family: $font-family-sans-serif;
+}
 
 /*
  * Override Bootstrap's default container.
@@ -44,21 +47,13 @@ h6, .h6 {
  * Masthead for nav
  */
 .blog-masthead {
-  margin-bottom: 3rem;
-  .navbar {
-    background-image: url("../images/kunstakademie.jpg");
-    background-size: cover;
-    padding-bottom: 3rem;
-    padding-left: 2rem;
-    min-height: 240px;
-    .nav-link {
-      background: linear-gradient(to bottom, hsla(0, 0%, 0%, 0.0), hsla(0, 0%, 0%, 0.5) 20%, hsla(0, 0%, 0%, 0.6) 50%, hsla(0, 0%, 0%, 0.5) 80%, hsla(0, 0%, 0%, 0.0) 100%);
-    }
-  }
+  margin-bottom: 2rem;
+  background-color: #222;
   .navbar-brand {
-    color: white;
-    background: linear-gradient(to bottom, hsla(0, 0%, 0%, 0.0), hsla(0, 0%, 0%, 0.5) 20%, hsla(0, 0%, 0%, 0.6) 50%, hsla(0, 0%, 0%, 0.5) 80%, hsla(0, 0%, 0%, 0.0) 100%);    
-    padding: 0.7rem 0.5rem;
+    color: #eee;
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 1.5rem;
+    margin-right: 2rem;
   }  
 }
 
@@ -67,12 +62,11 @@ h6, .h6 {
   position: relative;
   padding: 1rem;
   font-weight: 500;
-  color: #cdddeb;
+  color: #3effff;  
 }
 .nav-link:hover,
 .nav-link:focus {
   color: #fff;
-  background-color: transparent;
 }
 
 /* Active state gets a caret at the bottom */

@@ -1,6 +1,6 @@
 DefaultContentLanguage = "de"
 languageCode = "de-de"
-title = "mathias wellner"
+title = "Mathias Wellner"
 baseurl = "https://mwellner.de/"
 theme = "hugo-theme-bootstrap4-blog"
 googleAnalytics = "UA-3650294-2"
@@ -14,9 +14,6 @@ paginate = 10
 [params]
   author = "Mathias Wellner"
   date_format = "02.01.2006"
-
-[params.sidebar]
-  num_recent_posts = 6
 
 [Languages]
 [Languages.de]

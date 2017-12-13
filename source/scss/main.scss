@@ -30,10 +30,17 @@ h6, .h6 {
   }
 }
 
+dl {
+  font-size: 1rem;
+}
+
+dt {
+  font-size: 0.9rem;
+}
+
 /*
  * Override Bootstrap's default container.
  */
-
 .container {
   max-width: 100rem;
 }

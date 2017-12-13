@@ -10,9 +10,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://farm5.staticflickr.com/4460/37553968276_bae379c720.jpg" alt="Der Löwe im Winter">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="https://mga-darmstadt.de/der-loewe-im-winter">Der Löwe im Winter</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">James Goldman</h6>
       <p class="card-text">
         <dl>
@@ -32,9 +32,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/2/1639/24451385654_d67b5c3b80.jpg" alt="Das einzig Wahre">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://dramateure.ch/wordpress/produktionen/das-einzig-wahre/">Das einzig Wahre</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Tom Stoppard</h6>
       <p class="card-text">
         <dl>
@@ -54,9 +54,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2888/33325170016_d1d2fa7021.jpg" alt="Biografie: ein Spiel">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://dramateure.ch/wordpress/produktionen/biografie-ein-spiel/">Biografie: ein Spiel</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Max Frisch</h6>
       <p class="card-text">
         <dl>
@@ -76,9 +76,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/769/32562383644_07f1135b51.jpg" alt="Ein idealer Gatte">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://dramateure.ch/wordpress/produktionen/ein-idealer-gatte/">Ein idealer Gatte</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Oscar Wilde</h6>
       <p class="card-text">
         <dl>
@@ -96,9 +96,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2853/11425143673_6df8b68916.jpg" width="500" height="334" alt="Szenenfoto Bananen, vorne links">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://theater-frischfleisch.ch/?page_id=9">Bananen, vorne links</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Eigenentwicklung</h6>
       <p class="card-text">
         <dl>
@@ -118,7 +118,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3674/33405029955_82f380731e.jpg" width="500" height="333" alt="Szenenfoto Ich, treu, suche">
     <div class="card-block">
-      <h4 class="card-title">Ich, treu, suche</h4>
+      <h5 class="card-title">Ich, treu, suche</h5>
       <h6 class="card-subtitle text-muted">Eveline Ketterer</h6>
       <p class="card-text">
         <dl>
@@ -138,9 +138,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3811/33405103085_5f49390215.jpg" width="500" height="333" alt="Szenenfoto, Onkel Wanja">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://dramateure.ch/mediawiki/index.php?title=Onkel_Wanja">Onkel Wanja</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Anton Tschechow</h6>
       <p class="card-text">
         <dl>
@@ -160,9 +160,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2901/33364872366_ca647575a7.jpg" width="500" height="334" alt="Szenenfoto Toscana-Therapie">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://dramateure.ch/mediawiki/index.php?title=Toscana-Therapie">Toscana-Therapie</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Robert Gernhard</h6>
       <p class="card-text">
         <dl>
@@ -182,9 +182,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3939/32563210164_5f6d80efa5.jpg" width="500" height="333" alt="Szenenfoto Halbkontakt">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://theater-frischfleisch.ch/?page_id=56">Halbkontakt</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Lisa Stadler</h6>
       <p class="card-text">
         <dl>
@@ -204,7 +204,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2871/33517189015_38daae0f86.jpg" width="500" height="333" alt="Ein idealer Gatte">
     <div class="card-block">
-      <h4 class="card-title">Top Dogs</h4>
+      <h5 class="card-title">Top Dogs</h5>
       <h6 class="card-subtitle text-muted">Urs Widmer</h6>
       <p class="card-text">
         <dl>
@@ -224,9 +224,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/567/33383205796_25f5938c10.jpg" width="500" height="334" alt="Szenenfoto Arkadien">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://www.aki.ethz.ch/akitiv/archive/arkadien/index.html">Arkadien</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Tom Stoppard</h6>
       <p class="card-text">
         <dl>
@@ -246,9 +246,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3126/2573026271_20b9e203a4.jpg" width="500" height="333" alt="Szenenfoto Da waren's nur noch neun">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://www.aki.ethz.ch/akitiv/archive/nurnochneun/index.html">Da waren's nur noch neun</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Agatha Christie</h6>
       <p class="card-text">
         <dl>
@@ -268,9 +268,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   <div class="card">
     <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/689/32581237074_292fe9165b.jpg" width="500" height="333" alt="Szenenfoto Die Lästerschule">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://www.aki.ethz.ch/akitiv/archive/laesterschule/index.html">Die Lästerschule</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Richard B. Sheridan</h6>
       <p class="card-text">
         <dl>
@@ -289,9 +289,9 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
 
   <div class="card">
     <div class="card-block">
-      <h4 class="card-title">
+      <h5 class="card-title">
         <a href="http://www.aki.ethz.ch/akitiv/archive/mankannniewissen">Man kann nie wissen</a>
-      </h4>
+      </h5>
       <h6 class="card-subtitle text-muted">Bernard Shaw</h6>
       <p class="card-text">
         <dl>

@@ -38,27 +38,17 @@ dt {
   font-size: 0.9rem;
 }
 
-/*
- * Override Bootstrap's default container.
- */
-.container {
-  max-width: 100rem;
-}
-
-
-/*
- * Masthead for nav
- */
-.blog-masthead {
+.navbar {
   margin-bottom: 2rem;
-  background-color: #222;
-  .navbar-brand {
-    color: #eee;
-    font-family: 'Dancing Script', sans-serif;
-    font-size: 1.5rem;
-    margin-right: 2rem;
-  }  
 }
+
+.navbar-brand {
+  color: #eee;
+  font-family: 'Dancing Script', sans-serif;
+  font-size: 1.5rem;
+  margin-right: 2rem;
+}  
+
 
 /* Nav links */
 .nav-link {
@@ -223,4 +213,13 @@ section + #disqus_thread {
   h3 {
     color: hsla(0, 0%, 100%, 0.9);
   }
+}
+
+.card-columns {
+  @include media-breakpoint-only(sm) {
+    column-count: 2;
+  }
+  @include media-breakpoint-only(md) {
+    column-count: 2;
+  }  
 }

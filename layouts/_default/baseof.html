@@ -28,39 +28,37 @@
   </head>
 
   <body>    
-    <div class="blog-masthead">
-      <nav class="container navbar navbar-toggleable-md">
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <a class="navbar-brand" href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title | safeHTML }}</a>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title | safeHTML }}</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item {{ if .IsHome }}active{{ end }}">
-              <a class="nav-link" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
-            </li>
-            {{ if .Site.Params.custom_navbar }}
-            {{ range .Site.Menus.navbar }}
-            <li class="nav-item {{ if eq $.URL .URL }}active{{ end }}">
-              <a class="nav-link" href="{{.URL | absURL }}">{{ .Name }}</a>
-            </li>
-            {{ end }}
-            {{ else }}
-            {{ range where .Site.RegularPages "Type" "!=" "post" }}
-            <li class="nav-item {{ if eq $.URL .URL }}active{{ end }}">
-              <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-            {{ end }}
-            {{ end }}
-          </ul>
-        </div>
-      </nav>
-    </div>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item {{ if .IsHome }}active{{ end }}">
+            <a class="nav-link" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
+          </li>
+          {{ if .Site.Params.custom_navbar }}
+          {{ range .Site.Menus.navbar }}
+          <li class="nav-item {{ if eq $.URL .URL }}active{{ end }}">
+            <a class="nav-link" href="{{.URL | absURL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+          {{ else }}
+          {{ range where .Site.RegularPages "Type" "!=" "post" }}
+          <li class="nav-item {{ if eq $.URL .URL }}active{{ end }}">
+            <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+          {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+    </nav>
 
     <div class="container">
       <div class="row">
-        <div class="col-sm-10 blog-main">
+        <div class="col-sm-12 blog-main">
 
           {{ block "main" . }}
           <!-- The part of the page that begins to differ between templates -->

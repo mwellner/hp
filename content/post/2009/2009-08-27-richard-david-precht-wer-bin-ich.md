@@ -1,5 +1,6 @@
 ---
 title: Richard David Precht -- Wer bin ich, und wenn ja, wie viele?
+slug: richard-david-precht-wer-bin-ich
 date: 2009-08-27T13:26:15+00:00
 lastmod: 2017-10-02T14:43:29+00:00
 author: Mathias Wellner
@@ -16,7 +17,5 @@ Ein Beispiel ist &#8220;Darf man Menschen töten?&#8221;, was ihn nach London f�
 In allen Kapiteln vermittelt er in seiner humorvollen Art einen anekdotischen Einblick in das Leben des Philosophen oder Wissenschaftlers, um schließlich zur Ausgangsfrage zurückzukehren und diese zu diskutieren. Dabei vereinfacht er bewusst die komplexe Thematik, um eine klare Antwort auf die Kapitelfrage zu finden. Auf jeden Fall erschienen mir die Giganten der Geisteswelt jetzt in einem sehr menschlichen Licht und ich sehe die Unzulänglichkeiten ihrer Werke klarer. 
 
 Einen Ausschnitt habe ich für euch gelesen und stelle ihn als Podcast zur Verfügung. Es geht um die berühmten Worte &#8220;Ich denke, also bin ich&#8221; von [René Descartes](http://de.wikipedia.org/wiki/Descartes). 
-
-[contentblock id=audio source=&#8221;http://www.mwellner.de/sound/20090827.mp3&#8243; type=&#8221;audio/mp3&#8243;]
 
 Insgesamt kann ich dieses Buch absolut empfehlen, es gefällt mir deutlich besser als [Sofies Welt](http://de.wikipedia.org/wiki/Sofies_Welt), was eine ähnliche Zielstellung besitzt. Und außerdem gibt es etliche Bezüge zu aktuellen Forschungsthemen, insbesondere zur Hirnforschung, die mich sehr angesprochen haben.

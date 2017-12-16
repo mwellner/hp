@@ -1,22 +1,12 @@
 ---
 title: Großer Mythen
+slug: grosser-mythen
 date: 2010-05-24T20:42:16+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-jd_tweet_this:
-  - 'yes'
-wp_jd_clig:
-  - 'http%3A%2F%2Fwww.mwellner.de%2F2010%2F05%2F24%2Fgrosser-mythen%2F'
-wp_jd_target:
-  - 'http%3A%2F%2Fwww.mwellner.de%2F2010%2F05%2F24%2Fgrosser-mythen%2F'
 categories:
-  - 'sport &amp; freizeit'
   - wandern
 tags:
-  - Bergwandern
-  - brunni
-  - Grosser Mythen
-  - Großer Mythen
   - mythen
   - schwyz
 ---

@@ -1,20 +1,18 @@
 ---
-title: 'Probenfotos &#8220;Ich, treu, suche&#8221;'
+title: 'Probefotos &#8220;Ich, treu, suche&#8221;'
+slug: ich-treu-suche-probefotos
 date: 2012-12-17T23:12:26+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - theater
 tags:
-  - Aufmerksamkeit
-  - Requisiten
-  - Schauspiel
-  - theater
+  - ich treu suche
+  - klima
 ---
 Die Proben zur ersten [Klima](http://www.klima-das-theater.ch)-Produktion gehen gut voran, die Premiere ist in zwei Monaten in Kreuzlingen am Bodensee. Wir haben zwar noch nicht alle Szenen im Detail gemacht, aber der Gesamtablauf steht schon mal. Wir wissen mehr oder weniger, wo wir wann sein werden und was mit den Requisiten geschieht. Das ist schon mal recht gut zu diesem Zeitpunkt. 
 
-Nie vergessen werde ich in diesem Zusammenhang unsere Hochgeschwindigkeitsproduktion [Toscana-Therapie](http://www.mwellner.de/schauspiel/robert-gernhardt-toscana-therapie/), bei der wir erst eine Woche vor der Premiere alle Teller, Tassen und Kaffeekannen beisammen hatten. Es ging dann schon alles gut, aber es war ein ungeheurer Stress, sich diese ganzen zusätzlichen Abläufe zu merken. Aber diesmal werden wir gut vorbereitet sein. 
+Nie vergessen werde ich in diesem Zusammenhang unsere Hochgeschwindigkeitsproduktion _Toscana-Therapie_, bei der wir erst eine Woche vor der Premiere alle Teller, Tassen und Kaffeekannen beisammen hatten. Es ging dann schon alles gut, aber es war ein ungeheurer Stress, sich diese ganzen zusätzlichen Abläufe zu merken. Aber diesmal werden wir gut vorbereitet sein. 
 
 Für den Schauspieler muss der Umgang mit Kostüm und Requisiten ganz selbstverständlich sein. Wenn man zum ersten Mal etwas in der Hand hat, ist das immer ungewohnt und verschlingt einen kostbaren Teil der Aufmerksamkeit. Und die braucht man noch für genug andere Dinge. Außerdem kennt die Figur ja höchstwahrscheinlich den Gegenstand, benutzt ihn täglich. 
 

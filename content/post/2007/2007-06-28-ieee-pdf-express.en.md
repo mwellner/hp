@@ -10,17 +10,19 @@ In the past I very often had the impression that most of my friends believe I ha
 
 Imagine you spent weeks and months on something like a optimization or extensive study of a new virtual environment feedback strategy. You worked out all the problems, cheered up your despaired students, tracked down cryptic C++ Compiler errors, spent night after night in the lab to just solve that _last_ problem, kept your boss informed and amused, and finally you have got the graphs and all the knowledge that you want to share with the scientific world. So you select a nice conference (in our field the most important conferences are sponsored by [IEEE](http://www.ieee.org)), and write down your dearly bought knowledge. You even used a template to rule out your inadequate wisdom on the fonts, sizes, margins, and such things. And this is what _pdf express_ sends to you:
 
-> Dear Mathias Wellner,
-> 
-> The following PDF has failed the PDF Check:
-> 
-> Filename: Filename.pdf
-  
-> Title: Great Results in Rehabilitation Robotics
-  
-> Paper ID: 4491
-> 
-> Please see the attached report for a list of the specific problem areas.
+<blockquote class="blockquote">
+Dear Mathias Wellner,<br>
+<br>
+The following PDF has failed the PDF Check:<br>
+<br>
+Filename: Filename.pdf<br>
+<br>
+Title: Great Results in Rehabilitation Robotics<br>
+<br>
+Paper ID: 4491<br>
+<br>
+Please see the attached report for a list of the specific problem areas.
+</blockquote>
 
 And these are the problems, that the report revealed:
 

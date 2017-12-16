@@ -1,26 +1,12 @@
 ---
 title: 'Peter Handke: Kali'
+slug: peter-handke-kali
 date: 2007-06-19T23:09:21+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
-podPressMedia:
-  - 's:342:"s:333:"a:1:{i:0;a:10:{s:3:"URI";s:54:"http://www.mwellner.de/sound/PeterHandkeKaliAuszug.mp3";s:5:"title";s:27:"Peter Handke: Kali (Auszug)";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"UNKNOWN";s:8:"duration";s:7:"UNKNOWN";s:12:"previewImage";s:0:"";s:10:"dimensionW";s:0:"";s:10:"dimensionH";s:0:"";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}";";'
-enclosure:
-  - |
-    http://www.mwellner.de/sound/PeterHandkeKaliAuszug.mp3
-    3309400
-    audio/mpeg
-    a:5:{s:6:"format";s:14:"default-format";s:8:"keywords";s:0:"";s:6:"author";s:0:"";s:6:"length";s:0:"";s:8:"explicit";s:0:"";}
 tags:
-  - Besprechung
-  - Buch
-  - Gleichgueltigkeit
   - Kali
   - Peter Handke
-  - Rezension
-  - Roman
 ---
 Ein paar Gedanken zum Buch, inspiriert durch die [Kritik im Deutschlandfunk](http://www.dradio.de/dkultur/sendungen/kritik/600366/), durch eine Sendung im DLF wurde ich auch auf das Werk aufmerksam.
 

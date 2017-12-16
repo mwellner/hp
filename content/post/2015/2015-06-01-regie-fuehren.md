@@ -5,16 +5,10 @@ lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater
+tags:
+  - regie
 ---
 Zurzeit besuche ich den Kurs <a href="http://zes-info.ch/ZES/Kurs_Schauspielen_unter_Regieanweisung.html" title="Schauspielen unter Regieanweisung" target="_blank">Schauspielen unter Regieanweisung</a>. Das Erarbeiten einer Szene ist ein künstlerischer Prozess, bei dem verschiedene Menschen naturgemäß verschiedene Vorstellungen haben werden. Und als Regisseur darf man diesen Prozess nun lenken und gestalten. Ein wesentliches Element der künstlerischen Arbeit sind die Regieanweisungen. 
-
-<div id="attachment_4526" style="width: 1034px" class="wp-caption aligncenter">
-  <img src="/wp-uploads/2014/06/DSC1727.jpg" alt="Laura Cheveley und Lord Goring, Foto Alexander Zipes" width="1024" height="683" class="size-full wp-image-4526" srcset="http://www.mwellner.de/wp-uploads/2014/06/DSC1727.jpg 1024w, http://www.mwellner.de/wp-uploads/2014/06/DSC1727-300x200.jpg 300w, http://www.mwellner.de/wp-uploads/2014/06/DSC1727-224x150.jpg 224w, http://www.mwellner.de/wp-uploads/2014/06/DSC1727-150x100.jpg 150w" sizes="(max-width: 1024px) 100vw, 1024px" />
-  
-  <p class="wp-caption-text">
-    Szenenfoto aus meiner ersten Regiearbeit &#8220;Ein idealer Gatte&#8221;, Foto <a href="http://photoza.de" target="_blank">Alexander Zipes</a>
-  </p>
-</div>
 
 **Ursachen vs. Effekte**
 

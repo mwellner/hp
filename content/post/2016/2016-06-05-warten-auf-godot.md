@@ -1,24 +1,18 @@
 ---
-title: Warten auf Godot (Deutsches Theater Berlin)
+title: Warten auf Godot
+slug: warten-auf-godot
 date: 2016-06-05T16:12:47+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-image: /wp-uploads/2016/06/godot1-e1465133145539-150x140.jpg
 categories:
   - theater
 tags:
-  - Absurdes Theater
-  - Existenzialismus
-  - Godot
-  - Samuel Beckett
-  - Warten auf Godot
-format: video
+  - godot
+  - samuel beckett
 ---
 Gestern abend lief im <a href="http://theater.winterthur.ch" title="Theater Winterthur" target="_blank">Theater Winterthur</a> ein Gastspiel aus Berlin, <a href="https://www.deutschestheater.de/programm/a-z/warten_auf_godot" title="Warten auf Godot" target="_blank">Warten auf Godot</a> von <a href="https://de.wikipedia.org/wiki/Samuel_Beckett" title="Samuel Beckett" target="_blank">Samuel Beckett</a>. Es war die letzte Vorstellung dieser Spielzeit, weshalb im Anschluss eine Funk-Band spielte und ein riesiges Buffet aufgebaut wurde. 
 
-
-
-<dl class="two-columns">
+<dl style="columns: 3 15rem;">
   <dt>
     Regie
   </dt>
@@ -98,44 +92,46 @@ Die Inszenierung lebte vor allem von den großartigen Schauspielern, Wladimir un
   </p>
 </div>
 
-> <dl class="two-columns">
->   <dt>
->     ESTRAGON
->   </dt>
->   
->   <dd>
->     Komm, wir gehen.
->   </dd>
->   
->   <dt>
->     WLADIMIR
->   </dt>
->   
->   <dd>
->     Wir können nicht.
->   </dd>
->   
->   <dt>
->     ESTRAGON
->   </dt>
->   
->   <dd>
->     Warum nicht?
->   </dd>
->   
->   <dt>
->     WLADIMIR
->   </dt>
->   
->   <dd>
->     Wir warten auf Godot.
->   </dd>
->   
->   <dt>
->     ESTRAGON
->   </dt>
->   
->   <dd>
->     Ach ja.
->   </dd>
-> </dl>
+<blockquote class="blockquote">
+<dl style="columns: 3 15rem;">
+  <dt>
+    ESTRAGON
+  </dt>
+  
+  <dd>
+    Komm, wir gehen.
+  </dd>
+  
+  <dt>
+    WLADIMIR
+  </dt>
+  
+  <dd>
+    Wir können nicht.
+  </dd>
+  
+  <dt>
+    ESTRAGON
+  </dt>
+  
+  <dd>
+    Warum nicht?
+  </dd>
+  
+  <dt>
+    WLADIMIR
+  </dt>
+  
+  <dd>
+    Wir warten auf Godot.
+  </dd>
+  
+  <dt>
+    ESTRAGON
+  </dt>
+  
+  <dd>
+    Ach ja.
+  </dd>
+</dl>
+</blockquote>

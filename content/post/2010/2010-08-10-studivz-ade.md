@@ -3,21 +3,10 @@ title: studiVZ ade
 date: 2010-08-10T22:58:36+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-jd_tweet_this:
-  - 'yes'
-wp_jd_bitly:
-  - http://bit.ly/bUWEtm
-wp_jd_target:
-  - http://www.mwellner.de/2010/08/10/studivz-ade/
 categories:
-  - technik
+  - tagebuch
 tags:
-  - datenschutz
   - facebook
-  - kommunikation
-  - netzwerke
-  - online
-  - soziale netzwerke
   - studivz
 ---
 Heute habe ich die Löschung meines studiVZ-Nutzerkontos veranlasst. Die Gründe dafür waren vielfältig:

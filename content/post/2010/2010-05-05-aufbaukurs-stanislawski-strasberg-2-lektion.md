@@ -3,21 +3,10 @@ title: Aufbaukurs Stanislawski-Strasberg, 2. Lektion
 date: 2010-05-05T23:55:03+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-jd_tweet_this:
-  - 'yes'
-wp_jd_clig:
-  - 'http%3A%2F%2Fwww.mwellner.de%2F2010%2F05%2F05%2Faufbaukurs-stanislawski-strasberg-2-lektion%2F'
-wp_jd_target:
-  - 'http%3A%2F%2Fwww.mwellner.de%2F2010%2F05%2F05%2Faufbaukurs-stanislawski-strasberg-2-lektion%2F'
 categories:
   - theater
 tags:
-  - Kurs
-  - Lesung
-  - Schauspiel
-  - Stanislawski
-  - Strasberg
-  - ZES
+  - zes
 ---
 In der Erwärmung versuchte ich das Gefühl von extremer Kälte zu reproduzieren. Das gelang mir recht gut, es war aber auch ein kühler, verhangener Tag. Wir sollten zusätzlich zum neutralen Text auch noch eine neutrale Tätigkeit ausführen, nämlich unter einem Stuhl durch kriechen und zurück über den Stuhl steigen. Beim Kriechen auf dem Boden war es ziemlich kalt, so dass die Kälte nicht nur nachempfunden, sondern auch echt war. 
 

@@ -3,17 +3,13 @@ title: Henry und seine Gitarre
 date: 2016-02-17T22:42:54+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
-image: /wp-uploads/2016/02/guitar-150x100.jpg
 categories:
   - theater
 tags:
-  - Bühne
-  - Das einzig Wahre
+  - das einzig wahre
   - dramateure
-  - Gitarre
-  - instrument
-  - Musik
-  - Tom Stoppard
+  - gitarre
+  - tom stoppard
 ---
 <div id="attachment_6502" style="width: 1010px" class="wp-caption aligncenter">
   <img src="http://www.mwellner.de/wp-uploads/2016/02/guitar.jpg" alt="Gitarre auf der Bühne" width="1000" height="667" class="size-full wp-image-6502" srcset="http://www.mwellner.de/wp-uploads/2016/02/guitar.jpg 1000w, http://www.mwellner.de/wp-uploads/2016/02/guitar-350x233.jpg 350w, http://www.mwellner.de/wp-uploads/2016/02/guitar-225x150.jpg 225w, http://www.mwellner.de/wp-uploads/2016/02/guitar-150x100.jpg 150w" sizes="(max-width: 1000px) 100vw, 1000px" />

@@ -36,8 +36,8 @@ And these are the problems, that the report revealed:
   * Font Arial-ItalicMT is not embedded (4x)
   * Font Helvetica is not embedded (28x)
 
-And the worst thing is, I was not even aware, that I have _links_ in this Word document, let alone _bookmarks_. Is this HTML or a web browser? And all this font embedding crap. I told Distiller to **embed all fonts**. Really all of them, so why doen&#8217;t it just listen to me? And in these moments I feel absolutely powerless and insignificant.
+And the worst thing is, I was not even aware, that I have _links_ in this Word document, let alone _bookmarks_. Is this HTML or a web browser? And all this font embedding crap. I told Distiller to **embed all fonts**. Really all of them, so why doesn't it just listen to me? And in these moments I feel absolutely powerless and insignificant.
 
-Trust me &#8211; being a PhD student is not easy!
+Trust me -- being a PhD student is not easy!
 
 Note: I finally found a way to get rid of those error messages. Instead of Word, I used IEEEs LaTeX template and created a PDF that passed this test. Yet, embedding fonts still proved problematic, as fonts of included eps figures were not embedded. I used ps2pdf with the option _prepress_ to get what I wanted. And now it is all neatly integrated in my Makefile.

@@ -1,10 +1,14 @@
 ---
 title: Dernière, Züri Fäscht
+slug: derniere-zueri-fest
 date: 2007-07-07T22:52:21+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater
+tags:
+  - akitiv
+  - lästerschule
 ---
 Die letzte Aufführung unseres Theaterstücks (im Theater-Jargon _Dernière_ genannt) ging gestern über die Bühne im aki-Garten. Dank trockenen und sonnigen Wetters konnten wir draußen spielen und hatten einen gelungenen Abschluss mit vielen Zuschauern.
 

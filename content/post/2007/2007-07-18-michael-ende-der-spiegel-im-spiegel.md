@@ -1,5 +1,6 @@
 ---
-title: 'Michael Ende: Der Spiegel im Spiegel'
+title: Michael Ende -- Der Spiegel im Spiegel
+slug: michael-ende-spiegel
 date: 2007-07-18T20:37:35+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner

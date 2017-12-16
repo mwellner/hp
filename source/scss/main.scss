@@ -2,9 +2,13 @@
  * Globals
  */
 
+html {
+  font-size: 1.1rem;
+} 
+
 @media (min-width: 48em) {
   html {
-    font-size: 18px;
+    font-size: 1.2rem;
   }
 }
 
@@ -12,7 +16,6 @@ body {
   color: #111;
   background-color: #eee;
   font-family: $font-family-serif;
-  font-size: 1.15rem;
 }
 
 h1, .h1,
@@ -199,9 +202,11 @@ section + #disqus_thread {
 .blockquote {
   padding-top: 0.2rem;
   padding-bottom: 0.2rem;
-  background-color: hsla(0, 0%, 0%, 0.05);
+  border-left: 3px solid hsla(3, 100%, 40%, 0.7);
+  background-color: hsla(0, 0%, 0%, 0.07);
+  padding-left: 1rem;
   .blockquote-footer {
-    font-style: normal;
+    font-style: italic;
     margin-top: 0.2rem;
   }
 }

@@ -1,7 +1,7 @@
 ---
 title: Überfremdung
 date: 2011-08-07T16:56:12+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-16T21:54:34+00:00
 author: Mathias Wellner
 categories:
   - politik

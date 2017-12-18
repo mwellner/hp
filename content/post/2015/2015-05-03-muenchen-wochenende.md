@@ -1,7 +1,7 @@
 ---
 title: München-Wochenende
 date: 2015-05-03T23:06:10+00:00
-lastmod: 2017-09-30T00:13:34+00:00
+lastmod: 2017-12-16T22:04:06+00:00
 author: Mathias Wellner
 categories:
   - reisen

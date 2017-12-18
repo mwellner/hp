@@ -1,7 +1,7 @@
 ---
 title: Frederick Knott -- Bei Anruf Mord
 date: 2014-07-11T21:28:44+00:00
-lastmod: 2017-09-30T00:14:59+00:00
+lastmod: 2017-12-16T22:08:00+00:00
 author: Mathias Wellner
 categories:
   - theater

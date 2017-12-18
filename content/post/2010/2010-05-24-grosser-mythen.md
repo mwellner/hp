@@ -2,7 +2,7 @@
 title: Großer Mythen
 slug: grosser-mythen
 date: 2010-05-24T20:42:16+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-16T21:50:23+00:00
 author: Mathias Wellner
 categories:
   - wandern

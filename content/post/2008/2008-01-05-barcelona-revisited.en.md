@@ -1,7 +1,7 @@
 ---
 title: Barcelona revisited
 date: 2008-01-05T17:19:35+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2017-12-16T21:30:22+00:00
 author: Mathias Wellner
 categories:
   - diary

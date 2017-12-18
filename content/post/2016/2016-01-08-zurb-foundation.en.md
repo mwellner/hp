@@ -1,7 +1,7 @@
 ---
 title: ZURB Foundation
 date: 2016-01-08T22:57:47+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-16T22:34:43+00:00
 author: Mathias Wellner
 image: /wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-150x95.jpg
 categories:

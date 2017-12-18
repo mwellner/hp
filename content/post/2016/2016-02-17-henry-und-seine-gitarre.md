@@ -1,7 +1,7 @@
 ---
 title: Henry und seine Gitarre
 date: 2016-02-17T22:42:54+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-16T22:36:16+00:00
 author: Mathias Wellner
 categories:
   - theater

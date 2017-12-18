@@ -1,6 +1,6 @@
 ---
 date: "2017-12-11T21:48:41"
-lastmod: 2017-12-13T22:50:05+00:00
+lastmod: 2017-12-18T20:22:55+00:00
 title: Informationsabend für Theaterwerkstatt
 author: Mathias Wellner
 categories:
@@ -18,4 +18,4 @@ Dann kamen die Ansagen von [Nike-Marie Steinbach](https://www.staatstheater-darm
 
 Der Probeplan steht bereits, so ziemlich jeden Montag, einige Sonntage, im Juni die Bühnenproben und Aufführungen im Kammertheater. Verpflichtend ist auch eine Dauergästekarte für 122 EUR, mit der man drei Vorstellungen besuchen kann, drei weitere zum ermäßigten Preis. Gemeinsame Theaterbesuche sind ein Teil des Prozesses. Und wer zu oft fehlt, fliegt raus. Klare Ansagen, die vermutlich schon einen Teil der Interessentenschar abschrecken dürfte. 
 
-Am Wochenende wird sich entscheiden, wer dabei ist. Dann finden die ganztägigen Auswahl-Workshops statt, jeweils von 11 bis 17 Uhr. Kein Vorsprechen, also eher Gruppenübungen, Improvisation zum gegenseitigen Kennenlernen. Und spätestens am Montag gehen dann die entscheidenden E-Mails raus. 
+Am Wochenende wird sich entscheiden, wer dabei ist. Dann finden die ganztägigen Auswahl-Workshops statt, jeweils von 11 bis 17 Uhr. Kein Vorsprechen, also eher Gruppenübungen, Improvisation zum gegenseitigen Kennenlernen. Und im Laufe der nächsten Woche gehen dann die entscheidenden E-Mails raus. 

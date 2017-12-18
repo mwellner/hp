@@ -1,7 +1,7 @@
 ---
 title: Grundkurs Stanislawski-Strasberg, 5. Lektion
 date: 2010-04-14T23:17:50+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-16T21:46:52+00:00
 author: Mathias Wellner
 excerpt: 'In der fünften Lektion stand die Fenstersturz-Szene im Mittelpunkt, eine hochdramatische Situation mit einer Selbstmörderin und einem Kommissar, der sie aufhalten möchte. Vorher ging es noch um Textlernen und wie gut man einen Text beherrschen muss. '
 aliases: 

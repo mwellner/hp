@@ -2,7 +2,7 @@
 title: Da waren's nur noch neun -- Premiere
 slug: agatha-christie-neun-premiere
 date: 2008-05-19T23:31:29+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-16T21:34:17+00:00
 author: Mathias Wellner
 categories:
   - theater

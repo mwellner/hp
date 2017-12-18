@@ -2,7 +2,7 @@
 title: Toggenburger Höhenweg
 slug: toggenburger-hoehenweg
 date: 2015-05-17T22:55:33+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-16T22:06:47+00:00
 author: Mathias Wellner
 categories:
   - wandern

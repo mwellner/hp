@@ -1,26 +1,15 @@
 ---
-title: 'Plakat &#8220;Onkel Wanja&#8221;'
+title: Onkel Wanja -- Plakat
+slug: anton-tschechow-onkel-wanja-plakat
 date: 2012-03-14T00:00:12+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T22:12:46+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - theater
 tags:
-  - Anton Tschechow
-  - Blitz
-  - Gewitter
-  - Kontur
-  - Kopf
-  - Meerjungfrau
-  - Motiv
-  - Nixe
-  - Plakat
-  - poster
-  - Profil
-  - schwarz
-  - theater
-  - Wanja
+  - anton tschechow
+  - onkel wanja
+  - dramateure
 ---
 <div style="width: 510px" class="wp-caption aligncenter">
   <img src="https://lh4.googleusercontent.com/-qeSHV-LBjUQ/T1_BV-5FJxI/AAAAAAAAAV4/U27ynAGVT_Y/s800/plakat.jpg" height="707" width="500" />

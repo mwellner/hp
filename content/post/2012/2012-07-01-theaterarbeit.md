@@ -1,20 +1,16 @@
 ---
 title: Theaterarbeit
 date: 2012-07-01T16:10:15+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T22:26:47+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
   - frischfleisch
-  - konzept
-  - rahmenhandlung
-  - thema
   - zes
 ---
 Der erste Monat des neuen Theaterprojektes beim [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch) ist 
-vorbei, Zeit für ein kleines Fazit. Im Gegensatz zu meinen [bisherigen Theatererfahrungen](http://www.mwellner.de/theater/) 
-erarbeiten wir diesmal das Stück selbst. Deshalb stand am Beginn die Ideenfindung im Mittelpunkt. 
+vorbei, Zeit für ein kleines Fazit. Im Gegensatz zu meinen bisherigen Theatererfahrungen erarbeiten wir diesmal das Stück selbst. Deshalb stand am Beginn die Ideenfindung im Mittelpunkt. 
 
 **Zeitschriften**
 
@@ -40,9 +36,9 @@ Am schwierigsten ist das Finden einer Rahmenhandlung für unsere nun doch recht 
 es sollte etwas sein, das möglichst alle betrifft. Falls da noch jemand Ideen hat, bitte melden. Es läuft dann wohl auf 
 etwas hinaus, das grundsätzlich schon mal da war, aber durch uns neu interpretiert wird. 
 
-  * Gruppe auf Insel, einer nach dem anderen stirbt ([Und dann gab&#8217;s keines mehr](http://de.wikipedia.org/wiki/Und_dann_gabs_keines_mehr)).
-  * Gruppe wird entführt.
-  * Haus soll abgerissen werden, Bewohner wehren sich ([Die Strategie der Schnecke](http://de.wikipedia.org/wiki/Die_Strategie_der_Schnecke)).
+  * Gruppe auf Insel, einer nach dem anderen stirbt ([Und dann gab&#8217;s keines mehr](http://de.wikipedia.org/wiki/Und_dann_gabs_keines_mehr))
+  * Gruppe wird entführt
+  * Haus soll abgerissen werden, Bewohner wehren sich ([Die Strategie der Schnecke](http://de.wikipedia.org/wiki/Die_Strategie_der_Schnecke))
   * Ausbildungsgruppe ([Police Acadamy](http://de.wikipedia.org/wiki/Police_Academy))
-  * Teilnahme an Experiment ([Das Experiment](http://de.wikipedia.org/wiki/Das_Experiment_%28Film%29)).
-  * Resistance-Kämpfer sind gefangen ([Tote ohne Begräbnis](http://www.rowohlt.de/buch/Jean_Paul_Sartre_Tote_ohne_Begraebnis.2581.html)).
+  * Teilnahme an Experiment ([Das Experiment](http://de.wikipedia.org/wiki/Das_Experiment_%28Film%29))
+  * Resistance-Kämpfer sind gefangen ([Tote ohne Begräbnis](http://www.rowohlt.de/buch/Jean_Paul_Sartre_Tote_ohne_Begraebnis.2581.html))

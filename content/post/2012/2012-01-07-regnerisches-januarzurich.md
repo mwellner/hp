@@ -1,17 +1,12 @@
 ---
 title: Regnerisches Januarzürich
 date: 2012-01-07T21:37:32+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T22:02:43+00:00
 author: Mathias Wellner
 categories:
   - bilder
 tags:
-  - Foto
-  - Januar
-  - photo
-  - Regen
-  - regnerisch
-  - Zuerich
+  - zuerich
 ---
 Was tun an einem regnerischen Januarsamstag? Rausgehen und fotografieren!
 

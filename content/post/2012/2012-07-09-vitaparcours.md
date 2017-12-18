@@ -1,10 +1,12 @@
 ---
 title: Vitaparcours
 date: 2012-07-09T22:24:31+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T22:32:45+00:00
 author: Mathias Wellner
 categories:
-  - 'sport &amp; freizeit'
+  - sport
+tags:
+  - joggen
 ---
 Lange musste ich tatenlos zuhören, wenn mein Kollege von seinen [Vitaparcours](http://de.wikipedia.org/wiki/Vitaparcours)-Abenteuern erzählte. Meine regelmäßigen Laufeinheiten im Irchelpark wirkten dagegen so langweilig und einseitig. Und da ich mich derzeit ohnehin auf dem Pfad der Fitness befinde, wollte ich auch diese Schweizer Version des Trimm-dich-Pfades ausprobieren. 
 

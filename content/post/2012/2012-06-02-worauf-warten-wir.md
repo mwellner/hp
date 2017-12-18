@@ -1,14 +1,12 @@
 ---
 title: Worauf warten wir?
 date: 2012-06-02T12:43:50+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T22:21:23+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
   - herman van veen
-  - lied
-  - warten
 ---
 <blockquote class="blockquote">
 Einst kommt der Tag,<br>

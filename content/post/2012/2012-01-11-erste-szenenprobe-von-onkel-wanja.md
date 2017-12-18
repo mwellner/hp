@@ -1,22 +1,15 @@
 ---
-title: 'Erste Szenenprobe von &#8220;Onkel Wanja&#8221;'
+title: Onkel Wanja -- Erste Szenenprobe
+slug: anton-tscheckow-onkel-wanja-szenenprobe
 date: 2012-01-11T23:50:40+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T22:03:59+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
   - dramateure
-  - Onkel Wanja
-  - Probe
-  - Produktion
-  - Rolle
-  - stellen
-  - Szenenprobe
-  - Telegin
-  - theater
-  - Tschechow
-  - Wanja
+  - onkel wanja
+  - anton tschechow
 ---
 In der aktuellen [dramateure](http://www.dramateure.ch)-Theaterproduktion &#8220;Onkel Wanja&#8221; konnten wir gestern die erste Szenenprobe erleben. Im Dezember hatten wir in Leseproben das Stück Seite für Seite in unseren Rollen durchgenommen, die Personenkonstellation und Motivation der Figuren besprochen. Darauf aufbauend konnten wir gestern zum ersten Mal &#8220;stellen&#8221;. Das bedeutet, die Szene auf der Bühne zu probieren und vor allem die Auf- und Abgänge zu klären, und damit die entscheidende Frage &#8220;Wo bin ich?&#8221; 
 

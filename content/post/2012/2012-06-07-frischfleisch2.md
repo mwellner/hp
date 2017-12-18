@@ -1,17 +1,13 @@
 ---
 title: frischfleisch2
 date: 2012-06-07T22:48:02+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T22:22:22+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
   - frischfleisch
   - marco hausammann-gilardi
-  - projekt
-  - stück
-  - theater
-  - zentrum für entwicklung im schauspiel
   - zes
 ---
 Die Würfel sind mal wieder gefallen, mein nächstes Theaterprojekt wird wieder eins beim 

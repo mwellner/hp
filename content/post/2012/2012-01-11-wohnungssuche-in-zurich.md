@@ -1,19 +1,13 @@
 ---
 title: Wohnungssuche in Zürich
 date: 2012-01-11T22:11:31+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T22:04:16+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - Bewerbung
-  - mieten
-  - suche
-  - tipps
-  - tricks
-  - Vermieter
-  - Wohnung
-  - Zuerich
+  - wohnung
+  - zuerich
 ---
 Wohnungen sind rar in Zürich, offiziell gab es im Jahr 2011 nur 120 leerstehende Wohnungen (Leerwohnungszählung). Und ich will gar nicht wissen, was das für Wohnungen sind. Auf jeden Fall führt dieser akute Mangel zu Erscheinungen, wie sie mir als ehemaligem DDR-Bürger nur zu vertraut sind. 
 

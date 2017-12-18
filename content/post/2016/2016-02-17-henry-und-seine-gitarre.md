@@ -11,13 +11,10 @@ tags:
   - gitarre
   - tom stoppard
 ---
-<div id="attachment_6502" style="width: 1010px" class="wp-caption aligncenter">
-  <img src="http://www.mwellner.de/wp-uploads/2016/02/guitar.jpg" alt="Gitarre auf der Bühne" width="1000" height="667" class="size-full wp-image-6502" srcset="http://www.mwellner.de/wp-uploads/2016/02/guitar.jpg 1000w, http://www.mwellner.de/wp-uploads/2016/02/guitar-350x233.jpg 350w, http://www.mwellner.de/wp-uploads/2016/02/guitar-225x150.jpg 225w, http://www.mwellner.de/wp-uploads/2016/02/guitar-150x100.jpg 150w" sizes="(max-width: 1000px) 100vw, 1000px" />
-  
-  <p class="wp-caption-text">
-    Gitarre auf der Bühne
-  </p>
-</div>
+<figure>
+  <img sizes="100vw" srcset="https://farm2.staticflickr.com/1451/24988729941_4d633dce6a_n.jpg 320w, https://farm2.staticflickr.com/1451/24988729941_4d633dce6a_z.jpg 640w, https://farm2.staticflickr.com/1451/24988729941_4d633dce6a_c.jpg 800w, https://farm2.staticflickr.com/1451/24988729941_150b5b51eb_h.jpg 1600w" src="https://farm2.staticflickr.com/1451/24988729941_4d633dce6a_b.jpg" alt="Henry spielt Gitarre">
+  <figcaption>Henry spielt Gitarre</figcaption>
+</figure>
 
 Für <a href="http://dramateure.ch/wordpress/produktionen/das-einzig-wahre/" title="Das einzig Wahre" target="_blank">Das einzig Wahre</a> frischte ich meine rudimentären Gitarrenkenntnisse auf, um der Rolle noch etwas musikalische Tiefe zu geben. Da ich nur drei Monate Zeit hatte, nahm ich die Hilfe eines Gitarrenlehrers in Anspruch. Meine Wahl fiel auf <a href="http://zuerichgitarrenunterricht.ch/" title="Gitarrenunterricht" target="_blank">Goncalo Crespo</a>, der mich anfangs vor allem durch einen überzeugenden Web-Auftritt begeisterte. Er hat eine sehr strukturierte Art, was mir entgegenkam. Und er kann den Finger genau auf den wunden Punkt legen und die richtigen Übungen vorschlagen. Jedenfalls machte ich in den drei Monaten Vorbereitungszeit beträchtliche Fortschritte. 
 

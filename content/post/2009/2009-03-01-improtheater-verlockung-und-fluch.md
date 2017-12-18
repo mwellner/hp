@@ -8,7 +8,7 @@ categories:
 tags:
   - impro
 ---
-Nach unserem ersten Auftritt als Improtheatergruppe (siehe [Impromatch in Uster](http://www.mwellner.de/2009/02/26/impromatch-in-uster/)) möchte ich reflektieren, wie es sich angefühlt hat, auf der Bühne vor Publikum zu improvisieren und welche Art Spiel dadurch begünstigt wird.
+Nach unserem ersten Auftritt als Improtheatergruppe möchte ich reflektieren, wie es sich angefühlt hat, auf der Bühne vor Publikum zu improvisieren und welche Art Spiel dadurch begünstigt wird.
 
 Das Publikum honoriert Energie beim Spielen, witzige Ideen und wenn man sich geschickt aus einer Falle befreit. Und dies verlockt zum schnellen Hineingehen in Emotionen, zum clownesken Spiel. Wenn das Publikum einmal warm ist und an einigen Stellen laut lacht, wächst der Druck, dies zu wiederholen. Wenn das Publikum lange Zeit ruhig ist, kriegt man das Gefühl, dass die Szene langweilig sei und versucht mit brachialen Mitteln, diese zu beleben. Doch genau das ist gefährlich, mit Wutausbrüchen, plötzlichen Liebesbekundungen und Morddrohungen fesselt man die Aufmerksamkeit eben nur kurz. Nach einer solchen Einlage ist eine Steigerung meist nicht mehr möglich, die Szene gestorben.
 

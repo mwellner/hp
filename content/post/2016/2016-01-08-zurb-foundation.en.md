@@ -9,21 +9,10 @@ categories:
 tags:
   - bootstrap
   - foundation
-  - framework
-  - front-end
-  - zurb
 ---
 In the past week, I explored <a href="http://foundation.zurb.com/" title="Foundation" target="_blank">Foundation</a>, the &#8220;most advanced responsive front-end framework in the world&#8221; &ndash; a bold statement. 
 
-<div id="attachment_6455" style="width: 844px" class="wp-caption aligncenter">
-  <img src="http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2.jpg" alt="Foundation 6" width="834" height="526" class="size-full wp-image-6455" srcset="http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2.jpg 834w, http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-350x221.jpg 350w, http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-238x150.jpg 238w, http://www.mwellner.de/wp-uploads/2016/01/foundation-6-released-and-other-javascript-news-496468-2-150x95.jpg 150w" sizes="(max-width: 834px) 100vw, 834px" />
-  
-  <p class="wp-caption-text">
-    Foundation 6
-  </p>
-</div>
-
-### What is a responsive front-end framework?
+#### What is a responsive front-end framework?
 
 A responsive website displays its content on any device size in a meaningful way. Imagine a horizontal navigation menu, which is perfect on a large screen. That same menu would look totally crammed on a mobile phone screen. Therefore the site switches to a compact version of the same menu, e.g. with a button that extends. The same principle goes for textual content, which can be multi-column on large screens and single-column on small screens. 
 
@@ -31,7 +20,7 @@ In the end, front-end frameworks provide a number of building blocks that define
 
 I focussed on Foundation, with a short look on Bootstrap on the last day. Both frameworks are sophisticated frameworks with a large community behind. They offer responsive grid classes. 
 
-### Grid system
+#### Grid system
 
 One of the most common tasks is to define the responsive behaviour by means of grid columns. A grid row contains 12 columns, each grid element can spread over a number of those 12 columns. And with adding prefixes for small, medium or large screens, the responsive behaviour is already defined. 
 
@@ -67,7 +56,7 @@ Although the functionality is very much the same, the Foundation syntax is easie
 
 The Foundation grid also offers more features, namely the block grid. Imagine you need five evenly-spaced columns. That is impossible to achieve with the standard 12-column grid. But using the <a href="http://foundation.zurb.com/sites/docs/grid.html#block-grids" title="Block grids" target="_blank">block grid</a>, this task is quite easy to achieve. In the new version 6, Foundation has introduced the <a href="http://foundation.zurb.com/sites/docs/flex-grid.html" title="Foundation Flex Grid" target="_blank">flex grid</a>, using <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes" title="Using CSS flexible boxes" target="_blank">flexbox</a> capabilities, which make some alignment scenarios much easier to achieve. Just consider the nightmare of vertical alignment of horizontally aligned items. 
 
-### Navigation
+#### Navigation
 
 Foundation offers quite some menu versions. The <a href="http://foundation.zurb.com/sites/docs/responsive-navigation.html" title="Responsive navigation" target="_blank">responsive navigation</a> pattern is the most advanced one, but I found it a little difficult to adapt to the needs of the prototype. Just take a look at the markup. 
 
@@ -107,10 +96,10 @@ Foundation offers quite some menu versions. The <a href="http://foundation.zurb.
 
 So I used just basic <a href="http://foundation.zurb.com/sites/docs/visibility.html" title="Visibility classes" target="_blank">visibility classes</a> to quickly solve the challenge of the prototype. 
 
-### Forms
+#### Forms
 
-The form implementation went quite smoothly, as Foundation provides minimal styling for the normal <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form" title="<form>" target="_blank">HTML form</a> elements. 
+The form implementation went quite smoothly, as Foundation provides minimal styling for the normal HTML form elements. 
 
-### Conclusion
+#### Conclusion
 
 I enjoyed working with Foundation a lot. It seems to be a well-elaborated, feature-rich and customizable framework. It is surely a matter of personal taste, but I liked it more than Bootstrap.

@@ -4,27 +4,14 @@ date: 2015-10-24T11:50:25+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - www
+  - software
 tags:
   - facebook
-  - meta
-  - og:image
-  - share
-  - social
-  - tag
-  - Wordpress
+  - wordpress
 ---
 ### The Problem
 
 My WordPress-powered blog automatically posts new articles to Facebook. However, the article image was somehow lost on the way, leading to rather unattractive Facebook posts. 
-
-<div id="attachment_6319" style="width: 524px" class="wp-caption aligncenter">
-  <img src="http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z.png" alt="Automatic facebook post without wordpress article image" width="514" height="245" class="size-full wp-image-6319" srcset="http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z.png 514w, http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z-350x167.png 350w, http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z-250x119.png 250w, http://www.mwellner.de/wp-uploads/2015/10/Firefox_Screenshot_2015-10-24T09-29-34.857Z-150x71.png 150w" sizes="(max-width: 514px) 100vw, 514px" />
-  
-  <p class="wp-caption-text">
-    Automatic facebook post with missing wordpress article image
-  </p>
-</div>
 
 ### Digging Into the Issue
 

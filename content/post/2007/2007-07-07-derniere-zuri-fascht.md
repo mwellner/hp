@@ -2,7 +2,7 @@
 title: Dernière, Züri Fäscht
 slug: derniere-zueri-fest
 date: 2007-07-07T22:52:21+00:00
-lastmod: 2017-12-16T22:31:34+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - theater

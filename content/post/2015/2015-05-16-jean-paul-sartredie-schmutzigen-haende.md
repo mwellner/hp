@@ -2,7 +2,7 @@
 title: Jean-Paul Sartre -- Die schmutzigen Hände
 slug: jean-paul-sartre-die-schmutzigen-haende
 date: 2015-05-16T11:39:51+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T20:39:54+00:00
 author: Mathias Wellner
 categories:
   - theater

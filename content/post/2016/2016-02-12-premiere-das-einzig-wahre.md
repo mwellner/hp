@@ -2,7 +2,7 @@
 title: Das einzig Wahre -- Premiere
 slug: tom-stoppard-das-einzig-wahre
 date: 2016-02-12T03:16:00+00:00
-lastmod: 2017-12-16T22:35:47+00:00
+lastmod: 2017-12-18T21:12:43+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -2,7 +2,7 @@
 title: Groß- und kleinschreibung
 slug: gros-und-kleinschreibung
 date: 2010-01-14T00:00:16+00:00
-lastmod: 2017-12-16T21:15:04+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Regie führen
 date: 2015-06-01T22:37:19+00:00
-lastmod: 2017-12-16T22:09:43+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,7 +1,7 @@
 ---
 title: Urs Widmer
 date: 2014-04-03T21:46:35+00:00
-lastmod: 2017-12-16T21:59:41+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - theater

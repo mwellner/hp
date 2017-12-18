@@ -1,7 +1,7 @@
 ---
 title: Meetup-Wanderung bei Sion mit unterirdischem Konzert
 date: 2014-06-15T21:56:00+00:00
-lastmod: 2017-12-16T22:14:29+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - wandern

@@ -1,7 +1,7 @@
 ---
 title: Projektmanagement-Zertifikat
 date: 2016-02-28T10:21:33+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T21:01:17+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

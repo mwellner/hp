@@ -2,7 +2,7 @@
 title: Warten auf Godot
 slug: warten-auf-godot
 date: 2016-06-05T16:12:47+00:00
-lastmod: 2017-12-16T22:23:17+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -2,7 +2,7 @@
 title: Das einzig Wahre -- Abgesang
 slug: tom-stoppard-das-einzig-wahre
 date: 2016-03-12T11:15:03+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T21:07:09+00:00
 author: Mathias Wellner
 categories:
   - theater

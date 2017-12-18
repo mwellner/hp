@@ -1,7 +1,7 @@
 ---
 title: Ade, Cricket-Schläger
 date: 2016-04-16T18:34:21+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T21:22:12+00:00
 author: Mathias Wellner
 categories:
   - theater

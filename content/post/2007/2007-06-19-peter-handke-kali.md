@@ -2,7 +2,7 @@
 title: 'Peter Handke: Kali'
 slug: peter-handke-kali
 date: 2007-06-19T23:09:21+00:00
-lastmod: 2017-12-16T21:27:07+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 tags:
   - Kali

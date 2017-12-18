@@ -2,7 +2,7 @@
 title: Michael Ende -- Der Spiegel im Spiegel
 slug: michael-ende-spiegel
 date: 2007-07-18T20:37:35+00:00
-lastmod: 2017-12-16T22:32:37+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - literatur

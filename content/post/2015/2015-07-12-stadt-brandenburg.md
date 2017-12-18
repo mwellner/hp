@@ -1,7 +1,7 @@
 ---
 title: Stadt Brandenburg
 date: 2015-07-12T13:37:42+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2017-12-18T20:42:58+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

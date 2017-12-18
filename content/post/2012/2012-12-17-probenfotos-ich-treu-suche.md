@@ -2,7 +2,7 @@
 title: 'Probefotos &#8220;Ich, treu, suche&#8221;'
 slug: ich-treu-suche-probefotos
 date: 2012-12-17T23:12:26+00:00
-lastmod: 2017-12-16T21:59:19+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - theater

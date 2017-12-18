@@ -1,7 +1,7 @@
 ---
 title: Neil Simon -- Ein seltsames Paar
 date: 2015-03-06T21:41:11+00:00
-lastmod: 2017-12-16T22:09:01+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - theater

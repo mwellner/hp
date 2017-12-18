@@ -2,7 +2,7 @@
 title: Richard David Precht -- Wer bin ich, und wenn ja, wie viele?
 slug: richard-david-precht-wer-bin-ich
 date: 2009-08-27T13:26:15+00:00
-lastmod: 2017-12-16T21:47:35+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 excerpt: 'Buchrezension zu Richard David Precht -- Wer bin ich, und wenn ja, wie viele?'
 categories:

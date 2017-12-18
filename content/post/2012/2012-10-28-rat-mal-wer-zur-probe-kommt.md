@@ -1,7 +1,7 @@
 ---
 title: Rat mal, wer zur Probe kommt
 date: 2012-10-28T13:57:54+00:00
-lastmod: 2017-12-16T21:57:25+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - theater

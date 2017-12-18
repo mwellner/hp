@@ -1,7 +1,7 @@
 ---
 title: studiVZ ade
 date: 2010-08-10T22:58:36+00:00
-lastmod: 2017-12-16T21:57:52+00:00
+lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -84,14 +84,6 @@ Philosophische Basis dieses Stücks ist der <a href="https://de.wikipedia.org/wi
 
 Die Inszenierung lebte vor allem von den großartigen Schauspielern, Wladimir und Estragon wirkten wie ein altes Ehepaar, das sich oft streitet, aber doch nicht ohneeinander auskommen kann. Wirklich toll war die Szene, als sie mit Schnalzgeräuschen ein Tennis-Match, Golf &ndash; und eigentlich alle anderen Ballsportarten auch &ndash; simulierten. Dieses Stück ist irgendwie immer eine Zumutung für die Zuschauer, denn es passiert ja nichts, aber spannend ist bei jeder Inszenierung, wie nichts passiert. 
 
-<div id="attachment_6663" style="width: 685px" class="wp-caption aligncenter">
-  <img src="http://www.mwellner.de/wp-uploads/2016/06/godot1-e1465133145539.jpg" alt="Estragon (Wolfram Koch) und Wladimir (Samuel Finzi) in &quot;Warten auf Godot&quot;" width="675" height="631" class="size-full wp-image-6663" srcset="http://www.mwellner.de/wp-uploads/2016/06/godot1-e1465133145539.jpg 675w, http://www.mwellner.de/wp-uploads/2016/06/godot1-e1465133145539-350x327.jpg 350w, http://www.mwellner.de/wp-uploads/2016/06/godot1-e1465133145539-160x150.jpg 160w, http://www.mwellner.de/wp-uploads/2016/06/godot1-e1465133145539-150x140.jpg 150w" sizes="(max-width: 675px) 100vw, 675px" />
-  
-  <p class="wp-caption-text">
-    Estragon (Wolfram Koch) und Wladimir (Samuel Finzi) in &#8220;Warten auf Godot&#8221;
-  </p>
-</div>
-
 <blockquote class="blockquote">
 <dl style="columns: 3 15rem;">
   <dt>

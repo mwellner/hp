@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2007-06-23T12:51:00+00:00
+date: 2017-12-12T12:51:00+00:00
 author: Mathias Wellner
 ---
 Ich arbeite als Software-Entwickler für [CONWEAVER](http://www.conweaver.com) in Darmstadt. Ich bin seit Oktober 2016 in der Stadt und immer noch am Einleben und Entdecken.

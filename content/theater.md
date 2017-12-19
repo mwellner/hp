@@ -1,7 +1,6 @@
 ---
 title: Theater
-date: 2017-10-29T15:23:09+00:00
-lastmod: 2017-12-15T15:23:09+00:00
+date: 2017-11-29T15:23:09+00:00
 author: Mathias Wellner
 ---
 Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein gutes Dutzend Produktionen als Schauspieler und eine als Regisseur. Ich habe von 2010 bis 2013 einige Kurse und Praxisproduktionen am [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch) besucht.

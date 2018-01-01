@@ -4,12 +4,8 @@ date: 2016-04-03T00:26:51+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - literatur
-  - theater
+  - film
 tags:
-  - Film
-  - grand budapest hotel
-  - novelle
   - stefan zweig
   - wes anderson
 ---

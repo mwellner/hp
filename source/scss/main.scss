@@ -228,3 +228,20 @@ section + #disqus_thread {
     column-count: 2;
   }  
 }
+
+/* Google Custom Search */
+.gsc-control-searchbox-only {
+  min-width: 17rem;
+  .gsc-search-box {
+    .gsc-input {
+      padding-right: 0;
+    }
+    input.gsc-search-button {
+      height: 1.75rem;
+    }
+  }
+}
+
+.gsc-clear-button {
+  display: none;
+}

@@ -1,18 +1,12 @@
 ---
-title: 'Wanderung Brülisau &#8211; Hoher Kasten &#8211; Wasserauen'
+title: Wanderung im Alpstein
 date: 2013-07-17T22:49:46+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:18:15+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
   - wandern
 tags:
-  - Alpstein
-  - Brülisau
-  - Hoher Kasten
-  - wandern
-  - Wasserauen
+  - alpstein
 ---
 Gern wollte ich mal eine andere Ecke des Alpsteins kennen lernen. Und an diesem schönen Sommertag war es endlich so weit, dank einer [Spontacts](http://www.spontacts.com)-Verabredung kam die Wanderung zustande. 
 

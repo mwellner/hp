@@ -1,25 +1,14 @@
 ---
 title: Alpstein-Wanderung
 date: 2011-07-09T14:24:01+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:12:44+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
   - wandern
 tags:
-  - Alpen
-  - Alpstein
-  - Berge
-  - Gipfel
-  - Mesmer
-  - Mesmeralp
   - säntis
-  - Schwägalp
-  - Seealpsee
-  - Tierwis
-  - wandern
-  - Wanderung
+  - schwägalp
+  - seealpsee
 ---
 Es war ein unglaublich schönes Wanderwochenende. Meine Schwester hatte sich samt einer Freundin angekündigt und nach kurzer Diskussion einigten wir uns auf das Alpstein als Ziel. Im [Berggasthaus Mesmer](http://www.mesmer-ai.ch/) reservierte ich drei Schlafplätze im Massenlager, die einzelnen Tageswanderungen wollten wir dann spontan je nach körperlicher Verfassung festlegen. 
 

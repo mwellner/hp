@@ -1,21 +1,13 @@
 ---
 title: Vrenelisgärtli
 date: 2011-08-01T22:11:34+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:13:27+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
+  - wandern
 tags:
-  - Alpen
-  - Berge
-  - Bergsteien
-  - Glarus
-  - Gletscher
-  - Schnee
-  - steil
-  - vrenelisgärtli @de
-  - Wand
+  - glarus
+  - gletscher
 ---
 Eine weitere Hochtour liegt hinter mir, ich erklomm den Glarner Gipfel Vrenelisgärtli. Es ist eine leichte Hochtour mit einer ausgedehnten Gletscherpassage, einer steilen, fast senkrechten Wand und einem schneebedeckten Grat. Und man darf natürlich den einen oder anderen Höhenmeter überwinden. 
 

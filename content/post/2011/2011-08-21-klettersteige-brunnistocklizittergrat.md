@@ -1,22 +1,14 @@
 ---
 title: Klettersteige Brunnistöckli/Zittergrat
 date: 2011-08-21T21:33:52+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:14:23+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - klettern
-  - 'sport &amp; freizeit'
 tags:
-  - Alpen
-  - Berge
-  - Bergsport
-  - brunni
-  - Brunnistöckli
-  - Engelberg
-  - Fels
-  - Klettersteig
-  - Zittergrat
+  - brunnistöckli
+  - engelberg
+  - klettersteig
 ---
 Ganz in der Nähe von Engelberg befinden sich einige Klettersteige. Das schöne Sonntagswetter nutzte ich, um gleich zwei kürzere Klettersteige zu bewältigen &ndash; den recht einfachen Brunnistöckli-Klettersteig und danach den deutlich anstrengenderen, weil überhängenden Zittergrat. 
 

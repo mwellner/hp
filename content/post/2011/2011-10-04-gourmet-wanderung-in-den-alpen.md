@@ -1,20 +1,9 @@
 ---
 title: Gourmet-Wanderung in den Alpen
 date: 2011-10-04T20:47:45+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:14:46+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
-  - wandern
-tags:
-  - Alpen
-  - Cavardiras
-  - Essen
-  - Gourmet
-  - Hüfi
-  - Hütte
-  - SAC
   - wandern
 ---
 Drei sonnige Tage in den Bergen mit feinstem Essen &ndash; so lässt sich das letzte Wochenende am besten zusammenfassen. Wir wählten eine nicht so überlaufene Gegend nördlich von [Disentis](http://de.wikipedia.org/wiki/Disentis/Must%C3%A9r) und zwei nicht mehr bewirtschaftete Hütten. Meine Wanderkollegen entwickelten in der Vergangenheit einen immensen Ehrgeiz zu kulinarischen Glanzleistungen &ndash; ich wurde so Zeuge eines unvergesslichen Wanderausflugs. 

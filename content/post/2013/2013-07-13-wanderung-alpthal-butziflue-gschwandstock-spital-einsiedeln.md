@@ -1,24 +1,12 @@
 ---
-title: 'Wanderung Alpthal &#8211; Butziflue &#8211; Gschwändstock &#8211; Spital &#8211; Einsiedeln'
+title: Wanderung bei Einsiedeln
 date: 2013-07-13T22:03:58+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:16:38+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
   - wandern
 tags:
-  - Alpen
-  - Alphthal
-  - Berge
-  - Blumen
-  - Butziflue
-  - Einsiedeln
-  - Gebirge
-  - Gschwändstock
-  - Spital
-  - Tour
-  - wandern
+  - einsiedeln
 ---
 Ein wenig begangener Weg, und das zu unrecht. Durch Wälder, über bunte Bergwiesen, mit dem Aussichtsberg Spital am Ende war es eine schöne Tour, bei der uns nur wenige Leute begegneten. Vor allem bei Schnee in höheren Lagen sehr zu empfehlen. 
 

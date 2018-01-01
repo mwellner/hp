@@ -1,14 +1,10 @@
 ---
 title: Freude am Dehnen
 date: 2011-02-14T23:02:03+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:12:02+00:00
 author: Mathias Wellner
 categories:
-  - 'sport &amp; freizeit'
-tags:
-  - Dehnen
-  - Fitness
-  - Sport
+  - tagebuch
 ---
 Nach langer Zeit eher kopflastiger Aktivitäten widmete ich mich heute meinen Sehnen beim Dehnen. Es tat wirklich gut, in aller Ruhe und zu meditativer Musik von [Mike Oldfield](http://de.wikipedia.org/wiki/Mike_Oldfield) alle Dehnübungen auszukosten, welche ich auf [Peter Juhles Seite](http://www.juhle.de/dehnuebungen.html) finden konnte. 
 

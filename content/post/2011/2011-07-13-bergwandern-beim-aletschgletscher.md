@@ -1,24 +1,12 @@
 ---
 title: Bergwandern beim Aletschgletscher
 date: 2011-07-13T15:51:26+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:13:05+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
   - wandern
 tags:
-  - Aletsch
-  - Aletschgletscher
-  - Alpen
-  - Berge
-  - Bergwandern
-  - Bettmeralp
-  - Gletscher
-  - Klettersteig
-  - Riederalp
-  - Riederfurka
-  - wandern
+  - aletschgletscher
 ---
 Drei Tage Wandern und Klettersteige &ndash; ausgehend von der Riederalp unternahm ich drei intensive Bergwanderungen in der näheren Umgebung. Die Hauptattraktion in dieser Gegend ist der [Aletschgletscher](http://de.wikipedia.org/wiki/Aletschgletscher), der längste und flächenmäßig größte Gletscher der Alpen. Wie alle Gletscher ist er am Schrumpfen, so dass ich schnell noch einen Blick darauf erhaschen wollte. 
 

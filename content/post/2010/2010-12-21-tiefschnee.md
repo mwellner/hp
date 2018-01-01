@@ -1,18 +1,13 @@
 ---
 title: Tiefschnee
 date: 2010-12-21T22:04:50+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:11:43+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
+  - skifahren
 tags:
-  - Abfahrt
-  - Kurs
-  - ski
-  - Skifahren
-  - technik
-  - Tiefschnee
+  - schnee
+  - wintersport
 ---
 Der Traum des Skitourengängers &ndash; ein unberührter Hang mit flauschigem Neuschnee, durch den man elegant abwedelt, es stiebt meterhoch nach rechts und links. Der Berg ist natürlich selbst erkämpft, mit Fellen hat man ihn kurz vor Mittag erstiegen, mit netten Leuten und einer Thermosflasche voller Tee. Aber was den Traum wirklich ausmacht, ist das unbeschwerte Abfahren durch den Tiefschnee. 
 

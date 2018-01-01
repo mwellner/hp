@@ -1,17 +1,12 @@
 ---
 title: Herbstwanderung rund um Linthal
 date: 2010-11-07T01:34:12+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:11:12+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
   - wandern
 tags:
-  - Glarus
-  - Linthal
-  - Obbort
-  - wandern
+  - glarus
 ---
 Linthal (648&thinsp;m) &ndash; Obbort (1049&thinsp;m) &ndash; Gnüs (789&thinsp;m) &ndash; Linthal
 

@@ -1,19 +1,13 @@
 ---
 title: Morgenspaziergang
 date: 2010-08-29T13:38:53+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:10:45+00:00
 author: Mathias Wellner
 categories:
-  - 'sport &amp; freizeit'
+  - tagebuch
 tags:
-  - gehen
-  - laufen
-  - Natur
-  - Rigiblick
-  - Sinne
-  - Stadtwald
-  - Wald
-  - Zürich
+  - rigiblick
+  - zürich
 ---
 Sonntag Morgen, Kirchenglocken läuten, ein paar Wolken ziehen am Himmel, endlich Sonnenschein nach so viel Regen. Eigentlich wollte ich im Engadin sein, aber gestern sah es dort trübe aus, eine frustrierte SMS erreichte mich am frühen Morgen. Schon wieder abgesagt, aufgeschoben die Tour, im September vielleicht. Ist der Sommer schon vorbei? Ich machte Mut, der Sommer kommt bestimmt nochmal zurück. 
 

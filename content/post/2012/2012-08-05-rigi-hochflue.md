@@ -1,11 +1,9 @@
 ---
 title: Rigi Hochflue
 date: 2012-08-05T14:32:53+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:14:55+00:00
 author: Mathias Wellner
 categories:
-  - bilder
-  - 'sport &amp; freizeit'
   - wandern
 ---
 Eine weitere schöne Wanderung liegt hinter mir. Gestern erklommen wir auf einem blau-weißen Wanderweg die Rigi-Hochflue. Es war ein steiler Anstieg auf teils glitschigem Gestein, schon anspruchsvoll und sehr anstrengend. Auf dem Gipfel waren wir alle schweißgebadet. 

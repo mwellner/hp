@@ -1,19 +1,13 @@
 ---
 title: Schlaflos in Südtirol
 date: 2012-09-30T20:01:55+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-01T13:15:17+00:00
 author: Mathias Wellner
 categories:
-  - reisen
-  - 'sport &amp; freizeit'
   - wandern
 tags:
-  - Hans Kammerlander
-  - Sauna
-  - Südtirol
-  - Urlaub
-  - wandern
-  - Wellness
+  - hans kammerlander
+  - südtirol
 ---
 <div style="width: 510px" class="wp-caption aligncenter">
   <img src="https://lh3.googleusercontent.com/-vBTCNVdOaO8/UGh-Hb6x6FI/AAAAAAAAAkM/ilentfKTvlg/s800/MW_20120924_0025.jpg" width="500" height="333" />

@@ -6,7 +6,6 @@ author: Mathias Wellner
 categories:
   - software
 tags:
-  - 'c#'
   - json
 ---
 In my current project, I had to deal with huge JSON files, which contain the order and properties of our layout elements. 

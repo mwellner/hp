@@ -1,11 +1,11 @@
 ---
 title: About
-date: 2017-12-12T12:51:00+00:00
+date: 2018-01-03T12:51:00+00:00
 author: Mathias Wellner
 ---
 Ich arbeite als Software-Entwickler für [CONWEAVER](http://www.conweaver.com) in Darmstadt. Ich bin seit Oktober 2016 in der Stadt und immer noch am Einleben und Entdecken.
 
-Privat beschäftige ich mich zur Zeit vor allem mit [Theater](https://mwellner.de/theater), seit 2003 bin ich in verschiedenen Theatergruppen aktiv gewesen. Mittlerweile war ich als Schauspieler in einem guten Dutzend Produktionen dabei und habe im Mai 2014 die Premiere meiner ersten Regiearbeit *Ein idealer Gatte* erlebt. 
+Privat beschäftige ich mich vor allem mit [Theater](https://mwellner.de/theater), seit 2003 bin ich in verschiedenen Theatergruppen aktiv gewesen. Mittlerweile war ich als Schauspieler in einem guten Dutzend Produktionen dabei und habe im Mai 2014 die Premiere meiner ersten Regiearbeit *Ein idealer Gatte* erlebt. 
 
 Ein weiteres Hobby von mir ist die Fotografie. Mit meiner digitalen Spiegelreflexkamera (Nikon D800) und einer über die Jahre gewachsenen Sammlung von Objektiven fotografiere ich Landschaften, Menschen und Architektur. 
 

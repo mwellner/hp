@@ -1,6 +1,6 @@
 ---
 date: "2018-01-01T13:24:21"
-lastmod: 2017-12-22T15:52:04+00:00
+lastmod: 2018-01-03T19:53:38+00:00
 title: Stefan Zweig -- Die Welt von Gestern
 slug: stefan-zweig-welt-gestern
 author: Mathias Wellner

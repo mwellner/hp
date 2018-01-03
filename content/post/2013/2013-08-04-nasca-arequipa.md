@@ -1,17 +1,14 @@
 ---
-title: 'Nasca &#8211; Arequipa'
+title: Nazca -- Arequipa
+slug: nazca-arequipa
 date: 2013-08-04T15:28:34+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-03T23:37:58+00:00
 author: Mathias Wellner
 categories:
   - reisen
 tags:
   - arequipa
-  - Bus
-  - cruz del sur
-  - Fahrt
-  - Landschaft
-  - nasca
+  - nazca
   - peru
 ---
 Es ist ein riesiges Land. Nach einer Woche mit verschiedenen Stationen in Lima und der südlich davon gelegenen Küste mussten wir nach Arequipa eine größere Strecke zurücklegen. Die Fahrt dauerte zehn Stunden. 

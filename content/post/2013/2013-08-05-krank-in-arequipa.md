@@ -1,14 +1,13 @@
 ---
 title: Krank in Arequipa
 date: 2013-08-05T05:33:47+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-03T23:35:34+00:00
 author: Mathias Wellner
 categories:
   - reisen
 tags:
   - arequipa
-  - El Misti
-  - krank
+  - peru
 ---
 Nun haben wir den Salat, meine Schwester hat eine bakterielle Infektion und ich bin auch nicht so ganz fit. Es sind an und für sich harmlose Krankheiten, aber wandern kann man so halt auch nicht. Und so werden wir hier ein paar ruhige Tage einschieben, um den Rest des Urlaubs dann umso mehr genießen zu können. 
 

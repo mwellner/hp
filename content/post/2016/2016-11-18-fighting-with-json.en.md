@@ -6,7 +6,6 @@ author: Mathias Wellner
 categories:
   - software
 tags:
-  - .net
   - 'c#'
   - json
 ---

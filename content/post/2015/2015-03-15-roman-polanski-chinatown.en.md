@@ -1,14 +1,13 @@
 ---
 title: Roman Polanski – Chinatown
 date: 2015-03-15T23:06:18+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-05T23:00:46+00:00
 author: Mathias Wellner
 categories:
   - movies
 tags:
   - chinatown
   - faye dunaway
-  - film noir
   - jack nicholson
   - roman polanski
 ---

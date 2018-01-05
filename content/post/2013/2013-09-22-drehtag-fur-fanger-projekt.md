@@ -1,12 +1,11 @@
 ---
 title: Drehtag für Fänger-Projekt
 date: 2013-09-22T22:11:39+00:00
-lastmod: 2017-12-18T20:23:07+00:00
+lastmod: 2018-01-05T23:00:01+00:00
 author: Mathias Wellner
 categories:
   - film
 tags:
-  - drehtag
   - fänger
 ---
 Das Filmprojekt [Fänger](https://www.facebook.com/pages/F%C3%A4nger/580790578616687?fref=ts) ist im Fantasy-Bereich angesiedelt. In der fiktiven Welt dieses Filmes gibt es [Lykanthropen](http://de.wikipedia.org/wiki/Lykanthropie), die sich in verschiedene Fraktionen aufteilen. Ich spiele Zeeb und gehöre zur bösen Fraktion, die Menschen aus reiner Lust an der Freude jagt und tötet. Wir werden von Jägern, also speziell ausgebildeten Menschen verfolgt und von gesetzeskonformen Lykanthropen. Es ist also immer was los. 

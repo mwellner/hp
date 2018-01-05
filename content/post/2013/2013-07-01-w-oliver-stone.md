@@ -1,7 +1,7 @@
 ---
 title: W. (Oliver Stone)
 date: 2013-07-01T23:38:29+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-05T23:01:04+00:00
 author: Mathias Wellner
 categories:
   - film

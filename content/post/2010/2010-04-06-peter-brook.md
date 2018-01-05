@@ -1,12 +1,11 @@
 ---
 title: Peter Brook
 date: 2010-04-06T23:07:56+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-05T23:00:57+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - film
   - peter brook
   - porträt
   - regisseur

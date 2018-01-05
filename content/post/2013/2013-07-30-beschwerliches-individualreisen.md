@@ -1,10 +1,12 @@
 ---
 title: Beschwerliches Individualreisen
 date: 2013-07-30T05:36:21+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-05T22:43:06+00:00
 author: Mathias Wellner
 categories:
   - reisen
+tags:
+  - peru
 ---
 Um ein Haar wären wir in Lima gestrandet. Etwas kurzfristig wollten wir heute abend unsere Weiterfahrt in die Wege leiten. Aber es gibt nicht wirklich viele Busreiseanbieter und es sah nicht gut aus auf den Portalen. Unser Hotel hätte uns nicht einmal länger bleiben lassen können. Und wir wollten ja weg aus Lima. 
 

@@ -1,14 +1,12 @@
 ---
 title: Impressionen von Irland
 date: 2013-06-29T11:56:59+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-05T22:57:19+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - reisen
 tags:
-  - Insel
-  - Irland
+  - irland
 ---
 Anfang Juni verbrachte ich eine Woche auf der grünen Insel mit Verwandten. Nach vielen regnerischen Wochen auf dem Festland begrüßte uns nun die Sonne und ließ auch die ganze Zeit nicht locker. Wir fuhren ein schönes Mietauto und fanden immer ein Bed & Breakfast. Auf dem Programm stand der südliche Teil der Insel. 
 

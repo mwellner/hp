@@ -29,10 +29,12 @@
 
 {{ define "main" }}
 
+<div class="blog-list">
 {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
 {{ range $paginator.Pages }}
 {{ .Render "summary" }}
 {{ end }}
+</div>
 
 {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
 <nav class="blog-pagination">

@@ -9,7 +9,7 @@ categories:
 tags:
   - darmstadt
 ---
-Eine schöne Halbtagswanderung bei Darmstadt ist der Sieben-Hügel-Steig. Und nach so vielen Regentagen tat es gut, mal wieder längere Zeit draußen und aus eigener Kraft unterwegs zu sein. Die Strecke ist 13&thinsp;km lang, wir brauchten dafür reichlich drei Stunden. Besonders praktisch ist die gute Erreichbarkeit, sowohl Anfang wie auch Endpunkt sind leicht mit dem öffentlichen Verkehr zu erreichen. 
+Eine schöne Halbtagswanderung bei Darmstadt ist der Sieben-Hügel-Steig. Und nach so vielen Regentagen tat es gut, mal wieder längere Zeit draußen und aus eigener Kraft unterwegs zu sein. Die Strecke ist 13&thinsp;km lang, wir brauchten dafür reichlich drei Stunden. Besonders praktisch ist die gute Anbindung, sowohl Anfang wie auch Endpunkt sind leicht mit dem öffentlichen Verkehr zu erreichen. 
 <!--more-->
 
 <figure style="max-width: 40rem;">

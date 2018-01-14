@@ -1,6 +1,6 @@
 ---
 date: "2017-11-29T21:48:41"
-lastmod: 2017-12-13T22:50:47+00:00
+lastmod: 2018-01-14T14:50:53+00:00
 title: Fuerteventura
 author: Mathias Wellner
 categories:
@@ -9,7 +9,7 @@ tags:
   - kanarische inseln
   - fuerteventura
 ---
-<figure>
+<figure style="max-width: 40rem;">
   <img sizes="100vw" srcset="https://farm5.staticflickr.com/4692/38074389075_00ab9074d8_n.jpg 320w, https://farm5.staticflickr.com/4692/38074389075_00ab9074d8_z.jpg 640w, https://farm5.staticflickr.com/4692/38074389075_00ab9074d8_c.jpg 800w, https://farm5.staticflickr.com/4692/38074389075_cb26ecf02c_h.jpg 1600w, https://farm5.staticflickr.com/4692/38074389075_646ebd5000_k.jpg 2048w" src="https://farm5.staticflickr.com/4692/38074389075_00ab9074d8_b.jpg" alt="Hotel Barlovento bei Nacht">
   <figcaption>Hotel Barlovento bei Nacht</figcaption>
 </figure>

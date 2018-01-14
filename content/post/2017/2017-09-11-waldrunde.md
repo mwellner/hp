@@ -1,6 +1,6 @@
 ---
 date: "2017-09-11T23:17:11"
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-14T14:54:03+00:00
 title: Laufen im Wald
 author: Mathias Wellner
 categories:
@@ -9,7 +9,7 @@ tags:
   - darmstadt
   - laufen
 ---
-<figure>
+<figure style="max-width: 40rem;">
   <a href="https://www.flickr.com/photos/mwellner/37172663615" title="Laufrunde im Wald">  
     <img srcset="https://farm5.staticflickr.com/4429/37172663615_dedaf652e2_n.jpg 320w, https://farm5.staticflickr.com/4429/37172663615_dedaf652e2_z.jpg 640w, https://farm5.staticflickr.com/4429/37172663615_dedaf652e2_c.jpg 800w, https://farm5.staticflickr.com/4429/37172663615_eda56af40f_h.jpg 1600w" src="https://farm5.staticflickr.com/4429/37172663615_dedaf652e2_b.jpg" title="Laufrunde im Wald">
   </a>

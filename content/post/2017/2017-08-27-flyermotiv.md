@@ -1,6 +1,6 @@
 ---
 date: "2017-08-27T15:51:23"
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-14T14:53:53+00:00
 title: Flyermotiv für "Der Löwe im Winter"
 author: Mathias Wellner
 categories:
@@ -10,7 +10,7 @@ tags:
   - musische gruppe auerbach
   - darmstadt
 ---
-<figure>
+<figure style="max-width: 40rem;">
   <a href="https://www.flickr.com/photos/mwellner/36032093743" title="Flyermotiv für Der Löwe im Winter">  
     <img srcset="https://farm5.staticflickr.com/4346/36032093743_50733b1118.jpg 353w, https://farm5.staticflickr.com/4346/36032093743_dc0e81ef8b_h.jpg 1128w" src="https://farm5.staticflickr.com/4346/36032093743_dc0e81ef8b_h.jpg" alt="Flyermotiv für Der Löwe im Winter">
   </a>

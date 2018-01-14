@@ -1,6 +1,6 @@
 ---
 date: "2017-10-15T23:38:41"
-lastmod: 2017-10-31T23:25:44+00:00
+lastmod: 2018-01-14T14:49:26+00:00
 title: Grube Messel
 author: Mathias Wellner
 categories:
@@ -14,7 +14,7 @@ Mit einem ehemaligen Arbeitskollegen aus Zürich und seiner Familie besuchte ich
 
 Bekannt sind vor allem die Ur-Pferdearten [Propalaeotherium](https://de.wikipedia.org/wiki/Propalaeotherium) und [Eurohippus](https://de.wikipedia.org/wiki/Eurohippus). Das Logo der Grube zeigt auch die Umrisse eines der gefundenen Urpferde. 
 
-<figure>
+<figure style="max-width: 40rem;">
   <img srcset="https://farm2.staticflickr.com/1058/1429051293_62292d9a64_n.jpg 320w, https://farm2.staticflickr.com/1058/1429051293_62292d9a64_z.jpg 640w" src="https://farm2.staticflickr.com/1058/1429051293_62292d9a64_b.jpg" alt="Propalaeotherium">
   <figcaption>Propalaeotherium</figcaption>
 </figure>

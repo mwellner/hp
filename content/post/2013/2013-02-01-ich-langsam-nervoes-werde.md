@@ -1,10 +1,13 @@
 ---
 title: Ich, langsam, nervös werde
 date: 2013-02-01T00:11:20+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-14T15:02:47+00:00
 author: Mathias Wellner
 categories:
   - theater
+tags:
+  - ich treu suche
+  - klima das theater
 ---
 Noch 14 Tage bis zur Premiere. Langsam wird es ernst, wir biegen mit [Ich, treu, suche](http://www.klima-das-theater.ch) auf die Zielgerade ein. 
 

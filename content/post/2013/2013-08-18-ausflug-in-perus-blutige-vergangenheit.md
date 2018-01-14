@@ -1,19 +1,13 @@
 ---
 title: Ausflug in Perus blutige Vergangenheit
 date: 2013-08-18T03:40:00+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-14T15:24:09+00:00
 author: Mathias Wellner
 categories:
-  - politik
   - reisen
 tags:
-  - Gewalt
-  - Interner Konflikt
-  - Kommunismus
-  - Leuchtender Pfad
-  - Opfer
   - peru
-  - Revolution
+  - geschichte
 ---
 Unseren Aufenthalt in Lima nutzten wir noch für einen Besuch im Nationalmuseum. Dieses befindet sich im zugigen Gebäude des Kulturministeriums und wie immer fuhren wir mit dem Taxi eine halbe Stunde dorthin. Lima ist einfach riesig, wobei ich das nur flächenmäßig meine. 
 

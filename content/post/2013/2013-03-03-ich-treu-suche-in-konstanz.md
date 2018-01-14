@@ -1,12 +1,13 @@
 ---
 title: Ich, treu, suche in Konstanz
 date: 2013-03-03T21:54:06+00:00
-lastmod: 2017-09-29T19:50:18+00:00
+lastmod: 2018-01-14T15:02:58+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
   - ich treu suche
+  - klima das theater
 ---
 Tourneealltag, nach fünf Vorstellungen an drei Orten kann man mittlerweile davon sprechen. Immerhin zum ersten Mal im Ausland, obwohl Konstanz nicht wirklich weit entfernt ist von Kreuzlingen, dem Ort unserer Premiere. Vielleicht zwei Kilometer trennen die beiden Spielorte. 
 

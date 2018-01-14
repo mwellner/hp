@@ -1,68 +1,42 @@
 ---
 title: Mutter, Hure, Königin
 date: 2013-05-28T12:52:23+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-14T15:08:46+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Griechenland
-  - griechisch
-  - Hekabe
-  - Kulturmarkt
-  - Medea
-  - Neaira
-  - Zürich
+  - griechenland
+  - medea
 ---
 Das [Theater Tamar](http://www.theatertamar.ch/) widmet sich in seiner ersten Produktion den antiken Frauenfiguren Medea, Hekabe und Neaira und schlägt auch einen Bogen zu zeitgenössischen Frauen. Und die Frauen haben es schwer. Schon [Euripides](http://de.wikipedia.org/wiki/Euripides) legte es seiner Medea in den Mund.
 
-> Von allen Wesen, die vernunftbegabt
-  
-> auf Erden leben, fiel das schlimmste Los
-  
-> dem Weibe zu. Mit schwerem Gelde müssen
-  
-> wir uns den Gatten kaufen und leibeigen
-  
-> ihm werden; dieses auch. Das drückt noch schwerer.
-  
-> Und ob wir einen guten oder schlechten
-  
-> bekommen, daran hängt das Lebensglück.
-  
-> Denn für den Ruf der Frau ist jede Scheidung
-  
-> verderblich, und den Freier abzuweisen
-  
-> ist uns verwehrt. Aufs ungewisse treten
-  
-> wir in ein neues Haus, ein neues Leben,
-  
-> und mögen raten, wie wir unsern Gatten
-  
-> behandeln, denn zu Hause hat uns das
-  
-> niemand gelehrt. Wenn es uns dann gelingt,
-  
-> die Ehe nicht zur Last des Mannes wird,
-  
-> beneidenswertes Glück. Sonst&thinsp;&ndash;&thinsp;lieber sterben.
-  
-> Denn wenn&#8217;s dem Mann zu Hause nicht behagt,
-  
-> sucht er Erholung draußen sich und Trost.
-  
-> Wir haben nichts, nichts andres als den einen.
-  
-> Man sagt, die Männer müssten in den Krieg,
-  
-> wir säßen in dem sichren Schutz des Hauses.
-  
-> Die Rechnung trügt. Ich möchte lieber dreimal
-  
-> zu Felde ziehn als einmal Mutter werden.
-> 
-> _Durant, Kulturgeschichte der Menschheit, Band III, Das Klassische Griechenland_ 
+<blockquote class="blockquote" style="max-width: 35rem;">
+Von allen Wesen, die vernunftbegabt<br>
+auf Erden leben, fiel das schlimmste Los<br>
+dem Weibe zu. Mit schwerem Gelde müssen<br>
+wir uns den Gatten kaufen und leibeigen<br>
+ihm werden; dieses auch. Das drückt noch schwerer.<br>
+Und ob wir einen guten oder schlechten<br>
+bekommen, daran hängt das Lebensglück.<br>
+Denn für den Ruf der Frau ist jede Scheidung<br>
+verderblich, und den Freier abzuweisen<br>
+ist uns verwehrt. Aufs ungewisse treten<br>
+wir in ein neues Haus, ein neues Leben,<br>
+und mögen raten, wie wir unsern Gatten<br>
+behandeln, denn zu Hause hat uns das<br>
+niemand gelehrt. Wenn es uns dann gelingt,<br>
+die Ehe nicht zur Last des Mannes wird,<br>
+beneidenswertes Glück. Sonst&thinsp;&ndash;&thinsp;lieber sterben.<br>
+Denn wenn's dem Mann zu Hause nicht behagt,<br>
+sucht er Erholung draußen sich und Trost.<br>
+Wir haben nichts, nichts andres als den einen.<br>
+Man sagt, die Männer müssten in den Krieg,<br>
+wir säßen in dem sichren Schutz des Hauses.<br>
+Die Rechnung trügt. Ich möchte lieber dreimal<br>
+zu Felde ziehn als einmal Mutter werden.<br>
+<footer class="blockquote-footer">Durant, Kulturgeschichte der Menschheit, Band III, Das Klassische Griechenland</footer>
+</blockquote>
 
 [Hekabe](http://de.wikipedia.org/wiki/Hekabe), einstige Königin von Troja, verlor all ihre Kinder. Die Söhne fielen in der Schlacht, die Töchter wurden als Sklavinnen von den Siegern abtransportiert. Gebeugt und alt erscheint sie auf der Bühne, hält sich an ihrem krummen Wanderstock. Sie erscheint so wie in [Die Troerinnen](http://de.wikipedia.org/wiki/Die_Troerinnen) von Euripides, oder vielmehr danach. 
 

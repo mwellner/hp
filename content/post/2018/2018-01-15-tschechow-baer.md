@@ -25,7 +25,7 @@ Luka
 
 #### Handlung
 
-Elena befindet sich immer noch in tiefer Trauer wegen ihres verstorbenen Gatten. Luka versucht sie aufzumuntern, aber ohne Erfolg. 
+Elena befindet sich immer noch in tiefer Trauer wegen ihres vor sieben Monaten verstorbenen Gatten. Luka versucht sie aufzumuntern, aber ohne Erfolg. Ständig schaut sie das Foto an und schluchzt, als die Rede auf ihres Gatten Lieblingspferd Toby kommt.
 
 <blockquote class="blockquote">
   <dl class="mb-0">

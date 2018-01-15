@@ -1,6 +1,6 @@
 ---
 date: "2017-08-16T21:40:15"
-lastmod: 2018-01-14T14:55:10+00:00
+lastmod: 2018-01-15T16:18:31+00:00
 title: Darmstadt -- Digitale Stadt
 author: Mathias Wellner
 categories:
@@ -10,7 +10,7 @@ tags:
 ---
 Heute besuchte ich einen Informationsabend der [Grünen in Darmstadt](http://www.gruene-darmstadt.de/kreisverband/), genauer gesagt des [Arbeitskreises Digital](http://www.gruene-darmstadt.de/kreisverband/showcontent.asp?ThemaID=462). Thema war die digitale städtische Entwicklung, mit dabei war natürlich der Oberbürgermeister Jochen Partsch. Es war mein erster Kontakt mit Kommunalpolitik in meiner neuen Heimat. 
 
-<figure style="max-width: 40rem;">
+<figure>
   <a href="https://www.flickr.com/photos/mwellner/32727033490/in/album-72157677198199094/" title="Darmstadtium">  
     <img srcset="https://farm1.staticflickr.com/770/32727033490_87a429a509_n.jpg 320w, https://farm1.staticflickr.com/770/32727033490_87a429a509_c.jpg 800w" src="https://farm1.staticflickr.com/770/32727033490_87a429a509_c.jpg" alt="Darmstadtium">
   </a>

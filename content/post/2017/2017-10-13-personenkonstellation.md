@@ -1,6 +1,6 @@
 ---
 date: "2017-10-13T23:38:41"
-lastmod: 2018-01-14T14:50:15+00:00
+lastmod: 2018-01-15T16:18:07+00:00
 title: Der Löwe im Winter -- Personenkonstellation
 author: Mathias Wellner
 categories:
@@ -15,7 +15,7 @@ Schon in einer Woche ist die Generalprobe für _Der Löwe im Winter_. Im Gegensa
 
 Damit unsere Zuschauer die nicht ganz einfachen Familienverhältnisse im England des 12. Jahrhunderts besser verstehen, habe ich ein Plakat gestaltet. Darauf sieht man die Verwandtschaftsverhältnisse am besten. 
 
-<figure style="max-width: 40rem;">
+<figure>
   <a href="https://www.flickr.com/photos/mwellner/37646706372" title="Programm-Plakat, Der Löwe im Winter">
     <img srcset="https://farm5.staticflickr.com/4488/37646706372_8315f06b15_n.jpg 226w, https://farm5.staticflickr.com/4488/37646706372_8315f06b15_z.jpg 453w, https://farm5.staticflickr.com/4488/37646706372_8315f06b15_c.jpg 566w, https://farm5.staticflickr.com/4488/37646706372_35d409457e_h.jpg 1131w, https://farm5.staticflickr.com/4488/37646706372_10f3380bd9_k.jpg 1448w" src="https://farm5.staticflickr.com/4488/37646706372_8315f06b15_b.jpg" alt="Programm-Plakat, Der Löwe im Winter">
   </a>
@@ -26,7 +26,7 @@ Doch nun noch mehr Einzelheiten zu den Protagonisten des Theaterstücks.
 
 #### Henry II Plantagenet (Heinrich II.)
 
-<figure style="max-width: 40rem;">
+<figure>
   <a href="https://www.flickr.com/photos/mwellner/37359683381" title="Henry II in Der Löwe im Winter">
     <img srcset="https://farm5.staticflickr.com/4353/37359683381_2561ee825d_n.jpg 320w, https://farm5.staticflickr.com/4353/37359683381_2561ee825d_z.jpg 640w, https://farm5.staticflickr.com/4353/37359683381_2561ee825d_c.jpg 800w, https://farm5.staticflickr.com/4353/37359683381_a843c149b0_h.jpg 1600w, https://farm5.staticflickr.com/4353/37359683381_9a07a6d3e0_k.jpg 2048w" src="https://farm5.staticflickr.com/4353/37359683381_2561ee825d_b.jpg" title="Henry II in Der Löwe im Winter">
   </a>
@@ -37,7 +37,7 @@ Auftritt [Henry II](https://de.wikipedia.org/wiki/Heinrich_II._(England)) -- Sei
 
 #### Eleanor (Eleonore von Aquitanien)
 
-<figure style="max-width: 40rem;">
+<figure>
   <a href="https://www.flickr.com/photos/mwellner/37359678721" title="Eleanor und Henry II in Der Löwe im Winter">
     <img srcset="https://farm5.staticflickr.com/4406/37359678721_98b9f64058_n.jpg 320w, https://farm5.staticflickr.com/4406/37359678721_98b9f64058_z.jpg 640w, https://farm5.staticflickr.com/4406/37359678721_98b9f64058_c.jpg 800w, https://farm5.staticflickr.com/4406/37359678721_9c647c5cb6_h.jpg 1600w, https://farm5.staticflickr.com/4406/37359678721_c226cdef60_k.jpg 2048w" src="https://farm5.staticflickr.com/4406/37359678721_98b9f64058_b.jpg" alt="Eleanor und Henry II in Der Löwe im Winter">
   </a>
@@ -50,7 +50,7 @@ Lange war sie Königin von Frankreich, bis zur Annullierung der Ehe mit [Louis V
 
 #### Alais (Alix von Frankreich, Gräfin von Vexin)
 
-<figure style="max-width: 40rem;">
+<figure>
   <a href="Alais in Der Löwe im Winter" title="Alais in Der Löwe im Winter">
     <img srcset="https://farm5.staticflickr.com/4499/37359683881_4ce318c354_n.jpg 320w, https://farm5.staticflickr.com/4499/37359683881_4ce318c354_z.jpg 640w, https://farm5.staticflickr.com/4499/37359683881_4ce318c354_c.jpg 800w, https://farm5.staticflickr.com/4499/37359683881_4828ab1cb2_h.jpg 1600w, https://farm5.staticflickr.com/4499/37359683881_74ea7e9fa3_k.jpg 2048w" src="https://farm5.staticflickr.com/4499/37359683881_4ce318c354_b.jpg" alt="Alais in Der Löwe im Winter">
   </a>
@@ -61,7 +61,7 @@ Lange war sie Königin von Frankreich, bis zur Annullierung der Ehe mit [Louis V
 
 #### Richard I (Löwenherz)
 
-<figure style="max-width: 40rem;">
+<figure>
   <a href="https://www.flickr.com/photos/mwellner/36650764234" title="Richard in Der Löwe im Winter">
     <img srcset="https://farm5.staticflickr.com/4454/36650764234_2f3890da46_n.jpg 320w, https://farm5.staticflickr.com/4454/36650764234_2f3890da46_z.jpg 640w, https://farm5.staticflickr.com/4454/36650764234_2f3890da46_c.jpg 800w, https://farm5.staticflickr.com/4454/36650764234_e5a7017009_h.jpg 1600w, https://farm5.staticflickr.com/4454/36650764234_aaf3e612a0_k.jpg 2048w" src="https://farm5.staticflickr.com/4454/36650764234_2f3890da46_b.jpg" alt="Richard in Der Löwe im Winter">
   </a>
@@ -72,7 +72,7 @@ Wer kennt ihn nicht, Richard Löwenherz, in jeder Robin-Hood-Verfilmung taucht e
 
 #### Mathilda (ursprünglich Goeffrey oder Gottlieb)
 
-<figure style="max-width: 40rem;">
+<figure>
   <a href="https://www.flickr.com/photos/mwellner/36932313443" title="Richard, Mathilda und John in Der Löwe im Winter">
     <img srcset="https://farm5.staticflickr.com/4474/36932313443_48d5ceff39_n.jpg 320w, https://farm5.staticflickr.com/4474/36932313443_48d5ceff39_z.jpg 640w, https://farm5.staticflickr.com/4474/36932313443_48d5ceff39_c.jpg 800w, https://farm5.staticflickr.com/4474/36932313443_f16c9fc704_h.jpg 1600w, https://farm5.staticflickr.com/4474/36932313443_8165a8d0c6_k.jpg 2048w" src="https://farm5.staticflickr.com/4474/36932313443_48d5ceff39_b.jpg" alt="Richard, Mathilda und John in Der Löwe im Winter">
   </a>
@@ -83,7 +83,7 @@ Die verschlagene Mathilda kommt in der Thronfolge leider ganz am Ende. Richard i
 
 #### John Lackland (Johann Ohneland)
 
-<figure style="max-width: 40rem;">
+<figure>
   <a href="https://www.flickr.com/photos/mwellner/36892196504" title="John in Der Löwe im Winter">
     <img srcset="https://farm5.staticflickr.com/4467/36892196504_4cb0f01bc8_n.jpg 214w, https://farm5.staticflickr.com/4467/36892196504_4cb0f01bc8_z.jpg 428w, https://farm5.staticflickr.com/4467/36892196504_4cb0f01bc8_c.jpg 534w, https://farm5.staticflickr.com/4467/36892196504_a960e502e2_h.jpg 1068w, https://farm5.staticflickr.com/4467/36892196504_763c559483_k.jpg 1367w" src="https://farm5.staticflickr.com/4467/36892196504_4cb0f01bc8_b.jpg" alt="John in Der Löwe im Winter">    
   </a>
@@ -94,7 +94,7 @@ Die verschlagene Mathilda kommt in der Thronfolge leider ganz am Ende. Richard i
 
 #### Philip II (Philipp II. August)
 
-<figure style="max-width: 40rem;">
+<figure>
   <a href="https://www.flickr.com/photos/mwellner/36892194794" title="Philip II in Der Löwe im Winter">
     <img srcset="https://farm5.staticflickr.com/4448/36892194794_548f1d1b1c_n.jpg 320w, https://farm5.staticflickr.com/4448/36892194794_548f1d1b1c_z.jpg 640w, https://farm5.staticflickr.com/4448/36892194794_548f1d1b1c_c.jpg 800w, https://farm5.staticflickr.com/4448/36892194794_53caf514cc_h.jpg 1600w, https://farm5.staticflickr.com/4448/36892194794_4e105f53cf_k.jpg 2048w" src="https://farm5.staticflickr.com/4448/36892194794_548f1d1b1c_b.jpg" alt="Philip II in Der Löwe im Winter">
   </a>

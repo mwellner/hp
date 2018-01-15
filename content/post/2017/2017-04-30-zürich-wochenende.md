@@ -1,7 +1,7 @@
 ---
 title: Zürich-Wochenende
 date: 2017-04-30T23:52:37+01:00
-lastmod: 2018-01-14T14:58:17+00:00
+lastmod: 2018-01-15T16:18:26+00:00
 author: Mathias Wellner
 tags: 
   - zürich
@@ -9,7 +9,7 @@ tags:
 categories:
   - tagebuch
 ---
-<figure style="max-width: 40rem;">
+<figure>
   <a href="https://www.flickr.com/photos/mwellner/5140909582" title="Blick über Zürich vom Großmünster">
     <img srcset="https://farm4.staticflickr.com/3807/10643318116_0738b8d09b_n.jpg 320w, https://farm4.staticflickr.com/3807/10643318116_0738b8d09b_z.jpg 640w, https://farm4.staticflickr.com/3807/10643318116_0738b8d09b_c.jpg 800w, https://farm4.staticflickr.com/3807/10643318116_cb9fea2a13_h.jpg 1600w, https://farm4.staticflickr.com/3807/10643318116_dc67034eac_k.jpg 2048w" src="https://farm4.staticflickr.com/3807/10643318116_0738b8d09b_b.jpg" title="Blick über Zürich vom Großmünster">
   </a>

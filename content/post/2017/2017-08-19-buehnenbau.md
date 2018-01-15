@@ -1,6 +1,6 @@
 ---
 date: "2017-08-19T22:51:32"
-lastmod: 2018-01-14T14:55:02+00:00
+lastmod: 2018-01-15T16:18:40+00:00
 title: Bühnenbau mit Styropor
 author: Mathias Wellner
 categories:
@@ -12,7 +12,7 @@ tags:
 ---
 Ein für mich neuer Aspekt des Theater-Bühnenbaus sind größere Kulissen. Für meine aktuelle Produktion _Der Löwe im Winter_ bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) brauchen wir ein paar Säulen. Also richtig hohe Säulen, übermannshoch. Und so lernte ich heute die Feinheiten der Styroporbearbeitung kennen. 
 
-<figure style="max-width: 40rem;">
+<figure>
   <a href="https://www.flickr.com/photos/mwellner/36629352426" title="Styropor-Schneiden">  
     <img srcset="https://farm5.staticflickr.com/4366/36629352426_2c3072cfaf_n.jpg 320w, https://farm5.staticflickr.com/4366/36629352426_2c3072cfaf_c.jpg 800w" src="https://farm5.staticflickr.com/4366/36629352426_2c3072cfaf_c.jpg" alt="Styropor-Schneiden">
   </a>

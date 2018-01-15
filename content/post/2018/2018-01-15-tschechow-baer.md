@@ -72,10 +72,10 @@ Und so spitzt sich der Streit zwischen den beiden immer mehr zu, das Tempo steig
 
 Es droht ein Duell, Elena Popova hat zwar keine Ahnung, wie man mit Pistolen umgeht, aber schießen will sie trotzdem. Doch Smirnov erkennt jetzt, was für eine großartige Frau er da vor sich hat, schließlich finden sich die beiden. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pB1boWLHDP4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 #### Fazit
 
 Das Stück lebt von den beiden so verschiedenen, aber doch einander in ihrer Verbissenheit und Streitsucht ähnlichen Charakteren. Smirnov, der ungehobelte Waldschrat, Popova, die vornehm-zurückhaltende Witwe, die sich aber auch nichts gefallen lässt. Hier braucht man bei der Inszenierung die passenden Schauspieler, die sich auf diesen wunderbar geschriebenen Streit einlassen und die Fetzen fliegen lassen. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pB1boWLHDP4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mathiaswellne-21&marketplace=amazon&region=DE&placement=3257208014&asins=3257208014&linkId=3d7c95af0b02f150332b3cf673c902e0&show_border=false&link_opens_in_new_window=true"></iframe>
+<a href="http://amzn.to/2D2erMf" target="_blank">Buch bestellen</a>

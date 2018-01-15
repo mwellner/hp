@@ -1,12 +1,12 @@
 ---
 title: Fantasie im Theater
 date: 2009-10-16T22:13:42+00:00
-lastmod: 2017-10-02T14:45:33+00:00
+lastmod: 2018-01-15T11:11:11+00:00
 author: Mathias Wellner
 categories:
   - theater
 ---
-Stellen Sie sich vor, Sie hätten absolut keine Fantasie &#8212; wäre das nicht ein trostloses Dasein? Denn erst das Hervorrufen von Bildern und Ideen jenseits des Existierenden lässt Sie unbekannte Probleme lösen und ermöglicht es Ihnen, sich in andere Menschen hineinzuversetzen und somit zwischenmenschliche Beziehungen aufzubauen. 
+Stellen Sie sich vor, Sie hätten absolut keine Fantasie -- wäre das nicht ein trostloses Dasein? Denn erst das Hervorrufen von Bildern und Ideen jenseits des Existierenden lässt Sie unbekannte Probleme lösen und ermöglicht es Ihnen, sich in andere Menschen hineinzuversetzen und somit zwischenmenschliche Beziehungen aufzubauen. 
 
 Eine ganz große Portion Fantasie brauchen Sie beim Theaterspielen. Wenn Sie in einer thematisch arbeitenden Gruppe sind, die anhand eines Grundthemas Szenen improvisiert und festigt, versteht sich Fantasie von selbst. Aber auch bei einem festen Stück brauchen Sie Fantasie, denn der Text legt Ihre Rolle nur scheinbar fest. Es gibt extrem viele Lücken, die Sie mit Ihrer eigenen Vorstellungskraft füllen müssen. Nur dann werden Sie Ihre Rolle plastisch spielen und die Zuschauer bewegen. 
 

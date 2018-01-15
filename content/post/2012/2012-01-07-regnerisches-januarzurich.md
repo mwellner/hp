@@ -1,7 +1,8 @@
 ---
 title: Regnerisches Januarzürich
+slug: regnerisches-januarzurich
 date: 2012-01-07T21:37:32+00:00
-lastmod: 2017-12-18T22:02:43+00:00
+lastmod: 2018-01-15T11:10:03+00:00
 author: Mathias Wellner
 categories:
   - bilder

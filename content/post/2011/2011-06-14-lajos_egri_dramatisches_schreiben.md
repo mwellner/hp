@@ -1,28 +1,16 @@
 ---
-title: 'Lajos Egri &ndash; Dramatisches Schreiben'
+title: Lajos Egri -- Dramatisches Schreiben
+slug: lajos-egri-dramatisches-schreiben
 date: 2011-06-14T22:37:38+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-15T11:08:55+00:00
 author: Mathias Wellner
 excerpt: 'Einige Kerngedanken des Buches "The Art of Dramatic Writing" von Lajos Egri und Anwendung auf die Toscana-Therapie. '
 categories:
-  - literatur
   - theater
 tags:
-  - Bühne
-  - Charakter
-  - Drama
-  - dramatisch
-  - Entwicklung
-  - Gerhard
-  - Hypothese
-  - Karin
-  - Lajos Egri
-  - Prämisse
-  - Robert Gernhard
-  - Schreiben
-  - Stück
-  - theater
-  - Toscana-Therapie
+  - lajos egri
+  - robert gernhard
+  - toscana-therapie
 ---
 Die momentane Theaterpause möchte ich nutzen, um mich intensiver mit den Fundamenten des Theaters auseinanderzusetzen. Als Schauspieler versuche ich, den Augenblick auf der Bühne publikumswirksam zu erleben, immer wieder aufs Neue. Die Kenntnis der größeren Zusammenhänge ist dafür nicht unbedingt erforderlich, ein guter Regisseur hat das ominöse Ganze ohnehin im Blick. Aber was genau macht eine gute Szene oder ein gutes Stück aus? Für solche Fragen möchte ich meinen Blick weiten und das Buch [The Art of Dramatic Writing](http://en.wikipedia.org/wiki/Lajos_Egri#The_Art_of_Dramatic_Writing) von [Lajos Egri](http://de.wikipedia.org/wiki/Lajos_Egri) ist ein guter Anfang. 
 

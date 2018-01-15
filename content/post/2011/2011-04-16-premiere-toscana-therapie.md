@@ -1,16 +1,14 @@
 ---
 title: Premiere Toscana-​​Therapie
 date: 2011-04-16T14:21:57+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-15T12:19:42+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - theater
 tags:
-  - premiere
-  - Robert Gernhardt
-  - theater
-  - Toscana-Therapie
+  - robert gernhardt
+  - toscana-therapie
+  - dramateure
 ---
 Noch wenige Stunden, dann ist es soweit &ndash; wir werden die Toscana-Therapie zum ersten Mal vor Publikum aufführen. Zur Einstimmung gibt es hier ein paar Bilder von der gestrigen Generalprobe. 
 

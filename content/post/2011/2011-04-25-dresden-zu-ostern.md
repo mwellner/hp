@@ -1,16 +1,12 @@
 ---
 title: Dresden zu Ostern
 date: 2011-04-25T23:57:19+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-15T12:21:49+00:00
 author: Mathias Wellner
-excerpt: Ich beschreibe meine österliche Reise nach Dresden.
 categories:
-  - bilder
   - reisen
 tags:
-  - Bahn
   - dresden
-  - Heimat
   - klettern
 ---
 Ich liebe Bahnfahren. Ich kann einfach nicht genug davon bekommen. Unter der Woche fahre ich täglich weite Strecken mit der Bahn, sitze locker zwei Stunden pro Tag in irgendwelchen Zügen. Aber das sind ja mehr so kleine Hopser, verglichen mit einer Fahrt nach Dresden. Zehn Stunden in ICEs verbringen &ndash; das ist die wahre Erfüllung. Und so sitze ich jetzt in meinem stillen Zimmer, das völlig antriebslos in Zürich herumsteht und vermisse das Gefühl, in Bewegung zu sein. Aber es sind ja nur wenige Stunden Schlaf, die ich durchhalten muss, dann geht es wieder los mit pendeln&#8230;

@@ -1,18 +1,14 @@
 ---
 title: halbkontakt@ErzählnachtEglisau
 date: 2011-01-22T12:23:10+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-15T11:44:50+00:00
 author: Mathias Wellner
 excerpt: Bericht unseres Kurzauftritts bei der Erzählnacht Eglisau (Produktion halbkontakt, theater frischfleisch)
 categories:
-  - bilder
   - theater
 tags:
-  - Auftritt
-  - Eglisau
-  - Erzählnacht
   - halbkontakt
-  - ZES
+  - zes
 ---
 Eglisau ist eine kleine Stadt am Rhein im Norden von Zürich. Und da wir im März ganz in der Nähe eine Aufführung planen ([Cafe Rorboz](http://www.rorboz.ch/) in Rorbas), nutzten wir die Gelegenheit, mit drei kurzen Szenen unserer aktuellen Produktion an der Erzählnacht teilzunehmen. Diese findet einmal pro Jahr statt, ungefähr ein Dutzend Teilnehmer lesen oder erzählen etwas, in zehn Minuten. Mit unserem Theaterstück fielen wir da schon etwas aus dem Rahmen, mit unserem Hochdeutsch sowieso. Aber zumindest die jüngeren Zuschauer fanden es toll, einige wollten sogar in Rorbas vorbei kommen. 
 
@@ -20,13 +16,9 @@ Die Beiträge waren recht verschieden, aber es waren doch einige Hobby-Autoren m
 
 Bei den weiteren Darstellern überzeugte eine alte Dame mit der plastischen Beschreibung eines Häkelnadelunfalls beim Kippeln. Mich selbst beeindruckte noch die Erinnerung an eine &#8220;Frau Holle&#8221;-Theaterproduktion, welche die Erzählerin im zarten Alter von sieben Jahren als permanenten Ausnahmezustand erlebt hatte. Den Sog des Theaters kann man nicht besser beschreiben, das Drama der Antagonistin Pech-Marie, deren Vater sich nirgends mehr sehen lassen konnte, die Einbeziehung des gesamten Dorfes bei Orchesterproben, Kostümkreation und Bühnenbild, der große Erfolg der Aufführung mit Unterstützung eines Kinderhilfswerkes &ndash; Theater bewegt. 
 
-<div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/5377679426/" title="flyer halbkontakt by mwellner, on Flickr"><img src="http://farm6.static.flickr.com/5243/5377679426_f835fea6ef.jpg" width="500" height="355" alt="flyer halbkontakt" /></a>
-  
-  <p class="wp-caption-text">
-    Flyervorderseite unserer Produktion<br />
-  </p>
-</div>
+<figure>
+  <img sizes="100vw" srcset="https://farm6.staticflickr.com/5243/5377679426_f835fea6ef_n.jpg 320w, https://farm6.staticflickr.com/5243/5377679426_f835fea6ef_z.jpg 640w" src="https://farm6.staticflickr.com/5243/5377679426_f835fea6ef_b.jpg" alt="Flyervorderseite unserer Produktion">  
+</figure>
 
 Nach der Pause begann uns dann so langsam die Nervosität zu packen, ich musste einfach aufstehen und gemeinsam gingen wir raus in die kalte Januarnacht und wärmten uns ein wenig auf. Wir mussten uns ja an die Bühnensituation anpassen, letzte Details mit Auf- und Abgängen festlegen und auch einfach etwas tun. Vor uns trat eine Frau mit wunderbaren selbstgebastelten Figuren auf, die Geschichte eines Apfelbaums gestaltete sich als wahre Requisitenschlacht. Dann waren wir dran, bauten um, und es ging los. Das Publikum war gebannt und applaudierte großzügig. Wir waren schon ein Kontrastprogramm. Aber so konnten wir zum ersten Mal in dieser Formation vor Publikum spielen. 
 

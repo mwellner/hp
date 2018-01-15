@@ -1,7 +1,7 @@
 ---
 title: Minarettverbot in der Schweiz
 date: 2009-12-06T11:36:35+00:00
-lastmod: 2017-10-02T14:50:42+00:00
+lastmod: 2018-01-15T11:23:16+00:00
 author: Mathias Wellner
 categories:
   - politik
@@ -22,7 +22,7 @@ Einen kleinen Vorgeschmack bietet die Stellungnahme der Minarettgegner zum Ausga
   <footer class="blockquote-footer">Quelle: <a href="http://www.admin.ch/ch/d/pore/vi/vis353.html">Volksinitiative Gegen den Bau von Minaretten</a>, Stellungnahme vom 29.11.2009</footer>
 </blockquote>
   
-Auf jeden Fall kommt jetzt Bewegung in dieses manchmal so träge Land. Der freie Autor <a href="http://www.lewinsky.ch/charles/index.html">Charles Lewinsky</a> empfiehlt in einem <a href="http://www.tagesanzeiger.ch/kultur/buecher/Jetzt-muessen-wir-sogar-Koeppels-triumphierende-Ironie-schlucken/story/10202730">Tagesanzeiger-Essay</a>, mit gleichen Mitteln zurückzuschlagen und mit Zuspitzungen die Lufthoheit in der Debatte zu erringen. Denn mit gerümpfter Nase schweigend dabei zu stehen &#8211; davon ändert sich nichts. Wir müssen uns also üben im Polarisieren und Polemisieren, das einfache Argument schlägt stets das differenzierte, richtige.
+Auf jeden Fall kommt jetzt Bewegung in dieses manchmal so träge Land. Der freie Autor <a href="http://www.lewinsky.ch/charles/index.html">Charles Lewinsky</a> empfiehlt in einem <a href="http://www.tagesanzeiger.ch/kultur/buecher/Jetzt-muessen-wir-sogar-Koeppels-triumphierende-Ironie-schlucken/story/10202730">Tagesanzeiger-Essay</a>, mit gleichen Mitteln zurückzuschlagen und mit Zuspitzungen die Lufthoheit in der Debatte zu erringen. Denn mit gerümpfter Nase schweigend dabei zu stehen -- davon ändert sich nichts. Wir müssen uns also üben im Polarisieren und Polemisieren, das einfache Argument schlägt stets das differenzierte, richtige.
 
 Einen anderen Aspekt betont ein jüngst veröffentlichter ZEIT-Artikel, der die Frage stellt, ob direkte Demokratie auf Bundesebene überhaupt noch zeitgemäß sei. Bezogen auf den Minarett-Entscheid kritisiert er, dass Volksabstimmungen bei komplexen Sachverhalten eine falsche Flucht zu einfachen Antworten in schwierigen Zeiten darstellten.
   

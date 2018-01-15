@@ -1,21 +1,16 @@
 ---
 title: Café Rorboz
 date: 2011-02-19T20:00:02+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-15T11:54:04+00:00
 author: Mathias Wellner
-excerpt: |
-  Unsere zweite Spielstätte für die halbkontakt-Produktion ist das Café Rorboz in Rorbas. Gestern konnten wir uns einen ersten Eindruck vom Lokal verschaffen.
 categories:
   - theater
 tags:
-  - Bühne
-  - Cafe Rorboz
-  - Frischfleisch
   - halbkontakt
-  - Rorbas
-  - theater
+  - zes
 ---
 Unsere zweite Spielstätte für die halbkontakt-Produktion ist das [Café Rorboz](http://www.rorboz.ch/) in Rorbas. Gestern konnten wir uns einen ersten Eindruck vom Lokal verschaffen. 
+<!--more-->
 
 Rorbas ist ein schöner kleiner Ort an der Töss, den man vom Flughafen Zürich-Kloten mit einem Bus bequem erreichen kann, zwanzig Minuten dauert die Fahrt. Das Umsteigen in Freienstein lohnt sich nicht, zu Fuß passiert man schnell die alte enge Brücke und sieht das Café rechterhand an der Hauptstraße. Es ist schön eingerichtet, hohe Fenster spenden tagsüberviel Licht. Hinter dem Hauptraum mit Bar, Tischen und der Bühne befindet sich ein weiterer Raum, der für Yoga und Aikido genutzt wird. Es ist ein Café mit gastronomischer und kultureller Grundversorgung, obwohl das kulturelle Programm in letzter Zeit wohl nicht mehr so dicht war. Aber an den Wänden hängen zahlreiche Plakate von 2003-04, Jazz-Brunch und Konzerte künden vom Engagement der Eigentümer. Jetzt versuchen wir uns also mit unserem Theaterstück. 
 

@@ -12,14 +12,14 @@ tags:
 ---
 Ein für mich neuer Aspekt des Theater-Bühnenbaus sind größere Kulissen. Für meine aktuelle Produktion _Der Löwe im Winter_ bei der [Musischen Gruppe Auerbach](https://mga-darmstadt.de/) brauchen wir ein paar Säulen. Also richtig hohe Säulen, übermannshoch. Und so lernte ich heute die Feinheiten der Styroporbearbeitung kennen. 
 
+<!--more-->
+
 <figure>
   <a href="https://www.flickr.com/photos/mwellner/36629352426" title="Styropor-Schneiden">  
     <img srcset="https://farm5.staticflickr.com/4366/36629352426_2c3072cfaf_n.jpg 320w, https://farm5.staticflickr.com/4366/36629352426_2c3072cfaf_c.jpg 800w" src="https://farm5.staticflickr.com/4366/36629352426_2c3072cfaf_c.jpg" alt="Styropor-Schneiden">
   </a>
   <figcaption>Styropor-Schneiden</figcaption>
 </figure>
-
-<!--more-->
 
 Styropor ist perfekt für Kulissen, leicht, formstabil, leicht zu bearbeiten. Man kann es sägen, was jedoch recht viele Krümel produziert. Deutlich besser ist das Schneiden mit einem heißen Draht. Dafür gibt es spezielle Geräte, z.B. von [Proxxon](http://www.proxxon.com/de/micromot/27082.php). Wir brauchten jedoch etwas Längeres, um die Säulenrundungen möglichst einfach herzustellen. Mit einem minimalistischen Modell der Marke Eigenbau schnitt ich etliche runde Elemente. 
 

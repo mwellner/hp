@@ -1,20 +1,13 @@
 ---
-title: 'Szenische Lesung &#8220;Ein Volksfeind&#8221; (Henrik Ibsen)'
+title: Henrik Ibsen -- Ein Volksfeind
+slug: henrik-ibsen-ein-volksfeind
 date: 2011-08-25T22:20:36+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-18T23:11:46+00:00
 author: Mathias Wellner
 categories:
   - literatur
 tags:
-  - Bad
-  - Badeort
-  - Drama
-  - Ein Volksfeind
-  - Heilbad
-  - Henrik Ibsen
-  - Kurort
-  - Meinung
-  - Öffentlichkeit
+  - henrik ibsen
 ---
 Am nächsten Donnerstag findet bei mir die nächste szenische Lesung statt, wir widmen uns dem Drama [Ein Volksfeind](http://de.wikipedia.org/wiki/Ein_Volksfeind) von [Henrik Ibsen](http://de.wikipedia.org/wiki/Henrik_Ibsen). 
 

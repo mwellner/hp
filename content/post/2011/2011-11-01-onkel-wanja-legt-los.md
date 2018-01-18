@@ -1,16 +1,14 @@
 ---
 title: Onkel Wanja legt los
 date: 2011-11-01T23:57:21+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-18T22:50:22+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Onkel Wanja
-  - Produktion
-  - theater
-  - Tschechow
-  - Wanja
+  - onkel wanja
+  - anton tschechow
+  - dramateure
 ---
 Erste offizielle Probe der [Onkel Wanja](http://de.wikipedia.org/wiki/Onkel_Wanja)-Inszenierung, drei neue Leute haben den Weg ins Kellertheater des [GZ Buchegg](http://www.gzbuchegg.ch) gefunden. Nach der Vorstellungsrunde und der Erläuterung des weiteren Ablaufs konnten wir dann auch endlich wieder mal aktiv werden &ndash; in Form der beliebten Improvisationsspiele. 
 

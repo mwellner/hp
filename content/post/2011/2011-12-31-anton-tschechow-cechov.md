@@ -1,16 +1,12 @@
 ---
 title: Anton Pawlowitsch Tschechow (Čechov)
 date: 2011-12-31T19:33:30+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-18T22:57:55+00:00
 author: Mathias Wellner
 categories:  
   - theater
 tags:
-  - anton cechov
   - anton tschechow
-  - autor
-  - biografie
-  - leben
 ---
 Für die aktuelle [dramateure](http://www.dramateure.ch)-Theaterproduktion _Onkel Wanja_ möchte ich mehr über den Autor [Anton Tschechow](http://de.wikipedia.org/wiki/Anton_Pawlowitsch_Tschechow) erfahren. Es ist ein naheliegender Schritt zum Verständnis des Textes. Und es ist auch der große Vorteil des Literaturtheaters, dass es einen großen Reichtum an vorhandenem Material gibt, den man studieren kann. Dieses Material ist Teil des Eisberges, den man als Regisseur oder Schauspieler aufbaut. Am Ende wird nur ein kleiner Teil oben schwimmen, aber ohne den großen unsichtbaren Anteil könnte dieser kleine sichtbare Anteil nicht schwimmen. 
 

@@ -1,19 +1,12 @@
 ---
 title: Buchhaltung mit ledger
 date: 2011-09-08T22:29:26+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-18T23:02:07+00:00
 author: Mathias Wellner
 categories:
   - technik
 tags:
-  - Aktiva
-  - Aufwendungen
   - buchhaltung
-  - Kasse
-  - Konten
-  - Konto
-  - ledger
-  - verein
 ---
 Für unseren Theaterverein wollte ich mir nach Abschluss der letzten Produktion einen Überblick über die Finanzen verschaffen. Die existierende Lösung mit einer Excel-Tabelle erschien mir nicht optimal, weshalb ich mich nach anderen Lösungen umschaute. Ich testete [GnuCash](http://www.gnucash.org/) und [ledger](http://ledger-cli.org/), letzteres stellte sich für mich als die beste Lösung heraus. In diesem Artikel möchte ich den Entscheidungsprozess und meine ersten Schritte mit _ledger_ darstellen. 
 

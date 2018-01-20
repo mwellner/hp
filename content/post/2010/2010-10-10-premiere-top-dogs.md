@@ -1,20 +1,15 @@
 ---
-title: 'Premiere &#8220;Top Dogs&#8221;'
+title: Top Dogs -- Premiere
+slug: top-dogs-premiere
 date: 2010-10-10T12:49:54+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:19:32+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - theater
 tags:
-  - Applaus
-  - Bühne
-  - Feier
-  - premiere
-  - StuThe
-  - Top Dogs
-  - Urs Widmer
-  - Vorhang
+  - stuthe
+  - top dogs
+  - urs widmer
 ---
 Wir Schauspieler sitzen hinter dem Vorhang, es sind noch fünfzehn Minuten. Toi toi toi &ndash; die Rituale der Bühnenzunft sind überall gleich, man wünscht sich Glück für den kommenden Auftritt. Vor allem für die Premiere, wenn man das eingeübte Stück zum ersten Mal vor Zuschauern spielt. All das liegt hinter uns, wir stehen oder sitzen hinter dem Vorhang. Wie Gladiatoren, die noch ein letztes Mal ihre Rüstungen und Waffen kontrollieren, bevor sich das Gitter öffnet und wilde Bestien sich auf sie stürzen. Ein bisschen Stoff, der Blicke verbirgt, aber Geräusche durchlässt. 
 

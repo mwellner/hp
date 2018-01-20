@@ -1,7 +1,8 @@
 ---
 title: Wolf Singer, Matthieu Ricard -- Hirnforschung und Meditation. Ein Dialog.
+slug: wolf-singer-matthieu-ricard-hirnforschung-meditation-dialog
 date: 2008-08-11T23:04:42+00:00
-lastmod: 2017-12-18T20:23:07+00:00
+lastmod: 2018-01-20T22:00:57+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

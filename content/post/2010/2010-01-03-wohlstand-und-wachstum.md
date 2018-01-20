@@ -1,14 +1,10 @@
 ---
 title: Wohlstand und Wachstum
 date: 2010-01-03T21:43:30+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T21:53:18+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
-tags:
-  - wachstum
-  - wirtschaft
-  - wohlstand
 ---
 Keine Rede zur Wirtschaftspolitik kommt ohne diese beiden Grundbegriffe aus: Wohlstand und Wachstum. Doch angesichts einer Welt mit begrenzten Rohstoffen stellt sich die Frage, wie genau denn unendliches Wachstum funktionieren soll. Denn nach der heutigen Auffassung bedeutet Wachstum ein stetiges Mehr an Produktion und Konsum. Und Wohlstand ist ein materieller Begriff, der eng an Überfluss gekoppelt ist. 
 

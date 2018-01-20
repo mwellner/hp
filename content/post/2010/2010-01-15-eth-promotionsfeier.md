@@ -1,15 +1,13 @@
 ---
 title: ETH-Promotionsfeier
 date: 2010-01-15T23:01:11+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T21:56:15+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - doktor
-  - eth
+  - eth zürich
   - promotion
-  - urkunde
 ---
 Das letzte Kapitel, das allerletzte auf dem Weg zur Promotion -- die feierliche Überreichung der Urkunde. Der Scherrer-Hörsaal war festlich geschmückt, ebenso die frischgebackenen Doktorinnen und Doktoren. Die ETH Big Band spielte auf in einer sehr blechlastigen Konstellation, sie schmetterte uns den Jubel entgegen. Dann durfte jeder einzeln nach vorn gehen und bekam von der Rektorin die Urkunde überreicht. Ein paar Worte, dann den Blick zum Fotografen gerichtet, knips, wieder zur Rektorin, &"alles Gute weiterhin". So ging das für vielleicht 150 Leute, Doktortitel am laufenden Band. Glaubt mir, es ist nichts Besonderes. Ich musste abends nochmal zur Firma, etwas abschließen, bin schon ganz gefangen im neuen Job. 
 

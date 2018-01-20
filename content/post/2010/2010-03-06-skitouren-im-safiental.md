@@ -1,17 +1,12 @@
 ---
 title: Skitouren im Safiental
 date: 2010-03-06T19:49:42+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:14:31+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
   - graubünden
-  - safiental
-  - skitour
-  - turrahus
-  - winter
-  - wintersport
 ---
 Alles hatte ich probiert: Snowboard, Abfahrtski, Schneeschuhlaufen, Langlauf, mal mehr, öfter weniger erfolgreich. Aber eine Wintersportart fehlte mir noch in meiner Erfahrungssammlung &ndash; Skitouren. In den Prospekten stellen sich Skitouren immer als einsame Aufstiege und rasante Abfahrten durch unberührten Pulverschnee dar, beides natürlich unter strahlend-blauem Himmel. 
 

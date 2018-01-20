@@ -2,15 +2,10 @@
 title: Groß- und kleinschreibung
 slug: gros-und-kleinschreibung
 date: 2010-01-14T00:00:16+00:00
-lastmod: 2017-12-18T20:23:07+00:00
+lastmod: 2018-01-20T21:53:29+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
-tags:
-  - alphabet
-  - großschreibung
-  - kleinschreibung
-  - lesbarkeit
 ---
 Die Großschreibung auch von Substantiven ist eine Eigenart des Deutschen (und Luxemburgischen). In anderen Sprachen (wie dem Englischen oder Französischen) werden nur Eigennamen und Satzanfänge großgeschrieben. In außereuropäischen Sprachen fehlt diese Unterscheidung ganz. Damit spart man sich zwei separate Alphabete. In diesem Beitrag möchte ich die Herkunft dieses Phänomens erläutern und auch die radikale kleinschreibung auf der basis von otl aichers buch "typographie" vorstellen. 
 

@@ -1,14 +1,13 @@
 ---
 title: Wanderung am Walensee
 date: 2010-08-21T21:27:38+00:00
-lastmod: 2018-01-01T13:09:30+00:00
+lastmod: 2018-01-20T22:17:48+00:00
 author: Mathias Wellner
 excerpt: Wanderbericht, von Walenstadtberg liefen wir nach Quinten
 categories:
   - wandern
 tags:
-  - Gebirge
-  - Walensee
+  - walensee
 ---
 Walenstadtberg (790&thinsp;m) &ndash; Schwaldis (1434&thinsp;m) &ndash; Laubegg (1373&thinsp;m) &ndash; Quinten (434&thinsp;m)
 

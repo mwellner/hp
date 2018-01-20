@@ -2,7 +2,7 @@
 title: Tom Stoppard -- Arkadien
 slug: tom-stoppard-arkadien
 date: 2008-12-22T23:13:23+00:00
-lastmod: 2017-12-18T20:23:07+00:00
+lastmod: 2018-01-20T22:04:30+00:00
 author: Mathias Wellner
 categories:
   - theater

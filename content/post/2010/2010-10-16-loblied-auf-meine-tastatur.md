@@ -1,18 +1,10 @@
 ---
 title: Loblied auf meine Tastatur
 date: 2010-10-16T13:37:38+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:19:44+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - technik
-tags:
-  - Daumen
-  - ergonomisch
-  - Keyboard
-  - Tastatur
-  - Taste
-  - Tasten
 ---
 Ein jeder Handwerker pflegt sein Werkzeug. Der steinzeitliche Jäger spitzte seinen Speer, der Töpfer achtet darauf, dass sich keine Risse im Brennofen bilden und der Koch ist stets auf die Schärfe seiner Messer und um den guten Zustand seiner Töpfe besorgt. Ich bin Texthandwerker. 
 

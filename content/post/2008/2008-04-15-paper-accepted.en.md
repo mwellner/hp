@@ -1,12 +1,12 @@
 ---
 title: Paper accepted
 date: 2008-04-15T19:27:01+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T21:55:35+00:00
 author: Mathias Wellner
 categories:
   - science
 tags:
-  - eth
+  - eth zurich
 ---
 Finally, we got it through! I now can also reveal that the scientific journal of my choice was [Presence](http://www.mitpressjournals.org/pres), published by MIT Press. It was a long process, which raised my awareness of scientific language enormously. However, I am not sure whether that is a good thing. I now tend to get on other people&#8217;s nerves when they write something and ask for my opinion on that. There are so many mistakes and inconsistencies to discover.
 

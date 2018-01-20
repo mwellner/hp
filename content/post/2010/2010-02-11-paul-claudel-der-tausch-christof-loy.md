@@ -1,22 +1,13 @@
 ---
-title: 'Paul Claudel – &#8220;Der Tausch&#8221; (Regie Christof Loy)'
+title: Paul Claudel -- Der Tausch
+slug: paul-claudel-der-tausch
 date: 2010-02-11T00:06:42+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:10:21+00:00
 author: Mathias Wellner
-jd_tweet_this:
-  - 'yes'
 categories:
   - theater
 tags:
-  - Bühne
-  - ehe
-  - glauben
-  - Partner
-  - Religion
-  - sakrament
-  - schiffbau
-  - Tausch
-  - theater
+  - paul claudel
 ---
 Theater lebt von Handlung. Es ist die Aufgabe des Regisseurs, aus dem Stücktext die Handlung herauszulesen und den Schauspielern als Hilfe anzubieten. Was ich heute gesehen habe, war das genaue Gegenteil. Der Regisseur hat alle Handlung verbannt und die Schauspieler mit dem Text allein gelassen. Das Stück begann mit Ausschnitten aus dem Text, fast wie eine Ouvertüre wurden Themen angerissen, von verschiedenen Schauspielern. Es waren vier, zwei Männer und zwei Frauen, die dadurch wie austauschbar wirkten. Das war wohl auch die Absicht. Oder es liegt daran, dass der Regisseur vorher Opern gemacht hat. Bei Opern kommt es auf die Arien an, Handlung und Authentizität spielen eine untergeordnete Rolle. 
 

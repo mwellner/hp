@@ -1,20 +1,13 @@
 ---
 title: Rietbergregensonntagnachmittag
 date: 2010-10-18T22:05:04+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:20:20+00:00
 author: Mathias Wellner
 categories:
   - bilder
 tags:
-  - Buddhismus
-  - Hesse
-  - Kultur
-  - Mönch
-  - Museum
-  - Rietberg
-  - ritual
-  - Siddharta
-  - Zuerich
+  - zürich
+  - rietberg
 ---
 Was macht der kultivierte Stadtzürcher an einem regnerisch-kalten Sonntagnachmittag? Er setzt sich ins Tram Nummer Sieben und fährt in den Süden der Stadt, vorbei am Bahnhof Enge zum [Museum Rietberg](http://www.stadt-zuerich.ch/kultur/de/index/institutionen/museum_rietberg.html). Am höchsten Punkt einer beschaulichen Parkanlage mit alten Villen befindet sich der Museumsneubau. Oberirdisch ist nur der Empfangsbereich und das Museumsgeschäft in einem quaderförmigen Glasgebäude mit markanter Musterung, Smaragd genannt. Die Ausstellungen verbergen sich in zwei Untergeschossen, welche den Oberbau flächenmäßig weit übertreffen. Wie in ein Höhlensystem dringt man immer tiefer ins Innere der Erde vor und sieht Exponate außereuropäischer Kulturen. 
 

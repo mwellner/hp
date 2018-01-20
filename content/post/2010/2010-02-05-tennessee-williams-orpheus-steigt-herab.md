@@ -1,13 +1,13 @@
 ---
 title: Tennessee Williams -- Orpheus steigt herab
+slug: tennessee-williams-orpheus-steigt-herab
 date: 2010-02-05T23:39:01+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:09:16+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - theaterliteratur
-  - usa
+  - tennessee williams
 ---
 Es ist eins der weniger bekannten Stücke von [Tennessee Williams](http://de.wikipedia.org/wiki/Tennessee_Williams), der den meisten wahrscheinlich durch [Die Katze auf dem heißen Blechdach](http://de.wikipedia.org/wiki/Die_Katze_auf_dem_hei%C3%9Fen_Blechdach) oder [Endstation Sehnsucht](http://de.wikipedia.org/wiki/Endstation_Sehnsucht) ein Begriff ist. Dennoch ist es äußerst lohnend, vielschichtig angelegt und hält dem amerikanischen Süden einen schonungslosen Spiegel vor. 
 

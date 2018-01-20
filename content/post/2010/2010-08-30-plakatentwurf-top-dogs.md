@@ -1,9 +1,9 @@
 ---
-title: 'Plakatentwurf &#8220;Top Dogs&#8221;'
+title: Top Dogs -- Plakatentwurf
+slug: top-dogs-plakatentwurf
 date: 2010-08-30T21:28:16+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:25:53+00:00
 author: Mathias Wellner
-excerpt: 'Schon bald werden wir das zeitgenössische Theaterstück "Top Dogs" aufführen. Ich stelle einen Plakatentwurf zur Diskussion. '
 categories:
   - bilder
   - theater

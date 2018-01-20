@@ -1,23 +1,14 @@
 ---
 title: Rollenarbeit im Zoo
 date: 2010-06-13T19:04:35+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:15:56+00:00
 author: Mathias Wellner
-jd_tweet_this:
-  - 'yes'
-wp_jd_bitly:
-  - http://bit.ly/doY0pE
-wp_jd_target:
-  - http://bit.ly/doY0pE
 categories:
   - theater
 tags:
-  - Affe
-  - Rolle
-  - Rollenarbeit
-  - Schauspiel
-  - Tier
-  - Zoo
+  - rollenarbeit
+  - tier
+  - zoo
 ---
 Mittlerweile ist der erste Aufbaukurs des [Zentrums für Entwicklung im Schauspiel](http://zes-info.ch) abgeschlossen. Aber nach dem Aufbaukurs ist vor dem Aufbaukurs &ndash; und so geht es jetzt weiter mit dem zweiten Aufbaukurs mit dem Schwerpunkt Monolog. 
 

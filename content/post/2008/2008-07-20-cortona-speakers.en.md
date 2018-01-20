@@ -1,13 +1,13 @@
 ---
 title: Cortona Speakers
 date: 2008-07-20T22:07:03+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T21:56:34+00:00
 author: Mathias Wellner
 categories:
   - diary
 tags:
   - cortona
-  - eth
+  - eth zurich
 ---
 In early September, I will again go to the [Cortona week](http://www.cortona.ethz.ch), which is offered by ETH Zurich. Now the list of lecture and workshop contributors seems complete and we &ndash; the participants &ndash; were asked to moderate sessions. So I went through the list of presenters to see, if any of these persons was particularly interesting for me. And I found interesting persons, but far too many of them. I will introduce four persons to give you an idea about the diversity of persons and topics in this one week in Cortona.
 

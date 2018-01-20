@@ -1,16 +1,13 @@
 ---
 title: 'Szenische Lesung &ndash; Die heilige Johanna der Schlachthöfe (Bertolt Brecht)'
+slug: bertolt-brecht-heilige-johanna
 date: 2010-11-07T14:26:42+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:22:54+00:00
 author: Mathias Wellner
 categories:
   - literatur
 tags:
-  - Bertolt Brecht
-  - Brecht
-  - Die heilige Johanna der Schlachthöfe
-  - Johanna
-  - Lesung
+  - bertolt brecht
 ---
 Die nächste szenische Lesung steht an, wir stürzen uns auf &#8220;Die heilige Johanna der Schlachthöfe&#8221; von Bertolt Brecht. In Anlehnung an Jeanne d&#8217;Arc heißt die Titelheldin Johanna Dark, sie versucht während eines Streiks der Schlachthof-Arbeiter in Chicago diesen den Glauben an Gott näher zu bringen. Ich denke, die Themen Streik und Religion sind zeitlos und Brecht immer einen Leseabend wert. 
 

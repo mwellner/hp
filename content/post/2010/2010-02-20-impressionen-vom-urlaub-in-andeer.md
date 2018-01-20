@@ -1,15 +1,12 @@
 ---
 title: Impressionen vom Urlaub in Andeer
 date: 2010-02-20T09:53:01+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:13:42+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
+  - reisen
 tags:
-  - andeer
   - graubünden
-  - juf
-  - urlaub
   - winter
 ---
 Drei Tage in Andeer und Umgebung -- Zeit für Entspannung, Wellness und ein bisschen Wintersport. Andeer ist ein beschauliches Örtchen im Kanton Graubünden mit Thermalbad. Diese Einrichtung war auch der wichtigste Grund für uns, dort unser Lager aufzuschlagen. Es gibt zwei Becken mit warmem, mineralischem Wasser und einen Sauna-Bereich im Keller. 

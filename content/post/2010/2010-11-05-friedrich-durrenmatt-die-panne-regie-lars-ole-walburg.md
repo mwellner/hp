@@ -1,22 +1,13 @@
 ---
-title: 'Friedrich Dürrenmatt &ndash; Die Panne (Regie Lars-Ole Walburg)'
+title: Friedrich Dürrenmatt -- Die Panne
+slug: friedrich-duerrenmatt-die-panne
 date: 2010-11-05T23:41:33+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:22:14+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Die Panne
-  - Dürrenmatt
-  - Friedrich Dürrenmatt
-  - Inszenierung
-  - pfauen
-  - Richter
-  - Schauspielhaus
-  - Stück
-  - theater
-  - Traps
-  - Walburg
+  - friedrich dürrenmatt
 ---
 Schön, Theater mal wieder passiv zu erleben, einfach dasitzen und genießen. Das Schauspielhaus spielte Die Panne von Friedrich Dürrenmatt. 
 

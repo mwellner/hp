@@ -1,23 +1,12 @@
 ---
 title: EU-MIMICS-Projekt
 date: 2008-03-17T17:15:17+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T21:55:22+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - wissenschaft
 tags:
-  - ETH
-  - eth life
-  - EU-Projekt
-  - Europa
-  - europäisch
-  - Forschung
-  - lokomat
-  - mimics
-  - science
-  - video
+  - eth zurich
 ---
 Im Januar startete das auf drei Jahre angelegte [EU-MIMICS-Projekt](http://www.mimics.ethz.ch). Unsere Gruppe übernimmt dabei die Koordination. Ich selbst bin nicht direkt daran beteiligt, jedoch überlappen sich die Themen meiner Forschung mit denen des Projekts beträchtlich.
 

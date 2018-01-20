@@ -1,16 +1,12 @@
 ---
 title: ETH Graduation Ceremony
 date: 2010-01-18T23:39:32+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T21:54:16+00:00
 author: Mathias Wellner
 categories:
   - diary
 tags:
-  - certificate
-  - degree
-  - doctor
-  - eth
-  - graduation
+  - eth zurich
 ---
 The last chapter, the very last on my way to PhD &ndash; the ceremonial handover of the certificate. The Scherrer lecture hall was decorated festively, as were the new doctors. The ETH Big Band performed with a brassy ensemble, blaring jubilation. Every one of us then would walk there, receiving the certificate from the rector. A few words, smiling towards the photographer, again to the rector, &#8220;all the best on your way&#8221;. The same procedure for about 150 persons, non-stop certificates. Believe me, it&#8217;s nothing special. I had to return to my company in the evening, finishing something, caught in my new job. 
 

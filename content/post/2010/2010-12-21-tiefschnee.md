@@ -1,7 +1,7 @@
 ---
 title: Tiefschnee
 date: 2010-12-21T22:04:50+00:00
-lastmod: 2018-01-01T13:11:43+00:00
+lastmod: 2018-01-20T22:23:20+00:00
 author: Mathias Wellner
 categories:
   - skifahren
@@ -9,7 +9,7 @@ tags:
   - schnee
   - wintersport
 ---
-Der Traum des Skitourengängers &ndash; ein unberührter Hang mit flauschigem Neuschnee, durch den man elegant abwedelt, es stiebt meterhoch nach rechts und links. Der Berg ist natürlich selbst erkämpft, mit Fellen hat man ihn kurz vor Mittag erstiegen, mit netten Leuten und einer Thermosflasche voller Tee. Aber was den Traum wirklich ausmacht, ist das unbeschwerte Abfahren durch den Tiefschnee. 
+Der Traum des Skitourengängers -- ein unberührter Hang mit flauschigem Neuschnee, durch den man elegant abwedelt, es stiebt meterhoch nach rechts und links. Der Berg ist natürlich selbst erkämpft, mit Fellen hat man ihn kurz vor Mittag erstiegen, mit netten Leuten und einer Thermosflasche voller Tee. Aber was den Traum wirklich ausmacht, ist das unbeschwerte Abfahren durch den Tiefschnee. 
 
 <div style="width: 510px" class="wp-caption aligncenter">
   <a href="http://www.flickr.com/photos/mwellner/5280626381/" title="bergspitzen im winter by mwellner, on Flickr"><img src="http://farm6.static.flickr.com/5083/5280626381_dd5a91b342.jpg" width="500" height="335" alt="bergspitzen im winter" /></a>

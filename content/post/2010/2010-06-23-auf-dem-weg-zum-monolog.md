@@ -1,32 +1,16 @@
 ---
 title: Auf dem Weg zum Monolog
 date: 2010-06-23T23:40:14+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:17:13+00:00
 author: Mathias Wellner
-excerpt: 'Der Theater-Monolog kann zur Sternstunde eines Schauspielers werden. Du hast die Bühne ganz für dich allein und an dir allein liegt es auch, ob sich die Zuschauer prächtig amüsieren oder zu Tode langweilen. Was macht einen guten Monolog aus? Wie bereitest du dich optimal darauf vor? '
-jd_tweet_this:
-  - 'yes'
-wp_jd_bitly:
-  - http://bit.ly/cUgI9y
-wp_jd_target:
-  - http://bit.ly/cUgI9y
 categories:
   - theater
 tags:
-  - Bühne
-  - Kurs
-  - lebendig
-  - Monolog
-  - Schauspiel
-  - Sprache
-  - Szene
-  - theater
-  - Tierübung
-  - Verkörperung
-  - Vorbereitung
-  - ZES
+  - monolog
+  - zes
 ---
 Der Theater-Monolog kann zur Sternstunde eines Schauspielers werden. Du hast die Bühne ganz für dich allein und an dir allein liegt es auch, ob sich die Zuschauer prächtig amüsieren oder zu Tode langweilen. Was macht einen guten Monolog aus? Wie bereitest du dich optimal darauf vor? 
+<!--more-->
 
 **Gute Monologe, schlechte Monologe**
 

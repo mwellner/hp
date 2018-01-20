@@ -1,13 +1,12 @@
 ---
 title: Rigi bei Nacht
 date: 2010-05-30T11:20:31+00:00
-lastmod: 2018-01-01T13:09:13+00:00
+lastmod: 2018-01-20T22:15:08+00:00
 author: Mathias Wellner
 categories:
   - wandern
 tags:
-  - Bergwandern
-  - Rigi
+  - rigi
 ---
 Zum Glück gibt es diesen Unterstand. Nach einer halben Stunde Wanderung nahm der Regen immer stärker zu, da kam der Unterstand wie gerufen. Wir haben eine schöne Aussicht auf den Vierwaldstätter See und den Zuger See, die Wolken ziehen vorüber und der Tag geht langsam zuende. Den Sonnenuntergang werden wir bei diesem Wetter ohnehin nicht beobachten können. So warten wir also weiter im Regen. 
 

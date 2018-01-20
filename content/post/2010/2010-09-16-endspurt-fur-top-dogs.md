@@ -1,16 +1,15 @@
 ---
-title: Endspurt für „Top Dogs”
+title: Top Dogs -- Endspurt
+slug: top-dogs-endspurt
 date: 2010-09-16T20:43:48+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:18:59+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - theater
 tags:
-  - StuThe
-  - theater
-  - Top Dogs
-  - Urs Widmer
+  - stuthe
+  - top dogs
+  - urs widmer
 ---
 Bald ist soweit, die Theaterproduktion &#8220;Top Dogs&#8221; des [Studententheaters Zürich](http://www.stuthe.ch) wird am Samstag, 9. Oktober Premiere feiern. Damit geht eine fast einjährige Produktionszeit zu Ende. Und wie immer realisiert die Gruppe erst am Ende, dass sie so kurz davor steht, ihr Stück dann tatsächlichen Zuschauern vorzuführen. Die Proben werden länger und intensiver, viele organisatorische Angelegenheiten müssen erledigt werden &ndash; eigentlich beginnt das Ganze jetzt erst so richtig. Vorher hatten wir immer viel Zeit, die zwei Stunden Probe dehnten sich manchmal ins Unendliche. 
 

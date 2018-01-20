@@ -1,19 +1,10 @@
 ---
 title: Bewegung im Theater
 date: 2010-01-25T23:22:06+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-01-20T22:08:51+00:00
 author: Mathias Wellner
 categories:
   - theater
-tags:
-  - aufwärmen
-  - Bewegung
-  - körperlich
-  - laufen
-  - physisch
-  - Probe
-  - theater
-  - übung
 ---
 Theater spielen heißt etwas tun und dabei den gesamten Körper einzusetzen. Eine Theaterprobe muss unbedingt körperliche Aktivitäten enthalten, sonst wird Theater zu einer rein geistigen Übung ohne physische Wahrheit. Ich möchte einige Übungen vorstellen, um Bewegung in die Theaterprobe einzubauen. 
 

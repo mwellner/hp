@@ -1,13 +1,12 @@
 ---
 title: Kulturfestival 150, Lesung
 date: 2005-11-10T23:22:09+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-01-20T21:54:25+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 tags:
-  - eth
-  - zürich
+  - eth zurich
 ---
 Im Rahmen meiner Ankunft hier fanden und finden ja zahlreiche Empfänge und Aktivitäten statt. Die ETH &ndash; unter dem Vorwand ihres 150jährigen Bestehens &ndash; hat sich besonders viel einfallen lassen, um mich angemessen willkommen zu heißen. Auch die [Kulturstelle der Studentenvereinigung (VSETH)](http://www.kulturstelle.ethz.ch) mischt da mit, um ein wenig kulturellen Glanz ins Leben der Technikstudenten zu bringen.
 

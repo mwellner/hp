@@ -29,7 +29,7 @@ Der Gutsbesitzer Čubukov erhält Besuch von einem Nachbarn Lomov, der ihm anver
 
 Lomov ist nun etwas nervös und holt ein wenig aus, betont die gute Nachbarschaft, die aneinanderliegenden Felder und Wälder. Im Zuge dessen erwähnt er die Ochsenwiesen, die er als sein Eigentum betrachtet. Das sieht Natalja aber ganz anders, es entbrennt ein heftiger Streit um diese Ochsenwiesen. 
 
-Schließlich kommt Čubukov hinzu, auch er hält die Ochsenwiesen für das Eigentum seiner Familie. Wutenbrannt verlässt Lomov das Zimmer, droht mit einem Gerichtsverfahren. Daraufhin erwähnt Čubukov die Heiratsabsichten Lomovs, seine Tochter bedauert den Streit und bittet Lomov noch einmal zu sehen. 
+Schließlich kommt Čubukov hinzu, auch er hält die Ochsenwiesen für das Eigentum seiner Familie. Wutentbrannt verlässt Lomov das Zimmer, droht mit einem Gerichtsverfahren. Daraufhin erwähnt Čubukov die Heiratsabsichten Lomovs, seine Tochter bedauert den Streit und bittet Lomov noch einmal zu sehen. 
 
 <blockquote class="blockquote">
   <dl class="mb-0">

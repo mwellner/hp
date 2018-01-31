@@ -1,6 +1,6 @@
 ---
 date: "2018-01-14T15:24:21"
-lastmod: 2018-01-15T16:08:18+00:00
+lastmod: 2018-01-31T23:03:00+00:00
 title: Anton Tschechow -- Der Heiratsantrag
 slug: anton-tschechow-der-heiratsantrag
 author: Mathias Wellner

@@ -5,6 +5,8 @@ author: Mathias Wellner
 ---
 Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein gutes Dutzend Produktionen als Schauspieler und eine als Regisseur. Ich habe von 2010 bis 2013 einige Kurse und Praxisproduktionen am [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch) besucht.
 
+Aktuell wirke ich als Statist bei _Der Name der Rose_ mit, eine Produktion der [Neuen Bühne Darmstadt](http://www.neue-buehne.de/).
+
 <div class="card-columns">
   <div class="card">
     <img class="card-img-top mt-0" src="https://farm5.staticflickr.com/4460/37553968276_bae379c720.jpg" alt="Der Löwe im Winter">

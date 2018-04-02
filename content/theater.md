@@ -1,13 +1,30 @@
 ---
 title: Theater
-date: 2018-01-31T15:23:09+00:00
+date: 2018-03-31T15:23:09+00:00
 author: Mathias Wellner
 ---
 Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein gutes Dutzend Produktionen als Schauspieler und eine als Regisseur. Ich habe von 2010 bis 2013 einige Kurse und Praxisproduktionen am [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch) besucht.
 
-Aktuell wirke ich als Statist bei _Der Name der Rose_ mit, eine Produktion der [Neuen Bühne Darmstadt](http://www.neue-buehne.de/).
-
 <div class="card-columns">
+  <div class="card">
+    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/788/27132995918_bd5defd546.jpg" alt="Der Name der Rose">
+    <div class="card-body">
+      <h5 class="card-title">Der Name der Rose</h5>
+      <h6 class="card-subtitle text-muted">Umberto Eco</h6>
+      <p class="card-text">
+        <dl>
+          <dt>Rolle</dt>
+          <dd>Venantius, Mönch, Soldat</dd>
+          <dt>Regie</dt>
+          <dd>Renate Renken</dd>
+          <dt>Produktion</dt>
+          <dd><a href="http://www.neue-buehne.de">Neue Bühne Darmstadt</a></dd>
+          <dt>Aufführungen</dt>
+          <dd>Mär-Jun 2018 (Darmstadt)</dd>
+        </dl>
+      </p>
+    </div>
+  </div>
   <div class="card">
     <img class="card-img-top mt-0" src="https://farm5.staticflickr.com/4460/37553968276_bae379c720.jpg" alt="Der Löwe im Winter">
     <div class="card-body">

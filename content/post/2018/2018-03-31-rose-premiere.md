@@ -33,3 +33,7 @@ Zum Glück ist es nur eine Stunde vor der Vorstellung und eine halbe während de
 Um 20 Uhr begann dann die Aufführung. Durch die vielen Durchläufe waren wir hinreichend sicher und routiniert. Trotzdem waren ein paar Sachen anders, die Säulen standen in einigen Szenen nicht ganz dort, wo sie stehen sollten. Allgemein war das Umräumen schwieriger, da es vollkommen dunkel war, irgendwie gab es bei den Proben doch noch eine Spur Restlicht, so dass man die Säulen zumindest schemenhaft erkannte. Bei der Premiere war das nicht mehr möglich, es blieben nur die beiden Leuchtaufkleber an den Füßen, von denen jedoch auch einige auf dem Boden kleben. 
 
 Das Publikum schien gut unterhalten, die Witze kamen gut an, es gab immer wieder Szenenapplaus. Und am Ende wollten sie gar nicht mehr aufhören mit Klatschen, wir kamen zwei- oder dreimal zurück zum Verneigen. 
+
+#### Fazit
+
+Verglichen mit meinen bisherigen Theatererfahrungen im Amateurbereich war diese Produktion mit deutlich mehr Probe- und Vorbereitungsaufwand verbunden. Ich war ab dem 22. März jeden Abend in Arheiligen, also zehn Abend in Folge. Das war bei allen vorangegangenen Produktionen anders, da war es meist die eine Woche vor der Premiere, die vollgepackt war. Aber der Anspruch ist ein höherer, der Ablauf komplexer für alle Beteiligten, die Technik war schon wesentlich früher dabei. Die meisten Beteiligten haben eine Ausbildung, was ein anderes Arbeiten ermöglicht und sich natürlich auch auf das Endresultat auswirkt. 

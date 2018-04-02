@@ -11,7 +11,7 @@ tags:
   - neue bühne
   - umberto eco
 ---
-Ein schöner Abend -- die Premiere von _Der Name der Rose_ war ein voller Erfolg, vor knapp 150 Zuschauern trug ich als Venantius, namenloser Mönch und Soldat zum Gelingen der Premiere bei. 
+Ein schöner Abend -- die Premiere von _Der Name der Rose_ war ein voller Erfolg, vor knapp 150 Zuschauern trug ich als Venantius, namenloser Mönch und Soldat zum Gelingen dieses Abends bei. 
 
 <figure>
   <img sizes="100vw" srcset="https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_n.jpg 320w, https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_z.jpg 640w, https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_c.jpg 800w, https://farm1.staticflickr.com/820/41133800022_41bf0cdf5b_h.jpg 1600w, https://farm1.staticflickr.com/820/41133800022_e2718f633d_k.jpg 2048w" src="https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_b.jpg" alt="Neue Bühne in Darmstadt-Arheiligen">

@@ -237,11 +237,15 @@ section + #disqus_thread {
 .gsc-control-searchbox-only {
   min-width: 17rem;
   .gsc-search-box {
-    .gsc-input {
-      padding-right: 0;
+    .gsib_a {
+      padding-top: 0;
     }
-    input.gsc-search-button {
-      height: 1.75rem;
+    input.gsc-input {
+      font-size: inherit;
+    }
+    button.gsc-search-button {
+      margin-top: 0;
+      margin-left: 0;
     }
   }
 }

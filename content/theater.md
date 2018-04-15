@@ -14,7 +14,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
       <p class="card-text">
         <dl>
           <dt>Rolle</dt>
-          <dd>Venantius, Mönch, Soldat</dd>
+          <dd>Statist (Mönch, Soldat)</dd>
           <dt>Regie</dt>
           <dd>Renate Renken</dd>
           <dt>Produktion</dt>

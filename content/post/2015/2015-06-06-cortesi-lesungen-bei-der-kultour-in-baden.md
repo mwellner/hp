@@ -1,19 +1,13 @@
 ---
 title: Cortesi-Lesungen bei der KulTour in Baden
 date: 2015-06-06T23:00:58+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-05-03T21:51:56+00:00
 author: Mathias Wellner
 categories:
   - literatur
 tags:
-  - Baden
-  - Cortesi
-  - Krimi
-  - KulTour
-  - Kultur
-  - Kurhotel
-  - Lesung
-  - Limmat
+  - cortesi
+  - lesung
 ---
 Die beschauliche Kleinstadt Baden, die nur 20 Bahnminuten von Zürich entfernt liegt, hat in diesem Jahr ein Kulturfestival der besonderen Art auf die Beine gestellt &ndash; die KulTour. Das Motto ist bestechend einfach, es gibt Veranstaltungen jede halbe Stunde, die jeweils 15 Minuten dauern. Danach kann man gemütlich zum nächsten Veranstaltungsort gehen. 
 

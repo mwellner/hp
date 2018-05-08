@@ -1,23 +1,20 @@
 ---
 title: Theaterfrühlingserwachen
 date: 2012-10-04T21:28:24+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-05-08T23:15:43+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
   - dramateure
-  - Ich treu suche
-  - Klima
-  - Peer Gynt
-  - StuThe
-  - theater
+  - hendrik ibsen
+  - peer gynt
 ---
 Während draußen regnerisches Herbstwetter die Stimmung trübt, sprießen die Theaterprojekte in meinem Umfeld fleißig. Es herrscht Aufbruchsstimmung und viele Termine stehen mittlerweile fest. Da ich momentan an zwei Produktionen als Schauspieler beteiligt bin, ist mein Frühjahr 2013 schon weitgehend ausgebucht. 
 
 **[frischfleisch](http://www.zes-info.ch/ZES/frischfleisch.html)**
 
-Letzte Woche erhielten wir die Zusage vom Zentrum Karl der Große in Zürich &ndash; wir werden dort am 5. und 6.&nbsp;April 2013 spielen. Außerdem gastieren wir am 31.&nbsp;Mai 2013 in Basel. Mit dieser Terminsicherheit können wir unser noch namenloses Stück nun weiter entwickeln. Die letzten Wochen waren durch zahlreiche Absenzen etwas mühsam, aber nun starten wir durch. 
+Letzte Woche erhielten wir die Zusage vom Zentrum Karl der Große in Zürich -- wir werden dort am 5. und 6. April 2013 spielen. Außerdem gastieren wir am 31. Mai 2013 in Basel. Mit dieser Terminsicherheit können wir unser noch namenloses Stück nun weiter entwickeln. Die letzten Wochen waren durch zahlreiche Absenzen etwas mühsam, aber nun starten wir durch. 
 
 **[klima](http://www.klima-das-theater.ch)**
 

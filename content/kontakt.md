@@ -1,10 +1,13 @@
 ---
 title: Kontakt
-date: 2017-12-19T07:23:09+00:00
+date: 2018-05-21T07:23:09+00:00
 author: Mathias Wellner
 ---
 E-Mail
 :   mathias[at]mwellner[dot]de
+
+Postadresse
+:   Auf Anfrage
 
 twitter
 :   [@wellnair](https://twitter.com/wellnair)

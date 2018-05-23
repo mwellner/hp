@@ -7,7 +7,7 @@ E-Mail
 :   mathias[at]mwellner[dot]de
 
 Postadresse
-:   Auf Anfrage
+:   Mathias Wellner, 64293 Darmstadt, genaue Anschrift auf Anfrage
 
 twitter
 :   [@wellnair](https://twitter.com/wellnair)

@@ -3,7 +3,6 @@ languageCode = "de-de"
 title = "Mathias Wellner"
 baseurl = "https://mwellner.de/"
 theme = "hugo-theme-bootstrap4-blog"
-googleAnalytics = "UA-3650294-2"
 enableRobotsTXT = true
 paginate = 10
 

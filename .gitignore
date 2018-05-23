@@ -1,6 +1,7 @@
 /themes
 /node_modules
 /public
+/logs
 package.json
 /build
 *.css.tmp

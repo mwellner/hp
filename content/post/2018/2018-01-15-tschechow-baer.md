@@ -1,6 +1,6 @@
 ---
 date: "2018-01-14T11:24:21"
-lastmod: 2018-01-15T16:08:18+00:00
+lastmod: 2018-05-23T20:24:28+00:00
 title: Anton Tschechow -- Der Bär
 slug: anton-tschechow-der-baer
 author: Mathias Wellner
@@ -77,5 +77,3 @@ Es droht ein Duell, Elena Popova hat zwar keine Ahnung, wie man mit Pistolen umg
 #### Fazit
 
 Das Stück lebt von den beiden so verschiedenen, aber doch einander in ihrer Verbissenheit und Streitsucht ähnlichen Charakteren. Smirnov, der ungehobelte Waldschrat, Popova, die vornehm-zurückhaltende Witwe, die sich aber auch nichts gefallen lässt. Hier braucht man bei der Inszenierung die passenden Schauspieler, die sich auf diesen wunderbar geschriebenen Streit einlassen und die Fetzen fliegen lassen. 
-
-<a href="http://amzn.to/2D2erMf" target="_blank">Buch bestellen</a>

@@ -1,6 +1,6 @@
 ---
 date: "2018-01-14T15:24:21"
-lastmod: 2018-01-31T23:03:00+00:00
+lastmod: 2018-05-23T20:24:33+00:00
 title: Anton Tschechow -- Der Heiratsantrag
 slug: anton-tschechow-der-heiratsantrag
 author: Mathias Wellner
@@ -61,5 +61,3 @@ Der zweite Anlauf scheitert aber an der großen Frage, ob Lomovs Ugadaj der best
 #### Fazit
 
 Ganz ähnlich wie **Der Bär** lebt das Stück vom intensiven Streit der Gutsbesitzer. Lomov ist noch dazu kränklich und gerät an den Rande eines Herzinfarkts. Viel komisches Potenzial.
-
-<a href="http://amzn.to/2D2erMf" target="_blank">Buch bestellen</a>

@@ -1,7 +1,7 @@
 ---
 title: 'Yasmina Reza &ndash; Kunst (Theater Muntanellas)'
 date: 2011-05-28T13:13:35+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-05-23T20:23:28+00:00
 author: Mathias Wellner
 excerpt: 'Besprechung des Theaterstücks Kunst von Yasmina Reza, inszeniert von Philipp Lenz mit dem Theater Muntanella. '
 categories:
@@ -29,5 +29,3 @@ Vor vielen Jahren sah ich das Stück in Dresden, und an diesen Monolog kann ich 
 Das Bühnenbild war sehr einfach gehalten, schwarze Wände und ein paar Stühle. Aber das ist durch das Stück gar nicht anders möglich, das weiße Bild muss im Zentrum stehen. Und zuviel Dekoration würde die Aufmerksamkeit vom Bild ablenken. Drei Menschen und ein weißes Bild von 120&#215;90. Das genügt für Theater. 
 
 Alles in allem eine sehr gelungene Inszenierung, die ich mit großer Anteilnahme miterlebt habe. Das Stück selbst gefällt mir sogar noch besser als [Der Gott des Gemetzels](http://de.wikipedia.org/wiki/Der_Gott_des_Gemetzels). 
-
-[Buch bei Amazon bestellen](http://amzn.to/joEy5S)

@@ -2,7 +2,7 @@
 title: Top Dogs -- Premiere
 slug: top-dogs-premiere
 date: 2010-10-10T12:49:54+00:00
-lastmod: 2018-01-20T22:19:32+00:00
+lastmod: 2018-05-23T20:23:02+00:00
 author: Mathias Wellner
 categories:
   - theater
@@ -41,7 +41,7 @@ Der Höhepunkt für mich ist die Szene &#8220;Dumme Kuh&#8221;, in welcher meine
 
 Applaus, Verbeugungen im Dreierpack, Geschenk für den Regisseur, Applaus, das Bad in der Menge, Gespräche mit Bekannten, alle fanden es toll, wie immer sind sie nett oder sehen die Schwächen der Inszenierung nicht, die aber wohl nur Theater-Veteranen auffallen. Ich werde gelobt, einer meint, ich sei der authentischste Schauspieler gewesen &ndash; das Leben ist schön. 
 
-Premierenfeier nach langem Umherirren in einer Pizzeria, aber sonst hatte nichts mehr offen und wir wollten zu zwölft auch nicht ins Niederdorf. Der Regisseur hat versucht, sein Buchgeschenk zu erraten, es nicht geschafft und freut sich über [Die Schule der Schauspielkunst von Stella Adler](http://www.amazon.de/Die-Schule-Schauspielkunst-Acting-Lektionen/dp/3894875062). Ein riesiger Teller Spaghetti Carbonara und ein Gläschen Primitivo besiegeln den Abend und geben mir den Rest. Ich bin müde und rede inkoharäntes Zeug. Das Gespräch verteilt sich am Tisch. 
+Premierenfeier nach langem Umherirren in einer Pizzeria, aber sonst hatte nichts mehr offen und wir wollten zu zwölft auch nicht ins Niederdorf. Der Regisseur hat versucht, sein Buchgeschenk zu erraten, es nicht geschafft und freut sich über *Die Schule der Schauspielkunst von Stella Adler*. Ein riesiger Teller Spaghetti Carbonara und ein Gläschen Primitivo besiegeln den Abend und geben mir den Rest. Ich bin müde und rede inkoharäntes Zeug. Das Gespräch verteilt sich am Tisch. 
 
 Ich laufe allein nach Hause, habe keine Lust auf den Nachtbus zu warten. Die Scheuchzerstraße bei Nacht, ich brauche einen Schal, muss mich echt erholen morgen. Einzelne Fahrräder rauschen an mir vorbei, das Zuhause kommt immer näher. Schlafen, nichts weiter. 
 

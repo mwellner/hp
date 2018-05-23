@@ -1,7 +1,7 @@
 ---
 title: 'ZES-Kameratraining 1 &ndash; Einführung Filmschauspiel'
 date: 2011-08-06T19:52:38+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-05-23T20:23:46+00:00
 author: Mathias Wellner
 categories:
   - theater
@@ -38,5 +38,3 @@ Desweiteren gibt es etliche Tricks, um Szenen filmisch gut aussehen zu lassen, d
 **Fazit**
 
 Für mich klang das alles doch sehr abschreckend, da lobe ich mir doch die Theaterwelt, wo sich alles um die Schauspieler dreht und die Technik eine untergeordnete Rolle spielt. Und außerdem bin ich nicht wirklich sicher, ob mich die Kamera mag. Nächste Woche legen wir dann endlich los mit dem Drehen, eine kurze Szene wird am Ende eine Filmminute ergeben. Ich bin gespannt. 
-
-[Michael Caine: Weniger ist mehr. Kleines Handbuch für Filmschauspieler](http://amzn.to/ov2kFu)

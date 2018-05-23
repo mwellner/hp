@@ -1,7 +1,7 @@
 ---
 title: Die Heldenreise als Grundmuster von Erzählungen
 date: 2011-08-23T23:52:20+00:00
-lastmod: 2018-01-18T23:17:16+00:00
+lastmod: 2018-05-23T20:23:56+00:00
 author: Mathias Wellner
 categories:
   - literatur
@@ -36,8 +36,3 @@ Spannend ist natürlich die Frage, inwieweit dieses Muster auch auf Theaterstüc
 Aber trotz einiger Ausnahmen bietet die Heldenreise ein anschauliches und praktisches Grundgerüst, mit dem man dramatische Stoffe analysieren kann. Aber trotz dieses scheinbar immer gleichen Rezepts haben Schriftsteller immer wieder neue Stoffe und Charaktere gefunden, Variationen und Abwandlungen, die uns Zuschauer in den Bann schlagen. 
 
 Erst kürzlich sah ich in einem Oerlikoner Freiluftkino [Match Point](http://de.wikipedia.org/wiki/Match_Point) von Woody Allen. Der Held des Films, Chris Wilton, erfährt seinen Ruf zum Abenteuer durch die Bekanntschaft der attraktiven, mittellosen Schauspielerin Nola Rice. Eine Beziehung kommt nicht in Frage, da er mit Chloe Hewett liiert ist, sein Garant für den Aufstieg und ein unbeschwertes Leben in Reichtum und Luxus. Aber er kann nicht anders als sich ihr anzunähern, während eines prasselnden Sommerregens kommen sich die beiden im Kornfeld näher. Die entscheidende Prüfung folgt dann später, Nola wird von ihm schwanger und stellt ihm ein Ultimatum, sich von seiner Frau loszusagen. Chris befindet sich in einem Dilemma, er muss zwischen wahrer Liebe und seinem sinnentleerten Luxusleben wählen. Er entschließt sich, Nola umzubringen. Und es gelingt ihm sogar, seinen raffinierten Plan in die Tat umzusetzen. Die Rückkehr des Helden ist durch die Beseitigung aller Spuren und die Gespräche mit der Polizei umgesetzt. Immer wieder steht er knapp vor seiner Entdeckung, ein Polizist hat sogar eine nächtliche Eingebung des wahren Tathergangs. Doch durch unverschämtes Glück &ndash; das Hauptthema das Films &ndash; kommt Chris davon, die Geburt seines langersehnten ersten Kindes erlebt er teilnahmslos und wird nachts von den Toten heimgesucht. Dies ist die in diesem Fall negative Veränderung, sinnbildlich der Preis des Erfolgs. Ein toller Film. 
-
-**Literatur**
-
-  * [Christopher Vogler &ndash; Die Odyssee des Drehbuchschreibers](http://amzn.to/qbMLiB)
-  * [Joseph Campbell &ndash; Der Heros in tausend Gestalten](http://amzn.to/oe1SCw)

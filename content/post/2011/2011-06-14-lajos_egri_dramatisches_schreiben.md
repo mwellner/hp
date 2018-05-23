@@ -2,7 +2,7 @@
 title: Lajos Egri -- Dramatisches Schreiben
 slug: lajos-egri-dramatisches-schreiben
 date: 2011-06-14T22:37:38+00:00
-lastmod: 2018-01-15T11:08:55+00:00
+lastmod: 2018-05-23T20:23:40+00:00
 author: Mathias Wellner
 excerpt: 'Einige Kerngedanken des Buches "The Art of Dramatic Writing" von Lajos Egri und Anwendung auf die Toscana-Therapie. '
 categories:
@@ -41,5 +41,3 @@ Zum Schluss möchte ich noch eine Prämisse für die Toscana-Therapie entwickeln
 Gerhard und Karin sind können ihre Bedürfnisse nicht klar ausdrücken, das führt zur Zerstörung ihrer Ehe. Am Ende erscheint jedoch die göttliche Figur Dieter und löst den Konflikt auf, so dass sich Karin und Gerhard in der allerletzten Szene halbherzig versöhnen. Aber wahrscheinlich muss man für die Prämisse das Ende weglassen und landet bei sowas wie: _Fehlende Kommunikation der eigenen Wünsche zerstört eine Beziehung_. Es bleibt aber ein komisches Gefühl bei diesem Ende, welches die Prämisse ad absurdum führt. 
 
 Die Charaktere bergen dies schon in sich. Einem verstaubten, akademischen Ehepaar traut man nicht mehr zu, sich aus eigener Kraft aus dem Sumpf zu lösen. Die restlichen Charaktere sind eher flach gehalten, sie entwickeln sich kaum. Dieter ist der treibende Charakter, sein angekündigtes Kommen setzt den Konflikt in Gang und er hat ja das Ganze als Therapie inszeniert. Die anderen sind allesamt Dieters Stellvertreter, um Gerhard und Karin in Bedrängnis zu bringen, sie erklären am Ende ihre Rolle im Stück. 
-
-[Dramatisches Schreiben. Theater &#8211; Film &#8211; Roman (Amazon)](http://amzn.to/koHq84)

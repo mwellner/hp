@@ -1,6 +1,6 @@
 ---
 date: "2018-03-31T23:16:21"
-lastmod: 2018-04-02T10:50:08+00:00
+lastmod: 2018-05-27T23:55:52+00:00
 title: Der Name der Rose -- Premiere
 slug: der-name-der-rose-premiere
 author: Mathias Wellner
@@ -13,12 +13,12 @@ tags:
 ---
 Ein schöner Abend -- die Premiere von _Der Name der Rose_ war ein voller Erfolg, vor knapp 150 Zuschauern trug ich als Venantius, namenloser Mönch und Soldat zum Gelingen dieses Abends bei. 
 
+<!--more-->
+
 <figure>
   <img sizes="100vw" srcset="https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_n.jpg 320w, https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_z.jpg 640w, https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_c.jpg 800w, https://farm1.staticflickr.com/820/41133800022_41bf0cdf5b_h.jpg 1600w, https://farm1.staticflickr.com/820/41133800022_e2718f633d_k.jpg 2048w" src="https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_b.jpg" alt="Neue Bühne in Darmstadt-Arheiligen">
   <figcaption>Das Gebäude der Neuen Bühne in Darmstadt-Arheiligen</figcaption>
 </figure>
-
-<!--more-->
 
 #### Vorbereitungen
 

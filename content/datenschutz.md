@@ -13,11 +13,11 @@ Der Websitebetreiber nimmt Ihren Datenschutz sehr ernst und behandelt Ihre perso
 durch neue Technologien und die ständige Weiterentwicklung dieser Webseite Änderungen an dieser Datenschutzerklärung vorgenommen werden können, empfehlen wir Ihnen sich die 
 Datenschutzerklärung in regelmäßigen Abständen wieder durchzulesen.
 
-Definitionen der verwendeten Begriffe (z.B. “personenbezogene Daten” oder “Verarbeitung”) finden Sie in Art. 4 DSGVO.
+Definitionen der verwendeten Begriffe (z.B. “personenbezogene Daten” oder “Verarbeitung”) finden Sie in [Artikel 4 EU-DSGVO](https://www.datenschutz-grundverordnung.eu/grundverordnung/art-4-ds-gvo/).
 
 ##### Zugriffsdaten
 
-Wie, die Websitebetreiber bzw. Seitenprovider, erheben aufgrund unseres berechtigten Interesses (s. Art. 6 Abs. 1 lit. f. DSGVO) Daten über Zugriffe auf die Website und speichern diese als _Server Logfiles_ auf dem Server der Website ab. Folgende Daten werden so protokolliert:
+Wir, die Websitebetreiber bzw. Seitenprovider, erheben aufgrund unseres berechtigten Interesses ([Artikel 6](https://www.datenschutz-grundverordnung.eu/grundverordnung/art-6-ds-gvo/), Abs. 1 lit. f. EU-DSGVO) Daten über Zugriffe auf die Website und speichern diese als _Server Logfiles_ auf dem Server der Website ab. Folgende Daten werden so protokolliert:
 
 - Besuchte Website
 - Uhrzeit zum Zeitpunkt des Zugriffes

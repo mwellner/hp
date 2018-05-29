@@ -2,6 +2,21 @@
  * Globals
  */
 
+@font-face {
+  font-family: 'Spectral';
+  src: url('../fonts/spectral-regular-webfont.woff2') format('woff2'), url('../fonts/spectral-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dancing Script';
+  src: url('../fonts/dancingscript-regular-webfont.woff2') format('woff2'), url('../fonts/dancingscript-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 html {
   font-size: 1.1rem;
 } 

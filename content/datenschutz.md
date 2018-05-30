@@ -34,6 +34,10 @@ Die Server-Logfiles werden für maximal 1 Jahr gespeichert und anschließend gel
 Nehmen Sie mit uns als Websitebetreiber durch die angebotenen Kontaktmöglichkeiten Verbindung auf, werden Ihre Angaben gespeichert, damit auf diese zur Bearbeitung und 
 Beantwortung Ihrer Anfrage zurückgegriffen werden kann. Ohne Ihre Einwilligung werden diese Daten nicht an Dritte weitergegeben.
 
+##### Schriftarten (Google Fonts)
+
+Wir nutzen [Google Fonts](https://fonts.google.com), um Schriftarten für diese Seite einzubetten. Deshalb werden Anfragen zu einem Google-Server durchgeführt, um die Schriftarten zu laden. Diese Anfragen enthalten die oben aufgeführten Zugangsdaten. Google Fonts arbeitet mit eigenen Servern ohne Authentifizierung und setzt keine Cookies (siehe [FAQ](https://developers.google.com/fonts/faq)), somit kann keine Verbindung zu anderen Diensten hergestellt werden. 
+
 ##### Rechte des Nutzers
 
 Sie haben als Nutzer das Recht, auf Antrag eine kostenlose Auskunft darüber zu erhalten, welche personenbezogenen Daten über Sie gespeichert wurden. Sie haben außerdem das 

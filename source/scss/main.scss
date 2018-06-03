@@ -232,24 +232,3 @@ section + #disqus_thread {
     column-count: 2;
   }  
 }
-
-/* Google Custom Search */
-.gsc-control-searchbox-only {
-  min-width: 17rem;
-  .gsc-search-box {
-    .gsib_a {
-      padding-top: 0;
-    }
-    input.gsc-input {
-      font-size: inherit;
-    }
-    button.gsc-search-button {
-      margin-top: 0;
-      margin-left: 0;
-    }
-  }
-}
-
-.gsc-clear-button {
-  display: none;
-}

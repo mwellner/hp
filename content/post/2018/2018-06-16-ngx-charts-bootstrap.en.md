@@ -21,7 +21,7 @@ The [ngx-charts demo site](https://swimlane.github.io/ngx-charts/#/ngx-charts/ba
 
 ##### The problem
 
-I have created a [sample application](https://mwellner.de/apps/charts/) to illustrate the issue. It uses a Bootstrap grid with gray columns. The column contains a chart inside of a wrapping _div_ element (see [app.component.html](https://github.com/mwellner/ngx-charts-in-grid/blob/master/src/app/app.component.html)). In the actual implementation this _div_ contains a chart type switch. But to see the issue, a simple _div_ is sufficient. 
+I have created a [github repository](https://github.com/mwellner/ngx-charts-in-grid) and a [sample application](https://mwellner.de/apps/charts/) to illustrate the issue. It uses a Bootstrap grid with gray columns. The column contains a chart inside of a wrapping _div_ element (see [app.component.html](https://github.com/mwellner/ngx-charts-in-grid/blob/master/src/app/app.component.html)). In the actual implementation this _div_ contains a chart type switch. But to see the issue, a simple _div_ is sufficient. 
 
 The chart has now a fixed size of 600x400 and ignores the width of the grid column. This is not the behaviour we expected. Especially for multiple columns, we see overlapping charts.
 

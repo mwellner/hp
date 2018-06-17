@@ -1,6 +1,6 @@
 ---
 date: "2018-06-16T19:16:21"
-lastmod: 2018-06-16T22:53:21+00:00
+lastmod: 2018-06-17T11:11:27+00:00
 title: Using ngx-charts in a grid
 author: Mathias Wellner
 categories:
@@ -29,6 +29,6 @@ The chart has now a fixed size of 600x400 and ignores the width of the grid colu
 
 In the ngx-charts examples, absolute positioning is used for the chart, which has an actual container available to fill. In our case, only the width is defined, the wrapping div has no height set initially. So filling this available space is not possible for the library, instead a default size is used. 
 
-When using a defined height of 200px, the chart behaves as expected. Please use my [sample application](https://github.com/mwellner/ngx-charts-in-grid) to test yourself. 
+When using a defined height of 200px, the chart behaves as expected. Please see my [sample application](https://mwellner.de/apps/charts/) to test yourself. 
 
 Using a fixed height may not be the ideal solution. One approach could also be to maintain an aspect ratio. This could be achieved with an element resize listener which adjusts the height. 

@@ -42,9 +42,9 @@ dt {
 }
 
 .navbar {
-  margin-bottom: 2rem;
   .navbar-brand {
-    color: hsla(48, 50%, 70%, 1);
+    padding-left: 1rem;
+    color: $brand-primary;
     font-family: 'joschmi', sans-serif;
     font-size: 1.8rem;
     margin-right: 2rem;
@@ -125,7 +125,10 @@ dt {
  */
 
 .blog-post {
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  background-color: #fafafa;
+  border-radius: 0.3rem;
 }
 .blog-list .blog-post {
   max-width: 45rem;
@@ -180,6 +183,7 @@ section + #disqus_thread {
 }
 
 .blog-main {
+  padding-top: 1rem;
   iframe {
     max-width: 100%;
   }
@@ -190,11 +194,15 @@ section + #disqus_thread {
  */
 
 .blog-footer {
-  padding: 2.5rem 0;
+  padding: 1rem 0;
   color: #999;
   text-align: center;
-  background-color: #f9f9f9;
-  border-top: .05rem solid #e5e5e5;
+  a {
+    color: $brand-primary;
+    &:hover {
+      color: lighten($brand-primary, 10%);
+    }
+  }
 }
 .blog-footer p:last-child {
   margin-bottom: 0;

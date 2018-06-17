@@ -75,14 +75,14 @@
      </div> {{ "<!-- /.row -->" | safeHTML }}
     </div> {{ "<!-- /.container -->" | safeHTML }}
 
-    <footer class="blog-footer">
-      <p>
+    <footer class="blog-footer bg-dark">
       {{ if .Site.Copyright }}
-      {{ .Site.Copyright | markdownify }}
-      {{ end }}
-      </p>
       <p>
-      <a href="#">{{ i18n "backToTop" }}</a>
+      {{ .Site.Copyright | markdownify }}
+      </p>
+      {{ end }}
+      <p>
+        <a href="#">{{ i18n "backToTop" }}</a>
       </p>
     </footer>
 

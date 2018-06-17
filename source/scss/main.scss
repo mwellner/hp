@@ -25,7 +25,7 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
   font-weight: normal;
-  font-family: $font-family-sans-serif;
+  font-family: "Playfair Display", sans-serif;
   color: #333;
   a, a:hover, a:focus {
     color: inherit;
@@ -50,8 +50,6 @@ dt {
     margin-right: 2rem;
   }  
 }
-
-
 
 /* Nav links */
 .nav-link {
@@ -133,19 +131,18 @@ dt {
   max-width: 45rem;
 }
 .blog-post-title {
-  margin-bottom: .25rem;
-  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
 }
 .blog-post-meta {
-  margin-bottom: 0.75rem;
   color: #777;  
   font-family: $font-family-sans-serif;
   font-size: 1rem;
   .fa {
     color: #999;
   }
-  time {
-    margin-right: 0.7rem;
+  .fa-tag {
+    margin-left: 1rem;
   }
 }
 article img {

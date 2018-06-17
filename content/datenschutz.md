@@ -34,9 +34,9 @@ Die Server-Logfiles werden für maximal 1 Jahr gespeichert und anschließend gel
 Nehmen Sie mit uns als Websitebetreiber durch die angebotenen Kontaktmöglichkeiten Verbindung auf, werden Ihre Angaben gespeichert, damit auf diese zur Bearbeitung und 
 Beantwortung Ihrer Anfrage zurückgegriffen werden kann. Ohne Ihre Einwilligung werden diese Daten nicht an Dritte weitergegeben.
 
-##### Schriftarten (Google Fonts)
+##### Schriften
 
-Wir nutzen [Google Fonts](https://fonts.google.com), um Schriftarten für diese Seite einzubetten. Deshalb werden Anfragen zu einem Google-Server durchgeführt, um die Schriftarten zu laden. Diese Anfragen enthalten die oben aufgeführten Zugangsdaten. Google Fonts arbeitet mit eigenen Servern ohne Authentifizierung und setzt keine Cookies (siehe [FAQ](https://developers.google.com/fonts/faq)), somit kann keine Verbindung zu anderen Diensten hergestellt werden. 
+Wir nutzen [Google Fonts](https://fonts.google.com) und [Adobe Typekit](https://typekit.com), um Schriften für diese Seite einzubetten. Deshalb werden Anfragen zu einem Google- und Adobe-Server durchgeführt, um die Schriftarten zu laden. Diese Anfragen enthalten die oben aufgeführten Zugangsdaten. Beide Anbieter arbeiten mit eigenen Servern ohne Authentifizierung und setzen keine Cookies bei den Nutzern von mwellner.de. Weitere Angaben finden Sie auf der [Google Fonts FAQ](https://developers.google.com/fonts/faq) und auf der [Typekit-Datenschutz-Seite](https://www.adobe.com/de/privacy/policies/typekit.html). 
 
 ##### Rechte des Nutzers
 

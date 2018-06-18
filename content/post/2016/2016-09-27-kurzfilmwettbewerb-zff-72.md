@@ -1,7 +1,7 @@
 ---
 title: Kurzfilmwettbewerb ZFF 72
 date: 2016-09-27T22:43:56+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-06-18T23:34:39+00:00
 author: Mathias Wellner
 categories:
   - theater
@@ -13,6 +13,8 @@ tags:
 format: video
 ---
 Gern möchte ich meine Bekannten unterstützen, die am Zürcher Kurzfilmwettbewerb ZFF 72 teilnehmen. Bitte stimmt mit ab und bringt diese großartigen Filme nach vorn. Ihr könnt euch ganz einfach mit eurem Google- oder Facebook-Konto anmelden. 
+
+<!--more-->
 
 #### G&eacute;za Morocz &ndash; Eva, glaub
 

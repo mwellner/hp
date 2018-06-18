@@ -1,8 +1,9 @@
 ---
 date: "2017-08-16T21:40:15"
-lastmod: 2018-01-15T16:18:31+00:00
+lastmod: 2018-06-18T23:27:26+00:00
 title: Darmstadt -- Digitale Stadt
 author: Mathias Wellner
+image: https://farm1.staticflickr.com/770/32727033490_87a429a509_c.jpg
 categories:
   - tagebuch
 tags:
@@ -10,14 +11,14 @@ tags:
 ---
 Heute besuchte ich einen Informationsabend der [Grünen in Darmstadt](http://www.gruene-darmstadt.de/kreisverband/), genauer gesagt des [Arbeitskreises Digital](http://www.gruene-darmstadt.de/kreisverband/showcontent.asp?ThemaID=462). Thema war die digitale städtische Entwicklung, mit dabei war natürlich der Oberbürgermeister Jochen Partsch. Es war mein erster Kontakt mit Kommunalpolitik in meiner neuen Heimat. 
 
+<!--more-->
+
 <figure>
   <a href="https://www.flickr.com/photos/mwellner/32727033490/in/album-72157677198199094/" title="Darmstadtium">  
     <img srcset="https://farm1.staticflickr.com/770/32727033490_87a429a509_n.jpg 320w, https://farm1.staticflickr.com/770/32727033490_87a429a509_c.jpg 800w" src="https://farm1.staticflickr.com/770/32727033490_87a429a509_c.jpg" alt="Darmstadtium">
   </a>
   <figcaption>Darmstadtium</figcaption>
 </figure>
-
-<!--more-->
 
 Vor einigen Wochen gewann Darmstadt den [Bitkom](https://www.bitkom.org)-Wettbewerb [Digitale Stadt](http://www.digitalestadt.org). Ausrichter war Bitkom, der Branchenverband der digitalen Wirtschaft mit mehr als 2500 größeren und kleineren Unernehmen. Das Ziel war es, eine Vorzeigestadt zu finden, wo die Bedingungen optimal sind zur Entwicklung moderner bürgernaher Dienstleistungen. Sicherlich spielen auch wirtschaftliche Aspekte eine Rolle, wollen sich doch sicherlich alle Firmen gut positionieren als Anbieter von kommunaler Cloud-Infrastruktur. 
 

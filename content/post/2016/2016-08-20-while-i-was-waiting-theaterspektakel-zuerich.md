@@ -1,7 +1,7 @@
 ---
-title: While I Was Waiting (Theaterspektakel Zürich)
+title: While I Was Waiting
 date: 2016-08-20T22:43:40+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-06-18T23:35:08+00:00
 author: Mathias Wellner
 categories:
   - theater

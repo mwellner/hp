@@ -1,13 +1,18 @@
 ---
 date: "2017-07-15T22:39:42"
-lastmod: 2018-01-15T16:18:25+00:00
+lastmod: 2018-06-18T23:28:55+00:00
 title: Melibokus und Schloss Auerbach
 author: Mathias Wellner
+image: https://farm5.staticflickr.com/4325/35895154631_acaac451a7_c.jpg
 categories:
   - wandern
 tags:
   - odenwald
 ---
+Wandern geht man hier am besten im Odenwald, der sich nicht weit von Darmstadt im Südosten erstreckt. Eine kleine Nachmittagstour führte mich nach Zwingenberg, von wo aus wir auf den Melibokus stiegen und danach noch im Schloss Auerbach vorbei schauten. 
+
+<!--more-->
+
 <figure>
   <a href="https://www.flickr.com/photos/mwellner/35895154631" title="Wanderung Zwingenberg, Melibokus, Schloss Auerbach">
     <img 
@@ -17,10 +22,6 @@ tags:
   </a>
   <figcaption>Wanderung Zwingenberg, Melibokus, Schloss Auerbach</figcaption>
 </figure>
-
-Wandern geht man hier am besten im Odenwald, der sich nicht weit von Darmstadt im Südosten erstreckt. Eine kleine Nachmittagstour führte mich nach Zwingenberg, von wo aus wir auf den Melibokus stiegen und danach noch im Schloss Auerbach vorbei schauten. 
-
-<!--more-->
 
 <figure>
   <a href="https://www.flickr.com/photos/mwellner/35877203521" title="Melibokus">

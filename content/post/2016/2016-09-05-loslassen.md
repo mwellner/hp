@@ -1,12 +1,14 @@
 ---
 title: Loslassen
 date: 2016-09-05T21:18:53+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-06-18T23:33:37+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
 ---
 In einem Monat werde ich in Darmstadt wohnen, der Umzug ist für den 4. Oktober geplant. Wie meist vor solchen gravierenden Veränderungen bin ich nervös und kann es mir noch gar nicht so recht vorstellen, von einem Tag auf den anderen in einer anderen Stadt zu wohnen, einige hundert Kilometer entfernt von hier. Und das nach reichlich elf Jahren in der schönen Schweiz als Promotionsstudent, Teilprojektleiter, Entwicklungsingenieur und Software-Entwickler, als Schauspieler und Regisseur, als Rennradfahrer, Wanderer, Kletterer, Läufer, Fechter und Skifahrer. Und als Freund und Kollege vieler lieber Menschen. 
+
+<!--more-->
 
 Es ist eine Zeit der vielen kleinen Abschiede, des Loslassens, des Aufräumens meiner viel zu großen Wohnung. Ich sortiere viel aus, auch ich habe <a href="http://www.sueddeutsche.de/leben/moderne-sammelwut-wenn-besitz-zur-last-wird-1.1089089" title="Moderne Sammelwut" target="_blank">einige Tausend Gegenstände</a> angesammelt wie die meisten Europäer und versuche, einen Teil davon vor dem Umzug loszuwerden. All das muss ich dann nicht in Kisten packen und wieder auspacken. Und die meisten Sachen habe ich auch jahrelang nicht angefasst, erst jetzt beim Durchstöbern meiner grünen Stehordner stoße ich auf sie und werde von Erinnerungen überwältigt. Das Programmheft der <a href="http://www.aki.ethz.ch/akitiv/archive/Laesterschule/index.html" title="Die Lästerschule" target="_blank" class="broken_link">Lästerschule</a> erinnert mich an meine Theaterzeit mit dem akitiv, das Buch <a href="http://clean-code-developer.de/" title="Clean Code" target="_blank">Clean Code</a> an meine Arbeit, der Island-Reiseführer an einen Urlaub mit Schwester und Vater und fünf Schreibmaschinenseiten enthalten die gesamten Lebenserinnerungen meines Großvaters. 
 

@@ -1,8 +1,9 @@
 ---
 date: "2017-10-15T23:38:41"
-lastmod: 2018-01-15T16:17:20+00:00
+lastmod: 2018-06-18T23:23:47+00:00
 title: Grube Messel
 author: Mathias Wellner
+image: https://farm2.staticflickr.com/1058/1429051293_62292d9a64_z.jpg
 categories:
   - tagebuch
 tags:

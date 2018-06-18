@@ -1,7 +1,7 @@
 ---
 title: 'Docker Compose File for WordPress &#038; MariaDB'
 date: 2016-09-14T22:33:45+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-06-18T23:33:04+00:00
 author: Mathias Wellner
 categories:
   - software
@@ -15,6 +15,8 @@ tags:
   - Wordpress
 ---
 After some frustrating attempts to create a working Docker configuration for a WordPress system, I have finally found a working solution. It uses the default <a href="https://hub.docker.com/_/wordpress/" title="WordPress image" target="_blank">WordPress Docker image</a> and <a href="https://hub.docker.com/_/mariadb/" title="MariaDB image" target="_blank">MariaDB</a>. 
+
+<!--more-->
 
 This is a minimal configuration, you may also want to specify a data volume for persistence. 
 

@@ -2,16 +2,18 @@
 
 <div class="card">
   {{ if .Params.image }}
-  <img class="card-img-top" src="{{ .Params.image }}">
+  <a href="{{ .Permalink }}">
+    <img class="card-img-top" src="{{ .Params.image }}">
+  </a>
   {{ end }}
   <div class="card-body">
     <div class="blog-post-meta">
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time>
     </div>
     <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>    
-    <p class="card-text">
+    <div class="card-text">
       {{ .Summary }}
       <a href='{{ .Permalink }}'>{{ i18n "readMore" }}</a>
-    </p>    
+    </div>
   </div>
 </div>

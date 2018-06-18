@@ -1,7 +1,8 @@
 ---
 date: "2018-02-27T11:51:21"
-lastmod: 2018-05-27T23:56:18+00:00
+lastmod: 2018-06-18T23:18:06+00:00
 title: Winterurlaub
+image: https://farm1.staticflickr.com/810/39020091830_b2d830c1bc_z.jpg
 author: Mathias Wellner
 categories:
   - reisen

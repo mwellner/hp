@@ -1,8 +1,9 @@
 ---
 date: "2018-02-17T18:24:21"
-lastmod: 2018-02-17T23:43:30+00:00
+lastmod: 2018-06-18T23:17:09+00:00
 title: Wandern im Odenwald
 slug: wandern-odenwald
+image: https://farm5.staticflickr.com/4676/39612745074_e2e1d2972d_z.jpg
 author: Mathias Wellner
 categories:
   - wandern
@@ -11,12 +12,12 @@ tags:
 ---
 Noch eine schöne Wanderung in der unmittelbaren Umgebung, höchster Punkt war der [Melibokus](https://de.wikipedia.org/wiki/Melibokus) im Odenwald. Das Wetter war zwar etwas trüb, aber der vorhergesagte Regen blieb aus und es ließ sich schön wandern. 
 
+<!--more-->
+
 <figure>
   <img sizes="100vw" srcset="https://farm5.staticflickr.com/4676/39612745074_e2e1d2972d_n.jpg 320w, https://farm5.staticflickr.com/4676/39612745074_e2e1d2972d_z.jpg 640w, https://farm5.staticflickr.com/4676/39612745074_e2e1d2972d_c.jpg 800w, https://farm5.staticflickr.com/4676/39612745074_0f3ec5145b_h.jpg 1600w, https://farm5.staticflickr.com/4676/39612745074_cef904fdd2_k.jpg 2048w" src="https://farm5.staticflickr.com/4676/39612745074_e2e1d2972d_b.jpg" alt="Wandern durch und Matsch und Eis">
   <figcaption>Wandern durch und Matsch und Eis</figcaption>
 </figure>
-
-<!--more-->
 
 #### Route
 1. Alsbach, Haltestelle _Am Hinkelstein_

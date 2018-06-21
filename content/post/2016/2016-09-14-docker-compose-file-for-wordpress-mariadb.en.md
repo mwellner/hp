@@ -6,13 +6,8 @@ author: Mathias Wellner
 categories:
   - software
 tags:
-  - container
-  - Database
   - docker
-  - docker-compose
-  - mariadb
   - mysql
-  - Wordpress
 ---
 After some frustrating attempts to create a working Docker configuration for a WordPress system, I have finally found a working solution. It uses the default <a href="https://hub.docker.com/_/wordpress/" title="WordPress image" target="_blank">WordPress Docker image</a> and <a href="https://hub.docker.com/_/mariadb/" title="MariaDB image" target="_blank">MariaDB</a>. 
 

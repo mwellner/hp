@@ -10,7 +10,6 @@ resources:
   - name: flusslandschaft
     src: flusslandschaft.jpg
     title: Flusslandschaft
-image: https://farm1.staticflickr.com/957/42019498902_42963270a0_z.jpg
 categories:
   - sport
 tags:

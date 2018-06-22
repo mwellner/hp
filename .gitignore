@@ -2,6 +2,7 @@
 /node_modules
 /public
 /logs
+/resources
 package.json
 /build
 *.css.tmp

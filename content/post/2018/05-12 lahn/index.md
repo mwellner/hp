@@ -1,8 +1,15 @@
 ---
 date: "2018-05-12T20:12:12"
-lastmod: 2018-06-18T22:53:29+00:00
+lastmod: 2018-06-22T23:46:55+00:00
 title: Auf der Lahn
 author: Mathias Wellner
+resources:
+  - name: zweikayaks
+    src: zweikayaks.jpg
+    title: Zwei Kayaks an der Lahn
+  - name: flusslandschaft
+    src: flusslandschaft.jpg
+    title: Flusslandschaft
 image: https://farm1.staticflickr.com/957/42019498902_42963270a0_z.jpg
 categories:
   - sport
@@ -13,16 +20,10 @@ Das schöne Sommerwetter nutzte ich für einen Bootsausflug mit einer befreundet
 
 <!--more-->
 
-<figure>
-  <img sizes="100vw" srcset="https://farm1.staticflickr.com/957/42019498902_42963270a0_n.jpg 320w, https://farm1.staticflickr.com/957/42019498902_42963270a0_z.jpg 640w, https://farm1.staticflickr.com/957/42019498902_42963270a0_c.jpg 800w, https://farm1.staticflickr.com/957/42019498902_4514380498_h.jpg 1600w, https://farm1.staticflickr.com/957/42019498902_7b7f16ac28_k.jpg 2048w" src="https://farm1.staticflickr.com/957/42019498902_42963270a0_b.jpg" alt="Zwei Kayaks an der Lahn">
-  <figcaption>Zwei Kayaks an der Lahn</figcaption>
-</figure>
+{{< responsive-image name="zweikayaks" >}}
 
 Kayakfahren ist nicht weiter schwierig, wir kamen wesentlich besser zurecht als die vielen Hobby-Kanuten. An einer Stelle sahen wir sehr viele gekenterte Leute, gestürzter Baum im Wasser, Stromschnelle treibt einen genau darauf zu. Zum Glück halfen uns die anderen, dirigierten uns ins flache sichere Gewässer und zogen uns durch. Wir revanchierten uns, indem wir einen weißen Damenschuh aus dem Wasser fischten. 
 
-<figure>
-  <img sizes="100vw" srcset="https://farm1.staticflickr.com/956/42019497782_92d8ffec7d_n.jpg 320w, https://farm1.staticflickr.com/956/42019497782_92d8ffec7d_z.jpg 640w, https://farm1.staticflickr.com/956/42019497782_92d8ffec7d_c.jpg 800w, https://farm1.staticflickr.com/956/42019497782_db96090d07_h.jpg 1600w, https://farm1.staticflickr.com/956/42019497782_bd7ccd9157_k.jpg 2048w" src="https://farm1.staticflickr.com/956/42019497782_92d8ffec7d_b.jpg" alt="Flusslandschaft an der Lahn">
-  <figcaption>Flusslandschaft an der Lahn</figcaption>
-</figure>
+{{< responsive-image name="flusslandschaft" >}}
 
 Im Anschluss schlenderten wir noch durch Marburg, ein schmuckes Städtchen, bekannt durch Universität und Ärztebund. 

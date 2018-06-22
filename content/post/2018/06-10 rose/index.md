@@ -1,9 +1,12 @@
 ---
 date: "2018-06-10T20:16:21"
-lastmod: 2018-06-18T22:52:24+00:00
+lastmod: 2018-06-22T23:44:22+00:00
 title: Persönliche Rosen-Dernière
 slug: der-name-der-rose-derniere
-image: https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_z.jpg
+resources:
+  - name: haus
+    src: neue_buehne.jpg
+    title: Spielstätte der Neuen Bühne in Darmstadt-Arheilgen
 author: Mathias Wellner
 categories:
   - theater
@@ -16,6 +19,8 @@ tags:
 Für mich war es die vorerst letzte Aufführung von *Der Name der Rose* an der [Neuen Bühne](http://www.neue-buehne.de/). Drei Abende in Folge, und das bei den aktuell  tropischen Temperaturen. Dennoch war der Saal für die letzten Vorstellungen stets ausgebucht, was für die Inszenierung, für das Marketing oder einfach für das treue Darmstädter Publikum spricht. 
 
 <!--more-->
+
+{{< responsive-image name="haus" >}}
 
 Da heute die Regisseurin anwesend war, herrschte ein deutlich höheres Maß an Konzentration. Außerdem wurden deutlich weniger Hauptgänge und Desserts bestellt als an den beiden vorangegangenen Aufführungen. Somit waren alle ein wenig entspannter, wir konnten pünktlich starten -- ein insgesamt schöner Abschlussabend für mich. Und so werde ich wohl schon bald den Abschlussprobenstress vergessen haben und mich zurücksehnen nach der hektischen Betriebsamkeit vor und während einer Aufführung. Teller klappern in der Küche, bevor sie mit Käse und Salat belegt werden, Weinflaschenkorken ploppen, ich habe bestimmt an die 150 Flaschen entkorkt, Wasser- und Bierflaschenkästen rattern über den Fliesenboden, Diskussionen werden immer wieder darüber geführt, wie viele Weintrauben, Oliven oder Antipasti-Stückchen auf den Salatteller gehören, der Techniker testet das System mit dem immer gleichen Rock-Lied, entspannte Gespräche im Innenhof zwischen den Auftritten, orgelige Melodien erklingen, der unverkennbare Soundtrack, Adson sagt zum gefühlten 100 mal "Meister", Ketten klirren, die Gefangenen schreien auf, Schweißperlen tropfen während der langen Prozess-Szene, Flammen lodern, und am Ende tost der Applaus. 
 

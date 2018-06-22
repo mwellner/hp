@@ -1,6 +1,6 @@
 ---
 date: "2018-05-12T20:12:12"
-lastmod: 2018-06-22T23:46:55+00:00
+lastmod: 2018-06-23T00:06:57+00:00
 title: Auf der Lahn
 author: Mathias Wellner
 resources:

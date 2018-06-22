@@ -3,7 +3,13 @@ date: "2018-05-21T20:12:12"
 lastmod: 2018-06-18T22:52:56+00:00
 title: Irgendwo in Belgien
 author: Mathias Wellner
-image: https://farm1.staticflickr.com/950/27417588577_cfec573fa0_z.jpg
+resources:
+  - name: haus
+    src: haus.jpg
+    title: Ferienhaus bei Coo in den Ardennen
+  - name: coo
+    src: coo.jpg
+    title: Wasserfall und Freizeitaktivitäten in Coo
 categories:
   - reisen
 tags:
@@ -15,18 +21,12 @@ Nur zwei ICE-Stunden von Frankfurt entfernt liegt Belgien, zumindest mal Lüttic
 
 Unser Ferienhaus war geräumig, mit vier Schlafzimmern im oberen Stockwerk. Unten befanden sich Küche, Wohnzimmer mit Kamin und Wintergarten. Das Grundstück war riesig, viel Wiese, ein paar Sträucher, Bäume. Für ein verlängertes Wochenende der perfekte Ort. 
 
-<figure>
-  <img sizes="100vw" srcset="https://farm1.staticflickr.com/950/27417588577_cfec573fa0_n.jpg 320w, https://farm1.staticflickr.com/950/27417588577_cfec573fa0_z.jpg 640w, https://farm1.staticflickr.com/950/27417588577_cfec573fa0_c.jpg 800w, https://farm1.staticflickr.com/950/27417588577_e4860fcf2e_h.jpg 1600w" src="https://farm1.staticflickr.com/950/27417588577_cfec573fa0_b.jpg" alt="Ferienhaus bei Coo in den Ardennen">
-  <figcaption>Ferienhaus bei Coo in den Ardennen</figcaption>
-</figure>
+{{< responsive-image name="haus" >}}
 
 Der sportliche Höhepunkt war dann eine Kayakfahrt auf der [Amel](https://de.wikipedia.org/wiki/Amel_(Fluss)). In Coo war der Startpunkt, direkt am Fluss lagen Hunderte Kayaks, Schwimmwesten und Paddel bereit, vor uns standen ein gutes Dutzend Leute in der Schlange. Dann schnell bezahlt und weiter ging's zur Westenauswahl, danach lagen unsere fünf Einer-Kayaks auch schon bereit und wir wurden mit einem sanften Schubs ins Wasser befördert. 
 
 Die Fahrt war durchaus spannend, führte die Amel doch sehr wenig Wasser und zahlreichen Steinen wollte ausgewichen werden. Es klappt natürlich nicht immer, den einen oder anderen Stein nahm man auch mit und freute sich über die Robustheit der roten Plastikschüsseln. An die zwei Stunden waren wir unterwegs, eine ungewohnte Art der Fortbewegung, bei der die Beine wenig zu tun hatten, dafür Bauchmuskeln, Oberkörper und Arme um so mehr. Zwischendurch gab es noch eine Seilbrücke und ein Schwingseil als Sporteinlage. 
 
-<figure>
-  <img sizes="100vw" srcset="https://farm1.staticflickr.com/886/28414166658_98a286c168_n.jpg 320w, https://farm1.staticflickr.com/886/28414166658_98a286c168_z.jpg 640w, https://farm1.staticflickr.com/886/28414166658_98a286c168_c.jpg 800w, https://farm1.staticflickr.com/886/28414166658_c4a4b78545_h.jpg 1600w" src="https://farm1.staticflickr.com/886/28414166658_98a286c168_b.jpg" alt="Schwimmwesten">
-  <figcaption>Schwimmwesten</figcaption>
-</figure>
+{{< responsive-image name="coo" >}}
 
 War ein schönes Wochenende!

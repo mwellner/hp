@@ -16,6 +16,7 @@ tags:
   - loreley
   - rheinsteig
 ---
+
 Die Königsetappe des Rheinsteigs führt von Kaub nach St. Goarshausen ([Etappenbeschreibung](https://www.tourenplaner-rheinland-pfalz.de/de/tour/praedikats-fernwanderweg/rheinsteig-07.-etappe-kaub--st.-goarshausen-sued-nord-/1537231/)). Und mitten drin, an der engsten Stelle des Rheins thront die Loreley. An diesem warmen Sonntag wanderten wir die ganze Strecke, mit wunderschönen Ausblicken über den Rhein und ein paar knackigen Anstiegen. 
 
 <!--more-->

@@ -3,8 +3,11 @@ date: "2018-03-25T11:16:21"
 lastmod: 2018-06-18T23:06:06+00:00
 title: Rosen-Endphase
 slug: der-name-der-rose
-image: https://farm1.staticflickr.com/788/27132995918_bd5defd546_z.jpg
 author: Mathias Wellner
+resources:
+  - name: soldat
+    src: soldat.jpg
+    title: Als Soldat bei "Der Name der Rose"
 categories:
   - theater
 tags:
@@ -16,10 +19,7 @@ Bereits am nächsten Samstag ist die Premiere von [Der Name der Rose](https://de
 
 <!--more-->
 
-<figure>
-  <img sizes="100vw" srcset="https://farm1.staticflickr.com/788/27132995918_bd5defd546_n.jpg 320w, https://farm1.staticflickr.com/788/27132995918_bd5defd546_z.jpg 640w, https://farm1.staticflickr.com/788/27132995918_bd5defd546_c.jpg 800w, https://farm1.staticflickr.com/788/27132995918_61658569ae_h.jpg 1600w, https://farm1.staticflickr.com/788/27132995918_cec6b61a9d_k.jpg 2048w" src="https://farm1.staticflickr.com/788/27132995918_bd5defd546_b.jpg" alt="Als Soldat bei 'Der Name der Rose'">
-  <figcaption>Als Soldat bei "Der Name der Rose"</figcaption>
-</figure>
+{{< responsive-image name="soldat" >}}
 
 Meine Abende verbringe ich zur Zeit allesamt in Darmstadt-Arheiligen, in den Räumlichkeiten der [Neuen Bühne](http://www.neue-buehne.de/). Es ist ein altes verwinkeltes Gebäude, ein ehemaliges Kino mit Aufführungssaal, Vorraum und Küche. Mittlerweile habe ich sogar einen Schlüssel. 
 

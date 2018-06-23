@@ -15,11 +15,6 @@ Ein schöner Abend -- die Premiere von _Der Name der Rose_ war ein voller Erfolg
 
 <!--more-->
 
-<figure>
-  <img sizes="100vw" srcset="https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_n.jpg 320w, https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_z.jpg 640w, https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_c.jpg 800w, https://farm1.staticflickr.com/820/41133800022_41bf0cdf5b_h.jpg 1600w, https://farm1.staticflickr.com/820/41133800022_e2718f633d_k.jpg 2048w" src="https://farm1.staticflickr.com/820/41133800022_9285ecd8aa_b.jpg" alt="Neue Bühne in Darmstadt-Arheiligen">
-  <figcaption>Das Gebäude der Neuen Bühne in Darmstadt-Arheiligen</figcaption>
-</figure>
-
 #### Vorbereitungen
 
 Der Abend begann für mich bereits kurz nach 17 Uhr mit Vorbereitungsarbeiten. Denn es wird nicht nur Theater gespielt, sondern die Gäste erhalten in der Stunde vor der Vorstellung und während der Pause auch Getränke und Essen. Und das bedeutet einen immensen Aufwand, der jedoch durch die vielen Mitwirkenden einigermaßen gut zu bewältigen ist. In der Küche waren vier Leute mit der Zubereitung der Speisen beschäftigt, bei den Getränken auch jemand, im Service alle mitwirkenden Schauspieler und Statisten, für die Premiere sogar noch ein ehemaliger Statist mehr. Es ist ziemlich eng im Kellnerflur, einmal kam noch eine Dame mit Glutenunverträglichkeit dazu und wollte die Nudelpackung sehen, was den Betrieb gehörig aufhielt.

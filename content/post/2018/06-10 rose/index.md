@@ -1,6 +1,6 @@
 ---
 date: "2018-06-10T20:16:21"
-lastmod: 2018-06-22T23:44:22+00:00
+lastmod: 2018-06-23T10:04:26+00:00
 title: Persönliche Rosen-Dernière
 slug: der-name-der-rose-derniere
 resources:

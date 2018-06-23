@@ -16,7 +16,7 @@ tags:
   - lahn
 ---
 
-Das schöne Sommerwetter nutzte ich für einen Bootsausflug mit einer befreundeten Familie auf der Lahn. [Lahntours](http://www.lahntours.de/) stellte uns drei Kayaks bereit, Startpunkt war [Roth bei Weimar an der Lahn](https://de.wikipedia.org/wiki/Roth_(Weimar)). Von dort fuhren wir ca. 10 Kilometer bis Odenhausen durch eine wunderschöne Flusslandschaft mit ruhigen Abschnitten, einigen kleinen Untiefen und vielen Flussvögeln. 
+Das schöne Sommerwetter nutzte ich für einen Bootsausflug mit einer befreundeten Familie auf der Lahn. [Lahntours](http://www.lahntours.de/) stellte uns drei Kayaks bereit, Startpunkt war _Roth bei Weimar an der Lahn_. Von dort fuhren wir ca. 10 Kilometer bis Odenhausen durch eine wunderschöne Flusslandschaft mit ruhigen Abschnitten, einigen kleinen Untiefen und vielen Flussvögeln. 
 
 <!--more-->
 

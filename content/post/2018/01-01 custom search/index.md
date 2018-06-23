@@ -1,6 +1,6 @@
 ---
 date: "2018-01-01T12:24:21"
-lastmod: 2018-01-03T19:53:38+00:00
+lastmod: 2018-06-23T15:50:55+00:00
 title: Benutzerdefinierte Suche
 author: Mathias Wellner
 categories:

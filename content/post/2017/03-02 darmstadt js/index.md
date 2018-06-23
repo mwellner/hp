@@ -1,13 +1,14 @@
 ---
 title: DarmstadtJS Meetup
+description: "Notizen vom Besuch des Meetups DarmstadtJS"
+date: "2017-03-02T23:18:11+01:00"
+lastmod: 2018-06-23T19:12:52+00:00
+categories: 
+  - software
 tags: 
   - javascript
   - typescript
-categories: 
-  - software
-description: "Notizen vom Besuch des Meetups DarmstadtJS"
-date: "2017-03-02T23:18:11+01:00"
-lastmod: 2017-09-18T22:28:53+00:00
+  - angular
 ---
 
 Heute war ich zum ersten Mal bei einem Meetup der Gruppe [DarmstadtJS](https://www.meetup.com/DarmstadtJS/). Das Ganze fand in den Büros von [JSperts](https://jsperts.de/) statt, Getränke und Pizzas stellte die Firma netterweise bereit, vielen Dank dafür!

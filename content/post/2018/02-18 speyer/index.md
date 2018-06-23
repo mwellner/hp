@@ -1,6 +1,6 @@
 ---
 date: "2018-02-18T18:24:21"
-lastmod: 2018-06-18T23:18:39+00:00
+lastmod: 2018-06-23T16:16:57+00:00
 title: Richard Löwenherz
 author: Mathias Wellner
 resources:

@@ -1,6 +1,6 @@
 ---
 date: "2017-01-14T18:11:48"
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-06-23T19:08:42+00:00
 title: "La La Land"
 author: "mathias wellner"
 categories:

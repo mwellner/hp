@@ -6,7 +6,12 @@
 {{ $image1600 := $image.Resize "1600x" }}
 
 <figure>
-  <img sizes="100vw" src="{{ $image800.RelPermalink }}" srcset="{{$image320.RelPermalink}} 320w, {{$image640.RelPermalink}} 640w, {{$image800.RelPermalink}} 1000w, {{$image1300.RelPermalink}} 1600w, {{$image1600.RelPermalink}} 2000w">
+  <img sizes="100vw" src="{{ $image800.RelPermalink }}" 
+       srcset="{{$image320.RelPermalink}} 320w, {{$image640.RelPermalink}} 640w, {{$image800.RelPermalink}} 1000w, {{$image1300.RelPermalink}} 1600w, {{$image1600.RelPermalink}} 2000w"
+       {{ with $image.Title }}
+       alt="{{.}}"
+       {{ end }}
+  >
   {{ with $image.Title }}
   <figcaption>{{.}}</figcaption>
   {{ end }}

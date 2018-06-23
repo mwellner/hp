@@ -1,9 +1,11 @@
 ---
 title: Hugo
+date: 2017-02-27T22:40:24+01:00
+lastmod: 2018-06-23T19:11:04+00:00
 categories:
   - software
-date: 2017-02-27T22:40:24+01:00
-lastmod: 2017-09-18T22:28:53+00:00
+tags:
+  - hugo
 ---
 In den letzten Tagen habe ich meine Homepage von [Wordpress](https://wordpress.org/) auf [Hugo](https://gohugo.io/) migriert. Hauptgrund ist die Sicherheitslage von Wordpress, immer wieder gibt es Lücken im System, welche durch die Popularität auch von etlichen Angreifern genutzt werden können. 
 

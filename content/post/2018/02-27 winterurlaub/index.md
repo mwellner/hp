@@ -1,6 +1,6 @@
 ---
 date: "2018-02-27T11:51:21"
-lastmod: 2018-06-18T23:18:06+00:00
+lastmod: 2018-06-23T16:22:28+00:00
 title: Winterurlaub
 author: Mathias Wellner
 resources:

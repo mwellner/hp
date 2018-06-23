@@ -1,6 +1,6 @@
 ---
 date: "2018-01-31T21:24:21"
-lastmod: 2018-01-31T22:59:14+00:00
+lastmod: 2018-06-23T16:01:59+00:00
 title: Der Name der Rose
 author: Mathias Wellner
 categories:

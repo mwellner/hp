@@ -1,7 +1,7 @@
 ---
 title: 'Bodo Kirchhoff: Widerfahrnis'
 date: 2017-01-01T14:03:54+00:00
-lastmod: 2018-01-14T15:00:40+00:00
+lastmod: 2018-06-23T18:53:12+00:00
 author: Mathias Wellner
 categories:
   - literatur

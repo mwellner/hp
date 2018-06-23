@@ -1,6 +1,6 @@
 ---
 date: "2018-01-27T18:24:21"
-lastmod: 2018-06-18T23:19:20+00:00
+lastmod: 2018-06-23T15:59:57+00:00
 title: Seltsam, im Nebel zu wandern
 slug: wandern-modautal
 author: Mathias Wellner

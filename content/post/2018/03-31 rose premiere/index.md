@@ -1,6 +1,6 @@
 ---
 date: "2018-03-31T23:16:21"
-lastmod: 2018-06-18T23:05:24+00:00
+lastmod: 2018-06-23T16:28:01+00:00
 title: Rosen-Premiere
 slug: der-name-der-rose-premiere
 author: Mathias Wellner

@@ -1,6 +1,6 @@
 ---
 date: "2018-06-24T19:29:12"
-lastmod: 2018-06-22T23:51:59+00:00
+lastmod: 2018-06-24T22:17:12+00:00
 title: Wasserkuppe
 author: Mathias Wellner
 resources:

@@ -1,8 +1,15 @@
 ---
 date: "2017-06-06T14:58:12"
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-06-24T23:01:57+00:00
 title: Die Azoren
 author: Mathias Wellner
+resources:
+  - name: azoren
+    src: azoren.jpg
+    title: Karte von 1584
+  - name: vasco
+    src: vasco.jpg
+    title: Vasco da Gama
 categories:
   - reisen
 tags:
@@ -13,11 +20,11 @@ Nach zwei Tagen Lissabon machten wir uns nun auf den Flugweg zum eigentlichen Zi
 
 <!--more-->
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/35592842382/in/dateposted-public/" title="Karte von 1584"><img src="https://farm5.staticflickr.com/4285/35592842382_c7e7ddbd92_b.jpg" width="1024" height="768" alt="Karte von 1584"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< responsive-image name="azoren" >}}
 
 Die alte Karte oben stammt aus dem Jahr 1584. Die Inselgruppe war bei ihrer Inbesitznahme durch die Portugiesen 1427 unbewohnt, womöglich erhielt sie aber im 4. Jahrhundert vor Christus Besuch von den Phöniziern. Die Inseln sind alle vulkanischen Ursprungs, ihre Besiedlung war wegen der schroffen Steilküsten und der vielen Lavasteine nicht gerade einfach. Durch den aufkommenden Seehandel zwischen Europa, Amerika und Afrika konnten die Azoren aus ihrer geografischen Lage Kapital schlagen und die vorbeikommenden Schiffe mit Lebensmitteln und Frischwasser versorgen. Außerdem exportierte man Zuckerrohr und andere landwirtschaftliche Produkte. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/35630744041/in/dateposted-public/" title="Vasco da Gama"><img src="https://farm5.staticflickr.com/4205/35630744041_7b51b831df_b.jpg" width="1024" height="768" alt="Vasco da Gama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< responsive-image name="vasco" >}}
 
 Immer wieder machten Vulkanausbrüche den Inseln zu schaffen. Auf Faial entstand vor ungefähr 60 Jahren eine neue Halbinsel ([Capelinhos](https://de.wikipedia.org/wiki/Capelinhos)) durch einen mehrmonatigen Vulkanausbruch. Die damit verbundenen Explosionen, Erdbeben und der Ascheregen machten große Teile der Insel nicht mehr bewohnbar. Ungefähr die Hälfte der Inselbevölkerung wanderte in der Folge in die USA aus. 
 

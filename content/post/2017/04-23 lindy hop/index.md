@@ -1,7 +1,7 @@
 ---
 title: Lindy Hop
 date: 2017-04-23T11:52:37+01:00
-lastmod: 2017-09-29T22:08:12+00:00
+lastmod: 2018-06-24T22:22:07+00:00
 categories:
   - tanzen
 tags: 

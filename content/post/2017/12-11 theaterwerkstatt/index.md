@@ -1,7 +1,7 @@
 ---
 date: "2017-12-11T21:48:41"
-lastmod: 2017-12-22T15:52:04+00:00
-title: Informationsabend für Theaterwerkstatt
+lastmod: 2018-06-25T23:12:37+00:00
+title: Theaterwerkstatt
 author: Mathias Wellner
 categories:
   - theater

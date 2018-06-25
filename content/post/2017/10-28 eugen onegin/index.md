@@ -1,6 +1,6 @@
 ---
 date: "2017-10-28T23:58:41"
-lastmod: 2017-10-29T18:34:52+00:00
+lastmod: 2018-06-25T23:04:30+00:00
 title: Eugen Onegin
 author: Mathias Wellner
 categories:

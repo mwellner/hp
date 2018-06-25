@@ -1,8 +1,12 @@
 ---
 date: "2017-08-19T22:51:32"
-lastmod: 2018-01-15T16:18:40+00:00
+lastmod: 2018-06-25T22:33:37+00:00
 title: Bühnenbau mit Styropor
 author: Mathias Wellner
+resources:
+  - name: aufbau
+    src: aufbau.jpg
+    title: Styropor-Schneiden
 categories:
   - theater
 tags: 
@@ -14,12 +18,7 @@ Ein für mich neuer Aspekt des Theater-Bühnenbaus sind größere Kulissen. Für
 
 <!--more-->
 
-<figure>
-  <a href="https://www.flickr.com/photos/mwellner/36629352426" title="Styropor-Schneiden">  
-    <img srcset="https://farm5.staticflickr.com/4366/36629352426_2c3072cfaf_n.jpg 320w, https://farm5.staticflickr.com/4366/36629352426_2c3072cfaf_c.jpg 800w" src="https://farm5.staticflickr.com/4366/36629352426_2c3072cfaf_c.jpg" alt="Styropor-Schneiden">
-  </a>
-  <figcaption>Styropor-Schneiden</figcaption>
-</figure>
+{{< responsive-image name="aufbau" >}}
 
 Styropor ist perfekt für Kulissen, leicht, formstabil, leicht zu bearbeiten. Man kann es sägen, was jedoch recht viele Krümel produziert. Deutlich besser ist das Schneiden mit einem heißen Draht. Dafür gibt es spezielle Geräte, z.B. von [Proxxon](http://www.proxxon.com/de/micromot/27082.php). Wir brauchten jedoch etwas Längeres, um die Säulenrundungen möglichst einfach herzustellen. Mit einem minimalistischen Modell der Marke Eigenbau schnitt ich etliche runde Elemente. 
 

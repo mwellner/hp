@@ -1,9 +1,8 @@
 ---
 date: "2017-10-31T21:38:41"
-lastmod: 2018-06-18T23:21:43+00:00
+lastmod: 2018-06-25T23:05:53+00:00
 title: Ein weites Feld
 author: Mathias Wellner
-image: https://farm5.staticflickr.com/4459/26297363709_8fbca94f1d_z.jpg
 categories:
   - tagebuch
 tags:
@@ -13,11 +12,6 @@ tags:
 In diesen Tagen häufen sich die Jahrestage der großen Umwälzungen, 500 Jahre Reformation, 100 Jahre Oktoberrevolution. Für mich stand aber erst einmal körperliche Ertüchtigung auf dem Programm, eine Stunde Laufen bei herrlichem Sonnenschein. Wir liefen vom Herrengarten über die Rosenhöhe zum [Oberfeld](https://de.wikipedia.org/wiki/Oberfeld_(Darmstadt)), insgesamt gut 10&thinsp;km. 
 
 <!--more-->
-
-<figure>
-  <img sizes="100vw" srcset="https://farm5.staticflickr.com/4459/26297363709_8fbca94f1d_n.jpg 320w, https://farm5.staticflickr.com/4459/26297363709_8fbca94f1d_z.jpg 640w, https://farm5.staticflickr.com/4459/26297363709_8fbca94f1d_c.jpg 800w, https://farm5.staticflickr.com/4459/26297363709_b759b55412_h.jpg 1600w" src="https://farm5.staticflickr.com/4459/26297363709_8fbca94f1d_b.jpg" alt="Laufrunde in Darmstadt">
-  <figcaption>Laufrunde in Darmstadt</figcaption>
-</figure>
 
 Gerade im öffentlich-rechtlichem Fernsehen verfolgt einen Luther regelrecht, heute lief eine gelungene Mischung aus historisch nachempfundenem Spielfilm und Dokumentation im ZDF über den [Reichstag zu Worms im Jahr 1521](https://de.wikipedia.org/wiki/Reichstag_zu_Worms_(1521)). Der Spielfilm nahm den Hauptteil der Zeit in Anspruch, nur gelegentlich wurden die Geschehnisse angehalten und Experten kommentierten. 
 

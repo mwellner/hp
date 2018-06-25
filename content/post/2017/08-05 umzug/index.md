@@ -1,6 +1,6 @@
 ---
 date: "2017-08-05T21:29:15"
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-06-25T22:26:39+00:00
 title: Der Tag der 89 Etagen
 author: Mathias Wellner
 categories:

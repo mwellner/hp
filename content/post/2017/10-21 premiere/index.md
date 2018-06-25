@@ -1,9 +1,12 @@
 ---
 date: "2017-10-21T23:58:41"
-lastmod: 2018-06-18T23:23:17+00:00
+lastmod: 2018-06-25T23:03:22+00:00
 title: Der Löwe im Winter -- Premiere
 author: Mathias Wellner
-image: https://farm5.staticflickr.com/4509/23749950518_a6081bb57f_z.jpg
+resources:
+  - name: szenenfoto
+    src: szenenfoto.jpg
+    title: Richard, Mathilda und John in "Der Löwe im Winter"
 categories:
   - theater
 tags:
@@ -14,12 +17,7 @@ Nach vielen Monaten Proben und Basteln konnten wir heute eine rundum gelungene P
 
 <!--more-->
 
-<figure>
-  <a href="https://www.flickr.com/photos/mwellner/23749950518/in/dateposted-public/" title="Der Löwe im Winter">
-    <img sizes="100vw" srcset="https://farm5.staticflickr.com/4509/23749950518_a6081bb57f_n.jpg 320w, https://farm5.staticflickr.com/4509/23749950518_a6081bb57f_z.jpg 640w, https://farm5.staticflickr.com/4509/23749950518_a6081bb57f_c.jpg 800w, https://farm5.staticflickr.com/4509/23749950518_5eabb5b888_h.jpg 1600w, https://farm5.staticflickr.com/4509/23749950518_2b4dcc6122_k.jpg 2048w" src="https://farm5.staticflickr.com/4509/23749950518_a6081bb57f_b.jpg" alt="Der Löwe im Winter">
-  </a>
-  <figcaption>Richard, Mathilda und John in "Der Löwe im Winter"</figcaption>
-</figure>
+{{< responsive-image name="szenenfoto" >}}
 
 Als Schauspieler kennt man das Stück mit seinen Wendungen und Stimmungen zu gut, um sich davon noch groß berühren zu lassen. Aber die Zuschauer erleben all das zum ersten Mal an diesem einen Abend, müssen die Figuren kennen lernen, und sich hoffentlich in den Sog der Handlung hineinziehen lassen. Es ist für mich immer schwer, die Wirkung eines Stücks einzuschätzen. Doch die Reaktionen waren durchweg positiv, Gelächter, kleine Ausrufe des Erstaunens, Szenenapplaus und ein sehr langer Schlussapplaus -- so muss es sein. 
 

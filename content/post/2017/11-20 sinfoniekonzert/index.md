@@ -1,6 +1,6 @@
 ---
 date: "2017-11-20T23:38:41"
-lastmod: 2017-11-21T21:34:52
+lastmod: 2018-06-25T23:06:17+00:00
 title: Drittes Sinfoniekonzert
 author: Mathias Wellner
 categories:

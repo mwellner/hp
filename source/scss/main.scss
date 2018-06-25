@@ -3,7 +3,7 @@
  */
 
 html {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
 } 
 
 @media (min-width: 48em) {
@@ -143,15 +143,14 @@ dt {
     margin-left: 1rem;
   }
 }
-article img {
-  max-width: 100%;
-  height: auto;
-  margin: 13px auto 0;
-}
 
 figure {
   position: relative;
   max-width: 40rem;
+  img {
+    width: 100%;
+    height: auto;
+  }  
 }
 
 figcaption {

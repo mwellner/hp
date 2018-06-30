@@ -1,7 +1,7 @@
 ---
 title: Ausgespielt
 date: 2015-02-23T21:12:46+00:00
-lastmod: 2017-09-30T00:08:03+00:00
+lastmod: 2018-06-30T18:54:09+00:00
 author: Mathias Wellner
 resources:
   - name: szenenfoto

@@ -1,7 +1,7 @@
 ---
 title: SOLA-Stafette, Erkundung Stecke 8
 date: 2015-03-28T16:38:55+00:00
-lastmod: 2017-09-30T00:10:06+00:00
+lastmod: 2018-06-30T19:00:42+00:00
 author: Mathias Wellner
 categories:
   - sport

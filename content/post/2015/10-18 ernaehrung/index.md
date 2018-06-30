@@ -1,7 +1,7 @@
 ---
 title: 10 Milliarden
 date: 2015-10-18T17:09:51+00:00
-lastmod: 2017-12-18T21:15:05+00:00
+lastmod: 2018-06-30T20:29:16+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

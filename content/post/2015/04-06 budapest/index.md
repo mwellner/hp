@@ -1,7 +1,7 @@
 ---
 title: Budapest
 date: 2015-04-06T19:42:54+00:00
-lastmod: 2017-09-30T00:10:28+00:00
+lastmod: 2018-06-30T19:04:09+00:00
 author: Mathias Wellner
 resources:
   - name: kirche

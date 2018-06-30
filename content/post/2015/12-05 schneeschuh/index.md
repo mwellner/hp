@@ -1,7 +1,7 @@
 ---
 title: Schneeschuhtour auf den Furggelenstock
 date: 2015-12-05T19:45:55+00:00
-lastmod: 2017-09-28T22:28:53+00:00
+lastmod: 2018-06-30T20:43:07+00:00
 author: Mathias Wellner
 categories:
   - wandern

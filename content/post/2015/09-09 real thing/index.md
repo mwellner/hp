@@ -2,7 +2,7 @@
 title: Casting-Vorbereitung
 slug: casting-vorbereitung-dramateure
 date: 2015-09-09T22:56:19+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-06-30T20:26:56+00:00
 author: Mathias Wellner
 resources:
   - name: ensemble

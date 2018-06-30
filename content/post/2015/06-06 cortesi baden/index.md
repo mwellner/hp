@@ -1,7 +1,7 @@
 ---
 title: Cortesi-Lesungen bei der KulTour in Baden
 date: 2015-06-06T23:00:58+00:00
-lastmod: 2018-05-03T21:51:56+00:00
+lastmod: 2018-06-30T19:55:18+00:00
 author: Mathias Wellner
 categories:
   - literatur

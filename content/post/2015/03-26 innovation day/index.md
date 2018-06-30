@@ -1,7 +1,7 @@
 ---
 title: Innovation Day
 date: 2015-03-26T17:57:51+00:00
-lastmod: 2017-09-30T00:09:21+00:00
+lastmod: 2018-06-30T18:59:22+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

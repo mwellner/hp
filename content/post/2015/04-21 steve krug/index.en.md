@@ -1,7 +1,7 @@
 ---
 title: Steve Krug -- Don't Make Me Think
 date: 2015-04-21T22:33:09+00:00
-lastmod: 2017-09-30T00:13:11+00:00
+lastmod: 2018-06-30T19:30:02+00:00
 author: Mathias Wellner
 categories:
   - user experience

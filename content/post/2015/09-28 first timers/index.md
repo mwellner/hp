@@ -2,7 +2,7 @@
 title: First Timers
 slug: first-timers
 date: 2015-09-28T18:26:08+00:00
-lastmod: 2018-01-05T22:59:51+00:00
+lastmod: 2018-06-30T20:28:25+00:00
 author: Mathias Wellner
 categories:
   - film

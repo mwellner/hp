@@ -1,7 +1,7 @@
 ---
 title: SOLA-Training 1
 date: 2015-04-14T21:58:09+00:00
-lastmod: 2017-09-30T00:11:00+00:00
+lastmod: 2018-06-30T19:29:04+00:00
 author: Mathias Wellner
 categories:
   - sport

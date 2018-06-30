@@ -1,7 +1,7 @@
 ---
 title: MapMyDay
 date: 2015-12-04T16:00:37+00:00
-lastmod: 2017-12-18T20:57:10+00:00
+lastmod: 2018-06-30T20:42:26+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -4,7 +4,7 @@ date: 2015-04-21T22:33:09+00:00
 lastmod: 2017-09-30T00:13:11+00:00
 author: Mathias Wellner
 categories:
-  - ux
+  - user experience
 ---
 In the field of user experience (UX), the book written by <a href="https://en.wikipedia.org/wiki/Steve_Krug" title="Steve Krug" target="_blank">Steve Krug</a> is considered a classic. It is not too long, following his own principles of brevity and clarity in content presentation. I am reading this, because I experience UX discussions at work (<a href="http://comparis.ch" title="comparis.ch" target="_blank">comparis.ch</a>) quite often. 
 

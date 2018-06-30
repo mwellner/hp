@@ -1,5 +1,6 @@
 ---
-title: SOLA-Stafette 2015, das Rennen
+title: SOLA 2015
+slug: sola-2015
 date: 2015-05-09T16:01:46+00:00
 lastmod: 2017-09-30T00:14:23+00:00
 author: Mathias Wellner
@@ -10,7 +11,8 @@ tags:
   - comparis
   - zürich
 ---
-Heute bin ich zum ersten Mal bei einem großen Laufwettbewerb dabei gewesen, der [SOLA-Stafette](http://portal.sola.asvz.ethz.ch/Seiten/default.aspx "SOLA-Stafette") rund um Zürich. Gemeinsam mit 13 sportlichen Arbeitskollegen von <a href="http://comparis.ch" title="Comparis" target="_blank">Comparis</a> rannten wir eine Gesamtstrecke von 116&thinsp;km. Insgesamt waren 903 Teams am Start.
+Heute bin ich zum ersten Mal bei einem großen Laufwettbewerb dabei gewesen, der [SOLA-Stafette](http://portal.sola.asvz.ethz.ch/Seiten/default.aspx "SOLA-Stafette") rund um Zürich. Gemeinsam mit 13 sportlichen Arbeitskollegen von [Comapris](http://comparis.ch) rannten wir eine Gesamtstrecke von 116&thinsp;km. Insgesamt waren 903 Teams am Start.
+<!--more-->
 
 Berichten kann ich nur von meiner Strecke, der Nummer 8. Da es ein Neustart war, sah ich meine Vorläuferin leider nicht. Statt des klassischen Staffelstabs erhielt ich ein gelbes Armband, dieses musste ich am Ziel der nächsten Läuferin übergeben. Die Zeitmessung geschah durch moderne Technik, auf dem Startnummern-Blatt waren noch zwei Chips aufgeklebt, mit denen wurde automatisch und berührungslos meine Zeit gemessen. Und die kann sich sehen lassen, mit 35:40 Minuten erreichte ich das Ziel am unteren Ende des angegebenen Bereichs. Und drei Minuten schneller als beim letzten Trainingslauf. Die Schnellsten liefen die Strecke in 21 Minuten, keine Ahnung, wie das gehen soll. Und die langsamsten brauchten eine reichliche Stunde. 
 
@@ -20,85 +22,30 @@ Einstimmung durch den Moderator, eine japanische Trommelgruppe sorgte für spann
 
 Kurz vor dem Theater Rigiblick bogen wir links ab auf einen immer noch ansteigenden, breiten Waldweg. Langsam merkte ich meine Beine, sie fühlten sich schwer an, kein gutes Zeichen bei der zeitlichen Hälfte. Der Weg ging jetzt abwärts, rüber zum Waldhüsli und dann Richtung Zoo. Eine lange Gerade, auf der ich mir langsam vorkam, wurde einige mal überholt. Dann kurz auf die Straße, es geht wieder hoch, links rein in den Wald, mehr oder weniger der letzte Kilometer. Ich litt schon etwas, vor allem dann auf dem ASVZ-Gelände mit noch zwei kleinen Rampen hoch zur Laufbahn. Und dann erschien plötzlich &ndash; wie ein Engel &ndash; meine Nachfolgeläuferin Livia rechts neben mir, ich war kurz überrascht, hatte das irgendwie weiter vorn erwartet, doch dann gab ich ihr einfach das gelbe Armband und sie sprintete los. Und ich ließ mich ins Gras sinken, geschafft, einfach durchatmen. Plötzlich bleibt jemand stehen, eine vertraute Silhouette, mein Arbeitskollege Volker hielt sein Handy auf mich gerichtet und fotografierte oder filmte. So wird meine Erschöpfung der Nachwelt erhalten bleiben. 
 
-<div class="floatleft">
-  <h4>
-    Eigene Messung mit GPS-Uhr
-  </h4>
-  
-  <dl>
-    <dt>
-      Distanz
-    </dt>
-    
-    <dd>
-      6,22&thinsp;km
-    </dd>
-    
-    <dt>
-      Zeit
-    </dt>
-    
-    <dd>
-      35:40 (Minuten:Sekunden)
-    </dd>
-    
-    <dt>
-      Durchschnittl. Geschwindigkeit
-    </dt>
-    
-    <dd>
-      5:44&thinsp;min/km
-    </dd>
-    
-    <dt>
-      Positiver Höhenunterschied
-    </dt>
-    
-    <dd>
-      200&thinsp;m
-    </dd>
-  </dl>
-</div>
+##### Eigene Messung mit GPS-Uhr
 
-<div class="floatleft">
-  <h4>
-    Offizielle Messung
-  </h4>
-  
-  <dl>
-    <dt>
-      Distanz
-    </dt>
-    
-    <dd>
-      6,34&thinsp;km
-    </dd>
-    
-    <dt>
-      Zeit
-    </dt>
-    
-    <dd>
-      34:54 (Minuten:Sekunden)
-    </dd>
-    
-    <dt>
-      Etappen-Rang
-    </dt>
-    
-    <dd>
-      497 (von 903)
-    </dd>
-    
-    <dt>
-      Gesamt-Team-Rang
-    </dt>
-    
-    <dd>
-      611 (von 903)
-    </dd>
-  </dl>
-</div>
+Distanz
+: 6,22&thinsp;km
 
-<div style="clear: both;">
-</div>
+Zeit
+: 35:40
+
+Durchschnittl. Geschwindigkeit
+: 5:44&thinsp;min/km
+
+Positiver Höhenunterschied
+: 200&thinsp;m
+
+##### Offizielle Messung
+
+Distanz
+: 6,34&thinsp;km
+
+Zeit
+: 34:54
+
+Etappen-Rang
+: 497 (von 903)
+
+Gesamt-Team-Rang
+: 611 (von 903)

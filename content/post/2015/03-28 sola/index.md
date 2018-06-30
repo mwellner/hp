@@ -4,7 +4,7 @@ date: 2015-03-28T16:38:55+00:00
 lastmod: 2017-09-30T00:10:06+00:00
 author: Mathias Wellner
 categories:
-  - laufen
+  - sport
 tags:
   - sola
   - zürich

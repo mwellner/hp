@@ -1,5 +1,6 @@
 ---
 title: Neil Simon -- Ein seltsames Paar
+slug: neil-simon-seltsames-paar
 date: 2015-03-06T21:41:11+00:00
 lastmod: 2017-12-18T20:23:07+00:00
 author: Mathias Wellner

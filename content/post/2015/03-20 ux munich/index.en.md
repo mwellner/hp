@@ -1,15 +1,14 @@
 ---
-title: UX Munich – Conference Notes
+title: UX Munich -- Conference Notes
+slug: ux-munich-conference-notes
 date: 2015-03-20T22:10:23+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - diary
+  - software
 tags:
   - munich
   - user experience
-  - ux
-  - web font
 ---
 **The Conference**
 

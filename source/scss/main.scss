@@ -146,7 +146,9 @@ dt {
 
 figure {
   position: relative;
-  max-width: 40rem;
+  &:not(.wide) {
+    max-width: 40rem;
+  }
   img {
     width: 100%;
     height: auto;

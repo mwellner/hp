@@ -1,16 +1,16 @@
 ---
 title: Urs Widmer
 date: 2014-04-03T21:46:35+00:00
-lastmod: 2018-05-08T23:09:32+00:00
+lastmod: 2018-06-30T22:54:50+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
   - urs widmer
-  - stuthe
   - top dogs
 ---
 Urs Widmer, einer der bekanntesten Schweizer Autoren, starb heute im Alter von 75 Jahren in Zürich (siehe [NZZ-Artikel](http://www.nzz.ch/aktuell/feuilleton/uebersicht/zum-tod-von-urs-widmer-schreiben-gegen-die-furien-des-verschwindens-1.18276782)). 
+<!--more-->
 
 Ich erinnere mich vor allem an sein Theaterstück _Top Dogs_, in welchem ich 2010 als Schauspieler mitwirkte. Für mich war es die erste Produktion in Zürich in einer anderen Theatergruppe nach vier Produktionen mit dem [akitiv](http://www.aki.ethz.ch/akitiv/). Ein aktuelles Stück war das, es ging um gefeuerte Manager in einem Bewerbungs-Seminar, ein Novum damals zur Wirtschaftskrise. Er entwickelte es am [Theater Neumarkt](http://www.theaterneumarkt.ch/), die Rollen bekamen die Namen der Schauspieler. Und ich war dann [Neuenschander](http://de.wikipedia.org/wiki/Michael_Neuenschwander), der ehemalige Tennislehrer und Porsche-Fahrer. Eine schöne Rolle aus der Feder von Urs Widmer. 
 

@@ -1,7 +1,8 @@
 ---
-title: Tod eines Handlungsreisenden (Arthur Miller)
+title: Tod eines Handlungsreisenden
+slug: tod-eines-handlungsreisenden-arthur-miller
 date: 2014-03-30T01:10:47+00:00
-lastmod: 2018-05-03T22:01:45+00:00
+lastmod: 2018-06-30T22:53:53+00:00
 author: Mathias Wellner
 categories:
   - literatur
@@ -10,6 +11,7 @@ tags:
   - arthur miller
 ---
 Auf 3sat sah ich heute die [Schlöndorff](http://de.wikipedia.org/wiki/Volker_Schl%C3%B6ndorff)-Verfilmung des Theaterklassikers von [Arthur Miller](http://de.wikipedia.org/wiki/Arthur_Miller), ein bewegendes Drama über die Abgründe des amerikanischen Traums.
+<!--more-->
 
 Die Hauptrolle des alternden und zunehmend geistig verwirrten Vertreters Willy Loman spielte [Dustin Hoffmann](http://de.wikipedia.org/wiki/Dustin_Hoffman). Er ist erschöpft nach 35 Jahren als Vertreter, erfolglos und selbstmordgefährdet. Grandios die Darstellung durch Dustin Hoffmann, wie er mit kleinen Schritten läuft, gebeugt, grundlos ausrastet, in Erinnerungen versinkt, Selbstgespräche führt, nicht mehr richtig da ist. Er hat seine wahre Begabung als Handwerker aufgegeben, zugunsten des amerikanischen Traums, er will erfolgreich sein, die Nummer eins, und hechelt diesem Traum zeitlebens hinterher. 
 

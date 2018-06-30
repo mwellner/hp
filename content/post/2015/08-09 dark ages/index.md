@@ -10,6 +10,7 @@ tags:
   - milo rau
 ---
 <a href="https://de.wikipedia.org/wiki/Milo_Rau" title="Milo Rau" target="_blank">Milo Rau</a> ist einer der bekanntesten Schweizer Theaterschaffenden. Gestern besuchte ich eine Aufführung von _The Dark Ages_, was er am Münchner Residenztheater entwickelt hat. 
+<!--more-->
 
 Fünf Menschen erzählen ihre Geschichte, drei davon handeln zur Zeit des jugoslawischen Bürgerkriegs. Es gab keinen roten Faden, lediglich Einblendungen von Akt-Titeln, derer es -- analog zum klassischen Theater -- genau fünf gab. Die fünf wechselten sich ab, die Kamera war auf ihr Gesicht gerichtet, welches auf einem riesigen Bildschirm in Schwarz-Weiß sichtbar war. Bei drei Leuten wurden deutsche Untertitel eingeblendet. 
 

@@ -9,9 +9,8 @@ tags:
   - facebook
   - wordpress
 ---
-### The Problem
-
 My WordPress-powered blog automatically posts new articles to Facebook. However, the article image was somehow lost on the way, leading to rather unattractive Facebook posts. 
+<!--more-->
 
 ### Digging Into the Issue
 

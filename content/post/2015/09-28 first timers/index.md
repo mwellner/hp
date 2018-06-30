@@ -10,7 +10,6 @@ tags:
   - zff
 ---
 Beim alljährlichen <a href="http://zff.com" title="Zurich Film Festival" target="_blank">Zurich Film Festival</a> gibt es einen Wettbewerb für Kurzfilme. Jedes Team hat 72 Stunden, um einen kurzen Film von genau 72 Sekunden Länge zu produzieren. Und das Thema, welches am Freitag um 12:00 Uhr verkündet wurde &ndash; _Das erste Mal_. Ich stieß zu einem jungen, internationalen Team dazu, am Samstag drehten wir im Dynamo und in einer Wohnung. War echt eine gute Stimmung am Set, alle waren voller Begeisterung dabei. 
+<!--more-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cx0x6LlyekM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-Bitte stimmt für den Film! Es gibt einen Publikumspreis.

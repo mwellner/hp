@@ -9,7 +9,8 @@ tags:
   - cortesi
   - lesung
 ---
-Die beschauliche Kleinstadt Baden, die nur 20 Bahnminuten von Zürich entfernt liegt, hat in diesem Jahr ein Kulturfestival der besonderen Art auf die Beine gestellt &ndash; die KulTour. Das Motto ist bestechend einfach, es gibt Veranstaltungen jede halbe Stunde, die jeweils 15 Minuten dauern. Danach kann man gemütlich zum nächsten Veranstaltungsort gehen. 
+Die beschauliche Kleinstadt Baden, die nur 20 Bahnminuten von Zürich entfernt liegt, hat in diesem Jahr ein Kulturfestival der besonderen Art auf die Beine gestellt -- die KulTour. Das Motto ist bestechend einfach, es gibt Veranstaltungen jede halbe Stunde, die jeweils 15 Minuten dauern. Danach kann man gemütlich zum nächsten Veranstaltungsort gehen. 
+<!--more-->
 
 Für den gerade entstehenden zweiten Kriminalroman der <a href="http://www.cortesisfaelle.ch" title="Cortesis Fälle" target="_blank">Cortesi-Reihe</a>. Der Roman spielt in Baden, die erste Leiche wird in einem verlassenen Kurhotel gefunden, genau wie es sich am Kurplatz befindet. Was lag da also näher, als Kurzlesungen anzubieten. Es gab Auftritte um 13, 15, 17, 19 und 21 Uhr. War nicht so ganz einfach, die Spannung jedes Mal aufzubauen, auch angesichts der hochsommerlichen Temperaturen. 
 

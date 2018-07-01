@@ -1,16 +1,21 @@
 ---
 title: Fechten
 date: 2014-12-02T23:49:35+00:00
-lastmod: 2017-09-30T00:04:29+00:00
+lastmod: 2018-07-01T23:09:49+00:00
 author: Mathias Wellner
+resources:
+  - name: fechten
+    src: fechten.jpg
+    title: Mit Degen und Fecht-Montur
 categories:
   - sport
 tags:
   - fechten
 ---
 Heute war die vorletzte Lektion des Anfängerkurses beim <a href="http://www.fechten-zuerich-nord.ch/" title="Fechtclub Zürich Nord" target="_blank">Fechtclub Zürich-Nord</a>. Es ist immer noch anstrengend, wenn auch nicht mehr ganz so chaotisch wie am Beginn. Langsam klappen einzelne Paraden und Gegenangriffe, mein Fechtparnter hat mich dann sogar mit einem Sturzangriff (Flash) überrascht. 
+<!--more-->
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mwellner/34069004900/in/dateposted-public/" title="MW_20141125_8124"><img src="https://c1.staticflickr.com/3/2812/34069004900_1519456432_b.jpg" width="1024" height="683" alt="MW_20141125_8124"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< responsive-image name="fechten" >}}
 
 In der Einzellektion mit der Lehrerin kamen dann auch wieder meine Verbesserungspotenziale zur Sprache &ndash; ich halte den Degen zu nah am Körper und den Unterarm im falschen Winkel. Ein geübter Fechter würde mich wahrscheinlich immer wieder dort erwischen. Und ich mache zu viel mit den Beinen, da kommen mir meine Volleyball-Bewegungsabläufe in die Quere, wo man wesentlich mehr mit den Beinen macht. Beim Fechten soll ich vergleichsweise statisch dastehen und bei einem Angriff nur meinen Arm ausstrecken, stattdessen tänzele ich immer vor dabei und biete damit meine Beine als Trefferfläche an. Das war beim Volleyball kein Problem. 
 

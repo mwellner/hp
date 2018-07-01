@@ -18,7 +18,7 @@ tags:
 [Das einzig Wahre](http://dramateure.ch/wordpress/produktionen/das-einzig-wahre "Das einzig Wahre") war eine schöne Produktion, die vor einer Woche mit der vorerst letzten Aufführung im GZ Buchegg zu Ende ging. Der anspruchsvolle Text von Tom Stoppard, der um Beziehungen, Treue, Literatur und Kompromisse kreist, hat uns seit letzten September beschäftigt. 
 <!--more-->
 
-{{< responsive-image name="applaus" >}}
+{{< responsive-image name="applaus" class="wide" >}}
 
 Mein persönlicher Beitrag war zum Einen die Rolle des Henry, eines gewitzten Schriftstellers, der sich im Lauf des Stückes vom arroganten Snob zum gereiften Snob entwickelt. Zum Anderen war unsere Regisseurin Caroline Wloka nicht bei allen Proben dabei, so dass einige Szenen durch mich als Co-Regisseur inszeniert wurden. Somit war ich dann doch bei allen Proben dabei und wechselte munter zwischen Schauspiel und Regie. Und neben dem Bühnengeschehen kümmerte ich mich um die Homepage, die Videos für den Fernseher, kaufte die beiden Designer-Stühle und die Sofadecken und -kissen, gestaltete das Plakat -- es kommt halt doch einiges zusammen bei so einer Produktion. Aber das größte Opfer war der temporäre Verlust meines Fernsehers und meiner schönen Wohnzimmer-Stehlampe, welche zum Teil des Bühnenbildes wurden. 
 

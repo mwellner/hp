@@ -1,7 +1,7 @@
 ---
 title: Mutter, Hure, Königin
 date: 2013-05-28T12:52:23+00:00
-lastmod: 2018-01-14T15:08:46+00:00
+lastmod: 2018-07-02T23:32:13+00:00
 author: Mathias Wellner
 categories:
   - theater
@@ -10,6 +10,7 @@ tags:
   - medea
 ---
 Das [Theater Tamar](http://www.theatertamar.ch/) widmet sich in seiner ersten Produktion den antiken Frauenfiguren Medea, Hekabe und Neaira und schlägt auch einen Bogen zu zeitgenössischen Frauen. Und die Frauen haben es schwer. Schon [Euripides](http://de.wikipedia.org/wiki/Euripides) legte es seiner Medea in den Mund.
+<!--more-->
 
 <blockquote class="blockquote" style="max-width: 35rem;">
 Von allen Wesen, die vernunftbegabt<br>

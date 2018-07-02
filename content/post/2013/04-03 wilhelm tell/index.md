@@ -1,7 +1,8 @@
 ---
 title: Friedrich Schiller -- Wilhelm Tell
+slug: friedrich-schiller-wilhelm-tell
 date: 2013-04-03T22:55:24+00:00
-lastmod: 2017-09-29T19:50:18+00:00
+lastmod: 2018-07-02T23:22:42+00:00
 author: Mathias Wellner
 categories:
   - theater
@@ -9,6 +10,7 @@ tags:
   - friedrich schiller
 ---
 Es war ein beeindruckender Theaterabend. Schiller ist nicht ganz einfach zu inszenieren, er hat diese zwar wunderschöne, aber auf die Dauer etwas anstrengende pathetische, kräftige Sprache. Aber der Regisseur verstand es prächtig, mit theatralischen Mitteln einen frischen Blick auf Wilhelm Tell zu werfen. 
+<!--more-->
 
 Eine Schlüsselszene ist sicherlich der Rütlischwur. Bei Mondlicht treffen sich Vertreter der drei Urkantone Uri, Schwyz und Unterwalden und besiegeln mit einem Schwur die Eidgenossenschaft. 
 

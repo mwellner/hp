@@ -1,12 +1,13 @@
 ---
 title: Wahrhaftigkeit auf der Bühne
 date: 2013-03-17T01:08:07+00:00
-lastmod: 2017-09-29T19:50:18+00:00
+lastmod: 2018-07-02T23:14:26+00:00
 author: Mathias Wellner
 categories:
   - theater
 ---
 Das Ziel jeder schauspielerischen Darstellung ist Wahrhaftigkeit. Ich möchte in diesem Beitrag vor allem die Wahrhaftigkeit beim Auftritt und Abgang beleuchten. 
+<!--more-->
 
 So einfach das Ziel der Wahrhaftigkeit klingt, so schwierig ist das in der alltäglichen Theaterarbeit. Denn die Basis für eine Szene ist der Text, also meist nur der Dialog. Was tut der Schauspieler? Er läuft auf die Bühne, bleibt stehen und spricht seinen Text. Das ist nicht wahrhaftig, denn normalerweise läuft man nicht irgendwohin, nur um etwas zu sagen. 
 

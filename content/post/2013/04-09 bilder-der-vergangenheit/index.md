@@ -1,7 +1,7 @@
 ---
 title: Bilder der Vergangenheit
 date: 2013-04-09T22:41:21+00:00
-lastmod: 2017-09-28T22:28:53+00:00
+lastmod: 2018-07-02T23:22:09+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
@@ -9,6 +9,7 @@ tags:
   - filmscanner
 ---
 Es könnte der Beginn eines Filmes sein. Ein Nachlass, bestehend aus alten Dias und Negativen. In einem Stoffbeutel liegt alles durcheinander, beim Aufräumen schmiss ich alles hinein, was mir erhaltenswert erschien. Und beim Sichten zieht das ganze Leben meines Vaters an mir vorbei, angefangen von experimentellen Aufnahmen von einer Silberkugel am Weihnachtsbaum, über Nahaufnahmen von Kerzen, Nachtaufnahmen von Dresden, Familiengeburtstage mit bekannten, aber viel jüngeren Gesichtern, völlig unbekannte Leute, und natürlich viele Fotos von uns als Kindern. 
+<!--more-->
 
 <iframe width="784" height="441" src="https://www.youtube.com/embed/1OWlvH__kQk?rel=0" frameborder="0" allowfullscreen></iframe>
 

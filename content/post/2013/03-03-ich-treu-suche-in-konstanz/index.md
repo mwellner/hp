@@ -1,21 +1,28 @@
 ---
 title: Ich, treu, suche in Konstanz
 date: 2013-03-03T21:54:06+00:00
-lastmod: 2018-01-14T15:02:58+00:00
+lastmod: 2018-07-02T23:13:38+00:00
 author: Mathias Wellner
+resources:
+  - name: szenenfoto
+    src: szenenfoto.jpg
+    title: Szenenfoto aus "Ich, treu, suche"
 categories:
   - theater
 tags:
   - ich treu suche
   - klima das theater
 ---
-Tourneealltag, nach fünf Vorstellungen an drei Orten kann man mittlerweile davon sprechen. Immerhin zum ersten Mal im Ausland, obwohl Konstanz nicht wirklich weit entfernt ist von Kreuzlingen, dem Ort unserer Premiere. Vielleicht zwei Kilometer trennen die beiden Spielorte. 
+Tourneealltag, nach fünf Vorstellungen an drei Orten kann man mittlerweile davon sprechen. Immerhin zum ersten Mal im Ausland, obwohl Konstanz nicht wirklich weit entfernt ist von Kreuzlingen, dem Ort unserer Premiere. Vielleicht zwei Kilometer trennen die beiden Spielorte.
+<!--more-->
 
 Das [Kulturzentrum K9](http://www.k9-kulturzentrum.de/) liegt mitten in der Konstanzer Innenstadt. In einer Seitengasse stehen wir vor einem dunklen, breitgestreckten Gebäude. Durch eine riesige Holztür treten wir direkt in den Zuschauerraum. In sechs Reihen stehen graue Plastikstühle vor der breiten Bühne, auf der schon unsere vertrauten Kuben aufgebaut sind. Es sind viele Stühle, so um die 70. Nach unseren mäßig gut besuchten Vorstellungen in Frauenfeld sind wir vorsichtig geworden, es könnte wieder so ein Abend in einem spärlich gefüllten Theater sein.
 
 Der Umkleideraum ist oben, eine Inschrift weist darauf hin, dass wir in einer ehemaligen Kirche sind. Deshalb der hohe Raum und die Reste von Säulen. Es gibt auf der Empore noch ein paar gepolsterte Bänke, sehen tut man von da allerdings nicht so gut. Aber am Vorabend fand ein Rock’n’Roll-Anlass statt, den konnte man von da sicher genießen. Der Umkleideraum ist eine kleine Küche, die einige Zeit nicht mehr richtig geputzt wurde. Auf der Tischdecke befinden sich undefinierbare, eingetrocknete Reste. Zumindest können wir uns aus dem Getränkevorrat bedienen, man hat die Wahl zwischen Apfelschorle und Mineralwasser. 
 
 Später trifft die frohe Botschaft ein, dass um die 30 Karten verkauft wurden und 40 reserviert. Es wird also ein volles Haus geben! Das hebt unsere Stimmung wieder. 
+
+{{< responsive-image name="szenenfoto" >}}
 
 Wir machen einen kurzen technischen Durchlauf auf der hier sehr breiten Bühne. Einige Gänge werden merklich länger. Und das Licht gibt nur drei Stimmungen her, wir werden also immer voll beleuchtet sein. 
 

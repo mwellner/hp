@@ -1,7 +1,7 @@
 ---
 title: Bühnenrealität
 date: 2013-02-17T18:16:23+00:00
-lastmod: 2017-09-29T19:50:18+00:00
+lastmod: 2018-07-02T23:11:00+00:00
 author: Mathias Wellner
 categories:
   - theater
@@ -9,6 +9,7 @@ tags:
   - ich treu suche  
 ---
 Die Hauptaufgabe des Schauspielers besteht darin, den gleichen, einstudierten Ablauf immer wieder so zu erleben, als wäre es das erste Mal. Das trifft für den Text zu, den man immer wieder neu entstehen lassen muss, aber auch für die Emotionen. 
+<!--more-->
 
 Gestern, zur gefürchteten zweiten Aufführung von [Ich, treu, suche](http://www.klima-das-theater.ch/) habe ich die Tipps eines Schauspielkollegen bewusst umgesetzt.
 

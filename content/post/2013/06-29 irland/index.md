@@ -25,6 +25,7 @@ tags:
   - irland
 ---
 Anfang Juni verbrachte ich eine Woche auf der grünen Insel mit Verwandten. Nach vielen regnerischen Wochen auf dem Festland begrüßte uns nun die Sonne und ließ auch die ganze Zeit nicht locker. Wir fuhren ein schönes Mietauto und fanden immer ein Bed & Breakfast. Auf dem Programm stand der südliche Teil der Insel. 
+<!--more-->
 
 {{< responsive-image name="wilde" >}}
 {{< responsive-image name="tanz" >}}

@@ -6,7 +6,7 @@ author: Mathias Wellner
 categories:
   - theater
 ---
-Spielen. Theater spielen. Loslassen. Nicht denken. In der Rolle sein. Reagieren. Sich einlassen, sich fallen lassen. Aufgefangen werden, mitgerissen, zum Lachen gebracht &#8211; so läuft eine tolle Probe. 
+Spielen. Theater spielen. Loslassen. Nicht denken. In der Rolle sein. Reagieren. Sich einlassen, sich fallen lassen. Aufgefangen werden, mitgerissen, zum Lachen gebracht -- so läuft eine tolle Probe. 
 
 Es klappt natürlich nicht immer. An dem einen Tag wurde ich unsicher, dachte zuviel, stand da vorn auf der Bühne und stand da doch nicht wirklich, taumelte von Ort zu Ort, ich hörte die Stimmen, verstand es mit meinem Kopf, nur der Körper, er gehorchte mir nicht, tat, was er wollte, was ich wollte, nur halb. In meiner eigenen Welt, losgelöst, schlafwandlerisch, eigensinnig. 
 

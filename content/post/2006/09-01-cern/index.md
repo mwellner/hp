@@ -7,6 +7,7 @@ categories:
   - tagebuch
 ---
 Tief im Südwesten der Schweiz liegt die Diplomatenstadt Genf, und wenn man noch ein Stückchen weiter fährt, fast bis zur französischen Grenze, dann erreicht man das Gelände des [CERN](http://home.web.cern.ch/) (**C**onseil **E**uropéen pour la **R**echerche **N**ucléaire), was sich selbst aber &#8211; bescheidenerweise &#8211; als _weltgrößtes Teilchenphysik-Zentrum_ beschreibt.
+<!--more-->
 
 Die Erforschung der Elementarteilchen (Quarks, Myonen und andere seltsame Namen tauchen da immer wieder auf) ist extrem kostspielig, jedes Jahr fließen einige hundert Millionen (genaue Zahlen habe ich auf die Schnelle nicht finden können) hierhin. Allein die Baukosten für den immensen unterirdischen Tunnel sind beträchtlich, auf dieser Kreisbahn werden dann die Partikel beschleunigt, jede Runde hat etliche Kilometer. Wenn sie schnell genug sind, wird mit Magneten die Bahn verändert, so dass es zur Kollission kommt. Riesige Detektoren fangen die Teilchen auf und detektieren deren Bahn. Es gibt dann immer mehrere Schichten, jede stoppt gewisse Teilchen, während die anderen munter weiter machen. Es braucht aber schon fast einen Meter Metall, um auch die letzten hochenergetischen Teilchen abzubremsen. Aber schließlich werden beim Zusammenstoß ja auch immense Energiemengen frei, fast wie so ein kleiner Urknall.
 

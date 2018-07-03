@@ -7,6 +7,7 @@ categories:
   - tagebuch
 ---
 Polyterrasse. Von oben kann man über die Stadt schauen, sieht die spitzen Kirchtürme. Vorhof der ETH, zum Berg hin erhebt sich die glatte protzige Fassade des Hauptgebäudes. Erbaut von Semper, der auch schon den Weg von Sachsen hierher fand. Mein Fahrrad steht da oben. Ich komme aus den Katakomben, viele Stockwerke unterhalb der Terrasse, aus den Sporthallen. Ich bin fast tot. Die Treppen ziehen sich. 
+<!--more-->
 
 Volleyball war schön. Wenn ich den Ball kommen sehe und weiß, dass er zu mir kommt, es spüre, dann kann ich auch noch die letzten Kräfte mobilisieren. Zu oft habe ich das trainiert, zu oft die wenigen Schritte gemacht, um richtig zu stehen und den Ball anzunehmen. Es ist fest einprogrammiert. Wir spielten lange, bis ich nicht mehr konnte. Mir taten sogar die Unterarme weh, habe das lange nicht mehr gemacht, lange nicht mehr gespielt. 
 

@@ -1,7 +1,7 @@
 ---
 title: Halldór Laxness -- Independent People
 date: 2006-08-13T18:45:14+00:00
-lastmod: 2017-09-18T22:33:21+00:00
+lastmod: 2018-07-04T00:03:16+00:00
 author: Mathias Wellner
 categories:
   - literature

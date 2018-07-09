@@ -1,7 +1,7 @@
 ---
 title: These Days
 date: 2006-09-14T23:59:00+00:00
-lastmod: 2017-09-18T22:33:21+00:00
+lastmod: 2018-07-04T00:12:05+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

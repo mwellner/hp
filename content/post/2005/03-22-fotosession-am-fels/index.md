@@ -1,7 +1,7 @@
 ---
 title: Fotosession am Fels
 date: 2005-03-22T01:00:00+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-03T23:33:17+00:00
 author: Mathias Wellner
 resources:
   - name: hand

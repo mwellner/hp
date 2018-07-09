@@ -1,7 +1,7 @@
 ---
 title: Theater
 date: 2006-04-13T21:08:05+00:00
-lastmod: 2017-09-18T22:33:21+00:00
+lastmod: 2018-07-03T23:44:58+00:00
 author: Mathias Wellner
 categories:
   - theater

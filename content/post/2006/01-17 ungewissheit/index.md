@@ -1,7 +1,7 @@
 ---
 title: Ungewissheit
 date: 2006-01-17T23:22:29+00:00
-lastmod: 2017-09-18T22:33:21+00:00
+lastmod: 2018-07-03T23:41:32+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

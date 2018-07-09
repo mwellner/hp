@@ -1,7 +1,7 @@
 ---
 title: Die Farbe des Campus
 date: 2002-08-23T19:53:44+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-09T23:24:46+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
@@ -11,6 +11,7 @@ tags:
   - virginia tech
 ---
 Wie kann man sich den Campus der Virginia Tech vorstellen?
+<!--more-->
 
 Stellt Euch vor, Ihr kommt von der &#8220;Main Street&#8221;, von Süden. Gerade habt Ihr den Downtown-Bereich hinter Euch gelassen 
 und über seine lächerliche Länge von vielleicht 200 Meter gewitzelt. Sodann seht Ihr links, eingefasst von zwei runden Mauerstücken, 

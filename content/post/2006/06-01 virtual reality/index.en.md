@@ -1,7 +1,7 @@
 ---
 title: Virtual Reality and the Lokomat
 date: 2006-06-01T17:32:14+00:00
-lastmod: 2018-07-03T23:46:50+00:00
+lastmod: 2018-07-09T23:20:02+00:00
 author: Mathias Wellner
 categories:
   - science

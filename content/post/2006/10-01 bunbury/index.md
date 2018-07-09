@@ -2,7 +2,7 @@
 title: Oscar Wilde -- Bunbury
 slug: oscar-wilde-bunbury
 date: 2006-10-01T13:19:13+00:00
-lastmod: 2018-07-04T00:16:33+00:00
+lastmod: 2018-07-09T23:20:02+00:00
 author: Mathias Wellner
 categories:
   - theater

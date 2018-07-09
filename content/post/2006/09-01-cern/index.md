@@ -1,7 +1,7 @@
 ---
 title: CERN
 date: 2006-09-01T22:06:00+00:00
-lastmod: 2018-07-04T00:08:22+00:00
+lastmod: 2018-07-09T23:20:02+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

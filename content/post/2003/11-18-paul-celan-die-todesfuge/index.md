@@ -1,7 +1,8 @@
 ---
 title: Paul Celan -- Die Todesfuge
+slug: paul-celan-todesfuge
 date: 2003-11-18T20:50:00+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-09T23:30:27+00:00
 author: Mathias Wellner
 categories:
   - literatur

@@ -1,7 +1,7 @@
 ---
 title: Elevator Repair Service -- Gatz
 date: 2006-08-26T21:33:53+00:00
-lastmod: 2018-07-04T00:08:07+00:00
+lastmod: 2018-07-09T23:20:02+00:00
 author: Mathias Wellner
 categories:
   - literature

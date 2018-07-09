@@ -1,7 +1,7 @@
 ---
 title: Flamenco
 date: 2006-04-02T23:10:27+00:00
-lastmod: 2018-07-03T23:36:41+00:00
+lastmod: 2018-07-09T23:20:02+00:00
 author: Mathias Wellner
 resources:
   - name: flamenco

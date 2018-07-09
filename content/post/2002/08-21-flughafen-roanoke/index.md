@@ -1,7 +1,7 @@
 ---
 title: Flughafen Roanoke
 date: 2002-08-21T19:34:19+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-09T23:24:31+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
@@ -9,7 +9,10 @@ tags:
   - flughafen
   - usa
 ---
-Endlich geschafft, wir sind nun in der Nähe unseres Studienortes Blacksburg. Der Flug verlief mit einigen Schwierigkeiten, die sich aus der Benzinflasche ergaben, welche Mischa zum Campen mit eingepackt hat. Schon in Frankfurt durften wir beide unsere Koffer auspacken, mein Rucksack kam jedoch völlig ohne Auspacken durch. Da nahm das Unheil, das sich durch moderne Kommunikationsmittel fortpflanzte, seinen Anfang. In Cincinnati kam dann der schaurige Höhepunkt. Eine halbe Stunde Verspätung kam durch die besorgten Sicherheitsbeamten zu Stande, und wir waren unter den ersten, welche sich am Gate einfanden. Ich saß schon im Flugzeug, als schließlich der Kapitän hereinkam und mich nochmal hinaus bat. Nach der Untersuchung meiner Laptop-Tasche rang er sich schließlich dazu durch, uns beide durchzulassen. (&#8220;These guys are campers.&#8221;)
+Endlich geschafft, wir sind nun in der Nähe unseres Studienortes Blacksburg. 
+<!--more-->
+
+Der Flug verlief mit einigen Schwierigkeiten, die sich aus der Benzinflasche ergaben, welche Mischa zum Campen mit eingepackt hat. Schon in Frankfurt durften wir beide unsere Koffer auspacken, mein Rucksack kam jedoch völlig ohne Auspacken durch. Da nahm das Unheil, das sich durch moderne Kommunikationsmittel fortpflanzte, seinen Anfang. In Cincinnati kam dann der schaurige Höhepunkt. Eine halbe Stunde Verspätung kam durch die besorgten Sicherheitsbeamten zu Stande, und wir waren unter den ersten, welche sich am Gate einfanden. Ich saß schon im Flugzeug, als schließlich der Kapitän hereinkam und mich nochmal hinaus bat. Nach der Untersuchung meiner Laptop-Tasche rang er sich schließlich dazu durch, uns beide durchzulassen. (&#8220;These guys are campers.&#8221;)
 
 Der Flug über die Appalachen in der kleinen Maschine war eindrucksvoll. Ich hatte nicht den Eindruck, dass wir besonders viel Abstand hatten, die Berge waren eher neben als unter uns. Nun sind wir zwar wieder im Flachen, aber Blacksburg liegt ja noch ein Stückchen zurück in den Bergen. Immer noch bin ich einigermaßen munter, in Deutschland ist es gerade um 4:00 morgens. Wir sind guter Dinge, nur etwas abgespannt.
 

@@ -1,7 +1,7 @@
 ---
 title: Skifahren am Titlis
 date: 2006-02-05T21:12:55+00:00
-lastmod: 2018-07-03T23:40:34+00:00
+lastmod: 2018-07-09T23:20:02+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Ittingen
 date: 2006-03-03T01:03:38+00:00
-lastmod: 2018-07-03T23:42:50+00:00
+lastmod: 2018-07-09T23:20:02+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

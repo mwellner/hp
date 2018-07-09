@@ -1,7 +1,7 @@
 ---
 title: Ostern in Blacksburg
 date: 2003-04-21T21:13:08+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-09T23:29:58+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
@@ -10,6 +10,7 @@ tags:
   - usa
 ---
 Im Gegensatz zu Deutschland und den meisten anderen mir bekannten Ländern gibt es hier in den USA keine Feiertage zu Ostern. Eingebettet in zwei ganz normale Arbeitswochen gibt es halt das Wochenende, welches dann entsprechend der Familientradition begangen wird. Viele Menschen zieht es in eine der zahlreichen Kirchen, angeblich sollen bis zu 50&nbsp;Prozent der US-amerikanischen Bevölkerung zu Ostern den Weg zum Gottesdienst finden. Der Ostersonntag ist dann auch entsprechend der Höhepunkt aller Feierlichkeiten.
+<!--more-->
 
 Um ca. 12 Uhr Mittag brachte mein Mitbewohner Reimund zwei kunstvoll bemalte Eier herein, die er vor unserer Tür gefunden hatte. Eine nähere Inspektion ergab, dass es sich um echte Hühnereier handelte, welche ausgeblasen, bemalt, mit Süßwaren gefüllt und kunstvoll verpackt worden waren. Ein Ostergruß befand sich am Tatort, wobei beide Namen richtig geschrieben waren. Als ich um ca. 14 Uhr Ortszeit zu Michael ging, um mich zum Ostereier-Suchen zu treffen, wurde mir klar, dass es sich nicht um einen Einzelfall handelte. An Michael's Tür hingen zwei ähnlich gefertigte Eier, für ihn und seine Mitbewohnerin Olyssa. Auch Simone, eine aus Brasilien stammende Studentin, die sich zum Ostereier-Verstecken und -Suchen eingefunden hatte, berichtete von einem ähnlichen Vorfall. Die Ungeheuerlichkeit, Präzision und Kunstfertigkeit dieser anscheinend zusammenhängenden Vorfälle weckte unsere Neugier, so dass wir die nächste halbe Stunde eine Art Täter-Profil erstellten.
 

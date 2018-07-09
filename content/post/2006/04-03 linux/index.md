@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2006-04-03T22:14:12+00:00
-lastmod: 2018-07-03T23:45:25+00:00
+lastmod: 2018-07-09T23:20:02+00:00
 author: Mathias Wellner
 categories:
   - software

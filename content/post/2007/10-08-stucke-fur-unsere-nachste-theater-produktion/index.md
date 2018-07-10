@@ -1,14 +1,17 @@
 ---
 title: Stücke für unsere nächste Theater-Produktion
 date: 2007-10-08T22:14:39+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-07-10T22:28:24+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
   - akitiv
 ---
-Kaum ist der letzte – und im Garten imaginäre – Vorhang der Lästerschule gefallen, beginnen schon die Planungen für nächstes Jahr. Wieder wollen wir auf die Bühne, und die erste Aufgabe ist es, ein Theaterstück und damit auch einen Titel unserer Bemühungen zu finden. Denn mit noch nicht fest stehenden Leuten, einem noch nicht gesetzten Regisseur ein noch nicht näher bekanntes Theaterstück einzustudieren – das macht sich auf Dauer schlecht. Und man kann damit auch im Gespräch nicht wirklich punkten, es ist einfach zu nebulös. Aber schon haben wir einige Vorschläge aus dem Hut gezaubert, Ideen für Stücke, welche wir spielen könnten. Man sollte diese Auswahl nicht unterschätzen, ein ideales Stück für eine Laiengruppe wie uns muss über möglichst viele spannende, aber nicht zu schwierige Rollen verfügen, ausgeglichen in der Geschlechterverteilung der Rollen sein, nicht zu abstrakt sein, damit alle was damit anfangen können, über einen klangvollen Namen oder Autor verfügen und zuletzt auch bühnentechnisch einfach umzusetzen sein.
+Kaum ist der letzte – und im Garten imaginäre – Vorhang der Lästerschule gefallen, beginnen schon die Planungen für nächstes Jahr. Wieder wollen wir auf die Bühne, und die erste Aufgabe ist es, ein Theaterstück und damit auch einen Titel unserer Bemühungen zu finden. 
+<!--more-->
+
+Denn mit noch nicht fest stehenden Leuten, einem noch nicht gesetzten Regisseur ein noch nicht näher bekanntes Theaterstück einzustudieren – das macht sich auf Dauer schlecht. Und man kann damit auch im Gespräch nicht wirklich punkten, es ist einfach zu nebulös. Aber schon haben wir einige Vorschläge aus dem Hut gezaubert, Ideen für Stücke, welche wir spielen könnten. Man sollte diese Auswahl nicht unterschätzen, ein ideales Stück für eine Laiengruppe wie uns muss über möglichst viele spannende, aber nicht zu schwierige Rollen verfügen, ausgeglichen in der Geschlechterverteilung der Rollen sein, nicht zu abstrakt sein, damit alle was damit anfangen können, über einen klangvollen Namen oder Autor verfügen und zuletzt auch bühnentechnisch einfach umzusetzen sein.
 
 **Und dann gab's keines mehr (Agatha Christie)**
 

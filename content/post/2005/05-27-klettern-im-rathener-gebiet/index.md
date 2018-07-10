@@ -1,7 +1,7 @@
 ---
 title: Klettern im Rathener Gebiet
 date: 2005-05-27T21:47:25+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-10T21:45:26+00:00
 author: Mathias Wellner
 categories:
   - klettern
@@ -9,6 +9,7 @@ tags:
   - elbsandsteingebirge
 ---
 Den heutigen wundervollen Sommertag verbrachte ich größtenteils draußen bei den Felsen. Es war das erste Mal Klettern seit Längerem, ich hielt mich im Vorstieg also zurück. 
+<!--more-->
 
 <table class="table table-striped">
   <thead class="thead-inverse">

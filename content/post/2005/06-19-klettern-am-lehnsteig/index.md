@@ -1,7 +1,7 @@
 ---
 title: Klettern am Lehnsteig
 date: 2005-06-19T21:40:45+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-10T21:42:19+00:00
 author: Mathias Wellner
 categories:
   - klettern
@@ -9,6 +9,7 @@ tags:
   - elbsandsteingebirge
 ---
 Den schönen Sonntag verbrachte ich mit Freunden bei den Felsen, diesmal weit hinten bei Schmilka in der Nähe der tschechischen Grenze. 
+<!--more-->
 
 <table class="table table-striped">
   <thead class="thead-inverse">

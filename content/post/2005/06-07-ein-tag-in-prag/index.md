@@ -1,16 +1,15 @@
 ---
 title: Ein Tag in Prag
 date: 2005-06-07T18:55:00+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-10T21:44:20+00:00
 author: Mathias Wellner
 categories:
   - reisen
 tags:
   - prag
 ---
-#### Wie das kam
-      
 Ein Zufall brachte mich nach Prag. Vor einer Weile hatte ich mal mit einem Prager [Hospitality-Club](http://www.hospitalityclub.org)-Mitglied gechattet, ihre Reisepläne in Bezug auf Dresden hatten sich jedoch zerschlagen. Ich sah sie im ICQ, und sie fragte mich, ob ich nicht Lust hätte, am Wochenende mit wandern und zelten zu kommen. Das war mir zu knapp, ich schlug stattdessen einen kurzen Besuch in Prag vor.
+<!--more-->
 
 #### ZEN in der Kunst des Bogenschießens
 

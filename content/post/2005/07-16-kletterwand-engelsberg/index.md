@@ -1,7 +1,7 @@
 ---
 title: Kletterwand Engelberg
 date: 2005-07-16T22:55:10+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-10T21:40:38+00:00
 author: Mathias Wellner
 categories:
   - klettern
@@ -9,6 +9,7 @@ tags:
   - engelberg
 ---
 Schwarz-weiß gestreift erhebt sich die Kletterwand vor mir. Überall turnen winzige Gestalten herum, hängen in akrobatischen Stellungen an der Wand. Die Wand hängt überall, ganz oben ist ein Dach. Es gibt hier keine leichten Wege. Französische Skala, die Wege klingen leichter. Eine französische 6a ist eine sächsische 7c. Wir klettern im hohen 6er-Bereich. Zu schwer für mich.
+<!--more-->
 
 Ich rutsche, falle wieder ins Seil. Verdammt. Wie machen das die anderen? Ich habe keine Kraft. Und zu große Kletterschuhe, kann auf diesem Gestein einfach nicht stehen. Es ist so glitschig, ohne Magnesia kommt man überhaupt nicht voran. Alle haben diese Beutel am Gurt hängen. Und langen gelegentlich mit so einer ausholenden, eleganten Bewegung hinein. Hängen am langen Arm, um den Stoff, abgepackt in durchsichtigen Plastikbeuteln wie Heroin, zu kriegen. Sie sind abhängig, hängen mit Magnesia am Griff.
 

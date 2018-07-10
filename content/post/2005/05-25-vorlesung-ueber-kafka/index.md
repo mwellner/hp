@@ -1,7 +1,7 @@
 ---
 title: Vorlesung über Kafka
 date: 2005-05-25T18:00:18+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-10T21:44:50+00:00
 author: Mathias Wellner
 categories:
   - literatur
@@ -9,6 +9,7 @@ tags:
   - franz kafka
 ---
 Durch Zufall habe ich heute einer Vorlesung über Franz Kafka beigewohnt. Wir hatten die große Holzplatte für den Roboterwettbewerb in einem Hörsaal aufgebaut und waren gerade am Testen, als plötzlich immer mehr Studentinnen in den Raum strömten. Ihre Vorlesung war ohne unser Wissen  hierhin verlegt worden, wir mussten weichen. Ich blieb, reihte mich ein unter die Germanistinnen. Denn es sollte um Kafka gehen, ein Schriftsteller, der zwar nicht zu meinen absoluten Favoriten zählt, aber den ich dennoch als wichtigen Autor empfinde.
+<!--more-->
 
 **Fragmentierung**
 

@@ -2,7 +2,7 @@
 title: Wohin, Europa?
 slug: wohin-europa
 date: 2005-06-15T11:03:24+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-10T21:42:47+00:00
 author: Mathias Wellner
 categories:
   - politik
@@ -11,6 +11,7 @@ tags:
   - kommunismus
 ---
 Der äußerst lesenswerte ZEIT-Artikel [Europa, wir brauchen dich](http://www.zeit.de/2005/24/Kapitalismus_6) deutet die Probleme bei der Ratifizierung der EU-Verfassung als Kritik am Kapitalismus als vorherrschendem Wirtschaftssystem. Interessant ist nun vor allem die Gegenüberstellung von Kommunismus und Kapitalismus als den beiden dominanten Ideologien des 20. Jahrhunderts.
+<!--more-->
 
 **Kommunismus**
 

@@ -1,7 +1,7 @@
 ---
 title: Knabenschiessen
 date: 2005-09-12T23:49:20+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-10T21:34:33+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
@@ -9,6 +9,7 @@ tags:
   - zürich
 ---
 Heute war ein halber Feiertag des Kantons Zürich. Kultureller Hintergrund ist eine Veranstaltung, die Knabenschießen heißt. Alle Knaben (Schüler bis zu einem bestimmten Alter) des Kantons treten in einem Schießwettbewerb gegeneinander an, der Siegerin oder dem Sieger winken saftige Preise (Sponsoren). Zusätzlich gibt es am gesamten Wochenende und natürlich dem Montag Rummelatmosphäre vom Feinsten.
+<!--more-->
 
   * [Offizielle Seite des Veranstalters](https://www.knabenschiessen.ch)
   * [Wikipedia-Eintrag (DE)](https://de.wikipedia.org/wiki/Knabenschiessen)

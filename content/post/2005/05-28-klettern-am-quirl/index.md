@@ -1,7 +1,7 @@
 ---
 title: Klettern am Quirl
 date: 2005-05-28T23:56:00+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-10T21:45:09+00:00
 author: Mathias Wellner
 categories:
   - klettern
@@ -9,6 +9,7 @@ tags:
   - elbsandsteingebirge
 ---
 Es war einer dieser heißen Sommertage, wenn jede Bewegung zur Qual wird. Die meisten (vernünftigen) Menschen versuchten einfach mit möglichst entspanntem Rumliegen die schlimmsten 12 Stunden des Tages zu überstehen. Doch ich hatte anderes im Blick...
+<!--more-->
 
 Um 10:00 startete ein Volleyball-Turnier der Dresdner Stiftungen. Die Beteiligung war nicht sehr rege, aber wir spielten und schwitzten schön vor uns hin. So gegen eins war das Ganze dann auch schon zu Ende.
 

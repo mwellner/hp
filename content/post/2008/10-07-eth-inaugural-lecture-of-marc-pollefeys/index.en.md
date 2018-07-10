@@ -1,7 +1,7 @@
 ---
 title: ETH Inaugural Lecture of Marc Pollefeys
 date: 2008-10-07T19:13:49+00:00
-lastmod: 2018-01-20T21:55:54+00:00
+lastmod: 2018-07-11T00:09:45+00:00
 author: Mathias Wellner
 categories:
   - science

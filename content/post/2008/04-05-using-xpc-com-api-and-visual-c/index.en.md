@@ -1,7 +1,7 @@
 ---
 title: 'Using xPC COM API and Visual C#'
 date: 2008-04-05T16:00:34+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-07-11T00:09:45+00:00
 author: Mathias Wellner
 categories:
   - software

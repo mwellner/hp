@@ -1,7 +1,7 @@
 ---
 title: When Media Environments Become Real
 date: 2008-02-05T00:11:51+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-07-11T00:09:45+00:00
 author: Mathias Wellner
 categories:
   - science

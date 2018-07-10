@@ -1,18 +1,13 @@
 ---
 title: Under Pressure
 date: 2008-03-06T00:54:33+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-07-11T00:09:45+00:00
 author: Mathias Wellner
-podPressPostSpecific:
-  - 's:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";'
 categories:
   - wissenschaft
 tags:
-  - Druck
-  - Gefecht
-  - physiologisch
-  - Soldaten
-  - Wettkampf
+  - psychologie
+  - sport
 ---
 Bei unseren geplanten sportpsychologischen Versuchen im [Rudersimulator](http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html) wollen wir auch physiologische Messungen einsetzen. Damit erhoffen wir uns besser zu verstehen, ob Leute unter Druck geraten, wenn sie zum Beispiel vom Publikum angefeuert werden. Die Herausforderung ist nun, dass sportliche und psychische Belastung gleichzeitig auftreten. Denn beides führt zu Änderungen der physiologischen Parameter, wenn auch hoffentlich in unterschiedlicher Form.
 

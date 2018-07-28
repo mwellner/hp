@@ -1,7 +1,7 @@
 ---
 title: Hochzeitsfotograf
 date: 2008-07-03T00:05:03+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-07-28T17:05:38+00:00
 author: Mathias Wellner
 resources:
   - name: fuss

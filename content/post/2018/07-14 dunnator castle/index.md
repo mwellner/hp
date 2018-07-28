@@ -1,15 +1,15 @@
 ---
 date: "2018-07-14T20:29:12"
 lastmod: 2018-07-28T13:56:49+00:00
-title: Dunnattor Castle
+title: Dunnottar Castle
 author: Mathias Wellner
 resources:
-  - name: dunnattor
-    src: dunnattor.jpg
-    title: Dunnator Castle
+  - name: dunnottar
+    src: dunnottar.jpg
+    title: Dunnottar Castle
   - name: hochzeit
     src: hochzeit.jpg
-    title: Hochzeitsfeier im Dunnator Castle
+    title: Hochzeitsfeier im Dunnottar Castle
   - name: moewe
     src: moewe.jpg
     title: Burgruine mit Möwe
@@ -24,14 +24,14 @@ categories:
 tags:
   - schottland
 ---
-Für mich die schönste Burgruine weltweit -- [Dunnattor Castle](https://de.wikipedia.org/wiki/Dunnottar_Castle). Schon die Lage ist ein Traum, auf einer felsigen Halbinsel direkt an der Nordseeküste, zugänglich nur von einer schmalen Landzunge. Viel steht nicht mehr, aber im aufwändig restaurierten _Drawing Room_ (Rückzugsraum, nicht etwa Zeichensaal) werden Ehen geschlossen und eine Ausstellung zeigt die Geschichte der schottischen Kronjuwelen. 
+Für mich die schönste Burgruine weltweit -- [Dunnottar Castle](https://de.wikipedia.org/wiki/Dunnottar_Castle). Schon die Lage ist ein Traum, auf einer felsigen Halbinsel direkt an der Nordseeküste, zugänglich nur von einer schmalen Landzunge. Viel steht nicht mehr, aber im aufwändig restaurierten _Drawing Room_ (Rückzugsraum, nicht etwa Zeichensaal) werden Ehen geschlossen und eine Ausstellung zeigt die Geschichte der schottischen Kronjuwelen. 
 <!--more-->
 
 {{<responsive-image name="stonehaven">}}
 
-Unser Busfahrer brachte uns nach [Stonehaven](https://de.wikipedia.org/wiki/Stonehaven), einer malerischen Kleinstadt an der Küste. Wir flanierten zum Hafen, von hier aus begann ein wunderschöner Küstenwanderweg zum Dunnattor Castle. 
+Unser Busfahrer brachte uns nach [Stonehaven](https://de.wikipedia.org/wiki/Stonehaven), einer malerischen Kleinstadt an der Küste. Wir flanierten zum Hafen, von hier aus begann ein wunderschöner Küstenwanderweg zum Dunnottar Castle. 
 
-{{<responsive-image name="dunnattor">}}
+{{<responsive-image name="dunnottar">}}
 
 Schon nach dem ersten Anstieg tauchte es auf, eine ganze Halbinsel mit Ruinen, rechts der gut erhaltene Wachturm am Eingang der Burg. 
 
@@ -45,4 +45,4 @@ In einem Verlies der Burg spielte sich 1685 ein weiteres Drama ab. 167 Protestan
 
 {{<responsive-image name="verlies">}}
 
-Für mich war Dunnattor Castle einer der Höhepunkte der Schottland-Reise. Es war das Gesamterlebnis mit Küstenspaziergang, allmählichem Näherkommen, traumhafter Lage, kreisenden Möwen, Geschichtsausflügen und freiem Erkunden der Ruinen. Sehr zu empfehlen!
+Für mich war Dunnottar Castle einer der Höhepunkte der Schottland-Reise. Es war das Gesamterlebnis mit Küstenspaziergang, allmählichem Näherkommen, traumhafter Lage, kreisenden Möwen, Geschichtsausflügen und freiem Erkunden der Ruinen. Sehr zu empfehlen!

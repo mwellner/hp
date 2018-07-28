@@ -1,12 +1,13 @@
 ---
 title: Als ich schlief
 date: 2008-07-01T23:19:33+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-07-28T17:54:08+00:00
 author: Mathias Wellner
 categories:
   - literatur
 ---
 _Das letzte Wochenende war reich an Eindrücken und Erfahrungen. Anlass meiner &ndash; wie allzu oft &ndash; sehr kurzfristig geplanten Reise war die Hochzeit meines ehemaligen Mitbewohners Matthias. Aber eine chronologische Erzählung würde meiner assoziativen Erinnerungsflut wohl kaum Genüge leisten. Und wäre außerdem langweilig._ 
+<!--more-->
 
 Als ich schlief, saß ich im Zug. Eigentlich sollte es ein ICE sein, dieses klimatisierte, komfortable Spitzenprodukt deutscher Ingenieurskunst. Aber in Basel stand da nur so ein lächerlicher IC, der außerdem viel zu kurz war für die vielen Reisenden. Ich hatte zumindest einen Sitzplatz, den ich bis Berlin nicht hergab. Die Reisezeit verbrachte ich in einem Dämmerzustand zwischen Zeitung-Lesen und Schlafen. Ich war müde, da ich am Morgen noch schnell meine Reise von Berlin nach Raben organisieren musste und irgendwas nicht funktionierte auf Arbeit. Aber nach einer Weile fiel all diese Hektik von mir ab. Ich schlief im Sitzen in diesem viel zu warmen Zug.
 

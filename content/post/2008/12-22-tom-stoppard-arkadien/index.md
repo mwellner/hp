@@ -2,7 +2,7 @@
 title: Tom Stoppard -- Arkadien
 slug: tom-stoppard-arkadien
 date: 2008-12-22T23:13:23+00:00
-lastmod: 2018-01-20T22:04:30+00:00
+lastmod: 2018-07-28T17:36:08+00:00
 author: Mathias Wellner
 categories:
   - theater
@@ -12,6 +12,7 @@ tags:
   - arkadien
 ---
 In Ergänzung zu meinem kurzen Beitrag zum Stück vom 8.11.08 möchte ich mich hier intensiver mit dem Inhalt und den angesprochenen Themen des Stückes _Arkadien_ von Tom Stoppard beschäftigen.
+<!--more-->
 
 Das zeitgenössische Stück wurde 1993 uraufgeführt und zählt mit _Rosencrantz and Guildenstern Are Dead_ zu den besten des Autors. Es beeindruckt durch eine starke Handlung und die überzeugenden Charaktere. In einem Raum treffen zwei Zeiten aufeinander, 1809-12 und die Gegenwart. Das Hauptthema des Stückes ist Veränderung, bezogen auf Wissen und Mode. Des weiteren spielen die unveränderlichen Themen sexuelle Anziehung und Tod eine wichtige Rolle.
 

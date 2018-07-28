@@ -2,7 +2,7 @@
 title: Eric Bogosian -- subUrbia
 slug: eric-bogosian-suburbia
 date: 2008-11-14T00:00:11+00:00
-lastmod: 2018-01-20T22:03:54+00:00
+lastmod: 2018-07-28T17:35:04+00:00
 author: Mathias Wellner
 catetories:
   - theater

@@ -1,7 +1,7 @@
 ---
 title: Journals for a publication of a rowing simulation study
 date: 2008-11-12T16:32:27+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-07-28T17:34:24+00:00
 author: Mathias Wellner
 categories:
   - science

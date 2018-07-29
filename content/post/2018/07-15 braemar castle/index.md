@@ -18,7 +18,7 @@ categories:
 tags:
   - schottland
 ---
-Unser zweites schottisches Schloss war [Breamar Castle](http://www.braemarcastle.co.uk/). Im Gegensatz zum alterhwürdigen Dunnottar Castle war dieses Schloss noch lange in Gebrauch, ab 2007 wurde es der Gemeinde zum Gebrauch überlassen, die sich im Gegenzug um die aufwändigen Instandsetzungen kümmern muss. 
+Unser zweites schottisches Schloss war [Breamar Castle](http://www.braemarcastle.co.uk/). Im Gegensatz zum alterhwürdigen Dunnottar Castle war dieses Schloss noch lange bewohnt, ab 2007 wurde es der Gemeinde zum Gebrauch überlassen, die sich im Gegenzug um die aufwändigen Instandsetzungen kümmern muss. 
 <!--more-->
 
 {{<responsive-image name="castle">}}

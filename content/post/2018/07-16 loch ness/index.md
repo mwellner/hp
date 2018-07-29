@@ -21,7 +21,7 @@ categories:
 tags:
   - schottland
 ---
-Der bekannteste See von Schottland lebt touristisch vom Mythos um das Seeungeheuer. Wir unternahmen eine Schifffahrt auf dem See, besichtigten [Urquhart Castle](https://de.wikipedia.org/wiki/Urquhart_Castle) und machten schließlich am Nessie-Shop halt. 
+Der bekannteste See von Schottland lebt touristisch vom [Mythos um das Seeungeheuer](https://de.wikipedia.org/wiki/Ungeheuer_von_Loch_Ness). Wir unternahmen eine Schifffahrt auf dem [Loch Ness](https://de.wikipedia.org/wiki/Loch_Ness), besichtigten [Urquhart Castle](https://de.wikipedia.org/wiki/Urquhart_Castle) und machten schließlich am Nessie-Shop halt. 
 <!--more-->
 
 {{<responsive-image name="seefahrt">}}

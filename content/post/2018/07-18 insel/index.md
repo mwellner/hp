@@ -18,7 +18,7 @@ categories:
 tags:
   - schottland
 ---
-Von [Oban](https://de.wikipedia.org/wiki/Oban_(Schottland)) aus unternahmen wir zu Fuß eine Exkursion auf die nahegelegene Insel [Kerrera](https://de.wikipedia.org/wiki/Kerrera). Im Süden befindet sich die Burgruine Gylen Castle, nicht riesig, aber sehr malerisch gelegen. 
+Von [Oban](https://de.wikipedia.org/wiki/Oban_(Schottland)) aus unternahmen wir zu Fuß eine Exkursion auf die nahegelegene Insel [Kerrera](https://de.wikipedia.org/wiki/Kerrera). Im Süden befindet sich die Burgruine [Gylen Castle](https://de.wikipedia.org/wiki/Gylen_Castle), nicht riesig, aber sehr malerisch gelegen. 
 <!--more-->
 
 {{<responsive-image name="schild">}}

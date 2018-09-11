@@ -1,6 +1,6 @@
 ---
 date: "2018-08-26T19:29:12"
-lastmod: 2018-08-24T22:17:12+00:00
+lastmod: 2018-09-11T23:42:18+00:00
 title: Klettern am Scharfenstein
 author: Mathias Wellner
 resources:

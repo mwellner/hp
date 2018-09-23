@@ -20,7 +20,7 @@ tags:
   - italien
   - klettersteig
 ---
-Die Klettersteige der Brenta-Gruppe ([Via della Bocchette](https://www.outdooractive.com/de/klettersteig/madonna-di-campiglio-pinzolo-val-rendena/via-delle-bocchette-die-brentadurchquerung/5270905/)) sind die eindrucksvollsten Klettersteige, die ich bisher gemacht habe. Mitten durch eine wundervolle Landschaft mit filigranen Felsformationen, nebligen Schluchten und massiven Wänden führt der anspruchsvolle Klettersteig, abends konnten wir in den zahlreichen Berghütten unsere Energiedepots wieder aufladen. 
+Die Klettersteige der Brenta-Gruppe ([Via della Bocchette](https://www.outdooractive.com/de/klettersteig/madonna-di-campiglio-pinzolo-val-rendena/via-delle-bocchette-die-brentadurchquerung/5270905/)) sind die eindrucksvollsten Klettersteige, die ich bisher gemacht habe. Mitten durch eine wundervolle Landschaft mit filigranen Felsformationen, nebligen Schluchten und massiven Wänden führt der anspruchsvolle Klettersteig, abends konnten wir in den zahlreichen Berghütten unsere Energiedepots wieder aufladen.
 <!--more-->
 
 {{<responsive-image name="morgen" class="wide">}}

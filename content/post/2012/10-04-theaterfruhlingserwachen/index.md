@@ -28,4 +28,4 @@ Ich werde diesmal wohl nicht auf der Bühne stehen, das wird einfach zu viel. Ab
 
 **[Studententheater](http://www.stuthe.ch/)**
 
-Das Studententheater steht am Abschluss einer Produktion, am 20. Oktober führen sie erstmals Yvonne, die Burgunderprinzessin im Theatersaal der Univsersität Irchel auf. Es handelt sich um ein groteskes Stück.
+Das Studententheater steht am Abschluss einer Produktion, am 20. Oktober führen sie erstmals _Yvonne, die Burgunderprinzessin_ im Theatersaal der Univsersität Irchel auf. Es handelt sich um ein groteskes Stück.

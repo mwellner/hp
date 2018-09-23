@@ -28,7 +28,7 @@ categories:
 tags:
   - akitiv
   - indesign
-  - gestaltung
+  - layout
 ---
 Die Plakate und Poster für unsere Theaterproduktion sind bestellt. In ein bis zwei Wochen werden wir sehen, wie gut und fristgemäß die Druckfirma ([flyerline](http://www.flyerline.ch/de/home.html)) aus den Druckdaten die fertigen Plakate und Flyer gemacht hat.
 

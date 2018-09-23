@@ -20,10 +20,10 @@ Endlich mal wieder draußen klettern! An einem schönen Sommersonntag verbrachte
 
 Es war gar nicht so leicht, einen Einstieg zu finden. Wir hatten zwar eine Topo-Skizze der Wege, jedoch braucht es immer ein wenig Mut, draußen den ersten Vorstieg zu wagen. Einen Weg stieg ich dann vor, war eine etwas mühsame 4 in einer Verschneidung. 
 
-{{< responsive-image name="gipfel" >}}
+{{<responsive-image name="gipfel">}}
 
 Der Höhepunkt war aber dann der Weg auf die markant freistehende _Schiefe Anna_. Eine andere Seilschaft hatte uns das Seil eingehängt, so konnten wir einer nach dem anderen diese schöne 5 probieren. Es war eine senkrechte Wand mit kleineren Rippen und Rissen. Auf den ersten Blick sah es sehr schwierig aus, aber am Fels selbst gab es doch immer wieder einen nächsten Griff oder Tritt. Schwierig war die Feinheit der Strukturen, eine konditionelle Belastung für die Beine, die sich am schwierigen Ende bemerkbar machte. Aber schön war es dann, auf dem Gipfel zu stehen!
 
-{{< responsive-image name="landschaft" >}}
+{{<responsive-image name="landschaft">}}
 
 Rings um den Scharfenstein konnten wir die schöne Landschaft Nordhessens bestaunen, Felder und Wälder, ein paar Erhebungen. Und Sonne satt.

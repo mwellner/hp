@@ -2,7 +2,7 @@
 title: Plakat- und Flyergestaltung für Theaterproduktion
 slug: plakat-flyer-gestaltung-theaterproduktion
 date: 2008-04-06T15:41:27+00:00
-lastmod: 2018-07-28T15:44:32+00:00
+lastmod: 2018-09-24T20:43:45+00:00
 author: Mathias Wellner
 resources:
   - name: kralle

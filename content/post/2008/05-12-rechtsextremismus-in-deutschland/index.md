@@ -1,7 +1,7 @@
 ---
 title: Rechtsextremismus in Deutschland und in der Schweiz
 date: 2008-05-12T13:58:11+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-09-24T20:43:45+00:00
 author: Mathias Wellner
 categories:
   - politik

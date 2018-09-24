@@ -1,7 +1,7 @@
 ---
 title: Impressionen vom Urlaub in Andeer
 date: 2010-02-20T09:53:01+00:00
-lastmod: 2018-01-20T22:13:42+00:00
+lastmod: 2018-09-24T20:43:45+00:00
 author: Mathias Wellner
 categories:
   - reisen

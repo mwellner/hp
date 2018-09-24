@@ -111,12 +111,12 @@ dt {
 
 /* Pagination */
 .blog-pagination {
-  margin-bottom: 4rem;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  & > .btn {
+    border-radius: 0.5rem;
+  }
 }
-.blog-pagination > .btn {
-  border-radius: 2rem;
-}
-
 
 /*
  * Blog posts
@@ -216,20 +216,11 @@ section + #disqus_thread {
   }
 }
 
-/* 
- * Carousel
- */
-.carousel-caption {
-  h3 {
-    color: hsla(0, 0%, 100%, 0.9);
-  }
-}
-
 .card-columns {
   @include media-breakpoint-only(sm) {
     column-count: 2;
   }
   @include media-breakpoint-only(md) {
     column-count: 2;
-  }  
+  }
 }

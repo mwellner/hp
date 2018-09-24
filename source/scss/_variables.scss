@@ -1,0 +1,19 @@
+$font-family-serif: "Spectral", Georgia, "Times New Roman", Times, serif;
+$font-family-sans-serif: "Fira Sans", sans-serif;
+$blockquote-font-size: 1rem;
+$blockquote-border-color: #BBB;
+
+/* colors */
+$brand-primary: hsla(48, 50%, 70%, 1);
+$primary: hsla(350, 100%, 25%, 1);
+$theme-colors: ("primary": $primary);
+$link-color: $primary;
+
+$border-radius: 0.5rem;
+$border-radius-lg: 0.6rem;
+$border-radius-sm: 0.3rem;
+
+/* cards */
+$card-border-radius: 0.5rem;
+$card-inner-border-radius: calc(#{$card-border-radius} - #{$card-border-width});
+$card-columns-count: 2;

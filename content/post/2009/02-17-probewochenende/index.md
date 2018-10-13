@@ -1,7 +1,7 @@
 ---
 title: Arkadien-Probewochenende
 date: 2009-02-17T22:46:01+00:00
-lastmod: 2018-09-18T22:28:53+00:00
+lastmod: 2018-10-13T12:09:34+00:00
 author: Mathias Wellner
 resources:
   - name: jonglieren

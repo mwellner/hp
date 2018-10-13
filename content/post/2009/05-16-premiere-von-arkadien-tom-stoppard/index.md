@@ -1,13 +1,21 @@
 ---
 title: Tom Stoppard -- Arkadien, Premiere
 date: 2009-05-16T22:30:40+00:00
-lastmod: 2017-10-02T13:21:43+00:00
+lastmod: 2018-10-13T12:18:38+00:00
 author: Mathias Wellner
+resources:
+  - name: gus
+    src: gus.jpg
+    title: Gus Coverly (links) mit Hannah
+  - name: noakes
+    src: noakes.jpg
+    title: Richard Noakes (rechts) mit Lady Croom und Captain Brice
 categories:
   - theater
 tags:
   - akitiv
   - tom stoppard
+  - arkadien
 ---
 **Lampenfieber**
 
@@ -15,19 +23,15 @@ Lampenfieber, wieder hatte es mich erwischt. Es ist immer der erste Auftritt, we
 
 **1. Rolle -- Richard Noakes**
 
+{{<responsive-image name="noakes">}}
+
 Richard Noakes spiele ich als Karrikatur, er ist extrem überzeugt von sich und seinen Gartenplänen. Es fällt mir etwas schwer, denn Lady Croom ist überhaupt nicht begeistert und verschafft ihrem Unmut deutlich Ausdruck. Aber ich kriege das nicht mit und äußere mich mit höchster Verzückung. Ich denke immer, dass er auf Kokain ist.
 
 **2. Rolle -- Gus Coverly**
 
-Meine zweite Rolle, der stumme Gus Coverly, liegt mir da schon besser. Er ist extrem introvertiert, spricht nicht und hat dementsprechend auch Angst vor fremden Leuten. Mein erster Auftritt ist deshalb recht kurz, ich komme auf die Bühne, sehe Bernard Nightingale, der mich begrüßen möchte, erschrecke und verlasse die Bühne auch schon wieder. Die Herausforderung bei diesem Auftritt ist für mich, nicht zu lachen, sondern die Bestürzung authentisch zu zeigen. Also nicht mein Gesicht zu arg zu verziehen, ganz wenig machen, einfach handeln. Als Gus habe ich noch weitere, kurze Auftritte, besonders schön ist das Überreichen eines Apfels an Hannah am Ende der zweiten Szene.
+{{<responsive-image name="gus">}}
 
-<div style="width: 379px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/3471267835/"><img alt="Gus Coverly" src="http://farm4.static.flickr.com/3589/3471267835_205d2b54a4.jpg" title="Gus Coverly" width="369" height="500" /></a>
-  
-  <p class="wp-caption-text">
-    Gus Coverly<br />
-  </p>
-</div>
+Meine zweite Rolle, der stumme Gus Coverly, liegt mir da schon besser. Er ist extrem introvertiert, spricht nicht und hat dementsprechend auch Angst vor fremden Leuten. Mein erster Auftritt ist deshalb recht kurz, ich komme auf die Bühne, sehe Bernard Nightingale, der mich begrüßen möchte, erschrecke und verlasse die Bühne auch schon wieder. Die Herausforderung bei diesem Auftritt ist für mich, nicht zu lachen, sondern die Bestürzung authentisch zu zeigen. Also nicht mein Gesicht zu arg zu verziehen, ganz wenig machen, einfach handeln. Als Gus habe ich noch weitere, kurze Auftritte, besonders schön ist das Überreichen eines Apfels an Hannah am Ende der zweiten Szene.
 
 **Zum Entstehungsprozess**
 

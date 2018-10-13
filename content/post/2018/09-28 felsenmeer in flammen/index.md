@@ -1,6 +1,6 @@
 ---
 date: "2018-09-28T19:29:12"
-lastmod: 2018-09-24T20:43:45+00:00
+lastmod: 2018-10-13T12:09:34+00:00
 title: Felsenmeer in Flammen
 author: Mathias Wellner
 resources:

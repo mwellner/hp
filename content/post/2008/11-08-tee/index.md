@@ -1,22 +1,17 @@
 ---
 title: Teekultur
 date: 2008-11-08T18:28:35+00:00
-lastmod: 2018-01-20T22:03:17+00:00
+lastmod: 2018-10-13T11:51:45+00:00
 author: Mathias Wellner
 categories:
   - reisen
 tags:
   - hongkong  
 ---
-Im September besuchte ich in Hongkong das Flagstaff House Museum of Tea Ware (Teemuseum). Obwohl ich schon seit vielen Jahren bekennender Teetrinker bin, gab es viel Neues zu entdecken. Der absolute Höhepunkt war dann aber ein Video zur Teezubereitung. Der Protagonist mit dem bezeichnenden Namen _Dr. Song_ hatte seine besten Kleider angelegt und alle Utensilien bereit gelegt. Er benutzte eine sehr kleine Kanne, in welche er die kompletten Teeblätter hinein gab. Den ersten Aufguss mit wenig Wasser schüttete er weg, beim zweiten machte er die Kanne richtig voll und übergoss sie sogar mit dem heißen Wasser. Dann hielt er inne, stellte das Wassergefäß mit einer meditativen Geste zurück und wartete eine Weile. Sodann goss er den Tee in die bereitstehenden Teeschalen und kostete das fertige Produkt, wie man es von einem Weinkenner kennt. Aber welche Hingabe bei der Zubereitung, welche Sorgfalt und Muße!
+Im September besuchte ich in Hongkong das Flagstaff House Museum of Tea Ware (Teemuseum). Obwohl ich schon seit vielen Jahren bekennender Teetrinker bin, gab es viel Neues zu entdecken. 
+<!--more-->
 
-<div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/289839179/"><img alt="Tea" src="http://farm1.static.flickr.com/107/289839179_cfc3c047b8.jpg" title="Tea" width="500" height="334" /></a>
-  
-  <p class="wp-caption-text">
-    <a href="http://www.flickr.com/photos/mwellner/289839179/">Teekultur?</a> by <a href="https://www.flickr.com/photos/mwellner/">wellnair</a>
-  </p>
-</div>
+Der absolute Höhepunkt war dann aber ein Video zur Teezubereitung. Der Protagonist mit dem bezeichnenden Namen _Dr. Song_ hatte seine besten Kleider angelegt und alle Utensilien bereit gelegt. Er benutzte eine sehr kleine Kanne, in welche er die kompletten Teeblätter hinein gab. Den ersten Aufguss mit wenig Wasser schüttete er weg, beim zweiten machte er die Kanne richtig voll und übergoss sie sogar mit dem heißen Wasser. Dann hielt er inne, stellte das Wassergefäß mit einer meditativen Geste zurück und wartete eine Weile. Sodann goss er den Tee in die bereitstehenden Teeschalen und kostete das fertige Produkt, wie man es von einem Weinkenner kennt. Aber welche Hingabe bei der Zubereitung, welche Sorgfalt und Muße!
 
 Hier in der Schweiz muss man Blatt-Tee regelrecht suchen, ganz unten im Teeregal finden sich zwei oder drei Sorten Schwarztee und eventuell eine Sorte Grüntee. Ansonsten nur Teebeutel mit den feingemahlenen Überresten der Teeauslese, die schnell mit heißem Wasser übergossen ich nicht Tee nennen möchte, vielleicht eher teeähnliches Heißgetränk. Die Schweiz und auch Deutschland brauchen eine Teekultur! Mit diesem Beitrag möchte ich den Grundstein legen.
 

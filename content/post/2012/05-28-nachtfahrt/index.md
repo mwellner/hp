@@ -1,7 +1,7 @@
 ---
 title: Nachtfahrt
 date: 2012-05-28T22:39:35+00:00
-lastmod: 2017-12-18T22:21:11+00:00
+lastmod: 2018-09-24T21:37:58+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

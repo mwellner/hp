@@ -7,32 +7,9 @@ categories:
   - wissenschaft
 tags:
   - fussball
-  - green box
-  - torwart
 ---
 Wir schwimmen mit dem Strom der Zeit. Und wer zur Zeit nicht völlig blind durch die Gegend läuft, kommt am Fußball nicht vorbei. Allerorten werden die Tage, Stunden, Minuten und Sekunden bis zum Eröffnungsspiel abgezählt, pranken Fußballthemen auf Zeitschriften und werden Werbekampagnen thematisch am runden Leder orientiert, um die Plakate, Straßenbahnen und Fernsehbildschirme zu bevölkern.
 
-<figure>
-  <a href="http://www.flickr.com/photos/mwellner/2407313255/">
-    <img alt="The Kick" src="http://farm3.static.flickr.com/2054/2407313255_bf604530bc.jpg" title="The Kick" />
-  </a> 
-  <figcaption>Der Schuss</figcaption>
-</figure>
-
 Nun sitzen also auch wir als Forschungsgruppe mit im Tor. Und die Perspektive des Torwarts ist es auch, die wir bei uns im Labor erforschen wollen. Woher weiß der Torwart bei einem Elfmeter, in welche Ecke der Spieler schießen wird? Wann wäre es am besten, loszuspringen? Macht dem Torwart ein positiv oder negativ eingestelltes Publikum etwas aus?
 
-<figure>
-  <a href="http://www.flickr.com/photos/mwellner/2407802922/">
-    <img alt="Silhouettes" src="http://farm3.static.flickr.com/2056/2407802922_0049d3cfeb.jpg" title="Silhouettes" />
-  </a>  
-  <figcaption>Silhouetten</figcaption>
-</figure>
-
 Um diese Fragen beantworten zu können, benötigen wir die Simulation eines Elfmeterschusses. In einem ersten Anlauf wollen wir das mit einem gefilmten Fussballer machen, der dann in das Stadion reingesetzt wird. Der Ball wird animiert und fliegt dann auf den Betrachter zu. Als Elfmeter-Schützen konnten wir den Schweizer Nationalspieler Benjamin Huggel gewinnen, er spielt zur Zeit in Basel. Am Freitag haben wir dann in einem kleinen Filmstudio mit grünen Wänden die Aufnahmen gemacht. Es lief hervorragend, alle Einstellungen saßen und ich konnte nebenbei noch ein paar Fotos machen.
-
-<figure>
-  <a href="http://www.flickr.com/photos/mwellner/2406915853/">
-    <img alt="Kicking the ball" src="http://farm4.static.flickr.com/3122/2406915853_15e760a868.jpg" title="Kicking the ball"/>
-  </a>  
-  <figcaption>Der Schuss</figcaption>
-</figure>

@@ -1,6 +1,6 @@
 ---
 date: "2018-09-09T16:23:12"
-lastmod: 2018-09-24T21:30:55+00:00
+lastmod: 2018-10-13T11:30:55+00:00
 title: Raimund Wazlawek (1951 - 2018)
 author: Mathias Wellner
 resources:

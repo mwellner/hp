@@ -7,14 +7,18 @@ categories:
   - programming
 tags:
   - matlab
+  - sql
 ---
-**Problem**
+Is it possible to access an SQL database with Matlab? In this article I will explain how to create and access a participant database.
+<!--more-->
+
+#### Problem
 
 The initial intention was to keep track of those people who have participated in one of our rowing studies. The second goal was to keep track of how our raw data is organised. Therefore, I designed a relational database with MS Access. In this article I will focus on general database design issues and how to access the database with Matlab. You could use any other [relational database management system](http://en.wikipedia.org/wiki/Relational_database_management_system), which is compatible to the [SQL standard](http://en.wikipedia.org/wiki/SQL).
 
 A nice side-effect of such a database is their possible integration in Matlab. We can get the names of all participants of a certain study and analyse their data.
 
-**Database structure**
+#### Database structure
 
 The first relation contains the _participant_ information.
 
@@ -66,31 +70,31 @@ _Raw variable is in column_
   * StudyID [primary key, foreign key]
   * Column (in xPC output log)
 
-**Database access with Matlab**
+#### Database access with Matlab
 
 We can now use the power of SQL statements to query the database for a specific participant. As a more complex example, I will demonstrate how to get all participants of one study.
 
 The following Matlab code builds an SQL query and executes it with an existing database connection (`database` command). You need to define an ODBC connection first, see the Matlab documentation for more details on that.
 
-`<br />
-% define parts of SQL statement<br />
-study = '''Study1'''; % define study, add addition '' because of spaces<br />
-columns = 'LastName, FirstName'; % define columns for selection<br />
-from = 'Participant p, TakesPart t, Study s'; % define tables for selection<br />
-where = ['p.ID = t.ParticipantID AND s.ID = t.StudyID AND s.Label = ', study]; % define inner join conditions<br />
-order = 'LastName, FirstName'; % define order of results<br />
-% combine parts to SQL query<br />
-query = sprintf('SELECT %s FROM %s WHERE %s ORDER BY %s', columns, from, where, order);<br />
-curs = exec(DatabaseConnection, query); % execute SQL query<br />
-curs = fetch(curs); % fetch data in same cursor structure<br />
-curs.Data<br />
-close(curs);<br />
-` 
+{{<highlight m "linenos=table">}}
+% define parts of SQL statement
+study = '''Study1'''; % define study, add addition '' because of spaces
+columns = 'LastName, FirstName'; % define columns for selection
+from = 'Participant p, TakesPart t, Study s'; % define tables for selection
+where = ['p.ID = t.ParticipantID AND s.ID = t.StudyID AND s.Label = ', study]; % define inner join conditions
+order = 'LastName, FirstName'; % define order of results
+% combine parts to SQL query
+query = sprintf('SELECT %s FROM %s WHERE %s ORDER BY %s', columns, from, where, order);
+curs = exec(DatabaseConnection, query); % execute SQL query
+curs = fetch(curs); % fetch data in same cursor structure
+curs.Data
+close(curs);
+{{</highlight>}}
 
 The created query is:
 
 `SELECT LastName, FirstName FROM Participant p, TakesPart t, Study s WHERE p.ID = t.ParticipantID AND s.ID = t.StudyID AND s.Label = 'Study1' ORDER BY LastName, FirstName`
 
-**Conclusion**
+#### Conclusion
 
 I showed how to design a participant database and query it with Matlab.

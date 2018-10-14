@@ -28,14 +28,14 @@ The relational database system PostgreSQL was tested successfully but could not 
 
 The implementation with the Matlab workspaces was much possible, interestingly single workspaces proved more efficient than one combined workspace (only the desired variable was loaded from the combined workspace).
 
-`<br />
->> clear all<br />
->> tic;load combined_workspace variable; toc<br />
-Elapsed time is 9.0 seconds.<br />
->> clear all<br />
->> tic; load variable_workspace; toc<br />
-Elapsed time is 1.1 seconds.<br />
-` 
+{{<highlight m>}}
+clear all
+tic;load combined_workspace variable; toc
+Elapsed time is 9.0 seconds.
+clear all
+tic; load variable_workspace; toc
+Elapsed time is 1.1 seconds.
+{{</highlight>}}
 
 **Conclusions**
 

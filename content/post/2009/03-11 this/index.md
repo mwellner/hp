@@ -13,6 +13,7 @@ tags:
   - wissenschaft
 ---
 Ich schreibe. An meiner Diss. Ich habe sie **This!** genannt, das klingt so wie Diss und erinnert mich an Peter Gabriels Album [So](http://petergabriel.com/discography/release/So/), ein Weihnachtsgeschenk meiner Schwester.
+<!--more-->
 
 Ich schreibe. Über die Ergebnisse der Ruderstudie mit Wettbewerbern. Teilnehmer 1 hat reagiert, und das deutlich. Man sieht es an den Graphen, den Prunkstücken dieses Kapitels. Es lässt sich so viel aussagen mit einem Graphen. Dann brauche ich auch weniger zu schreiben. Es springt dem Leser dann ins Auge. Aber nur, wenn der Graph gut gemacht ist und in sich das Studiendesign, die Einzelergebnisse, die Durchschnittswerte pro Block mit Standardabweichungen und am besten noch die Schlussfolgerungen in sich vereint und dabei nicht unübersichtlich wird.
 

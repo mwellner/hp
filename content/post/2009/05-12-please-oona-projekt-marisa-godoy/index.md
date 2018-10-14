@@ -9,6 +9,7 @@ tags:
   - gessnerallee
 ---
 Seit April bin ich im Gessnerallee Backstage-Programm dabei. Das ist eine Kombination aus wöchentlichem Theatertraining und gemeinsamen Vorstellungsbesuchen, durchgeführt von [Golda Eppstein](http://www.eppstein.ch/).
+<!--more-->
 
 Heute war ich zum ersten Mal in einer regulären Gessnerallee-Aufführung, einer Tanzperformance mit dem Namen please des [OONA-Projektes](http://www.oonaproject.ch/). Nun, ich bin bislang noch nicht so bewandert in der freien Tanz- und Theaterszene, aber durch das Backstage-Programm wird sich das sicherlich in absehbarer Zeit ändern.
 

@@ -7,6 +7,7 @@ categories:
   - latex
 ---
 In the recent weeks I have spent a lot of time to polish the draft of my dissertation with the help of LaTeX. In this article, I would like to share the packages I used. This list of packages comes close to a template, but you must still decide which package you need.
+<!--more-->
 
 In general, I wanted to have a [pdfTeX](http://de.wikipedia.org/wiki/PdfTeX)-compliant document.
 

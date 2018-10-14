@@ -1,5 +1,6 @@
 ---
 title: Joseph Roth -- Hiob
+slug: joseph-roth-hiob
 date: 2009-06-05T12:36:10+00:00
 lastmod: 2017-10-02T13:23:18+00:00
 author: Mathias Wellner
@@ -10,6 +11,7 @@ tags:
   - joseph roth
 ---
 Schwere Kost ist dieser Stoff schon -- der jüdische Lehrer Mendel Singer verliert im Laufe der Geschichte so ziemlich alles, seine beiden älteren Söhne fallen im Krieg, seine Frau nimmt sich das Leben, die Tochter wird wahnsinnig. Genau wie das alttestamentarische Vorbild Hiob verflucht er schließlich Gott und will nur noch sterben. Doch das unerwartete Gesunden seines jüngsten Sohnes ganz am Ende stimmt ihn versöhnlich, er schläft ein.
+<!--more-->
 
 Die Inszenierung im [Theater Neumarkt](http://www.theaterneumarkt.ch) hat mir extrem gut gefallen, vor allem die ruhigeren Passagen, die verzweifelten, ohnmächtigen Momente haben mich sehr bewegt. Das einfache Bühnenbild, die klar gestalteten Kostüme, die Darsteller &mdash; es war Theater, wie ich es mir idealerweise vorstelle. Lediglich einige übertriebene Passagen mit Schreien und viel Lärm trübten das vollendete Bild.
 

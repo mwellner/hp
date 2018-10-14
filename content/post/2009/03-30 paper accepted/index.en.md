@@ -7,6 +7,7 @@ categories:
   - science
 ---
 My second journal paper has been accepted for publication in the [Journal of Sports Engineering and Technology](http://en.wikipedia.org/wiki/Proceedings_of_the_Institution_of_Mechanical_Engineers,_Part_P:_Journal_of_Sports_Engineering_and_Technology). It was about the study with virtual audience in our [M<sup>3</sup> Rowing Simulator](http://www.sms.hest.ethz.ch/research/current-research-projects/robot-assisted-training-in-sports.html). The reviewing process was much quicker than last time, I received only a few comments which needed correction. Compared to the reviewing process of my last publication, this was much easier.
+<!--more-->
 
 #### Title
 Does Virtual Audience Influence Rowing?

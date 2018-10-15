@@ -3,6 +3,10 @@ title: Phantasy and Theatre
 date: 2009-10-17T12:36:30+00:00
 lastmod: 2017-10-02T14:45:46+00:00
 author: Mathias Wellner
+resources:
+  - name: floating
+    src: floating.jpg
+    title: Freischwebende Künstler beim Theaterspektakel in Zürich
 categories:
   - theater
 ---
@@ -24,7 +28,7 @@ Stanislawski defined the goal of an actor as executing an action on stage, which
 
 To find such a tangible action, Stanislawski introduced the terms _if_ and _suggested situation_. Using the word _if_ transforms immediate reality into a theatre scene. The question _If I had a letter in my hand, what would you do?_ activates your phantasy and imagination, you conceive an action. Considering the letter, you would most probably take it and look, if it was addressed to you. The _suggested situation_ is an aggregation of all circumstances, as they are given by the text and production, time, place, living conditions, props, costumes, etc. It is fully fictional and is created by the imagination of everybody involved. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/3987644626/in/dateposted-public/" title="Performance"><img src="https://c1.staticflickr.com/3/2631/3987644626_e87a237c6a_o.jpg" width="580" height="388" alt="Performance"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{<responsive-image name="floating">}}
 
 A play text has always gaps. Usually only the place of action is described, let&#8217;s say the parlour. Where are you coming from, when you enter through the right door into the parlour? What have you done before? Was it cold or warm, pleasant or unpleasant? Did you talk to other people? Why are you entering at all? What happened before the actual play starts? Every character has had his or her own life until this moment of play onset, but usually there are very few clues in the text. There are endless opportunities for you to use your imagination and create a unique character. 
 

@@ -11,6 +11,7 @@ tags:
   - de laclos
 ---
 Die Theatergruppe [akitiv](http://www.aki.ethz.ch/akitiv/) produziert aktuell das Stück [Gefährliche Liebschaften](http://de.wikipedia.org/wiki/Gef%C3%A4hrliche_Liebschaften) von Pierre-Ambroise-François Choderlos de Laclos. Es war der Favorit unseres Regisseurs. Die Grundlage der Bühnenfassung ist der Briefroman &#8220;Les Liaisons Dangereuses&#8221; aus dem Jahr 1782. 
+<!--more-->
 
 Bei der ersten Lesung mit verteilten Rollen war mein Eindruck eher negativ. Dargestellt werden Angehörige des Adels, die sich primär mit dem Verführen des anderen Geschlechts befassen. Es geht um eine Wette zwischen der Marquise de Merteuil und dem Vicomte de Valmont. Letzterer soll die junge Celine de Volanges und die Präsidentin de Tourvel verführen, dann winkt ihm eine Nacht mit der Marquise. Im Laufe des Stücks gelingt ihm auch beides, wobei er durch die emsig Briefe schreibende Marquise unterstützt wird. Jedoch kommt es nicht zur Einlösung der Wettschuld, die Marquise wirft ihm vor, er wäre in die Präsidentin verliebt. Auch sein sofortiges Beenden der Beziehung überzeugt die Marquise nicht, sie beharrt darauf, dass die Präsidenten den Vicomte bezwungen hätte. Das ist die Schlüsselszene des Stücks, das Psycho-Duell zwischen den beiden Hauptrollen, welches nur Verlierer kennt. Kurz darauf sterben die meisten Personen eines unnatürlichen, plötzlichen Todes. 
 

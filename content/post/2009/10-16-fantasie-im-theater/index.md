@@ -3,6 +3,10 @@ title: Fantasie im Theater
 date: 2009-10-16T22:13:42+00:00
 lastmod: 2018-01-15T11:11:11+00:00
 author: Mathias Wellner
+resources:
+  - name: floating
+    src: floating.jpg
+    title: Freischwebende Künstler beim Theaterspektakel in Zürich
 categories:
   - theater
 ---
@@ -25,7 +29,7 @@ Nach [Stanislawski](http://de.wikipedia.org/wiki/Konstantin_Sergejewitsch_Stanis
 
 Um eine solche Handlung zu finden, benutzt Stanislawski die Begriffe _Wenn_ und _vorgeschlagene Situation_. Durch das _Wenn_ wird aus der unmittelbaren Wirklichkeit eine Theaterszene. Die Frage _Wenn ich einen Brief in der Hand hätte, was würden Sie dann tun?_ regt Ihre Fantasie und Vorstellungskraft an, Sie überlegen sich eine Handlung. Im Fall des Briefes würden Sie ihn wahrscheinlich nehmen und nachschauen, ob er an Sie adressiert ist. Die _vorgeschlagene Situation_ ist eine Zusammenfassung aller Umstände, wie sie durch Stück und Inszenierung vorgegeben sind, also Zeit, Ort, Lebensumstände, Requisiten, Kostüme, etc. Sie ist völlig fiktiv und entsteht durch die Fantasie der Beteiligten. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mwellner/3987644626/in/dateposted-public/" title="Performance"><img src="https://c1.staticflickr.com/3/2631/3987644626_e87a237c6a_o.jpg" width="580" height="388" alt="Performance"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{<responsive-image name="floating">}}
 
 Ein Theatertext hat immer Lücken. Es ist zum Beispiel meist nur der Ort der Handlung beschrieben, sagen wir ein Salon. Woher kommen Sie, wenn Sie durch die rechte Tür in den Salon eintreten? Was haben Sie vorher draußen gemacht? War es da kalt oder warm, angenehm oder unangenehm? Haben Sie mit anderen Leuten gesprochen? Warum treten Sie überhaupt ein? Was geschah vorher, bevor das Stück beginnt? Jede Rolle hat ein eigenes Leben gelebt bis zu diesem Zeitpunkt, darüber gibt es meist nur wenig Anhaltspunkte im Text. An unendlich vielen Stellen ist Ihre Fantasie als Schauspieler gefragt. 
 

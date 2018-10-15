@@ -9,6 +9,7 @@ tags:
   - wordpress
 ---
 It's been a week since I moved my Weblog from [ETH Weblog services](http://blogs.ethz.ch) to my own server. This move has been a great success so far. In this post I would like to share some initial problems and how I overcame them and which plugins I decided to use.
+<!--more-->
 
 **Installation**
 

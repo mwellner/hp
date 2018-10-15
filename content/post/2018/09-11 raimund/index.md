@@ -8,7 +8,7 @@ resources:
     src: raimund.jpg
     title: Raimund Wazlawek
 categories:
-  - tagebuch
+  - nachruf
 tags:
   - abschied
 ---

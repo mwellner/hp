@@ -6,9 +6,8 @@ author: Mathias Wellner
 categories:
   - latex
 ---
-**Introduction**
-
 The document preparation system [LaTeX](http://en.wikipedia.org/wiki/LaTeX) is well-suited for scientific writing. But which additional components are required? In this article, I will describe how to install all the necessary programs and packages on a [Ubuntu-Linux](http://www.ubuntu.com/) system to write publications conveniently. The tutorial equally applies to Debian systems, Windows users have to modify the installation procedures accordingly. 
+<!--more-->
 
 **Requirements, Prerequisites**
 

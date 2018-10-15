@@ -6,9 +6,8 @@ author: Mathias Wellner
 categories:
   - latex
 ---
-**Ein­lei­tung**
-
 Das Text­satz­sys­tem [LaTeX](https://de.wikipedia.org/wiki/LaTeX) eig­net sich her­vor­ra­gend für wis­sen­schaft­li­ches Schrei­ben. Aber wel­che Kom­po­nen­ten braucht man genau? In die­sem Arti­kel möchte ich beschrei­ben, wie man auf einem [Ubuntu-​​Linux](http://www.ubuntu.com/)–Sys­tem die not­wen­di­gen Pro­gramme und Pakete instal­liert, um seine Publi­ka­tio­nen bequem schrei­ben zu kön­nen. Windows-​​Nutzer kön­nen die Schritte genau so aus­füh­ren, müs­sen aber an eini­gen Stel­len abwei­chend vorgehen. 
+<!--more-->
 
 **Anfor­de­run­gen, Voraussetzungen**
 

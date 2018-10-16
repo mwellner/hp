@@ -1,5 +1,6 @@
 ---
 title: Little Helpers for Scientific Writing with LaTeX
+slug: scientific-writing-latex
 date: 2009-11-11T00:49:04+00:00
 lastmod: 2017-10-02T14:47:08+00:00
 author: Mathias Wellner
@@ -20,9 +21,9 @@ The document preparation system [LaTeX](http://en.wikipedia.org/wiki/LaTeX) is w
 
 VIM is a strong tool for editing text. You will find a version on most Linux systems. The [VIM-​​LaTeX-​​Suite](http://vim-latex.sourceforge.net/) is a handy tool for a better integration of LaTeX.
   
-`<br />
-any_directory$ sudo apt-get install vim<br />
-` 
+{{<highlight bash>}}
+$ sudo apt-get install vim
+{{</highlight>}}
   
 Although there is a vim-latexsuite package, I advise not to use it. Rather install the package directly in your home directory.
 
@@ -32,37 +33,37 @@ The Perl script latexmk is very useful to automate the document generation. It d
 
 You have to install Perl (if not already available on your system) and the script itself. Windows users should install [Active Perl](http://www.activestate.com/activeperl/).
   
-`<br />
-any_directory$ sudo apt-get install perl<br />
-any_directory$ sudo apt-get install latexmk<br />
-` 
+{{<highlight bash "linenos=table">}}
+$ sudo apt-get install perl
+$ sudo apt-get install latexmk
+{{</highlight>}}
   
 Using latexmk for PDF output looks like this:
   
-`<br />
-project_directory$ latexmk -pdf dokument.tex<br />
-` 
+{{<highlight bash>}}
+project/directory$ latexmk -pdf dokument.tex
+{{</highlight>}}
 
 **bibla­tex**
 
 Although the biblatex package is still beta, I liked the sheer power of it and have used it for my references. Originally I was looking for a solution to use chapter-wise references, but biblatex can do much more and makes reference handling much easier as before. It combines the functionality of a variety of packages.
   
-`<br />
-any_directory$ sudo apt-get install biblatex<br />
-` 
+{{<highlight bash>}}
+$ sudo apt-get install biblatex
+{{</highlight>}}
   
 There are new macros for citing references. To make an indirect quote, which is most common for engineers, you would use _\parencite{key}_. The macro _\printbibliography_ creates the list of all cited references. The appearance of the quotes and bibliography is determined by citation styles.
   
-`<br />
-\usepackage[style=apa]{biblatex}<br />
-\bibliography{bibfile_name}<br />
-` 
+{{<highlight latex "linenos=table">}}
+\usepackage[style=apa]{biblatex}
+\bibliography{bibfile_name}
+{{</highlight>}}
   
 The APA style is available for biblatex but has to be installed manually. After copying the style files you have to update your texmf tree.
   
-`<br />
-any_directory$ sudo texconfig rehash<br />
-` 
+{{<highlight bash>}}
+$ sudo texconfig rehash
+{{</highlight>}}
   
 One problem at this stage was an outdated csquotes package. I had to correct that manually as well. 
 

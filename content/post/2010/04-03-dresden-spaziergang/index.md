@@ -33,5 +33,3 @@ Damit verfügt das Zentrum jetzt also über zwei Einkaufszentren in unmittelbare
 {{<responsive-image name="springbrunnen">}}
 
 Ansonsten ist alles beim Alten Neuen in Dresden, die alten DDR-Springbrunnen werden von neuartigen Einkaufszentren umzingelt und die letzten Lücken beim Wiener Platz geschlossen. Immer wieder anders.
-
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -1,7 +1,7 @@
 ---
 title: Schnebelhorn
 date: 2010-06-13T10:44:48+00:00
-lastmod: 2018-01-01T13:10:05+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
   - name: vorbereitung

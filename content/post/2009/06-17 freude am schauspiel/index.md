@@ -1,7 +1,7 @@
 ---
 title: Freude am Schauspiel -- ein Credo
 date: 2009-06-17T22:51:18+00:00
-lastmod: 2017-10-02T13:24:25+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 categories:
   - theater

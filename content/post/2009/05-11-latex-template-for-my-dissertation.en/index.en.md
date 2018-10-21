@@ -1,7 +1,7 @@
 ---
 title: A LaTeX template for my dissertation
 date: 2009-05-11T16:49:25+00:00
-lastmod: 2017-10-02T13:17:49+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 categories:
   - latex

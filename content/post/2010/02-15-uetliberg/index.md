@@ -1,7 +1,7 @@
 ---
 title: Üetliberg
 date: 2010-02-15T23:32:35+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
   - name: aussicht

@@ -1,7 +1,7 @@
 ---
 title: Diss-Endspurt
 date: 2009-04-29T17:55:58+00:00
-lastmod: 2017-10-02T13:16:32+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

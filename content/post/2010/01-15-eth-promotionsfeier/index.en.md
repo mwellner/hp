@@ -1,7 +1,7 @@
 ---
 title: ETH Graduation Ceremony
 date: 2010-01-18T23:39:32+00:00
-lastmod: 2018-01-20T21:54:16+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 categories:
   - diary

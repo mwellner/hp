@@ -2,7 +2,7 @@
 title: Little Helpers for Scientific Writing with LaTeX
 slug: scientific-writing-latex
 date: 2009-11-11T00:49:04+00:00
-lastmod: 2017-10-02T14:47:08+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 categories:
   - latex

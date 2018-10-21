@@ -1,7 +1,7 @@
 ---
 title: Hamburg
 date: 2010-08-05T23:27:53+00:00
-lastmod: 2017-12-18T20:23:07+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
   - name: alster

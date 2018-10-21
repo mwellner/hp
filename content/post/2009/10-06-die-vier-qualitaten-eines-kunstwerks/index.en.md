@@ -1,7 +1,7 @@
 ---
 title: The four qualities of an artwork
 date: 2009-10-06T20:10:29+00:00
-lastmod: 2017-10-02T14:45:08+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
   - name: floating

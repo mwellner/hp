@@ -1,7 +1,7 @@
 ---
 title: Zivilschutzanlage
 date: 2009-06-07T22:19:14+00:00
-lastmod: 2018-10-02T13:31:52+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
   - name: aarau

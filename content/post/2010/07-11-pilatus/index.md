@@ -1,7 +1,7 @@
 ---
 title: Pilatus
 date: 2010-07-11T23:34:11+00:00
-lastmod: 2018-10-16T20:23:07+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
   - name: aussicht

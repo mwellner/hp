@@ -1,7 +1,7 @@
 ---
 title: Doctoral examination -- passed!
 date: 2009-07-07T17:28:36+00:00
-lastmod: 2017-10-02T13:35:38+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
   - name: exam

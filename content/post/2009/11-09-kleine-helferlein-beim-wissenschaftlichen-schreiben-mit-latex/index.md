@@ -2,7 +2,7 @@
 title: Kleine Helferlein beim wissenschaftlichen Schreiben mit LaTeX
 slug: wissenschaftlich-schreiben-latex
 date: 2009-11-09T23:09:16+00:00
-lastmod: 2017-10-02T14:46:18+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 categories:
   - latex

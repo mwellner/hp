@@ -1,7 +1,7 @@
 ---
 title: Phantasy and Theatre
 date: 2009-10-17T12:36:30+00:00
-lastmod: 2017-10-02T14:45:46+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
   - name: floating

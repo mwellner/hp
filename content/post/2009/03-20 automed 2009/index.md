@@ -1,7 +1,7 @@
 ---
 title: Automed 2009
 date: 2009-03-20T13:57:04+00:00
-lastmod: 2017-10-31T23:25:44+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

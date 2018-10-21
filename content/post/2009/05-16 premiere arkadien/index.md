@@ -1,7 +1,7 @@
 ---
 title: Tom Stoppard -- Arkadien, Premiere
 date: 2009-05-16T22:30:40+00:00
-lastmod: 2018-10-13T12:18:38+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
   - name: gus

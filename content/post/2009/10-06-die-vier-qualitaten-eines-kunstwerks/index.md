@@ -1,7 +1,7 @@
 ---
 title: Die vier Qualitäten eines Kunstwerks
 date: 2009-10-06T09:41:11+00:00
-lastmod: 2017-10-02T14:45:22+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
   - name: floating

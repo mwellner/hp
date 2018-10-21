@@ -2,7 +2,7 @@
 title: Joseph Roth -- Hiob
 slug: joseph-roth-hiob
 date: 2009-06-05T12:36:10+00:00
-lastmod: 2017-10-02T13:23:18+00:00
+lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 categories:
   - theater

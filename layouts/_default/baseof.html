@@ -13,8 +13,9 @@
     {{ "<!-- RSS 2.0 feed -->" | safeHTML }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     {{ end }}
-    {{ "<!-- combined, minified CSS -->" | safeHTML }}    
     <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Spectral|Fira+Sans" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://use.typekit.net/bnz0szx.css">
     <meta name="google-site-verification" content="qfHfoYPUsYo-Od3gvLagaJ4VT4aQ0CeyKqiQVfpnijM" />
   </head>
 
@@ -78,25 +79,6 @@
         <a href="#">{{ i18n "backToTop" }}</a>
       </p>
     </footer>
-
-    <noscript id="deferred-styles">
-      <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Spectral|Fira+Sans" rel="stylesheet"> 
-      <link rel="stylesheet" href="https://use.typekit.net/bnz0szx.css">
-    </noscript>
-
-    <script>
-      var loadDeferredStyles = function() {
-        var addStylesNode = document.getElementById("deferred-styles");
-        var replacement = document.createElement("div");
-        replacement.innerHTML = addStylesNode.textContent;
-        document.body.appendChild(replacement)
-        addStylesNode.parentElement.removeChild(addStylesNode);
-      };
-      var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
-          window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
-      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
-      else window.addEventListener('load', loadDeferredStyles);
-    </script>
 
     <script defer src="{{ .Site.BaseURL }}js/jquery.min.js"></script>
     <script defer src="{{ .Site.BaseURL }}js/tether.min.js"></script>

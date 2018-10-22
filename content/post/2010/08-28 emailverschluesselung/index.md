@@ -9,17 +9,8 @@ tags:
   - email
   - verschlüsselung
 ---
-**Anlass**
-
 Vor kurzem habe ich meinen Rechner neu aufgesetzt, nun ist [Windows 7](http://de.wikipedia.org/wiki/Microsoft_Windows_7) mein Betriebssystem. [Ubuntu Linux](http://www.ubuntu.com/) läuft nun als virtuelle Maschine mit dem [VMware Player](http://www.vmware.com/de/products/player/). 
-
-<div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/4935768178/" title="Zutritt verboten by mwellner, on Flickr"><img src="http://farm5.static.flickr.com/4118/4935768178_1a92d6d5f6.jpg" width="500" height="338" alt="Zutritt verboten" /></a>
-  
-  <p class="wp-caption-text">
-    Privatspäre<br />
-  </p>
-</div>
+<!--more-->
 
 Im Zuge der Neuinstallation habe ich mir auch Gedanken zum Thema Email-Sicherheit gemacht. Bereits 2003 hatte ich mir ein Schlüsselpaar (der öffentliche Teil des Schlüssels ist auf diversen Key-Servern verfügbar) erzeugt, dieses aber nur gelegentlich genutzt. Das wird sich nun wieder ändern! 
 

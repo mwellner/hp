@@ -12,7 +12,7 @@ tags:
 ---
 Vor ziemlich genau einem Jahr begann ich bei der [Helveting AG](http://www.helveting.ch), einem aufstrebenden Schweizer Ingenieurbüro. Mit dem Doktortitel in der Tasche, nach drei Wochen Arbeitslosigkeit und mitten in einem JobBasis-Kurs der [NewPlacement GmbH](http://www.newplacement.ch) wagte ich den Sprung ins _richtige_ Berufsleben. Und da bin ich nun und reflektiere. 
 
-**Ein Jahr &ndash; drei Projekte**
+**Ein Jahr -- drei Projekte**
 
 Zuallererst erwartete mich der Sprung ins kalte Wasser eines ambitionierten Großprojekts, es ging um die Neuentwicklung eines medizinischen Geräts. Ich war als Teilprojektleiter von Anfang an stark gefordert. Nach der Konzeptphase verschob sich mein Schwerpunkt auf ein internes Projekt, ich entwickelte in Rekordzeit ein System für die Zeiterfassung mit [cakePHP](http://cakephp.org/) und [PostgreSQL](http://www.postgresql.org/), welches die existierende Lösung mit Excel-Sheets ablöste. 
 

@@ -10,6 +10,7 @@ tags:
   - toscana-therapie  
 ---
 Ich bin Mathias und spiele momentan in zwei Theaterproduktionen, [halbkontakt](http://www.kulturpunkt8424.ch/Theater_frischfleisch.html) und [Toscana-Therapie](http://dramateure.ch/mediawiki/index.php/Toscana-Therapie). Ich bin also neben Mathias auch Andreas und Gerhard und so langsam verliere ich den Überblick. 
+<!--more-->
 
 In *halbkontakt* bin ich Andreas, leite eine Bibliothek und bin verheiratet mit Marion. Unsere Ehe ist nicht mehr ganz so frisch, da Marion großen Wert auf ihren Mitternachtsschlaf legt. Ich (also Andreas) bin da anders, für Molly, die attraktive Jugendfreundin von Marion, verzichte ich auch mal auf meinen Mitternachtsschlaf. Also nur einmal, ist doch nicht so wild. Und wenn ihr Molly sehen würdet, könntet ihr mich verstehen. Ich bin doch auch nur ein Mann. Marion muss davon nichts wissen, vielleicht bringt das sogar neuen Schwung in unsere Ehe. 
 
@@ -70,8 +71,6 @@ Ich habe da eine Mitarbeiterin, Anja Fels. Wir verstehen uns bestens, ich bin ja
 
 Also langsam wird mir das schon ein bisschen viel. Erst nistet sich dieser Victor hier ein, jetzt sind plötzlich noch zwei Bekannte von Dieter aufgetaucht, die unbedingt ein Foto hier machen müssen. Lisa heißt die eine, völlig fixiert und will unbedingt einen Zementsack mitten im Bild platzieren. Ihre Begleiterin Silvia ist da schon netter, so spontan und offen, da könnte sich Karin noch eine Scheibe abschneiden. 
 
-Marion ist schon ein bisschen verklemmt. Also in sexueller Hinsicht. Ich will ja nichts wirklich Ausgefallenes. Aber man muss doch mal was ausprobieren können, ich merke dann schon, wenn ich zu weit gehe. Manchmal packt es mich einfach, dann will ich schon ein bisschen experimentieren, sie kann ja jederzeit sagen, wenn&#8217;s ihr nicht mehr passt. Einmal bin ich echt zu weit gegangen, in Sevilla. Aber he, wir haben darüber geredet und jetzt ist alles wieder in Butter. Molly ist da schon eher der Typ Frau, der offen ist für gewisse Praktiken. Die fängt nicht an zu heulen, wenn&#8217;s mal heftiger wird. 
-
 <figure>
   <img sizes="100vw" srcset="https://farm1.staticflickr.com/725/33022635500_21e89a2fc5_n.jpg 320w, https://farm1.staticflickr.com/725/33022635500_21e89a2fc5_z.jpg 640w, https://farm1.staticflickr.com/725/33022635500_21e89a2fc5_c.jpg 800w, https://farm1.staticflickr.com/725/33022635500_ffab99b2d2_h.jpg 1600w, https://farm1.staticflickr.com/725/33022635500_7e9c053076_k.jpg 2048w" src="https://farm1.staticflickr.com/725/33022635500_21e89a2fc5_b.jpg" alt="Silvia und Gerhard">
   <figcaption>Silvia und Gerhard, Szenenfoto Toscana-Therapie</figcaption>
@@ -79,4 +78,4 @@ Marion ist schon ein bisschen verklemmt. Also in sexueller Hinsicht. Ich will ja
 
 Ich hätte nicht so viel Weißwein trinken sollen. Jetzt sitzt diese Silvia neben mir und mir wird ganz anders. Ich sollte diese Nähe nicht zulassen, intellektuell ist sie mir ohnehin nicht gewachsen, nichtmal den Dampfer-unter-der-Brücke-Witz hat sie verstanden. Aber sie verfügt schon über eine beachtliche äußere Attraktivität, und wenn Karin sich jetzt wirklich mit Victor im Bett tummelt, warum soll ich dann nicht auch, sie kommt mir immer näher, was soll ich nur tun? 
 
-Der Orcio in Scherben, Anja fristlos entlassen, Dieter naht, Marion ausgezogen, ich hasse Karin, Molly war&#8217;s, Fanfarenklänge, Versöhnung, Wahnsinn, Vorhang.
+Der Orcio in Scherben, Anja fristlos entlassen, Dieter naht, Marion ausgezogen, ich hasse Karin, Molly war's, Fanfarenklänge, Versöhnung, Wahnsinn, Vorhang.

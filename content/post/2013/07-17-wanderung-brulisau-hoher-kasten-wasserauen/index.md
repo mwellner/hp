@@ -3,12 +3,22 @@ title: Wanderung im Alpstein
 date: 2013-07-17T22:49:46+00:00
 lastmod: 2018-01-01T13:18:15+00:00
 author: Mathias Wellner
+resources:
+  - name: ausblick
+    src: ausblick.jpg
+    title: Ausblick vom Hohen Kasten in Richtung Norden
+  - name: turm
+    src: turm.jpg
+    title: Funkturm auf dem Hohen Kasten
 categories:
   - wandern
 tags:
   - alpstein
 ---
 Gern wollte ich mal eine andere Ecke des Alpsteins kennen lernen. Und an diesem schönen Sommertag war es endlich so weit, dank einer [Spontacts](http://www.spontacts.com)-Verabredung kam die Wanderung zustande. 
+<!--more-->
+
+{{<responsive-image name="ausblick">}}
 
 **Stationen**
 
@@ -18,18 +28,4 @@ Gern wollte ich mal eine andere Ecke des Alpsteins kennen lernen. Und an diesem 
   * Mans
   * Wasserauen (876&thinsp;m)
 
-<div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/9311061309/" title="MW_20130717_3531.jpg by mwellner, on Flickr"><img src="https://farm4.staticflickr.com/3746/9311061309_07271114b1.jpg" width="500" height="333" alt="MW_20130717_3531.jpg" /></a>
-  
-  <p class="wp-caption-text">
-    Ausblick vom Hohen Kasten Richtung Norden<br />
-  </p>
-</div>
-
-<div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/mwellner/9311174423/" title="MW_20130717_3532.jpg by mwellner, on Flickr"><img src="https://farm4.staticflickr.com/3820/9311174423_137082cb17.jpg" width="500" height="333" alt="MW_20130717_3532.jpg" /></a>
-  
-  <p class="wp-caption-text">
-    Funkturm auf dem Hohen Kasten<br />
-  </p>
-</div>
+{{<responsive-image name="turm">}}

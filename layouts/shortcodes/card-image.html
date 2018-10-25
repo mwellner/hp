@@ -1,0 +1,3 @@
+{{ $image := .Page.Resources.GetMatch (.Get "name") }}
+
+<img class="card-img-top mt-0" src="{{ $image.RelPermalink }}" {{ with $image.Title }} alt="{{.}}" {{ end }}>

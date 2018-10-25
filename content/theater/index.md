@@ -2,12 +2,41 @@
 title: Theater
 date: 2018-05-23T15:23:09+00:00
 author: Mathias Wellner
+resources:
+  - name: rose 
+    src: rose.jpg
+  - name: loewe
+    src: loewe.jpg
+  - name: realthing
+    src: realthing.jpg
+  - name: biografie
+    src: biografie.jpg
+  - name: wilde
+    src: wilde.jpg
+  - name: bananen
+    src: bananen.jpg
+  - name: ichtreusuche
+    src: ichtreusuche.jpg
+  - name: wanja
+    src: wanja.jpg
+  - name: toscana
+    src: toscana.jpg
+  - name: halbkontakt
+    src: halbkontakt.jpg
+  - name: topdogs
+    src: topdogs.jpg
+  - name: arkadien
+    src: arkadien.jpg
+  - name: neun
+    src: neun.jpg
+  - name: laesterschule
+    src: laesterschule.jpg
 ---
 Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein gutes Dutzend Produktionen als Schauspieler und eine als Regisseur. Ich habe von 2010 bis 2013 einige Kurse und Praxisproduktionen am [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch) besucht.
 
 <div class="card-columns">
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/788/27132995918_bd5defd546.jpg" alt="Der Name der Rose">
+    {{<card-image name="rose">}}
     <div class="card-body">
       <h5 class="card-title">Der Name der Rose</h5>
       <h6 class="card-subtitle text-muted">Umberto Eco</h6>
@@ -26,7 +55,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://farm5.staticflickr.com/4460/37553968276_bae379c720.jpg" alt="Der Löwe im Winter">
+    {{<card-image name="loewe">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="https://mga-darmstadt.de/der-loewe-im-winter">Der Löwe im Winter</a>
@@ -47,7 +76,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/2/1639/24451385654_d67b5c3b80.jpg" alt="Das einzig Wahre">
+    {{<card-image name="realthing">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="http://dramateure.ch/wordpress/produktionen/das-einzig-wahre/">Das einzig Wahre</a>
@@ -69,7 +98,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
   </div>
 
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2888/33325170016_d1d2fa7021.jpg" alt="Biografie: ein Spiel">
+    {{<card-image name="biografie">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="http://dramateure.ch/wordpress/produktionen/biografie-ein-spiel/">Biografie: ein Spiel</a>
@@ -90,7 +119,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/769/32562383644_07f1135b51.jpg" alt="Ein idealer Gatte">
+    {{<card-image name="wilde">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="http://dramateure.ch/wordpress/produktionen/ein-idealer-gatte/">Ein idealer Gatte</a>
@@ -109,7 +138,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2853/11425143673_6df8b68916.jpg" alt="Szenenfoto Bananen, vorne links">
+    {{<card-image name="bananen">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="http://theater-frischfleisch.ch/?page_id=9">Bananen, vorne links</a>
@@ -130,7 +159,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3674/33405029955_82f380731e.jpg" alt="Szenenfoto Ich, treu, suche">
+    {{<card-image name="ichtreusuche">}}
     <div class="card-body">
       <h5 class="card-title">Ich, treu, suche</h5>
       <h6 class="card-subtitle text-muted">Eveline Ketterer</h6>
@@ -149,7 +178,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3811/33405103085_5f49390215.jpg" alt="Szenenfoto, Onkel Wanja">
+    {{<card-image name="wanja">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="http://dramateure.ch/mediawiki/index.php?title=Onkel_Wanja">Onkel Wanja</a>
@@ -170,7 +199,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2901/33364872366_ca647575a7.jpg" alt="Szenenfoto Toscana-Therapie">
+    {{<card-image name="toscana">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="http://dramateure.ch/mediawiki/index.php?title=Toscana-Therapie">Toscana-Therapie</a>
@@ -191,7 +220,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3939/32563210164_5f6d80efa5.jpg" alt="Szenenfoto Halbkontakt">
+    {{<card-image name="halbkontakt">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="http://theater-frischfleisch.ch/?page_id=56">Halbkontakt</a>
@@ -212,7 +241,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/3/2871/33517189015_38daae0f86.jpg" alt="Ein idealer Gatte">
+    {{<card-image name="topdogs">}}
     <div class="card-body">
       <h5 class="card-title">Top Dogs</h5>
       <h6 class="card-subtitle text-muted">Urs Widmer</h6>
@@ -231,7 +260,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/567/33383205796_25f5938c10.jpg" alt="Szenenfoto Arkadien">
+    {{<card-image name="arkadien">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="http://www.aki.ethz.ch/akitiv/archive/arkadien/index.html">Arkadien</a>
@@ -252,7 +281,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/4/3126/2573026271_20b9e203a4.jpg" alt="Szenenfoto Da waren's nur noch neun">
+    {{<card-image name="neun">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="http://www.aki.ethz.ch/akitiv/archive/nurnochneun/index.html">Da waren's nur noch neun</a>
@@ -273,7 +302,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top mt-0" src="https://c1.staticflickr.com/1/689/32581237074_292fe9165b.jpg" alt="Szenenfoto Die Lästerschule">
+    {{<card-image name="laesterschule">}}
     <div class="card-body">
       <h5 class="card-title">
         <a href="http://www.aki.ethz.ch/akitiv/archive/laesterschule/index.html">Die Lästerschule</a>

@@ -1,7 +1,7 @@
 ---
 title: halbkontakt@BöserMontag
 date: 2011-02-01T16:08:40+00:00
-lastmod: 2018-01-15T11:53:17+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 categories:
   - theater

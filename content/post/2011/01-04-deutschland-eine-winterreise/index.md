@@ -2,7 +2,7 @@
 title: Deutschland -- eine Winterreise
 slug: deutschland-eine-winterreise
 date: 2011-01-04T23:28:50+00:00
-lastmod: 2018-01-15T11:37:39+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 resources:
   - name: feld

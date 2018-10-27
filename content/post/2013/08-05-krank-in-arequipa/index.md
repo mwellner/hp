@@ -1,7 +1,7 @@
 ---
 title: Krank in Arequipa
 date: 2013-08-05T05:33:47+00:00
-lastmod: 2018-01-15T16:18:22+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 resources:
   - name: teller

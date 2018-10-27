@@ -1,7 +1,7 @@
 ---
 title: Islas Ballestas
 date: 2013-07-31T18:31:38+00:00
-lastmod: 2018-01-05T22:54:11+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 resources:
   - name: pinguine

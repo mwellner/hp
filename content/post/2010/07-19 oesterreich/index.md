@@ -1,7 +1,7 @@
 ---
 title: Bergwandern
 date: 2010-07-19T23:11:18+00:00
-lastmod: 2017-09-28T22:28:53+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 resources:
   - name: berge

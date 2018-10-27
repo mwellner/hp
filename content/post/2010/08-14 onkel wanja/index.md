@@ -2,7 +2,7 @@
 title: Anton Tschechow -- Onkel Wanja
 slug: anton-tschechow-onkel-wanja
 date: 2010-08-14T20:49:21+00:00
-lastmod: 2017-12-18T20:28:37+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 categories:
   - theater

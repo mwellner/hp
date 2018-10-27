@@ -1,7 +1,7 @@
 ---
 title: Wanderung im Alpstein
 date: 2013-07-17T22:49:46+00:00
-lastmod: 2018-01-01T13:18:15+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 resources:
   - name: ausblick

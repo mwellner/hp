@@ -1,7 +1,7 @@
 ---
 title: halbToscanaKontaktTherapie
 date: 2011-03-12T17:11:28+00:00
-lastmod: 2018-01-15T12:11:54+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 resources:
   - name: hk

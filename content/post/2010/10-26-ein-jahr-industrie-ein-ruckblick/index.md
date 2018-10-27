@@ -1,7 +1,7 @@
 ---
 title: 'Ein Jahr Industrie &ndash; ein Rückblick'
 date: 2010-10-26T22:36:20+00:00
-lastmod: 2018-01-20T22:21:20+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

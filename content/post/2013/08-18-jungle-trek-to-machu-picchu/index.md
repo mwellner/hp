@@ -1,7 +1,7 @@
 ---
 title: Jungle Trek zum Machu Picchu
 date: 2013-08-18T00:07:00+00:00
-lastmod: 2018-01-15T16:18:19+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 resources:
   - name: schienen

@@ -1,7 +1,7 @@
 ---
 title: halbkontakt@ErzählnachtEglisau
 date: 2011-01-22T12:23:10+00:00
-lastmod: 2018-01-15T11:44:50+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 resources:
   - name: flyer

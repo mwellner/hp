@@ -1,7 +1,7 @@
 ---
 title: Flyermotiv für Halbkontakt
 date: 2011-01-09T14:00:25+00:00
-lastmod: 2018-01-15T11:38:59+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 resources:
   - name: flyer

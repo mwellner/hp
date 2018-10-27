@@ -1,7 +1,7 @@
 ---
 title: Wanderung am Walensee
 date: 2010-08-21T21:27:38+00:00
-lastmod: 2018-01-20T22:17:48+00:00
+lastmod: 2018-10-27T15:42:28+00:00
 author: Mathias Wellner
 resources:
   - name: blick

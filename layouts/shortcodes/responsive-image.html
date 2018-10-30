@@ -1,4 +1,5 @@
 {{ $image := .Page.Resources.GetMatch (.Get "name") }}
+{{ $image32 := $image.Resize "32x" }}
 {{ $image320 := $image.Resize "320x" }}
 {{ $image640 := $image.Resize "640x" }}
 {{ $image800 := $image.Resize "800x" }}
@@ -7,7 +8,7 @@
 
 <figure {{ with .Get "class" }} class="{{.}}" {{ end }}>
   <img class="lazy" sizes="100vw" 
-    src="{{$image320.RelPermalink}}"
+    src="data:image/jpeg;base64,{{ $image32.Content | base64Encode }}" 
     data-srcset="{{$image320.RelPermalink}} 320w, {{$image640.RelPermalink}} 640w, {{$image800.RelPermalink}} 1000w, {{$image1300.RelPermalink}} 1600w, {{$image1600.RelPermalink}} 1800w"
     {{ with $image.Title }} alt="{{.}}" {{ end }}
   >

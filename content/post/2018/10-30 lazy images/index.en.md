@@ -8,6 +8,8 @@ categories:
 tags:
   - hugo
   - weblog
+  - responsive image
+  - lazy load
 ---
 I like photos and use them extensively on my this weblog. But images have a price, as every image needs to be fetched by a request. And so, image-heavy pages take quite some time to load. In the past weeks, I have introduced lazy-loading images on this weblog and would like to share how I did this. 
 <!--more-->

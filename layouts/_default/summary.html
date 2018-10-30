@@ -1,11 +1,15 @@
 {{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
 
 <div class="card">
-  {{ $image := .Page.Resources.GetMatch "*" }}
+  {{ $image := .Page.Resources.GetMatch "*" }}  
   {{ if $image }}
+  {{ $image32 := $image.Resize "32x" }}
+  {{ $image320 := $image.Resize "320x" }}
   {{ $image640 := $image.Resize "640x" }}
   <a href="{{ .Permalink }}">
-    <img class="card-img-top" src="{{ $image640.RelPermalink }}">
+    <img class="card-img-top lazy"
+      src="{{$image32.RelPermalink}}" 
+      data-srcset="{{$image320.RelPermalink}} 320w, {{$image640.RelPermalink}} 640w">
   </a>
   {{ end }}
   <div class="card-body">

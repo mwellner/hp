@@ -151,7 +151,10 @@ figure {
   }
   img {
     width: 100%;
-    height: auto;    
+    height: auto;
+    .lazy {
+      filter: blur(2vw);
+    }
   }
 }
 

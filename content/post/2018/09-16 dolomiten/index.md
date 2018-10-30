@@ -1,6 +1,6 @@
 ---
 date: "2018-09-20T19:29:12"
-lastmod: 2018-09-24T20:43:45+00:00
+lastmod: 2018-10-29T23:18:58+00:00
 title: Dolomiten
 author: Mathias Wellner
 resources:

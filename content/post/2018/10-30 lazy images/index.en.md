@@ -22,21 +22,19 @@ I like photos and use them extensively on this site. But images have a price, as
 
 ### Approach
 
-I have combined several approaches and implemented them with [hugo](https://gohugo.io/).
+I have combined [responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) and previews with [Data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs), demonstrated with [hugo](https://gohugo.io/) and JavaScript.
 
 #### Responsive images
 
-Hugo allows the definition of page resources, which I have used mainly for images. By defining images, we can pass them to partials, resize them, and convert them to [Data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs). 
+Hugo allows the definition of [page resources](https://gohugo.io/content-management/page-resources/), which I have used for all images. Having defined images as page resources, we can pass them to partials, resize them, and convert them to [Data URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs). 
 
-In the front matter section: 
-{{<highlight yaml "linenos=table">}}
+In the front matter section (here with YAML): 
+{{<highlight yml "linenos=table">}}
 resources:
-  - name: image1
-    src: image1.jpg
-    title: Some description of the image
+  - { name: image1, src: image1.jpg, title: Description of the image }
 {{</highlight>}}
 
-Within a page or shortcode definition, the image can now be used for a srcset definition. The example shows my responsive image shortcode, which gets a resource name as input. The image _src_ attribute is set to the data URL of the small version (32px). 
+Within a page or shortcode definition, the image page resource can now be used for a _srcset_ definition. The example shows my responsive image shortcode, which gets a resource name as input. The image _src_ attribute is set to the data URL of the small version (32px). 
 
 {{<highlight html "linenos=table">}}
 {{ $image := .Page.Resources.GetMatch (.Get "name") }}
@@ -86,7 +84,7 @@ document.addEventListener("DOMContentLoaded", function() {
       lazyloadImages = document.querySelectorAll(".lazy");
       
       function lazyload () {
-        if(lazyloadThrottleTimeout) {
+        if (lazyloadThrottleTimeout) {
           clearTimeout(lazyloadThrottleTimeout);
         }    
   
@@ -98,7 +96,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 img.classList.remove('lazy');
               }
           });
-          if(lazyloadImages.length == 0) { 
+          if (lazyloadImages.length == 0) { 
             document.removeEventListener("scroll", lazyload);
             window.removeEventListener("resize", lazyload);
             window.removeEventListener("orientationChange", lazyload);
@@ -115,3 +113,5 @@ document.addEventListener("DOMContentLoaded", function() {
 {{</highlight>}}
 
 The main advantage of this approach is that small previews are loaded with the the page itself, embedded as data URLs inside of the HTML. The srcset attribute is initially inactive and only triggered for visible images later on, when the JavaScript executes.
+
+### Browser compatibility

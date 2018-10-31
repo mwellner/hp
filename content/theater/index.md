@@ -3,34 +3,20 @@ title: Theater
 date: 2018-05-23T15:23:09+00:00
 author: Mathias Wellner
 resources:
-  - name: rose 
-    src: rose.jpg
-  - name: loewe
-    src: loewe.jpg
-  - name: realthing
-    src: realthing.jpg
-  - name: biografie
-    src: biografie.jpg
-  - name: wilde
-    src: wilde.jpg
-  - name: bananen
-    src: bananen.jpg
-  - name: ichtreusuche
-    src: ichtreusuche.jpg
-  - name: wanja
-    src: wanja.jpg
-  - name: toscana
-    src: toscana.jpg
-  - name: halbkontakt
-    src: halbkontakt.jpg
-  - name: topdogs
-    src: topdogs.jpg
-  - name: arkadien
-    src: arkadien.jpg
-  - name: neun
-    src: neun.jpg
-  - name: laesterschule
-    src: laesterschule.jpg
+  - { name: rose, src: rose.jpg }
+  - { name: loewe, src: loewe.jpg }
+  - { name: realthing, src: realthing.jpg }
+  - { name: biografie, src: biografie.jpg }
+  - { name: wilde, src: wilde.jpg }
+  - { name: bananen, src: bananen.jpg }
+  - { name: ichtreusuche, src: ichtreusuche.jpg }
+  - { name: wanja, src: wanja.jpg }
+  - { name: toscana, src: toscana.jpg }
+  - { name: halbkontakt, src: halbkontakt.jpg }
+  - { name: topdogs, src: topdogs.jpg }
+  - { name: arkadien, src: arkadien.jpg }
+  - { name: neun, src: neun.jpg }
+  - { name: laesterschule, src: laesterschule.jpg }
 ---
 Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein gutes Dutzend Produktionen als Schauspieler und eine als Regisseur. Ich habe von 2010 bis 2013 einige Kurse und Praxisproduktionen am [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch) besucht.
 

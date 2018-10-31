@@ -11,13 +11,13 @@ tags:
   - responsive image
   - lazy load
 ---
-I like photos and use them extensively on my this weblog. But images have a price, as every image needs to be fetched by a request. And so, image-heavy pages take quite some time to load. In the past weeks, I have introduced lazy-loading images on this weblog and would like to share how I did this. 
+I like photos and use them extensively on this site. But images have a price, as images can be quite large and every image needs to be fetched by a request. And so, image-heavy pages take quite some time to load. In the past weeks, I have introduced lazy-loading images on this weblog and would like to share how I did this. The examples are done in [Hugo](https://gohugo.io/), a static site generator. 
 <!--more-->
 
 ### Goal
 
-1. Use [responsive images](https://responsiveimages.org/), delivering the right size for each device, ranging from cell phones to high-resolution retina displays.
-2. Reduce initial loading time (time to first meaningful paint)
+1. Deliver the right image size for each device, ranging from cell phones to high-resolution retina displays
+2. Reduce initial loading time
 3. Do not load images which are initially invisible
 
 ### Approach
@@ -106,6 +106,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }, 20);
       }
   
+      lazyload();
       document.addEventListener("scroll", lazyload);
       window.addEventListener("resize", lazyload);
       window.addEventListener("orientationChange", lazyload);

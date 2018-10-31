@@ -115,3 +115,5 @@ document.addEventListener("DOMContentLoaded", function() {
 The main advantage of this approach is that small previews are loaded with the the page itself, embedded as data URLs inside of the HTML. The srcset attribute is initially inactive and only triggered for visible images later on, when the JavaScript executes.
 
 ### Browser compatibility
+
+There is an issue with Internet Explorer 11, which does not support [Array.prototype.forEach()](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach). 

@@ -8,8 +8,6 @@ categories:
 tags:
   - hugo
   - weblog
-  - responsive image
-  - lazy load
 ---
 I like photos and use them extensively on this site. But images have a price, as images can be quite large and every image needs to be fetched by a request. And so, image-heavy pages take quite some time to load. In the past weeks, I have introduced lazy-loading images on this weblog and would like to share how I did this. The examples are done in [Hugo](https://gohugo.io/), a static site generator. 
 <!--more-->

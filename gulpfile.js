@@ -1,16 +1,19 @@
 const gulp = require("gulp");
-const del = require("del");
-const rename = require("gulp-rename");
 const uglify = require("gulp-uglify");
-const concat = require("gulp-concat");
 const sass = require("gulp-sass");
 const postcss = require("gulp-postcss");
+const rename = require("gulp-rename");
 
-const jsFiles = ["node_modules/jquery/dist/jquery.js", "node_modules/tether/dist/js/tether.js", "node_modules/bootstrap/dist/js/bootstrap.bundle.js", "source/js/*.js"];
-const jsDest = "static/js";
+const jsFiles = [
+    "node_modules/jquery/dist/jquery.js",
+    "node_modules/tether/dist/js/tether.js",
+    "node_modules/bootstrap/dist/js/bootstrap.bundle.js",
+    "source/js/*.js"
+];
+const jsDest = "static/js/";
 gulp.task("scripts", () => gulp.src(jsFiles)
-    .pipe(concat("bundle.min.js"))
     .pipe(uglify())
+    .pipe(rename({suffix: ".min"}))
     .pipe(gulp.dest(jsDest))
 );
 

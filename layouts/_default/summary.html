@@ -7,9 +7,9 @@
   {{ $image320 := $image.Resize "320x" }}
   {{ $image640 := $image.Resize "640x" }}
   <a href="{{ .Permalink }}">
-    <img class="card-img-top lazy"
-      src="data:image/jpeg;base64,{{ $image32.Content | base64Encode }}" 
-      data-srcset="{{$image320.RelPermalink}} 320w, {{$image640.RelPermalink}} 640w">
+    <img class="card-img-top"
+      src="{{$image320.RelPermalink}}" 
+      srcset="{{$image320.RelPermalink}} 320w, {{$image640.RelPermalink}} 640w">
   </a>
   {{ end }}
   <div class="card-body">

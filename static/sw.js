@@ -1,11 +1,9 @@
-var CACHE_NAME = 'mwellner-cache-v1';
+var CACHE_NAME = 'mwellner-cache-v2';
 var urlsToCache = [
   '/',
   '/css/style.css',
   '/js/bootstrap.bundle.min.js',
-  '/js/foreach.polyfill.min.js',
   '/js/jquery.min.js',
-  '/js/lazy-load-images.min.js',
   '/js/tether.min.js'
 ];
 
@@ -61,7 +59,7 @@ self.addEventListener('fetch', function(event) {
 });
 
 self.addEventListener('activate', function(event) {
-  var cacheWhitelist = ['mwellner-cache-v1'];
+  var cacheWhitelist = ['mwellner-cache-v2'];
   event.waitUntil(
     caches.keys().then(function(cacheNames) {
       return Promise.all(

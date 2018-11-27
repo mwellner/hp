@@ -3,13 +3,12 @@
 <div class="card">
   {{ $image := .Page.Resources.GetMatch "*" }}  
   {{ if $image }}
-  {{ $image32 := $image.Resize "32x" }}
   {{ $image320 := $image.Resize "320x" }}
-  {{ $image640 := $image.Resize "640x" }}
+  {{ $image540 := $image.Resize "540x" }}
   <a href="{{ .Permalink }}">
     <img class="card-img-top"
       src="{{$image320.RelPermalink}}" 
-      srcset="{{$image320.RelPermalink}} 320w, {{$image640.RelPermalink}} 640w">
+      srcset="{{$image320.RelPermalink}} 320w, {{$image540.RelPermalink}} 540w">
   </a>
   {{ end }}
   <div class="card-body">

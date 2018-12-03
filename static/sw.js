@@ -21,24 +21,16 @@ if (!isLocalhost) {
   });
 
   self.addEventListener('fetch', function (event) {
-    if (event.request === 'https://mwellner.de/') {
-      event.respondWith(
-        fetch(event.request).catch(function() {
-          return caches.match(event.request);
-        })
-      )
-    } else {
-      event.respondWith(
-        caches.open(CACHE_NAME_DYNAMIC).then(function (cache) {
-          return cache.match(event.request).then(function (response) {
-            return response || fetch(event.request).then(function (response) {
-              cache.put(event.request, response.clone());
-              return response;
-            });
+    event.respondWith(
+      caches.open(CACHE_NAME_DYNAMIC).then(function (cache) {
+        return cache.match(event.request).then(function (response) {
+          return response || fetch(event.request).then(function (response) {
+            cache.put(event.request, response.clone());
+            return response;
           });
-        })
-      );
-    }
+        });
+      })
+    );
   });
 
   self.addEventListener('activate', function (event) {

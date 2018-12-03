@@ -1,7 +1,6 @@
 var CACHE_NAME_DYNAMIC = 'mwellner-dynamic-v1';
 var CACHE_NAME_SHELL = 'mwellner-shell-v1';
 var urlsToCache = [
-  '/',
   '/css/style.css',
   '/js/bootstrap.bundle.min.js',
   '/js/jquery.min.js',

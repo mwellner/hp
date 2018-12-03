@@ -21,7 +21,7 @@ if (!isLocalhost) {
   });
 
   self.addEventListener('fetch', function (event) {
-    if (event.request === '/') {
+    if (event.request === 'https://mwellner.de/') {
       event.respondWith(
         fetch(event.request).catch(function() {
           return caches.match(event.request);

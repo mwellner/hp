@@ -1,6 +1,6 @@
 ---
 date: "2017-08-16T21:40:15"
-lastmod: 2018-06-25T22:30:17+00:00
+lastmod: 2018-12-04T23:28:20+00:00
 title: Digitale Stadt Darmstadt
 slug: digitale-stadt-darmstadt
 author: Mathias Wellner
@@ -12,6 +12,7 @@ categories:
   - tagebuch
 tags:
   - darmstadt
+  - hoffart
 ---
 Heute besuchte ich einen Informationsabend der [Grünen in Darmstadt](http://www.gruene-darmstadt.de/kreisverband/), genauer gesagt des [Arbeitskreises Digital](http://www.gruene-darmstadt.de/kreisverband/showcontent.asp?ThemaID=462). Thema war die digitale städtische Entwicklung, mit dabei war natürlich der Oberbürgermeister Jochen Partsch. Es war mein erster Kontakt mit Kommunalpolitik in meiner neuen Heimat. 
 

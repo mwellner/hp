@@ -138,7 +138,7 @@
             .then(function (response) {
               // NETWORK
               // If the request is for an image, stash a copy of this image in the images cache
-              if (request.headers.get('Accept').indexOf('image') !== -1) {
+              if (request.indexOf('.jpg') !== -1 || request.indexOf('.jpeg') !== -1) {
                 var copy = response.clone();
                 var cacheName = version + imagesCacheName;
                 stashInCache(cacheName, request, copy);

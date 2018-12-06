@@ -24,7 +24,7 @@ Durch die Kooperation mit dem <a href="http://www.winterthurcc.ch/" title="Winte
 
 Im Stück spielt der Schläger dann auch eine wichtige Rolle. Als Annie und Henry über das Brodie-Stück diskutieren, das Henry miserabel findet, Annie aber als ungeschliffen, aber _echt_ verteidigt, weiß sich Henry nicht anders zu helfen, als zum Cricket-Schläger zu greifen.
 
-<blockquote class="blockquote">
+{{<blockquote>}}
   HENRY Halt den Mund, und hör mir zu. Dieses Ding hier, das aussieht wie eine hölzerne Keule, besteht in Wahrheit aus mehreren Stücken von ganz besonderem Holz, die auf eine ganz bestimmte Weise so raffiniert zusammengefügt sind, dass das gesamte Ding federt wie ein Tanzboden. Damit schlägt man Cricketbälle. Wenn du es richtig machst, dann fliegt der Cricketball 300 Meter weit in vier Sekunden, und du hast nicht mehr getan, als ihm einen Stoß gegeben, wie wenn man den Verschluss einer Bierflasche wegschnippst und es macht ein Geräusch wie eine Forelle, die den Köder schluckt&#8230; <br>
   <em>Er schnalzt mit der Zunge, um das Geräusch nachzuahmen.</em> 
   Was wir versuchen, ist Cricketbälle zu schreiben, damit eine Idee, die uns entspringt und der wir einen kleinen Stoß versetzen&#8230; weit, weit fliegen, kann&#8230;
@@ -32,7 +32,7 @@ Im Stück spielt der Schläger dann auch eine wichtige Rolle. Als Annie und Henr
   Nun. Was wir hier vor uns haben, ist ein Stück Holz von ungefähr gleicher Form, das versucht, ein Cricketschläger zu sein, und wenn du damit einen Ball schlägst, dann fliegt der Ball ungefähr drei Meter weit und du lässt den Schläger fallen und hüpfst herum und schreist: autsch!
   <em>Er zeigt auf den Cricketschläger.</em>
   Der da ist nicht besser, weil jemand sagt, dass er besser ist, oder weil der Cricketverband sich verschworen hat, Knüppel nicht zu den Meisterschaften zuzulassen. Er ist besser, weil er besser ist. Du glaubst mir nicht, also schlage ich dir vor, geh hin und spiel Cricket mit diesem Ding, und sieh, was du erreichst. „Sie sind ein merkwürdiger Junge, Billy, wie alt sind Sie?“ „Zwanzig, aber ich habe mehr gelebt, als Sie je leben werden.“ Autsch, autsch! 
-</blockquote>
+{{</blockquote>}}
 
 Dieser Monolog war auch einer der ersten Texte, die ich gelernt habe. Während der Casting-Phase wollte unser damaliger Regisseur einige Szenen sehen, und nichts bot sich besser an als dieser schöne Monolog, um die Kandidaten für Henry auf ihre Eignung zu testen. Wir haben auch gar nicht viel dran geändert seither, durch das Objekt und die Bewegung damit ist das eine kraftvolle, plastische Szene.  
 

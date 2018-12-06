@@ -17,9 +17,9 @@ Der äußerst lesenswerte ZEIT-Artikel [Europa, wir brauchen dich](http://www.ze
 
 Als zentrale Formel des Kommunismus kann gelten:
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen. 
-</blockquote>
+{{</blockquote>}}
 
 Die Probleme, welche dann auch zum Zusammenbruch der meisten kommunistischen oder sozialistischen Nationen führten, waren vor allem mangelnde Eigeninitiative der Bürger und ein allmächtiger Staat.
 
@@ -27,9 +27,9 @@ Die Probleme, welche dann auch zum Zusammenbruch der meisten kommunistischen ode
 
 Vordenker des Kapitalismus war Adam Smith, von ihm stammt das folgende Zitat:
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Jeder Einzelne ist ständig bemüht, den vorteilhaftesten Einsatz für jegliches Kapital zu finden, über das er verfügt. Es ist aber tatsächlich sein eigener Vorteil und nicht der Nutzen der Gesellschaft, auf den er aus ist. Doch die Suche nach seinem eigenen Vorteil führt ihn auf natürlichem Wege, oder besser notwendigerweise, dazu, den Einsatz zu bevorzugen, der für die Gesellschaft am vorteilhaftesten ist. 
-</blockquote>
+{{</blockquote>}}
 
 Doch leider funktioniert diese "unsichtbare Hand" in der Wirklichkeit nicht, so dass nicht der Wohlstand aller, sondern der zunehmende Reichtum einiger weniger das Resultat ist. Bedenklicher ist die Zerstörung der Umwelt, die ebenfalls eine Folge des kurzfristigen Gewinnstrebens ist.
 

@@ -17,15 +17,13 @@ resources:
 categories:
   - theater
 tags:
-  - bühne
   - regie
   - oscar wilde
   - idealer gatte
 ---
-<blockquote class="blockquote">
+{{<blockquote cite="Peter Brook, Wanderjahre">}}
   Die Energie, die durch das Arbeiten produziert wird, ist wichtiger als alles andere. Lassen Sie sich also nicht davon abhalten, aktiv zu sein, und sei es auch unter den primitivsten Bedingungen, statt Zeit damit zu vergeuden, nach besseren Bedingungen Ausschau zu halten, die sich vielleicht nicht finden lassen. Am Ende zieht Arbeit Arbeit an.
-  <footer class="blockquote-footer">Peter Brook, Wanderjahre</footer>
-</blockquote>
+{{</blockquote>}}
 
 Wir haben in den ersten drei Monaten der Produktion [Ein idealer Gatte](http://dramateure.ch/wordpress/produktionen/ein-idealer-gatte/ "Ein idealer Gatte") viel erreicht. Für mich geht mit meiner ersten Regiearbeit ein Traum in Erfüllung, den ich im Herbst 2009 auf ein Stück Papier kritzelte. Damals war das noch eine vage Idee, inzwischen ist es intensive und fordernde Realität. 
 <!--more-->

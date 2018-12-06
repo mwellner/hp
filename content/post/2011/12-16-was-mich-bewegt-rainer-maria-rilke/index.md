@@ -9,7 +9,7 @@ categories:
 tags:
   - rainer maria rilke
 ---
-<blockquote class="blockquote" style="max-width: 30rem">
+{{<blockquote>}}
 Man muss den Dingen<br>
 Die eigene, stille,<br>
 ungestörte Entwicklung lassen,<br>
@@ -46,6 +46,6 @@ lebt man vielleicht allmählich,<br>
 ohne es zu merken,<br>
 eines fremden Tages<br>
 in die Antwort hinein.<br>
-</blockquote>
+{{</blockquote>}}
 
 Der Dank für dieses inspirierende Gedicht geht an Marco. Man kann es auch sehr gut auf das Schauspiel beziehen, beim [Method Acting](http://de.wikipedia.org/wiki/Method_Acting) kommt es unter anderem auch darauf an, aus einem Zustand der inneren Entspannung zu agieren. Das Überspielen ist das Hauptproblem aller Schauspieler, besonders der jungen. Und so erinnert mich vor allem die erste Strophe an die als Schauspieler &ndash; aber natürlich auch als Mensch &ndash; anzustrebende Grundgelassenheit.

@@ -19,7 +19,7 @@ Die Moderationskunst von Barbara Villiger Heilig (NZZ-Feulletonistin) ließ zu w
 
 Zwei männliche Schauspieler lasen einen Ausschnitt des Textes, der im späten 18. Jahrhundert entstand. 
 
-<blockquote class="blockquote">
+{{<blockquote cite="Denis Diderot, Paradox über den Schauspieler, Übersetzung von Felix Rellstab">}}
 ZWEITER Ich zweifle daran.<br>
 ERSTER Und ich beharre auf meiner Meinung.<br>
 ZWEITER Beharren Sie darauf, ich bin einverstanden; aber denken Sie daran, ich bin keine Frau, und Sie müssen sich bitte erklären.<br>
@@ -36,8 +36,7 @@ ERSTER Keine.<br>
 Sie sind für allzu vieles gleichermassen befähigt, sind zu sehr beschäftigt mit Beobachten, Auskundschaften und Nachahmen, als dass sie in ihrem Inneren heftig ergriffen würden. Ich sehe sie dauernd mit dem Notizblock auf den Knien und dem Bleistift in der Hand. <br>
 Wir, wir fühlen. Sie, sie beobachten, studieren und malen. Soll ich es sagen? Warum nicht. Empfindsamkeit ist kaum eine Eigenschaft des grossen Genies. Nicht sein Herz, sein Kopf tut alles. Der empfindsame Mensch verliert ihn beim geringsten unerwarteten Umstand. Er wird weder ein grosser König, noch ein grosser Minister, noch ein grosser Kapitän, noch ein grosser Advokat, noch ein grosser Arzt. <br>
 Füllt den Zuschauerraum mit diesen Trauerweiden, aber lasst mir keinen einzigen von ihnen auf die Bühne. 
-<footer class="blockquote-footer">Quelle: Denis Diderot, Paradox über den Schauspieler, Übersetzung von Felix Rellstab</footer>
-</blockquote>
+{{</blockquote>}}
 
 Es geht um zwei Extreme des Schauspiels, Empfindsamkeit und kaltes Beobachtunsvermögen, letzteres wünscht sich Diderot mehr. Aber eigentlich ist das nicht das wirklich Spannende an diesem Text. Spannend ist vielmehr, dass das Theater damals ein Leitmedium war. Ähnlich wie heute die Kontroverse über Fernsehen und Videospiele tobt, denen man Verdummung oder Steigerung der Gewaltbereitschaft vorwirft, diskutierte man damals ganz ähnliche Fragen in Bezug auf das Theater. 
 

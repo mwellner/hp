@@ -10,6 +10,7 @@ tags:
   - peru
 ---
 Wieder sitzen wir in einem Reisebus von Cruz del Sur, die Fahrt von Ica nach Nazca dauert knapp drei Stunden. Ich lese einen unterhaltsamen Roman über einen Hundertjährigen, der aus dem Fenster stieg und verschwand. Es geht zum einen darum, was ihm auf seiner Flucht aus dem Altersheim so alles widerfährt, zum anderen geht es um sein abenteuerliches Leben, in dem er die Atombombe erst den Amerikanern und dann den Russen ermöglicht und mit diversen Präsidenten und Diktatoren am Tisch sitzt und Schnaps trinkt. Es erinnert ein wenig an Forrest Gump und ist eine sehr schöne Reiselektüre. 
+<!--more-->
 
 Ab und zu schaue ich auch nach draußen, es ist sehr steppig ringsum, von fern winken die Berge. Nascar liegt in einer trockenen Hochebene, kaum vorstellbar, dass hier vor zweitausend Jahre eine Kultur blühte. Jedenfalls haben die Leute damals diese riesigen Figuren im Sand geschaffen, einige sind mehrere hundert Meter ausgedehnt. Warum genau, weiß man nicht, schließlich kann man die Figuren nur aus der Luft wirklich gut sehen. Vielleicht war es einfach ein Zeichen an die Götter. Es gibt da sehr viele Theorien.
 

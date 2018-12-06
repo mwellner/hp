@@ -5,8 +5,8 @@ title: Faust I
 slug: goethe-faust
 author: Mathias Wellner
 resources:
-  - { name: anfang, src: anfang.jpeg, title: In der Studierstube }
-  - { name: trio, src: trio.jpeg, title: Faust, Mephisto und Gretchen }
+  - { name: anfang, src: anfang.jpg, title: In der Studierstube }
+  - { name: trio, src: trio.jpg, title: "Faust, Mephisto und Gretchen" }
 categories:
   - theater
 tags:
@@ -19,8 +19,8 @@ Ein toller Theaterabend, der mir den Glauben an das Darmstädter Stadttheater zu
 
 Der [Prolog im Himmel](http://gutenberg.spiegel.de/buch/faust-eine-tragodie-3664/3) fand im Zuschauerraum statt. Mir war da sogar ein Zuschauer aufgefallen, der mit markanter Frisur zu seinem Platz eilte. Aber ich ahnte nichts, bis es dann dunkel wurde, und ein Zuschauer mit seinem Handy herumleuchtete. Was mich nervte, bis klar wurde, dass es Mephistopheles war, der mit dem Herrn sein anfängliches Zwiegespräch führte. 
 
-<blockquote class="blockquote" style="column-width: 400px;">
-    <dl>
+{{<blockquote column-width="400px">}}
+  <dl>
     <dt>DER HERR</dt>
     <dd>
     Hast du mir weiter nichts zu sagen?<br>
@@ -49,15 +49,15 @@ Der [Prolog im Himmel](http://gutenberg.spiegel.de/buch/faust-eine-tragodie-3664
     Und von der Erde jede höchste Lust,<br>
     Und alle Näh und alle Ferne<br>
     Befriedigt nicht die tiefbewegte Brust.
-    </dd>
-</blockquote>
+  </dd>
+{{</blockquote>}}
 
 {{<responsive-image name="anfang">}}
 
 Danach die erste Szene des Stücks, in der Studierstube. Samuel Koch im Rollstuhl als Faust, so ziemlich alle anderen Darsteller saßen und standen auf Baumstämmen. Ein starkes Bild, wir alle sind Faust, unzufrieden mit dem Erreichten, wollen mehr. Die Baumstämme kann man als Bücherrücken sehen, oder als Umweltzerstörung. Wir haben uns die Erde untertan gemacht, thronen auf ihr, und haben immer noch nicht genug. 
 
-<blockquote class="blockquote" style="column-width: 400px;">
-    <dl>
+{{<blockquote column-width="400px">}}
+  <dl>
     <dt>Faust</dt>
     <dd>
         Habe nun, ach! Philosophie,<br>
@@ -93,8 +93,8 @@ Danach die erste Szene des Stücks, in der Studierstube. Samuel Koch im Rollstuh
         Schau alle Wirkenskraft und Samen,<br>
         Und tu nicht mehr in Worten kramen.
     </dd>
-    </dl>
-</blockquote>
+  </dl>
+{{</blockquote>}}
 
 Nach abgebrochenem Selbstmord und Osterspaziergang taucht der Pudel auf, witzig inszeniert, Mephistopheles verführt Faust und schenkt ihm neue Jugend, neue Lebenskraft. Vor der Pause ein weiteres extrem starkes Bild, Faust (Samuel Koch) ist befestigt an Mephistopheles (Robert Lang), Arme und Beine aneinander gebunden. Ein bisschen wie ein Exoskeleton, dazu Club-Musik, ein paar fesche Hexen und Faust tanzt. 
 

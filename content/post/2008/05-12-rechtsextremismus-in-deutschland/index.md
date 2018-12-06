@@ -15,9 +15,9 @@ Was tun? Als Antwort auf diese drängende Frage hat die ZEIT das Internetportal 
 
 Um in öffentlichen Diskussionen mit rechten Argumenten mithalten zu können, empfiehlt sich eine Auseinandersetzung mit dieser Ideologie. Der ZEIT-Artikel _Neue Heiden hat das Land_ analysiert das rechte Weltbild treffend:
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Dieses Fundament ist seit eh und je ein extremer Biologismus, also die Ansicht, Menschen seien von Natur aus ungleich und unterteilten sich in höher- und minderwertige Wesen, in Herren und Knechte, Führer und Geführte. Deshalb verachten rechte Denker die Idee der Menschenrechte zutiefst. Dass jeder Mensch ein Recht darauf hat, Rechte zu haben, ist für sie ein tödliches Gift im »Volkskörper«. Es lähme die natürliche Auslese von Starken und Schwachen und verhindere das Entstehen von Führungseliten. Anders gesagt: Ohne Lebenskampf entarte die Gesellschaft, und plötzlich gäben Parasiten und volksfremde Elemente den Ton an. Nicht einmal große Kunstwerke brächten diese Kretins zustande. Höchstens Kuckucksuhren, wie die Schweizer.
-</blockquote>
+{{</blockquote>}}
 
 Interessant für mich als Wahlschweizer ist die Frage nach der hiesigen Situation. Aber im Gegensatz zu anderen europäischen Staaten gibt es in der Schweiz keine starken links- oder rechtsextremen Parteien (siehe Schweizer Parteienlandschaft von 1993). Die am rechten Rand des Parteienspektrums stehende _SVP_ kann bestenfalls als rechtspopulistisch, nicht jedoch als rechtsextrem eingestuft werden. Sie bekennt sich zu christlichen, demokratischen Werten, was rechtsextreme Parteien nicht tun. Auf den Seiten der deutschen _NPD_ konnte ich nichts derartiges finden, stattdessen zeigt sich unter _Partei_ und _Untergliederungen_ eine Karte von Deutschland, ebenfalls eingezeichnet sind die 1945 an Polen und Tschechien abgetretenen Ostgebiete und Österreich, anscheinend sollen dort auch NPD-Ableger entstehen. Aber zurück zur Schweizer SVP. So wenig ich persönlich die Asylmissbrauchs- und sonstigen Kampagnen mag, sie erfüllen in der Parteienlandschaft die wichtige Funktion, rechts von der SVP keine Parteien mehr zuzulassen. Denn es gibt da schon noch welche (z.B. die [Partei National Orientierter Schweizer](http://www.pnos.ch), deren Parteiprogramm ist eine ungewollt lustige Lektüre), die aber weder regional noch national eine Rolle spielen.
 

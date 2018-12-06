@@ -31,7 +31,7 @@ Lomov ist nun etwas nervös und holt ein wenig aus, betont die gute Nachbarschaf
 
 Schließlich kommt Čubukov hinzu, auch er hält die Ochsenwiesen für das Eigentum seiner Familie. Wutentbrannt verlässt Lomov das Zimmer, droht mit einem Gerichtsverfahren. Daraufhin erwähnt Čubukov die Heiratsabsichten Lomovs, seine Tochter bedauert den Streit und bittet Lomov noch einmal zu sehen. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
   <dl class="mb-0">
     <dt>Natalja Stepanova</dt>
     <dd>Genug, genug... <em>Beiseite.</em> Womit soll ich beginnen?... <em>Zu ihm.</em> Gehen Sie bald auf die Jagd?</dd>
@@ -54,7 +54,7 @@ Schließlich kommt Čubukov hinzu, auch er hält die Ochsenwiesen für das Eigen
     <dt>Lomov</dt>
     <dd>Erlauben Sie, Natalja Stepanovna, aber Sie vergessendabei, dass er einen etwas zu kurzen Fang hat, und ein Hund mit zu kurzem Fang kann das Wild nie richtig fassen!</dd>
   </dl>
-</blockquote>
+{{</blockquote>}}
 
 Der zweite Anlauf scheitert aber an der großen Frage, ob Lomovs Ugadaj der beste Jagdhund aller Zeiten ist, oder doch Otkataj, stolzer Besitz der Čubukovs. Am Ende gibt es natürlich auch hier ein Happy End. 
 

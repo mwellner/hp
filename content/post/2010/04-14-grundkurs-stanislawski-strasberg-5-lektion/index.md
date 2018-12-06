@@ -30,14 +30,13 @@ Das körperliche Aufwärmen und das Zazen waren wir immer. Ich war heute körper
 
 Ich hatte mir den Anfang von [Ulysses](http://de.wikipedia.org/wiki/Ulysses) (James Joyce) gewählt. Okay, es mag kein Buch sein, das mir absolut egal ist, aber wenn ich schon einen Text lerne, dann einen von hoher literarischer Qualität. Beim Lesen war mir dieser Text noch recht unverständlich vorgekommen, die deutsche Premium-Ausgabe ist mit tausenden erklärenden Fußzeilen durchsetzt, die den Textfluss unterbrechen. Aber durch das Lernen konnte ich mich auf einen kurzen Abschnitt konzentrieren und dessen ganze Schönheit entdecken. Es ist so dicht geschrieben, jedes Wort sitzt. Hut ab vor dem Übersetzer ([Hans Wollschläger](http://de.wikipedia.org/wiki/Hans_Wollschl%C3%A4ger)). 
 
-<blockquote class="blockquote">
+{{<blockquote cite="James Joyce, Ulyssus, übersetzt von Hans Wollschläger, Suhrkamp-Verlag, 2004">}}
 Stattlich und feist erschien Buck Mulligan am Treppenaustritt, ein Seifenbecken in Händen, auf dem gekreuzt ein Spiegel und ein Rasiermesser lagen. Ein gelber Schlafrock mit offenem Gürtel bauschte sich leicht hinter ihm in der milden Morgenluft. Er hielt das Becken in die Höhe und intonierte:<br>  
 – <em>Introibo ad altare Dei.</em><br>  
 Innehaltend spähte er die dunkle Wendeltreppe hinunter und kommandierte grob:<br>  
 – <em>Komm rauf, Kinch! Komm rauf, du feiger Jesuit!</em><br>  
 Feierlich schritt er weiter und erstieg das runde Geschützlager. Dort machte er kehrt und segnete würdevoll dreimal den Turm, das umliegende Land und die erwachenden Berge. Dann gewahrte er Stephen Dedalus, verneigte sich vor ihm und schlug rasche Kreuze in die Luft, kehlig glucksend dabei und den Kopf schüttelnd. Stephen Dedalus, mißlaunig und schläfrig, lehnte die Arme auf den Rand der Treppenmündung und betrachtete kalt das sich schüttelnde, glucksende, in seiner Länge pferdehafte Gesicht, das ihn segnete, und das helle untonsurierte Haar, das fleckig getönt war wie matte Eiche.<br>
-<footer class="blockquote-footer">Quelle: <cite>James Joyce, Ulyssus</cite>, übersetzt von Hans Wollschläger, Suhrkamp-Verlag, 2004</footer>
-</blockquote>
+{{</blockquote>}}
 
 Jedenfalls versuchte ich diesen Text zu sprechen und mir dabei die Eindrücke von der Sinnes-Übung vorzustellen. Eigentlich geht das nicht, man kann sich nur auf eine Sache konzentrieren. So hatte ich zumindest in meiner Dissertation argumentiert, welche sich mit der Präsenz in virtuellen Umgebungen befasste. Dabei kann es zu Widersprüchen zwischen den Sinneseindrücken kommen. Zum Beispiel sieht man sich visuell um eine Kurve biegen (Rennsimulation), jedoch fehlt die Zentrifugalkraft. Virtuelle und reale Umgebung streiten um die Hoheit, aber der Mensch kann sich nur für eine entscheiden. Auf die Übung bezogen bedeutet das, dass man den Text so gut auswendig kennen muss, dass er völlig automatisch abrufbar ist. Ich musste mich jedenfalls stark konzentrieren und die Intensität der Sinneserinnerung nahm auch ab. 
 

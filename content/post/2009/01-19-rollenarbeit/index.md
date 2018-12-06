@@ -18,21 +18,21 @@ Zentral für die gute Darstellung ist die Arbeit an der Rolle, das heißt am Tex
 
 Im Eingangsmonolog zwischen Thomasina und Septimus spielt Noakes bereits eine wichtige Rolle. Denn er hat Mrs. Chater im Gartenpavillion in &#8220;fleischlicher Umarmung&#8221; mit Septimus beobachtet. Thomasina hat das in der Küche aber nur teilweise aufgeschnappt und fragt Septimus, was es mit dieser &#8220;fleischlichen Umarmung&#8221; denn auf sich hätte. Septimus ist empört:
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 SEPTIMUS Eine wahre Giftnatter, unser Mr. Noakes. Er gibt sich als Gentleman, als Philosoph des Malerischen, als Visionär, der Berge versetzen und Seen aufstauen kann, aber im himmlischen Gartenplan hat er die Rolle der Schlange.
-</blockquote>
+{{</blockquote>}}
 
 Später betritt Noakes den Raum, in dem sich der gehörnte Mr. Chater und Septimus befinden und gerät beim Anblick der beiden in Panik. Danach kommen aber Lady Croom, Brice und Thomasina hinzu und diskutieren über die Umgestaltung des Gartens, was von Chater und Septimus als Anspielung auf fleischliche Umarmungen missverstanden wird. Noakes sagt nicht viel, offenbart sich jedoch als Vertreter des pittoresken oder malerischen Stils.<br>
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 <p>NOAKES (beantwortet die falsche Frage) Salvator Rosa, Mylady, der Maler. Er ist in der Tat das Musterbeispiel für den pittoresken Stil.</p>
 <p>BRICE Alles sehr irregulär, Noakes!</p>
 <p>NOAKES Jawohl, Sir. Irregularität ist eines der Grundprinzipen des malerischen Stils.</p>
-</blockquote>
+{{</blockquote>}}
 
 Im letzten Bild hat Noakes auch nochmal einen kurzen Auftritt. Die Umgestaltungsarbeiten sind fortgeschritten und die Dampfmaschine ist installiert.
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 <p>LADY CROOM Mr. Noakes!</p>
 <p>NOAKES Mylady -- </p>
 <p>LADY CROOM Was haben Sie mir angetan!</p>
@@ -41,7 +41,7 @@ Im letzten Bild hat Noakes auch nochmal einen kurzen Auftritt. Die Umgestaltungs
 <p>(In der Stille, die darauf folgt, hört man in der Ferne die stampfende Dampfmaschine.)</p>
 <p>Hören Sie das, Mr. Noakes?</p>
 <p>NOAKES (stolz und glücklich) Die verbesserte Newcomensche Dampfpumpe -- die einzige in England!</p>
-</blockquote>
+{{</blockquote>}}
 
 Lady Croom ist wegen des Lärms nicht so glücklich und macht den armen Noakes wortgewaltig fertig.
 

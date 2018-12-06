@@ -16,20 +16,16 @@ Wenn man sich den Ursachen zuwendet, steht da an erster Stelle eine große Verun
   
 Einen kleinen Vorgeschmack bietet die Stellungnahme der Minarettgegner zum Ausgang der Volksabstimmung. Einige Professoren hatten es im Vorfeld gewagt, eine Klage beim Europäischen Gerichtshof zu erwägen, um die Umsetzung der Vorlage in die Schweizer Verfassung zu verhindern.
   
-<blockquote class="blockquote">
+{{<blockquote cite="Volksinitiative Gegen den Bau von Minaretten, Stellungnahme vom 29.11.2009">}}
   Das Ja des Schweizer Souveräns – unserer obersten politischen Instanz – zum Minarettverbot ist jetzt buchstabengetreu umzusetzen. Im Abstimmungskampf laut gewordene professorale Ideen, die Umsetzung via Klage beim Europäischen Gerichtshof zu unterlaufen, sind inakzeptabel, brechen Verfassungsrecht. Im öffentlichen Dienst stehende Justizfunktionäre, welche sich der Umsetzung des vom Souverän geäusserten Willens widersetzen, müssen entlassen werden.
-    
-  <footer class="blockquote-footer">Quelle: <a href="http://www.admin.ch/ch/d/pore/vi/vis353.html">Volksinitiative Gegen den Bau von Minaretten</a>, Stellungnahme vom 29.11.2009</footer>
-</blockquote>
+{{</blockquote>}}
   
 Auf jeden Fall kommt jetzt Bewegung in dieses manchmal so träge Land. Der freie Autor <a href="http://www.lewinsky.ch/charles/index.html">Charles Lewinsky</a> empfiehlt in einem <a href="http://www.tagesanzeiger.ch/kultur/buecher/Jetzt-muessen-wir-sogar-Koeppels-triumphierende-Ironie-schlucken/story/10202730">Tagesanzeiger-Essay</a>, mit gleichen Mitteln zurückzuschlagen und mit Zuspitzungen die Lufthoheit in der Debatte zu erringen. Denn mit gerümpfter Nase schweigend dabei zu stehen -- davon ändert sich nichts. Wir müssen uns also üben im Polarisieren und Polemisieren, das einfache Argument schlägt stets das differenzierte, richtige.
 
 Einen anderen Aspekt betont ein jüngst veröffentlichter ZEIT-Artikel, der die Frage stellt, ob direkte Demokratie auf Bundesebene überhaupt noch zeitgemäß sei. Bezogen auf den Minarett-Entscheid kritisiert er, dass Volksabstimmungen bei komplexen Sachverhalten eine falsche Flucht zu einfachen Antworten in schwierigen Zeiten darstellten.
   
-<blockquote class="blockquote">
+{{<blockquote cite="DIE ZEIT, Volkes wahre Stimme, Ausgabe 2009/51">}}
   Die Idee der direkten Demokratie steht jedoch nicht nur von innen unter Druck, durch die neue Beweglichkeit des repräsentativen Systems, sondern auch von außen: durch die Globalisierung. Eben weil das Prinzip des Plebiszitären von der unmittelbaren Rückkopplung an den einzelnen Bürger lebt, ist es von Problemen, die nicht nur eine Stadt oder ein Bundesland betreffen, tendenziell überfordert. Je komplizierter die Abhängigkeiten über Grenzen hinweg geraten, je mehr Akteure das internationale Handeln bestimmen, desto seltener werden die Fragen, die sich mit dem Rücken zur Welt, in kleinen Einheiten entscheiden lassen.
   <br><br>
   Auch das erleben die Schweizer gerade: Ihr Mehrheitsvotum gegen Minarette lässt sich ja nicht nur als antiislamischer Affekt lesen, sondern auch als Überdruss an der Globalisierung. Als Ausdruck einer verbreiteten Sehnsucht, sich abzukoppeln von den Anstrengungen des ethnischen, sozialen und religiösen Durcheinanders, sich zurückzuziehen in überschaubare Verhältnisse. Diesem isolationistischen Impuls entspricht die Zuflucht zum Plebiszit. Es suggeriert klare Entscheidungen in unübersichtlichen Zeiten. Das aber ist eine Täuschung. Es gibt keinen Ausstieg aus der Globalisierung. Nichts zeigt das deutlicher als der Umstand, dass das Schweizer Minarettverbot demnächst wohl von einer äußeren Instanz, vom Europäischen Gerichtshof für Menschenrechte, überprüft – und kassiert werden dürfte. Nicht einmal mehr die Alpen bieten Schutz vor der Welt.
-
-  <footer class="blockquote-footer">Quelle: <a href="http://www.zeit.de/index">DIE ZEIT</a>, <a href="http://www.zeit.de/2009/51/01-Europa?page=1">Volkes wahre Stimme</a></footer>
-</blockquote>
+{{</blockquote>}}

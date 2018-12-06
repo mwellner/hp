@@ -8,7 +8,7 @@ categories:
 tags:
   - herman van veen
 ---
-<blockquote class="blockquote">
+{{<blockquote>}}
 Einst kommt der Tag,<br>
 an dem ich endlich alles sag&#8217;<br>
 und dann nur seh,<br>
@@ -59,7 +59,7 @@ jetzt und hier &#8211;<br>
 worauf warten wir?<br>
 <br>
 <cite>Herman van Veen, 1999</cite>
-</blockquote>
+{{</blockquote>}}
 
 Für die Trauerfeier meines Vaters durchsuchte ich seine Musik. Herman van Veen war immer ein Thema gewesen, 
 seine Musik war mir seit der Kindheit vertraut. Und so fand ich dieses wundervolle Lied, welches vieles zum 

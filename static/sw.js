@@ -15,8 +15,7 @@
     '/css/style.css',
     '/js/bootstrap.bundle.min.js',
     '/js/jquery.min.js',
-    '/js/tether.min.js',
-    '/'
+    '/js/tether.min.js'
   ];
 
   var updateStaticCache = function () {

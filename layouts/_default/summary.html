@@ -4,7 +4,7 @@
   {{ $image := .Page.Resources.GetMatch "*" }}  
   {{ if $image }}
   {{ $image320 := $image.Resize "320x" }}
-  {{ $image540 := $image.Resize "540x" }}
+  {{ $image540 := $image.Resize "541x" }}
   <a href="{{ .Permalink }}">
     <img class="card-img-top"
       src="{{$image320.RelPermalink}}" 

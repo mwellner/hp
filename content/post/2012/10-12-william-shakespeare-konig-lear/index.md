@@ -17,7 +17,7 @@ König Lear in der [Übersetzung von Baudissin](http://gutenberg.spiegel.de/buch
 
 Im Mittelpunkt des Stückes steht Lear, der zu Beginn leichtsinnig sein Reich an seine Töchter verteilt und sich vom Regierungsgeschäft zurückziehen will. Dabei griff Shakespeare ein altes Märchen auf, Lear fragt nämlich seine drei Töchter, welche ihn am meisten liebe. Während die beiden älteren Töchter wortgewandt Süßholz raspeln, ist die jüngste Tochter aufrichtig. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 <dl>
 <dt>LEAR</dt>
 <dd>&#8230; Nun Unsre Freude,<br>
@@ -54,11 +54,11 @@ Halb meine Treu, halb meine Lieb und Pflicht.<br>
 Gewiß, nie werd ich frein wie meine Schwestern,<br>  
 Den Vater nur allein zu lieben.</dd>
 </dl>
-</blockquote>
+{{</blockquote>}}
 
 Daraufhin enterbt sie Lear zornig und bietet sie mitgiftlos ihren beiden Verehrern an, dem Herzog von Burgung und dem König von Frankreich. Während Burgund sich ohne Erbteil auf keine Ehe einlassen möchte, erwacht im König von Frankreich der Idealismus, er nimmt sie trotzdem. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 <dl>
 <dt>BURGUND</dt>                                
 <dd>Hoher Lear,<br>
@@ -88,11 +88,11 @@ Erkauft von mir die teuerste der Frauen!<br>
 Den Harten gib ein mildes Abschiedswort,<br>
 Das Hier verlierst du für ein beßres Dort.</dd>
 </dl>
-</blockquote>
+{{</blockquote>}}
 
 Schon am Ende des ersten Aktes kommen die wahren Gefühle der beiden älteren Schwestern, Goneril und Regan zum Ausdruck. Denn ihre beredten Liebesbezeugungen waren nur vorgespielt, in Wirklichkeit verachten sie ihren Vater. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 <dt>GONERIL</dt>  
 <dd>Schwester, ich habe nicht wenig zu sagen, was uns beide sehr nahe angeht. Ich denke, unser Vater will heut abend fort.</dd>
 <dt>REGAN</dt>  
@@ -103,7 +103,7 @@ Schon am Ende des ersten Aktes kommen die wahren Gefühle der beiden älteren Sc
 <dd>&#8216;s ist die Schwäche seines Alters; doch hat er sich von jeher nur obenhin gekannt.</dd>
 <dt>GONERIL</dt>  
 <dd>Schon in seiner besten und kräftigsten Zeit war er zu hastig. Wir müssen also von seinen Jahren nicht nur die Fehler längst eingewurzelter Gewohnheiten erwarten, sondern außerdem noch den störrischen Eigensinn, den gebrechliches und reizbares Alter mit sich bringt.</dd>
-</blockquote>
+{{</blockquote>}}
 
 Im zweiten Akt wird dann Edmund eingeführt, unehelicher Sohn des Herzogs von Gloster. Er ist sehr von sich überzeugt und möchte mit allen Mitteln Edgar, seinen legitimen Halbbruder aus dem Weg räumen. 
 
@@ -111,7 +111,7 @@ Mit einem gefälschten Brief schafft es Edmund, seinen Vater gegen Edgar aufzuhe
 
 In der Zwischenzeit merkt Lear, dass seine beiden Töchter ihm nicht mehr wirklich gewogen sind. Sie beschweren sich über seine hundert verbliebenen Ritter, deren Zahl sie immer weiter reduzieren wollen. Schließlich werfen sie ihn bei Sturm und Unwetter raus, Lear irrt umher, begleitet nur vom Narren und seinem treuen Gefolgsmann Kent. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 <dl>
 <dt>LEAR</dt>
 <dd>Blast, Winde, sprengt die Backen! Wütet, blast!<br>
@@ -138,6 +138,6 @@ Die ihr im Bund mit zwei verruchten Töchtern<br>
 Türmt eure hohen Schlachtreihn auf ein Haupt<br>  
 So alt und weiß als dies. Oh, oh, &#8216;s ist schändlich!</dd>
 </dl>
-</blockquote>
+{{</blockquote>}}
 
 Es gibt so viel zu entdecken an diesem Stück, zuallererst muss man wohl eine bessere Übersetzung auftreiben. Oder gleich im Original lesen. Es ist ein großes Werk, das sich aber nicht so leicht dem Leser erschließt.

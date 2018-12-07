@@ -14,10 +14,10 @@ Ein anstrengendes Stück, meisterhaft inszeniert, aber es passiert halt einfach 
 
 Warten auf das Nichts. Godot kommt nicht, stattdessen kommt ein Junge, der jeden Abend von Neuem verängstigt sich nähert und seine Nachricht überbringt, dass Godot sich verspätet und erst am nächsten Abend kommen wird. Er erkennt die beiden nicht wieder, sie sind gefangen in einer Art Zeitschleife, auch der Ort spiegelt diese Gefangenheit, da es in beide Richtungen zu einem Abgrund geht. So treffen sie sich jeden Abend wieder, freuen sich, vertreiben die Zeit, spielen Wortspiele, schwelgen in Erinnerungen, nerven sich an. Eine Parabel auf das Leben aus Sicht der Existenzialisten, das immer wieder Gleiche, ohne Ausweg, ohne Sinn. Denn Godot, also die Person, auf die sie warten, kennen sie nicht, sie sind nicht einmal sicher, ob er überhaupt existiert.
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Estragon: Komm, wir gehen!<br>
 Wladimir: Wir können nicht.<br>
 Estragon: Warum nicht?<br>
 Wladimir: Wir warten auf Godot.<br>
 Estragon: Ach ja.
-</blockquote>
+{{</blockquote>}}

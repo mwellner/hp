@@ -11,7 +11,7 @@ tags:
 Letzte Woche erhielt ich &ndash; nach einer vorherigen Ankündigung &ndash; eine Packung Jodtabletten. Diese sollen die Anwohner im 50&thinsp;km-Umkreis der Schweizer Kernkraftwerke vor den Gefahren von radioaktivem Jod schützen. Dazu kam ein weiterer Brief mit ergänzenden Informationen, den ich hier gern wiedergeben möchte. 
 <!--more-->
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 An die Einwohnerinnen und Einwohner im 50-km-Umkreis der Schweizer Kernkraftwerke<br>
 <br>  
 Bern, im November 2014<br>
@@ -38,7 +38,7 @@ Freundliche Grüsse<br>
 Ihre Geschäftsstelle Kaliumiodid-Versorgung<br>
 <br>  
 Zuständig für die Jodtabletten-Verteilung
-</blockquote>
+{{</blockquote>}}
 
 Es stellte sich nun heraus, dass dieser Brief nicht von der Geschäftsstelle Kaliumiodid-Versorgung stammt, sondern von Greenpeace Schweiz (<a href="http://www.greenpeace.org/switzerland/de/Uber-uns/Medienstelle/Medienmitteilungen/Jodtabletten-schuetzen-nur-bedingt-und-schaffen-keine-Sicherheit/" title="Greenpeace Schweiz: Jodverteilung" target="_blank">Medienmitteilung Jodverteilung</a>). 
 

@@ -8,11 +8,10 @@ categories:
 tags:
   - weihnachten
 ---
-<blockquote class="blockquote">
+{{<blockquote cite="Dietrich Bonhoeffer">}}
 Von guten Mächten treu und still umgeben<br>
 Behütet und getröstet wunderbar<br>
 So will ich diese Tage mit euch leben<br>
 Und mit euch gehen in ein neues Jahr.
-<footer class="blockquote-footer">Dietrich Bonhoeffer</footer>
-</blockquote>
+{{</blockquote>}}
 

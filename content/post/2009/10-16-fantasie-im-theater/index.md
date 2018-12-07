@@ -35,11 +35,9 @@ Ein Theatertext hat immer Lücken. Es ist zum Beispiel meist nur der Ort der Han
 
 Das Ziel des Schauspielers ist es, während des ganzen Stückes sowohl die äußeren (fiktiven) Umstände wahrzunehmen als auch seine inneren Assoziationen und Bilder. Es entsteht dann eine Art Film, der den Schauspieler zu jedem Zeitpunkt in die richtige Stimmung versetzt. Dieser Film ist das Kunstprodukt des Schauspielers, es entspringt seiner Fantasie und wird während des kreativen Prozesses fortlaufend überprüft und verfeinert, schließlich muss jede Handlung logisch und folgerichtig sein. 
 
-<blockquote class="blockquote">
-  Wenn Sie auf der Bühne ein Wort mechanisch sagen oder etwas mechanisch tun ohne zu wissen, wer Sie sind, woher und warum Sie kommen, was Sie hier brauchen, wohin Sie gehen und was Sie dort tun werden, dann haben Sie phantasielos gehandelt, und Ihr Aufenthalt auf der Bühne, ob kurz oder lang, war für Sie keine Wahrheit -- Sie handelten wie ein aufgezogener Mechanismus, wie ein Automat.
-  
-  <footer class="blockquote-footer">[1] S. 50</footer>
-</blockquote>
+{{<blockquote cite="[1] S. 50">}}
+  Wenn Sie auf der Bühne ein Wort mechanisch sagen oder etwas mechanisch tun ohne zu wissen, wer Sie sind, woher und warum Sie kommen, was Sie hier brauchen, wohin Sie gehen und was Sie dort tun werden, dann haben Sie phantasielos gehandelt, und Ihr Aufenthalt auf der Bühne, ob kurz oder lang, war für Sie keine Wahrheit -- Sie handelten wie ein aufgezogener Mechanismus, wie ein Automat. 
+{{</blockquote>}}
 
 #### Michael Tschechow und Imagination
 
@@ -58,11 +56,9 @@ Um sich dieser Figuren zu bedienen, können Sie den Text zum einen verstandesmä
 
 Die Sinne sollten dabei entspannt sein, dann mit komplexeren Gegenständen, Geräuschen, Menschen, fiktiven Gegenständen, literarischen Gestalten fortsetzen. 
 
-<blockquote class="blockquote">
+{{<blockquote cite="[2] S. 21">}}
   Wenn Sie die Technik der Konzentration einmal beherrschen, wird Ihnen auffallen, wie Ihr _ganzes_ Wesen auflebt, erstarkt und an Harmonie und Tatkraft dazugewinnt. Beim Spielen werden diese Eigenschaften auch auf der Bühne sichtbar. Das Formlose und Diffuse verschwindet, und Ihr Spiel wird viel überzeugender.
-  
-  <footer class="blockquote-footer">[2] S. 21</footer>
-</blockquote>
+{{</blockquote>}}
 
 Als weiteren Schritt sollten Sie Ihre Vorstellungskraft trainieren. Nehmen Sie eine Szene aus einem Theaterstück, welches Sie gut kennen und lassen Sie diese immer wieder ablaufen. Dabei können Sie bestimmte Aspekte variieren, zum Beispiel die Betonung eines Charakterzuges. Mit dieser Fähigkeit können Sie im Probenprozess auch allein an einer Szene arbeiten, indem Sie sie vor Ihrem inneren Auge ablaufen lassen. 
 

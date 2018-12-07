@@ -10,6 +10,7 @@ tags:
   - idealer gatte
 ---
 Im Herbst wird die neue [dramateure](http://www.dramateure.ch)-Produktion Ein idealer Gatte (Oscar Wilde) starten. Zum ersten Mal werde ich Regie führen, eine große Herausforderung für mich und wohl auch für alle Beteiligten. In diesem Artikel möchte ich einige vorbereitende Schritte erklären, die notwendig sind, damit eine Theaterproduktion starten kann. 
+<!--more-->
 
 **Stückauswahl**
 
@@ -19,7 +20,7 @@ Die Übersetzung passte jedoch nicht so gut. Es war eine sehr direkte Übertragu
 
 **Original**
 
-<blockquote class="blockquote">
+{{<blockquote>}}
   <dl>
     <dt>LORD CAVERSHAM</dt>
     <dd>Good evening, Lady Chiltern! Has my good-for-nothing young son been here?</dd>
@@ -32,11 +33,11 @@ Die Übersetzung passte jedoch nicht so gut. Es war eine sehr direkte Übertragu
     <dt>MABEL CHILTERN</dt>
     <dd>How can you say such a thing? Why, he rides in the Row at ten o’clock in the morning, goes to the Opera three times a week, changes his clothes at least five times a day, and dines out every night of the season. You don’t call that leading an idle life, do you?</dd>
   </dl>
-</blockquote>
+{{</blockquote>}}
 
 **Rausch/Jelinek**
 
-<blockquote class="blockquote">
+{{<blockquote>}}
   <dl>
     <dt>LORD CAVERSHAM</dt> 
     <dd>Abend, Lady Chiltern! Mein faules Weichei von Sohn zufällig da?</dd>
@@ -49,11 +50,11 @@ Die Übersetzung passte jedoch nicht so gut. Es war eine sehr direkte Übertragu
     <dt>MABEL CHILTERN</dt>
     <dd>Also Sinne hat er, glaub ich, schon. Ich habe sogar einmal kurz einen Sinn von ihm gesehen. Ist gerade vorhin vorbeigehuscht. In sinnloser Hast. Es wollte ihn eh keiner. Er war nur kurz im Bild, ich meine den Sinn, nicht Ihr Sohn. Wie können Sie sohnesmäßig nur so reden? Nur weil man faul ist, ist man noch lange kein Weichei! Er sitzt doch jeden Tag schon um zehn auf seinem Pferd, das auch recht fleißig ist. Dreimal die Woche abends Oper, mindestens fünfmal am Tag Kleiderwechsel und die ganze Saison jeden Abend mindestens zweimal Dinner außer Haus. Sowas nennen Sie faul? Ich bin ja schon vom Aufzählen halb tot.</dd>
   </dl>
-</blockquote>
+{{</blockquote>}}
  
 **Kohlmeyer**
 
-<blockquote class="blockquote">
+{{<blockquote>}}
   <dl>
     <dt>LORD CAVERSHAM</dt>
     <dd>Ist mein Sprössling immer noch nicht da, dieser Taugenichts? Ich habe ein Wörtchen mit ihm zu reden.</dd>
@@ -66,7 +67,7 @@ Die Übersetzung passte jedoch nicht so gut. Es war eine sehr direkte Übertragu
     <dt>MABEL</dt>
     <dd>Wie können Sie nur so etwas sagen? Jeden Morgen um zehn galoppiert er durch den Hydepark, dreimal die Woche geht er in die Oper, zieht sich täglich mindestens fünfmal um, und während der Saison diniert er jeden Abend woanders. Alles andere als ein faules Leben, meine ich.</dd>
   </dl>
-</blockquote>
+{{</blockquote>}}
 
 Ich entschied mich für die Kohlmeyer-Übersetzung, sie ist präzise und kurz. Die Schauspieler wird das hoffentlich freuen, bedeutet es doch weniger Text zum Auswendig-Lernen. 
 

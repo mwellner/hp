@@ -25,11 +25,10 @@ Es tut gut, sich mal wieder in die szenische Arbeit zu stürzen. Morgen haben wi
 
 Spannend ist vor allem ein Monolog von Henry, der sich mit dem Thema Liebe, Treue und Sex beschäftigt. Seine Tochter hat ihn vorher gebeten, von seiner ersten großen Liebe zu erzählen. Und das tut Henry. 
 
-<blockquote class="blockquote">
+{{<blockquote cite="Tom Stoppard, Das einzig Wahre, Deutsch von Hilde Spiel, Jussenhoven & Fischer">}}
   <strong>HENRY</strong><br>
   Es hat was mit Erkennen und Erkanntwerden zu tun. Ich weiß noch, wie es mir nicht mehr merkwürdig vorkam, dass im biblischen Griechisch „erkennen“ das Wort für Liebe machen war. Der oder jener erkannte die so-und-so. Körperliche Erkenntnis. Darin vertrauen die Liebenden einander. Die Erkenntnis des anderen, nicht des Fleisches, aber durch das Fleisch, Erkenntnis seiner selbst, des wirklichen „Er“ und der wirklichen „Sie“, in extremer Lage, ohne Maske vor dem Gesicht. Jede andere Erscheinungsform unseres Ichs gibt sich der Öffentlichkeit preis. Wir lassen sie teilhaben an unserer Munterkeit und an unserem Leid, unserer Übellaune, unserem Zorn und unserer Freude&#8230; das alles reichen wir weiter an alle, die zufällig da sind, an Freunde und Verwandte, vielleicht mit einem kurzen kleinen Schamgefühl, an Fremde ohne jedes Zögern. Unsere Liebhaber teilen uns mit jedem, der gerade daherkommt. Aber wenn wir uns paaren, bestehen wir darauf, uns einander zu schenken. Was bleibt noch vom Ich? Was ist übrig? Was gibt es sonst, das noch nicht ausgeteilt worden ist wie ein Packen Spielkarten? Eine Art von Erkenntnis. Privat, endgültig, kompromisslos. Erkennen, erkannt werden. Davor empfinde ich Ehrfurcht.  
-  <footer class="blockquote-footer">Tom Stoppard, Das einzig Wahre, Deutsch von Hilde Spiel, Jussenhoven & Fischer</footer>
-</blockquote>
+{{</blockquote>}}
 
 {{< responsive-image name="ensemble" >}}
 

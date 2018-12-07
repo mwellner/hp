@@ -23,10 +23,9 @@ Jedenfalls wurde ich am Sonntag sehr herzlich willkommen geheißen bei meiner er
 
 Es ist eine Schlüsselszene, in der mir mein Bühnenbruder Richard Löwenherz an die Gurgel will, bis unsere Mutter Eleanor dazwischen geht -- mit einem sehr schönen Appell zum Frieden. John ist nicht der hellste, das merkt man deutlich, eine schöne lustige Rolle mit wenig Text. 
 
-<blockquote class="blockquote">
+{{<blockquote cite="James Goldman, Der Löwe im Winter, Deutsch von Susanne Meister">}}
   <strong>ELEANOR</strong><br>
   Selbstverständlich hat er ein Messer. Er hat immer ein Messer. Wir alle haben ein Messer. Wir schreiben das Jahr 1183 und wir sind Barbaren. Das ist ganz offensichtlich unsere Schuld. Da seht ihr es, meine kleinen Widerlinge, wir sind der Ausgangspunkt aller Kriege. Weder die Vergangenheit zwingt uns noch die Gegenwart, nicht Gesetze, Ideologien, Religionen, Regierungen oder irgend etwas sonst. Wir selbst sind die Mörder, unsere Gier brütet Kriege aus. Wir tragen sie in uns, wie eine Seuche. Leichen faulen auf den Feldern und in den Flüssen, weil schon die Lebenden innerlich angefault sind. Um Christi Willen, können wir uns nicht wenigstens ein bißchen lieben? Das wäre ein erster Schritt zum Frieden. Mit unseren Möglichkeiten, meine Kinder, könnten wir die Welt verändern.
-  <footer class="blockquote-footer">James Goldman, Der Löwe im Winter, Deutsch von Susanne Meister</footer>
-</blockquote>
+{{</blockquote>}}
 
 Ich freue mich sehr auf die Produktion, wie üblich gibt es Probewochenenden und viele Proben bis zu den Aufführungen, die für den Oktober geplant sind. 

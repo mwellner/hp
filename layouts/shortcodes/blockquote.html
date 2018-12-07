@@ -1,0 +1,6 @@
+<blockquote class="blockquote" {{ with .Get "column-width" }} style="column-width: {{.}}" {{ end }}>
+  {{ .Inner }}
+  {{ with .Get "cite" }}
+  <footer class="blockquote-footer"><cite>{{.}}</cite></footer>
+  {{ end }}
+</blockquote>

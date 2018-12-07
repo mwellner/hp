@@ -11,10 +11,9 @@ tags:
 ---
 I am currently working as software developer in a medical device project. The project is &ndash; as usual for projects of large scale &ndash; late in time and over budget. So the decision was taken to add more developers, reminding me of [Brook&#8217;s Law](http://en.wikipedia.org/wiki/Brooks%27s_law):
 
-<blockquote class="blockquote">
+{{<blockquote cite="Frederick P. Brooks, The Mythical Man Month, Addison-Wesley, 1995">}}
 Adding manpower to a late software project makes it later.
-<footer class="blockquote-footer">Frederick P. Brooks, The Mythical Man Month, Addison-Wesley, 1995</footer>
-</blockquote>
+{{</blockquote>}}
 
 The other decision was to use [agile software development methods](http://en.wikipedia.org/wiki/Agile_software_development). And after three months of adaptation time, the first results can be observed. I can only speak for my team, but our productivity has drastically improved. In the recent iteration we had committed ourselves to 24 story points, but managed 59. We even had to add more stories to use the team to full capacity. 
 

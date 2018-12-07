@@ -14,9 +14,9 @@ Gestern lasen wir ein weiteres Meisterwerk mit verteilten Rollen &ndash; [Onkel 
 
 Der charismatische, aber desillusionierte Arzt Astrow ist ein Grüner durch und durch, leicht könnte man sich ihn bei einer Anti-AKW-Demo vorstellen. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
   <strong>Astrow</strong><br>
   &hellip; Aber wozu die Wälder zerstören? Die russischen Wälder kommen allesamt unter die Axt, Milliarden von Bäumen sterben, Tiere und Vögel verlieren ihr Zuhause, Flüsse trocknen aus, die schönsten Landschaften werden vernichtet. Und warum? Weil der Mensch zu faul ist, um sich zu bücken und den Heizstoff vom Boden aufzuheben. 
-</blockquote>
+{{</blockquote>}}
 
 Auch die anderen Charaktere sind spannend. Der spleenige alte Professor Alexander Serebrjaków, der verdrießliche, misslaunige Iwán Petrówitsch Wojnízkij, die gute Sonja, die langweilige aber bildhübsche Jeléna Andréjewna -- sie alle sehe ich verkörpert von den Leuten gestern, mit Leben erfüllt. Sehr gern würde ich dieses Stück mal auf der Bühne sehen und noch lieber würde ich es auf die Bühne bringen wollen.

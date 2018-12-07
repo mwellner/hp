@@ -17,7 +17,7 @@ Die Hauptrolle des alternden und zunehmend geistig verwirrten Vertreters Willy L
 
 Hier ein Dialog mit seiner Frau Linda, gespielt von [Kate Reid](http://de.wikipedia.org/wiki/Kate_Reid).
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 <dl>
   <dt>WILLY</dt>
   <dd>Überleg’ bloß mal. Da arbeitet man ein Leben lang, um ein Haus abzuzahlen. Schließlich gehört’s dir, und keiner ist da, um drin zu leben.</dd>
@@ -42,11 +42,11 @@ Hier ein Dialog mit seiner Frau Linda, gespielt von [Kate Reid](http://de.wikipe
   <dt>WILLY</dt>
   <dd>Mit fünfunddreißig noch nach sich zu suchen ist eine Schande!</dd>
 </dl>
-</blockquote>
+{{</blockquote>}}
 
 Ein junger [John Malkovich](http://de.wikipedia.org/wiki/John_Malkovich) spielt Biff Loman, den Sohn von Willy Loman. Ein Football-Spiel während der College-Zeit war der Höhepunkt seines Lebens, danach fiel er durch die Mathematik-Prüfung und konnte nie so richtig Fuß fassen. Der wesentliche Konflikt ist der zwischen Biff und seinem Vater, der seinen gescheiterten Traum auf ihn übertragen möchte. Willys anderer Sohn ist Happy, der als Assistent des ersten Assitenten eher in die Fußstapfen seines Vaters tritt. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 <dl>
   <dt>HAPPY</dt><dd> Er will nur, daß du‘s zu was bringst, sonst nichts. Ich wollte schon lange mit dir über Paps reden, Biff. Irgendwas passiert mit ihm. Er führt Selbstgespräche.</dd>  
   <dt>BIFF</dt><dd> Hab‘ ich heute morgen bemerkt. Aber er hat schon immer so vor sich hingemurmelt.</dd>
@@ -63,7 +63,7 @@ Ein junger [John Malkovich](http://de.wikipedia.org/wiki/John_Malkovich) spielt 
   <dt>HAPPY</dt><dd> Wie meinst du das?</dd>  
   <dt>BIFF</dt><dd> Naja, in den ersten sechs, sieben Jahren nach der Highschool — hab‘ ich alles versucht, um mich hochzuarbeiten. Als Packer, als Vertreter, alle möglichen Geschäfte. Was ist das für eine miese Existenz. Sich an heißen Sommertagen in die U-Bahn zu quetschen. Dein ganzes Leben dafür zu opfern, ein Warenlager zu führen oder zu telefonieren oder zu kaufen oder zu verkaufen. Fünfzig Wochen im Jahr zu leiden für zwei Wochen Ferien, wenn du am liebsten draußen wärst und zwar ohne Hemd. Und immer schneller sein zu müssen als die anderen. Und trotzdem hast du nur so eine Zukunft. </dd>
 </dl>
-</blockquote>
+{{</blockquote>}}
 
 Es ist ein trostloses Bild, welches Miller da zeichnet, ein gescheiterter Handlungsreisender. Wobei der Beruf des Handlungsreisenden auch sehr schön symbolisch ist für die westliche Gesellschaft, für den Traum, durch ein gewinnendes Lächeln und blankgeputzte Schuhe erfolgreich zu sein, viel zu verkaufen und aufzusteigen. Ganz wenige schaffen es, ihre Geschichten werden erzählt, so als könnten es alle schaffen. Aber der Großteil bleibt auf der Strecke beim Versuch und deren Geschichte wird hier erzählt. 
 

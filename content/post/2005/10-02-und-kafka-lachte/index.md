@@ -13,10 +13,9 @@ tags:
 
 Das Bild, welches normalerweise von Franz Kafka ([Wikipedia-Eintrag](https://de.wikipedia.org/wiki/Kafka)) gezeichnet wird, ist das eines ernsten, melancholischen und verstörten Mannes mit einem sehr eigenwilligen Schreibstil. Eine Beschreibung, die ich jüngst in Harry Mulischs Prozedur fand, bringt das gut auf den Punkt.
 
-<blockquote class="blockquote">
+{{<blockquote cite="Harry Mulisch, Die Prozedur">}}
 Er will seinen Blick abwenden, aber da sieht er hinter dem Fenster von Nummer 22 plötzlich ein ganz andere Szene. Dort sitzt ein Mann von ungefähr dreißig Jahren mit gestreckten, weitgespreizten Beinen vornübergebeugt am Tisch und schreibt so fieberhaft, dass er sich kaum die Zeit nimmt, die Feder einzutauchen. Als er kurz aufsieht, trifft den Rabbi der glänzende, melancholische Blick seiner dunklen Augen: Augen wie schwarze Pfützen in einem Park, die dort nach einem Regenschauer zurückgeblieben sind. Mitten durch sein schwarzes Haar verläuft, weiße Kopfhaut zum Vorschein bringend, ein exakter Scheitel, als habe ein präzis arbeitender Henker dort Platz gemacht für das Beil, das seinen Schädel spalten soll. Wie ist er unter die Alchimisten geraten? Der Rabbi hätte ihn am liebsten nach seinen Namen gefragt, aber dafür hatte er keine Zeit. 
-<footer class="blockquote-footer">Harry Mulisch, Die Prozedur</footer>
-</blockquote>
+{{</blockquote>}}
 
 Es ist bequem, dieses Bild. Jedoch stellt sich die Frage, ob das wirklich Kafka gerecht wird, ob es nicht nur ein Teil seines Wesens war. Leider ist Kafka inzwischen zu einer Ikone geworden, die wenig Raum lässt für Gedanken, die von diesem Leitbild abweichen. Kurios ist, dass er sogar mit anarchistischen Bewegungen in Verbindung gebracht wurde, also der "rote" Kafka tauchte da plötzlich auf. Jedoch ist da wohl sehr wenig dran.
 

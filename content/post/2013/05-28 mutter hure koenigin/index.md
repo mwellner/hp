@@ -12,7 +12,7 @@ tags:
 Das [Theater Tamar](http://www.theatertamar.ch/) widmet sich in seiner ersten Produktion den antiken Frauenfiguren Medea, Hekabe und Neaira und schlägt auch einen Bogen zu zeitgenössischen Frauen. Und die Frauen haben es schwer. Schon [Euripides](http://de.wikipedia.org/wiki/Euripides) legte es seiner Medea in den Mund.
 <!--more-->
 
-<blockquote class="blockquote" style="max-width: 35rem;">
+{{<blockquote cite="Durant, Kulturgeschichte der Menschheit, Band III, Das Klassische Griechenland">}}
 Von allen Wesen, die vernunftbegabt<br>
 auf Erden leben, fiel das schlimmste Los<br>
 dem Weibe zu. Mit schwerem Gelde müssen<br>
@@ -36,8 +36,7 @@ Man sagt, die Männer müssten in den Krieg,<br>
 wir säßen in dem sichren Schutz des Hauses.<br>
 Die Rechnung trügt. Ich möchte lieber dreimal<br>
 zu Felde ziehn als einmal Mutter werden.<br>
-<footer class="blockquote-footer">Durant, Kulturgeschichte der Menschheit, Band III, Das Klassische Griechenland</footer>
-</blockquote>
+{{</blockquote>}}
 
 [Hekabe](http://de.wikipedia.org/wiki/Hekabe), einstige Königin von Troja, verlor all ihre Kinder. Die Söhne fielen in der Schlacht, die Töchter wurden als Sklavinnen von den Siegern abtransportiert. Gebeugt und alt erscheint sie auf der Bühne, hält sich an ihrem krummen Wanderstock. Sie erscheint so wie in [Die Troerinnen](http://de.wikipedia.org/wiki/Die_Troerinnen) von Euripides, oder vielmehr danach. 
 

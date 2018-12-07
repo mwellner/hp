@@ -20,7 +20,7 @@ Anstrengend ist überhaupt ein gutes Wort, da ich Holländisch nicht wirklich ve
 
 Der absolute Höhepunkt war die Grabrede von Marcus Antonius, der nach Marcus Iunius Brutus spricht und seine Rede mit den berühmt gewordenen Worten &#8220;Freunde, Römer, Landsleute, leiht mir euer Ohr&#8221; einleitet. Nachdem Brutus dem Volk gerade erklärt hat, dass Cäsar nach der Alleinherrschaft gegriffen hatte und seine Ermordung im Interesse der Republik gelegen hatte, kann Antonius mit einer flammenden Rede das Volk gegen die Attentäter einnehmen. Es war wundervoll inszeniert, er schmiss sein Manuskript weg, setzte sich vor das Rednerpult hin, den Tränen nahe und sprach frei von der Leber weg. Dann ging er auch in den Zuschauerraum hinein, um den wahren Erben Cäsars nahe zu sein. Es war bewegend.
 
-<blockquote class="blockquote">
+{{<blockquote cite="August Wilhelm von Schlegel">}}
 <dl>
 <dt>Antonius</dt>
 <dd>Mitbürger! Freunde! Römer! hört mich an:<br>
@@ -59,5 +59,4 @@ Der Mensch ward unvernünftig! &#8211; Habt Geduld!  <br>
 Mein Herz ist in dem Sarge hier beim Cäsar,  <br>
 Und ich muß schweigen, bis es mir zurückkommt.<br>
 </dd>
-<footer class="blockquote-footer">Auszug aus der Übersetzung von August Wilhelm von Schlegel</footer>
-</blockquote>
+{{</blockquote>}}

@@ -11,7 +11,7 @@ tags:
 Nach einem schönen arte-Abend über Charlie Chaplin mit dem [großen Diktator](https://de.wikipedia.org/wiki/Der_gro%C3%9Fe_Diktator) und einer 
 Doku über die Anfänge des legendären Schauspielers möchte ich hier noch ein Zitat festhalten. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Leb so, wie du es für richtig hältst<br>
 und geh, wohin dein Herz dich führt.<br>  
 Das Leben ist ein Theaterstück<br>  
@@ -20,4 +20,4 @@ Darum: Singe, lache, tanze und liebe!<br>
 Und lebe jeden einzelnen Augenblick<br>
 deines Lebens, bevor der Vorhang fällt<br>
 und das Theaterstück ohne Applaus zu Ende geht.
-</blockquote>
+{{</blockquote>}}

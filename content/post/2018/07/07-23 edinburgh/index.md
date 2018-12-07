@@ -29,10 +29,10 @@ Die Burg mit der anschließenden Royal Mile bildet das Zentrum der Stadt. Entlan
 
 Spannend für mich war vor allem das Geschichtsmuseum, welches auf sieben Stockwerken die schottische Geschichte nachzeichnet. Ein wichtiges Dokument für die Schotten ist die [Erklärung von Arbroath](http://www.macmountain.de/kan5.htm) aus dem Jahr 1320, die weltweit älteste Unabhängigkeitserklärung. Das bekannteste Zitat daraus ist:
 
-<blockquote class="blockquote">
+{{<blockquote>}}
   <em>Quia quamdiu Centum ex nobis viui remanserint, nuncquam Anglorum dominio aliquatenus volumus subiugari.</em><br>
   Niemals, solange auch nur einhundert von uns überleben, wird man uns zu welchen Bedingungen auch immer unter englische Herrschaft bringen.
-</blockquote>
+{{</blockquote>}}
 
 {{<responsive-image name="unabhaengigkeit" class="wide">}}
 

@@ -25,25 +25,25 @@ In *halbkontakt* bin ich Andreas, leite eine Bibliothek und bin verheiratet mit 
 
 In der Toscana-Therapie bin ich Gerhard, ein intellektueller Mittdreißiger, akademischer Rat. Ich bin verheiratet mit Karin, einer Grafikerin. Wir harmonieren perfekt, ich bin ein Meister des Wortes und das Visuelle ist ihre Domäne. Wir mögen beide Wortspiele, ich sorge bei Karin immer wieder mit ausgefallenen Assoziationen für Heiterkeit. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
   <dl>
     <dt>GERHARD<dt>
     <dd>Sag mal einen Satz mit “Wogegen“. <em>(Karin schweigt)</em> Mir tut der Kopf weh, weil ich wo gegen gerannt bin. Das ist witzig. Sehr witzig. </dd>
   </dl>
-</blockquote>
+{{</blockquote>}}
 
 Obwohl, in letzter Zeit verhält sich Karin ein bisschen seltsam. Sie lacht nicht mehr über meine geistreichen Wortspiele und hat diesen unmöglichen Victor eingeladen. Obwohl sie genau weiß, dass wir keine Gäste haben sollen, die Dieter nicht kennt. Dabei wollten wir es uns doch zu zweit in Dieters Toscana-Haus gutgehen lassen, wie in alten Zeiten, als wir die Zikadenklänge genossen.
 
-<blockquote class="blockquote">
+{{<blockquote>}}
   <dl>
     <dt>GERHARD<dt>
     <dd>Sie singen! Singen das uralte Lied von Sonne, Sommer, Süden. Karin! Was ist dir? Wir haben ihn doch immer geliebt, den Gesang der Zikaden! Erinnere dich! Als wir zelteten damals, im Klostervorhof von Santa Firmine, inmitten der Pinien &#8211; warteten wir da nicht geradezu auf die Zikaden?</dd>
   </dl>
-</blockquote>
+{{</blockquote>}}
 
 Ich habe da eine Mitarbeiterin, Anja Fels. Wir verstehen uns bestens, ich bin ja schließlich auch ein guter Chef. Habe extra Führungstrainings besucht damals, Gesprächsführung, Deeskalation und Projektmanagement. Ich kann das. Und Anja macht ihre Sache gut, ist zuverlässig und kompetent, ein bisschen unauffällig. Sie hat nicht so diesen Drive, aber sie ist ja auch keine Führungskraft. Wird ihr Leben lang Bücher sortieren. Aber he -- das ist ihre Entscheidung. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
   <dl>
     <dt>MARION</dt> 
     <dd>Sie bat mich um Hilfe.</dd>
@@ -66,7 +66,7 @@ Ich habe da eine Mitarbeiterin, Anja Fels. Wir verstehen uns bestens, ich bin ja
     <dt>ANDREAS</dt>
     <dd>Halthalthalt. Ich versteh nicht, warum Anja dich und nicht mich&#8230; Ich bin der Chef, ich muss das Problem doch lösen.</dd>
   </dl>
-</blockquote>
+{{</blockquote>}}
 
 Also langsam wird mir das schon ein bisschen viel. Erst nistet sich dieser Victor hier ein, jetzt sind plötzlich noch zwei Bekannte von Dieter aufgetaucht, die unbedingt ein Foto hier machen müssen. Lisa heißt die eine, völlig fixiert und will unbedingt einen Zementsack mitten im Bild platzieren. Ihre Begleiterin Silvia ist da schon netter, so spontan und offen, da könnte sich Karin noch eine Scheibe abschneiden. 
 

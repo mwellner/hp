@@ -14,9 +14,9 @@ Für die aktuelle [dramateure](http://www.dramateure.ch)-Theaterproduktion _Onke
   
 **Kurzbiografie in eigenen Worten**
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Geboren wurde ich 1860 in Taganrog. 1879 beendete ich das Gymnasium in Taganrog. 1884 beendete ich das Studium an der Medizinischen Fakultät Moskau. 1888 bekam ich den Puschkinpreis. 1890 unternahm ich eine Reise nach Sachalin durch Sibirien und zurück übers Meer. 1891 unternahm ich eine Tournee durch Europa, wo ich sehr guten Wein getrunken und Austern gegessen habe &hellip; Zu schreiben bekann ich 1879 in der &#8220;Strekoza&#8221; &hellip; Ich habe auch im dramatischen Fach gesündigt, wenn auch mit Maßen &hellip; In die Mysterien der Liebe eingeweiht wurde ich, als ich 13 Jahre alt war. Mit meinen Kollegen &mdash; Medizinern wie Literaten &mdash; pflege ich ausgezeichnete Beziehungen. Junggeselle. 
-</blockquote>
+{{</blockquote>}}
 
 Diese lapidare Biografie schrieb Tschechow 1892. Was fehlt, ist seine Erkrankung an Tuberkulose, einer damals unheilbaren Lungenkrankheit. Seit 1884 litt er daran und sollte 1904 daran sterben. Aber in seiner typischen Zurückhaltung wollte er andere Menschen nichts davon wissen lassen, vielleicht wollte er es sich selbst auch nicht eingestehen. 
 
@@ -24,9 +24,9 @@ Diese lapidare Biografie schrieb Tschechow 1892. Was fehlt, ist seine Erkrankung
 
 Die ersten 19 Jahre seines Lebens verbrachte Tschechow in der ukrainischen Hafenstadt [Taganrog](http://de.wikipedia.org/wiki/Taganrog) am Schwarzen Meer. Sein Vater betrieb einen Krämerladen, in dem alle Kinder aushelfen mussten. Die Familie lebte in bitterster Armut und Tschechow war schon früh mit illustren Kunden im Laden konfrontiert, im dem abends auch Wodka ausgeschenkt wurde. Tschechow wollte ein Gegenbild zu seinem despotischen Vater sein, unter dem alle Familienmitglieder sehr litten. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Ich bitte Dich, Dich daran zu erinnern, dass Despotismus und Lüge die Jugend Deiner Mutter zugrundegerichtet haben. Despotismus und Lüge haben unsere Kindheit dermaßen vergällt, dass einem schlecht wird und man Angst hat, sich daran zu erinnern. Erinnere Dich an das Entsetzen und den Ekel, die wir empfanden, wenn Vater damals beim Essen einen Aufstand machte wegen einer versalzenen Suppe oder Mutter eine dumme Kuh nannte. 
-</blockquote>
+{{</blockquote>}}
 
 Schon früh entdeckte Tschechow sein Interesse fürs Theater. Er hatte ohnehin einen Hang zur Maskierung und ließ selten sein Innerstes nach außen durchscheinen. Es war vermutlich seine Art, mit einer ihm feindlich gesinnten Umgebung fertig zu werden. 
 
@@ -36,15 +36,15 @@ Als er 17 Jahre alt war, floh der überschuldete Vater mit fast der ganzen Famil
 
 Mit 19 begann er das Medizinstudium in Moskau. Gleichzeitig begann er, humoristische Geschichten für mehrere Zeitschriften zu schreiben, um Geld für die Familie zu verdienen. Obwohl er sich später von diesen Erstlingswerken distanzierte, konnte er so seinen meisterhaften Stil entwickeln. Oft waren ihm 100 Zeilen als Obergrenze gesetzt, was er als lähmendes Limit beim Schreiben empfand. Er musste alles Überflüssige streichen und lernte, das Wesen einer Person mit wenigen präzisen Charakterzügen plastisch darzustellen. Für Tschechow ist Literatur Arbeit, deren Ziel das Straffen, Kondensieren und letztendlich die größtmögliche Einfachheit. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Die Kunst zu beschreiben besteht in der Kunst zu kürzen. 
-</blockquote>
+{{</blockquote>}}
 
 Ganz anders verhielt es sich mit seiner Tätigkeit als Arzt. Ursprünglich studierte er Medizin auf den Wunsch seiner Eltern und das klare Ziel war das Geldverdienen und der Unterhalt der Familie. Jedoch arbeitete er oft ehrenamtlich auf dem Land, die meisten seiner Patienten waren arme Bauern, die ihm nichts bezahlen konnten. Aber selbst später, als ihm geraten wurde, die Medizin zugunsten des Schreibens aufzugeben, hielt er daran fest, er brauchte den Ausgleich und antwortete seinem Verleger:
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Sie raten mir, nicht zwei Hasen nachzujagen und nicht mehr an die praktische Medizin zu denken. Ich weiß nicht, warum ich zwei Hasen nachjagen sollte &hellip; ich habe ein besseres und zufriedeneres Gefühl, wenn ich mir vor Augen halte, dass ich zwei Berufe habe, nicht nur einen &hellip; Die Medizin ist meine gesetzliche Ehefrau, die Literatur meine Geliebte. Wenn mir die eine auf die Nerven geht, nächtige ich bei der andern. Das ist meinetwegen unanständig, aber dafür nicht langweilig. Und darum verlieren auch beide nicht durch meinen Treuebruch. Hätte ich nicht meine Medizin, so würde ich in meinen Mußestunden meine überflüssigen Gedanken wohl kaum der Literatur widmen. Ich habe keine Disziplin. 
-</blockquote>
+{{</blockquote>}}
 
 Eine Episode aus seiner Tätigkeit als Arzt ist noch bedeutend, kommt sie doch in &#8220;Onkel Wanja&#8221; vor. Im Jahr 1885 brach eine Typhus-Epedimie aus, er behandelte die Mutter und drei Schwestern eines befreundeten Malers. Zwei seiner Patienten starben. Astrow, die Rolle mit der größten Nähe zu Tschechow, berichtet dann auch davon, wie ihm ein Patient wegstarb und sein Gewissen zur falschen Zeit erwacht. 
 
@@ -74,9 +74,9 @@ Das Landleben war Tschechow sehr vertraut, 1892 erwarb er das Landgut Melichovo 
 
 Ab den 1890er Jahren entstanden seine dramatischen Hauptwerke, [Die Möwe](http://de.wikipedia.org/wiki/Die_M%C3%B6we), [Onkel Wanja](http://de.wikipedia.org/wiki/Onkel_Wanja), [Drei Schwestern](http://de.wikipedia.org/wiki/Drei_Schwestern_(Drama)) und [Der Kirschgarten](http://de.wikipedia.org/wiki/Der_Kirschgarten). Mit diesen Stücken revolutionierte Tschechow das Theater. Entsprechend kontrovers waren anfangs die Reaktionen des Publikums und der Kritiker. Tschechow selbst war ein unerbittlicher Kritiker der Inszenierungen und der schauspielerischen Interpretationen. Es gab zu seinen Lebzeiten keine Inszenierung, die er vorbehaltlos gutgehießen hätte. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Sie sagen, man hätte in meinen Stücken geweint &hellip; Und nicht nur Sie &hellip; Aber ich habe sie doch nicht darum geschrieben, damit &hellip; so etwas Weinerliches daraus wird. Ich habe etwas anderes gewollt &hellip; Ich wollte den Menschen nur ehrlich sagen: &#8220;Schaut euch an, schaut, wie schlecht und langweilig ihr lebt &hellip;!&#8221; Die Hauptsache ist, dass die Menschen das begreifen, und wenn sie das begriffen haben, werden sie sich unbedingt ein anderes, besseres Leben einrichten &hellip; Ich sehe es nicht, aber ich weiß, es wird anders sein &hellip; Und solange es das nicht gibt, werde ich den Menschen wieder und wieder sagen: &#8220;Begreift doch, wie schlecht und langweilig ihr lebt!&#8221; Was gibt es da zu weinen? 
-</blockquote>
+{{</blockquote>}}
 
 Durch seine Tuberkulose zunehmend geschwächt, verbrachte er seine letzten Winter im warmen Jalta auf der Krim. Er lernt die Schauspielerin Olga Knipper kennen und heiratet sie 1901. Es ist eine Fernbeziehung, da er ihr die Tourneen nicht verwehren will. Im Jahr 1904 stirbt Tschechow im deutschen Kurort Badenweiler. 
 

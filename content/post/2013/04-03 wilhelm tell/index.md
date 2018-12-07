@@ -14,7 +14,7 @@ Es war ein beeindruckender Theaterabend. Schiller ist nicht ganz einfach zu insz
 
 Eine Schlüsselszene ist sicherlich der Rütlischwur. Bei Mondlicht treffen sich Vertreter der drei Urkantone Uri, Schwyz und Unterwalden und besiegeln mit einem Schwur die Eidgenossenschaft. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 <strong>Reding</strong> <em>tritt in die Mitte:</em><br>
 Ich kann die Hand nicht auf die Bücher legen,<br>
 So schwör ich droben bei den ew&#8217;gen Sternen,<br>
@@ -88,7 +88,7 @@ Ja wir sind eines Herzens, eines Bluts!<br>
 <br> 
 <strong>Alle</strong> <em>sich die Hände reichend:</em><br>
 Wir sind ein Volk, und einig wollen wir handeln.<br>
-</blockquote>
+{{</blockquote>}}
 
 Die Schauspieler traten alle in Badesachen auf und machten Nachttiergeräusche. Zusammen mit dem dunklen Licht und einem langen, rechtwinkligen Wasserbehälter, der das Licht eines kreisrunden Scheinwerfers &ndash; also des Mondes &ndash; reflektierte entstand so die nächtliche Stimmung. Der Schillertext wurde dann immer wieder durch schweizerdeutsche Einschübe aufgelockert, in typisch Schweizer Art erteilte man sich das Wort, stritt sich über Verfahrensfragen, ereiferte sich und fand dann irgendwie doch zum Konsens und Schwur. 
 

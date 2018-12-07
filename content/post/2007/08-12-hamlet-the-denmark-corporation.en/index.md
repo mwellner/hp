@@ -12,11 +12,11 @@ One of my first encounters with great literature was reading Hamlet. It was on o
 
 Nevertheless the power of language remains on the positive side. The film starts and my entry ends with the following quote, which is realized as a blurry, cell phone video message.
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 What a piece of work is a man! how noble in reason!<br>
 how infinite in faculty! in form and moving how<br>
 express and admirable! in action how like an angel!<br>
 in apprehension how like a god! the beauty of the<br>
 world! the paragon of animals! And yet, to me,<br>
 what is this quintessence of dust?
-</blockquote>
+{{</blockquote>}}

@@ -84,7 +84,7 @@ Philosophische Basis dieses Stücks ist der <a href="https://de.wikipedia.org/wi
 
 Die Inszenierung lebte vor allem von den großartigen Schauspielern, Wladimir und Estragon wirkten wie ein altes Ehepaar, das sich oft streitet, aber doch nicht ohneeinander auskommen kann. Wirklich toll war die Szene, als sie mit Schnalzgeräuschen ein Tennis-Match, Golf &ndash; und eigentlich alle anderen Ballsportarten auch &ndash; simulierten. Dieses Stück ist irgendwie immer eine Zumutung für die Zuschauer, denn es passiert ja nichts, aber spannend ist bei jeder Inszenierung, wie nichts passiert. 
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 <dl style="columns: 3 15rem;">
   <dt>
     ESTRAGON
@@ -126,4 +126,4 @@ Die Inszenierung lebte vor allem von den großartigen Schauspielern, Wladimir un
     Ach ja.
   </dd>
 </dl>
-</blockquote>
+{{</blockquote>}}

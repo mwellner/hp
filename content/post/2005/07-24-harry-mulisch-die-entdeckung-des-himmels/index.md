@@ -12,6 +12,6 @@ Ein schönes Buch mit vielen intellektuellen Anspielungen, ich bekam es bei der 
 
 <!--more-->
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Sie hatte das Konservatorium in Den Haag besucht und war Fachfrau, die wusste, dass es beim Musizieren nicht um das Ausdrücken von Emotionen ging, sondern um das Erzeugen von solchen: das konnte nur gelingen, wenn es professionell geschah, das heißt, unbewegt wie ein Chirurg; wie theatralisch die Mienen der Dirigenten und Solisten auch immer waren, wenn sie wussten, dass man ihnen zusah: zu Hause oder während der Proben machten sie diese Faxen nie. Max hingegen war in einem solchen Maße kein Musiker, dass es ihm nahezu unmöglich war zu musizieren, und zwar nicht, weil es ihn nicht berührte, sondern weil es ihn zu sehr berührte. &#8230; Wenn er auf seinem Flügel eine Taste anschlug und danach die Oktavtaste, ergriff ihn das schon heftig und eröffnete einen Abgrund in ihm, vor dem er Höhenangst bekam.
-</blockquote>
+{{</blockquote>}}

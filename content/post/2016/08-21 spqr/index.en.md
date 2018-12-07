@@ -18,10 +18,10 @@ Catiline of conspiring against Rome (<a href="https://en.wikipedia.org/wiki/Seco
 
 <!--more-->
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Quo usque tandem abutere, Catilina, patientia nostra?<br>
 How long, Catiline, will you abuse our patience?<br>
-</blockquote>
+{{</blockquote>}}
 
 After this introduction, the next chapter goes back to the beginnings of Rome as a 
 little village. It is a good read and surely to recommend for those interested in history.

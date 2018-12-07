@@ -6,7 +6,7 @@ author: Mathias Wellner
 categories:
   - zitate
 ---
-<blockquote class="blockquote">
+{{<blockquote cite="Hans Kruppa">}}
 Wer lebendig sein möchte,<br>  
 muß feinfühlig und verletzlich sein.<br>  
 Eins bedingt das andere.<br>  
@@ -15,6 +15,5 @@ wer unempfindlich ist,<br>
 ist seelisch nicht vorhanden<br>  
 und fristet hinter seinen<br>  
 Mauern, Zäunen und Panzerungen<br>  
-ein hohles Leben.<br>
-<footer class="blockquote-footer">Hans Kruppa</footer>
-</blockquote>
+ein hohles Leben.
+{{</blockquote>}}

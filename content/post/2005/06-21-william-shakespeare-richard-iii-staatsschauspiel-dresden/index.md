@@ -16,13 +16,13 @@ Was ich nicht ganz so toll fand, war die Bühnentechnik, die im Übermaß einges
 
 **Zitate**
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Nun ward der Winter unsers Mißvergnügens<br>
 Glorreicher Sommer durch die Sonne Yorks;<br>
 Die Wolken all, die unser Haus bedräut,<br>  
 Sind in des Weltmeers tiefem Schoß begraben.
-</blockquote>
+{{</blockquote>}}
 
-<blockquote class="blockquote">
+{{<blockquote>}}
 Ein Pferd! ein Pferd! mein Königreich für ein Pferd!
-</blockquote>
+{{</blockquote>}}

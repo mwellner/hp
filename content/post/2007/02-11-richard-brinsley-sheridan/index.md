@@ -12,14 +12,13 @@ Für die Theaterproduktion von Sheridans "Die Lästerschule" (The School for Sca
 
 Sheridan wird in diesem Werk als redegewaltiger, liberaler Staatsmann erwähnt, gleich zu Beginn des Kapitels _Das politische Drama (1756-1792)_ wird er neben anderen berühmten Rednern erwähnt.
 
-<blockquote class="blockquote">
+{{<blockquote cite="Durant, Kulturgeschichte der Menschheit">}}
   Die industrielle Revolution war der umwälzendste Prozess, der politische Kampf war das erregendste Drama der zweiten Hälfte des 18. Jahrhunderts in England. Nun machten die Giganten englischer Beredsamkeit -- Chatham, Burke, Fox und Sheridan -- das Unterhaus zur Bühne erbitterter und folgenschwerer Auseinandersetzungen zwischen dem Parlament und dem König, zwischen dem Parlament und dem Volk, zwischen England und Amerika, zwischen dem Gewissen Englands und den englischen Gewalthabern in Indien und zwischen England und der Französischen Revolution. Die politische Struktur lieferte den Rahmen und bildete den Mechanismus des Spiels.
-  <footer class="blockquote-footer">Durant, <cite title="Kulturgeschichte der Menschheit">Kulturgeschichte der Menschheit</cite><footer>
-</blockquote>
+{{</blockquote>}}
 
 Etwas ausführlicher wird dann sein turbulentes Leben geschildert. Er stand ständig am Rande des Ruins, es gelang ihm aber stets, aus eigener Kraft das Ruder herum zu reißen. Zudem konnte er eine der schönsten Frauen gewinnen.
 
-<blockquote class="blockquote">
+{{<blockquote cite="Durant, Kulturgeschichte der Menschheit">}}
   <p>
     Im Bunde mit Burke und Fox in der Führung des liberalen Flügels der Whigs stand ein zweiter Ire, Richard Brinsley Sheridan. Sein Großvater, Thomas Sheridan, veröffentlichte Übersetzungen aus dem Griechischen und dem Lateinischen und eine <strong>Kunst des Wortspiels</strong>, die seinen Enkel angesteckt haben mag...
   </p>
@@ -41,14 +40,12 @@ Etwas ausführlicher wird dann sein turbulentes Leben geschildert. Er stand stä
   <p>
     Er sah sich nach neuen Welten um, die noch zu erobern waren, und entschloss sich, ins Parlament zu gehen. Er zahlte den Wählern von Stafford fünf Guineen für ihre Stimmen, und 1780 übernahm er einen Sitz im Unterhaus als glühender Liberaler. Gemeinsam mit Fox verfolgte er Warren Hastings, und an einem strahlenden Tag stach er sie beide aus. Inzwischen lebte er mit seiner vortrefflichen Frau in Glück und Luxus, berühmt für seine Konversation, seinen Witz, seine Überschwenglichkeit, seine Freundlichkeit und seine Schulden. Lord Byron charakterisierte das Wunder: "Was Sheridan auch immer getan hat oder zu tun gedenkt, war und ist vor allem anderen immer das Beste seiner Art. Er hat die beste Komödie geschrieben, das beste Drama, die beste Farce..., den besten Vortrag (<strong>Ein Monolog auf Garrick</strong>) und hat schließlich die allerbeste Rede gehalten..., die je in diesem Land verfasst oder gehört wurde." Und Sheridan hatte auch die Liebe der lieblichsten Frau Englands gewonnen, und er hatte sie behalten.
   </p>
-  <footer class="blockquote-footer">Durant, <cite title="Kulturgeschichte der Menschheit">Kulturgeschichte der Menschheit</cite><footer>
-</blockquote>
+{{</blockquote>}}
 
 Leider war das Glück Sheridan dann später nicht mehr so hold.
 
-<blockquote class="blockquote">
+{{<blockquote cite="Durant, Kulturgeschichte der Menschheit">}}
   Das Leben brauchte länger, um Sheridan zu vernichten. Er hatte sich Burke und Fox in der Verteidigung Amerikas und im Kampf gegen Hastings angeschlossen; zusammen mit Fox begrüßte er die Französische Revolution. Inzwischen starb die Frau, deren Zauber und Sanftmut beliebte Gesprächsthemen seiner Freunde waren und die ihre Schönheit in die Waagschale geworfen hatten, um ihm bei seiner Eroberung eines Sitzes im Parlament zu helfen, im achtundreißigsten Lebensjahr an Tuberkulose (1792). Sheridan brach zusammen. &#8220;Ich habe ihn Nacht für Nacht wie ein Kind weinen sehen&#8221;, sagte ein Bekannter. Er fand Trost in der Tochter, die sie ihm geboren hatte; doch auch sie starb im gleichen Jahr. Während dieser Monate sah er sich vor die Aufgabe gestellt, das Drury-Lane-Theater umzubauen, das wegen Altersschwäche nicht mehr den Sicherheitsbestimmungen entsprach, und um diese Arbeiten zu finanzieren, ging er hohe Verpflichtungen ein. Er hatte sich an ein verschwenderisches Leben gewöhnt, obgleich er es mit seinem Einkommen nicht bestreiten konnte; er borgte, um diesen Stil beizubehalten. Als seine Gläubiger zu ihm kamen, um ihn zu mahnen, behandelte er sie wie Lords, bewirtete sie mit Likör, Höflichkeit und Witz und schickte sie in einer Stimmung fort, die seine Schulden fast vergessen ließ. Er betätigte sich bis zum Jahr 1812 weiter im Parlament, dann wurde er nicht wiedergewählt. Als Mitglied des Unterhauses hatte er auf Grund der parlamentarischen Immunität nicht verhaftet werden können; nun stürzten sich seine Gläubiger auf ihn, beschlagnahmten seine Bücher, seine Bilder und seine Juwelen; aber als sie sich anschickten, ihn selbst ins Gefängnis zu schleppen, warnte ein Arzt sie, Sheridan könnte unterwegs sterben. Er starb am 7. Juli 1816, fünfundsechzig Jahre alt. Bei seiner Beerdigung war er wieder ein reicher Mann, denn sieben Lords und ein Bischof trugen ihn zur Westminsterabtei.
-  <footer class="blockquote-footer">Durant, <cite title="Kulturgeschichte der Menschheit">Kulturgeschichte der Menschheit</cite><footer>
-</blockquote>
+{{</blockquote>}}
 
 Interessant in alldem erscheint mir, dass die Rolle von Charles im von uns produzierten Stück recht gut zum Charakter Sheridans passt. Joseph als sein Gegenspieler lässt sich nicht so ohne Weiteres in der Biografie entdecken, lässt sich aber recht gut durch den Gegensatz zu Charles definieren.

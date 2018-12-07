@@ -16,7 +16,7 @@ Schön ist, dass sich jetzt viele Leute Zeit nehmen, mich noch einmal zu sehen. 
 
 Morgen steht mir dann noch eine Begegnung der ganz anderen Art bevor &ndash; mit dem kommunalen Verwaltungsapparat. Ich werde mich im Rathaus abmelden. Um meine Steuerangelegenheiten zu regeln, muss ich einen Bevollmächtigten mit Schweizer Anschrift definieren. Die vernetzte und globalisierte Welt endet an der Landesgrenze, Briefe ins ferne nördliche Ausland könnten ja verloren gehen. Wobei das andersherum genau so ist, in einer anderen Angelegenheit war einer deutschen Behörde mein Wohnsitz im Ausland zu weit weg, als das man wichtige Post direkt dorthin schicken könnte. 
 
-<blockquote class="blockquote">
+{{<blockquote cite="Hermann Hesse">}}
 <h4>Stufen</h4>
 Wie jede Blüte welkt und jede Jugend<br>
 Dem Alter weicht, blüht jede Lebensstufe,<br>
@@ -42,7 +42,4 @@ Es wird vielleicht auch noch die Todesstunde<br>
 Uns neuen Räumen jung entgegensenden,<br>
 Des Lebens Ruf an uns wird niemals enden &#8230;<br>
 Wohlan denn, Herz, nimm Abschied und gesunde!<br>
-<footer class="blockquote-footer">
-  <cite>Hermann Hesse</cite>
-</footer>
-</blockquote>
+{{</blockquote>}}

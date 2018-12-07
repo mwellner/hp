@@ -11,12 +11,11 @@ tags:
   - william shakespeare
 ---
 Am Donnerstag lasen wir in erlesener Runde einen weiteren Klassiker -- [Macbeth von William Shakespeare](http://de.wikipedia.org/wiki/Macbeth_%28Shakespeare%29). In diesem Artikel möchte ich gern meine Eindrücke festhalten. Wir entschieden uns für die Übersetzung von Frank Günther, welche eher treu als schön ist. Schiller versuchte sich auch daran und legte mehr Wert auf schöne Sprache. 
-
 <!--more-->
 
 Im Gegensatz zu anderen Shakespeare-Werken gibt es bei Macbeth nur wenige Zitate, die außerhalb des Werkes bekannt sind. Am ehesten vielleicht noch der Monolog des vereinsamten, lebensmüden Tyrannen, der teilnahmslos vom Tod seiner Frau erfährt. 
 
-<blockquote class="blockquote">
+{{<blockquote cite="William Shakespeare, Macbeth">}}
 MACBETH:<br>
 To-morrow, and to-morrow, and to-morrow,<br>
 Creeps in this petty pace from day to day,<br>
@@ -28,10 +27,9 @@ That struts and frets his hour upon the stage,<br>
 And then is heard no more. It is a tale<br>
 Told by an idiot, full of sound and fury,<br>
 Signifying nothing.
-<footer class="blockquote-footer">Original von William Shakespeare</footer>
-</blockquote>
+{{</blockquote>}}
 
-<blockquote class="blockquote">
+{{<blockquote cite="Übersetzung von Frank Günther">}}
 MACBETH:<br>
 Und morgen und dann morgen und dann morgen,<br>
 So kriecht's im Schleicheschritt von Tag zu Tag<br>
@@ -44,10 +42,9 @@ Abstolzt und abschnauft auf der Bühne und<br>
 Nie mehr gehört wird dann; ist eine Mär<br>
 Aus einem Tölpelmund, voll von Getön<br>
 Und Toben, und bedeutet nichts.<br>
-<footer class="blockquote-footer">Übersetzung von Frank Günther</footer>
-</blockquote>
+{{</blockquote>}}
 
-<blockquote class="blockquote">
+{{<blockquote cite="Übersetzung von Friedrich Schiller">}}
 MACBETH:<br>
 Morgen, Morgen<br>
 Und wieder Morgen kriecht in seinem kurzen Schritt<br>
@@ -61,8 +58,7 @@ Der seine Stunde lang sich auf der Bühne<br>
 Zerquält und tobt; dann hört man ihn nicht mehr.<br>
 Ein Märchen ist es, das ein Thor erzählt,<br>
 Voll Wortschwall, und bedeutet nichts.<br>
-<footer class="blockquote-footer">Übersetzung von Friedrich Schiller</footer>
-</blockquote>
+{{</blockquote>}}
 
 Die Geschichte ist schnell erzählt. Dem siegreichen Feldherren Macbeth wird durch drei Hexen geweissagt, dass er Than von Cawdor und dereinst König würde. Nachdem der erste Teil der Prophezeiung eintrifft, plant Macbeth gemeinsam mit seiner Frau die Ermordung des amtierenden Königs. Nachdem die Tat vollstreckt ist, wird Macbeth tatsächlich König. Jedoch kann er diese Würde nicht wirklich genießen und wird zunehmend von Gewissensbissen und Wahnvorstellungen gepeinigt. Er sucht die Hexen erneut auf, diese prophezeien ihm, dass er solange sicher sei, bis der Wald von Dirnam sich auf die Festung Dunsinane zubewege. Und kein Mann, von einer Frau geboren, könne ihm etwas anhaben. Derweil formiert sich Widerstand, aus England marschiert ein Heer, um Macbeth zu stürzen. Zur Tarnung tragen die Soldaten Zweige vor sich her, so dass Macbeth diese Prophezeiung sich auch erfüllen sieht. Und im Duell mit Macduff erfährt Macbeth, dass dieser durch Kaiserschnitt auf die Welt kam. Schließlich tötet Macduff Macbeth und stellt die göttliche Ordnung wieder her, die nach der Bluttat in Frage gestellt worden war. 
 

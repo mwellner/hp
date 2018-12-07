@@ -4,7 +4,7 @@
   var isLocalhost = Boolean(self.location.hostname === 'localhost');
   if (isLocalhost) {
     console.log("Detected localhost, service worker does not cache requests");    
-    return;
+    // return;
   }
 
   var staticCacheName = 'static';
@@ -137,7 +137,7 @@
             .then(function (response) {
               // NETWORK
               // If the request is for an image, stash a copy of this image in the images cache
-              if (request.headers.get('Accept').indexOf('image') !== -1) {
+              if (request.url.indexOf('.jpg') !== -1) {
                 var copy = response.clone();
                 var cacheName = version + imagesCacheName;
                 stashInCache(cacheName, request, copy);
@@ -147,7 +147,7 @@
             .catch(function () {
               // OFFLINE
               // If the request is for an image, show an offline placeholder
-              if (request.headers.get('Accept').indexOf('image') !== -1) {
+              if (request.url.indexOf('.jpg') !== -1) {
                 return new Response('<svg role="img" aria-labelledby="offline-title" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><title id="offline-title">Offline</title><g fill="none" fill-rule="evenodd"><path fill="#D8D8D8" d="M0 0h400v300H0z"/><text fill="#9B9B9B" font-family="Helvetica Neue,Arial,Helvetica,sans-serif" font-size="72" font-weight="bold"><tspan x="93" y="172">offline</tspan></text></g></svg>', { headers: { 'Content-Type': 'image/svg+xml' } });
               }
             });

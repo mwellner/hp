@@ -2,7 +2,7 @@
 title: Friedrich Schiller -- Wilhelm Tell
 slug: friedrich-schiller-wilhelm-tell
 date: 2013-04-03T22:55:24+00:00
-lastmod: 2018-07-02T23:22:42+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - theater

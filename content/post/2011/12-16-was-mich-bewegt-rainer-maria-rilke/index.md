@@ -2,7 +2,7 @@
 title: Rainer Maria Rilke -- Was mich bewegt
 slug: rainer-maria-rilke-was-mich-bewegt
 date: 2011-12-16T22:37:28+00:00
-lastmod: 2018-01-18T22:56:28+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - literatur

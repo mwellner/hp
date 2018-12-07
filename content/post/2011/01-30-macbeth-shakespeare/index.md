@@ -2,7 +2,7 @@
 title: William Shakespeare -- Macbeth
 slug: macbeth-shakespeare
 date: 2011-01-30T13:56:07+00:00
-lastmod: 2017-12-18T20:23:07+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - literatur

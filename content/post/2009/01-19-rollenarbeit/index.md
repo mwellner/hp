@@ -1,7 +1,7 @@
 ---
 title: Rollenarbeit
 date: 2009-01-19T22:17:11+00:00
-lastmod: 2017-10-31T23:25:44+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - theater

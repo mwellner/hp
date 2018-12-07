@@ -1,7 +1,7 @@
 ---
 title: Produktionsvorbereitungen
 date: 2013-07-27T17:43:04+00:00
-lastmod: 2018-01-03T23:55:48+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - theater

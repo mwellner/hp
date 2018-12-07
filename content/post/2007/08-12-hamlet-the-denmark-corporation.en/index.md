@@ -1,7 +1,7 @@
 ---
 title: Hamlet -- The Denmark Corporation
 date: 2007-08-12T11:59:00+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - theater

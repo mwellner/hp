@@ -1,7 +1,7 @@
 ---
 title: Weihnachtsgedicht
 date: 2012-12-24T13:10:50+00:00
-lastmod: 2018-05-03T22:05:22+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - lyrik

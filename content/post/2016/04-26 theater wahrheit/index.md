@@ -1,7 +1,7 @@
 ---
 title: Theater als Wahrheit des Augenblicks
 date: 2016-04-26T21:20:51+00:00
-lastmod: 2018-06-28T00:22:00+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -2,7 +2,7 @@
 title: Ein idealer Gatte -- Zwischenbilanz
 slug: idealer-gatte-zwischenbilanz
 date: 2013-12-21T23:14:21+00:00
-lastmod: 2018-10-27T15:42:28+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 resources:
   - name: nicole

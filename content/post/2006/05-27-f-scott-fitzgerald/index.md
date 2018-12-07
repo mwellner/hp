@@ -1,7 +1,7 @@
 ---
 title: F. Scott Fitzgerald
 date: 2006-05-27T19:41:18+00:00
-lastmod: 2017-09-18T22:33:21+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - literatur

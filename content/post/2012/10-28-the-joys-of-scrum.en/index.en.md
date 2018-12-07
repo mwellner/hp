@@ -1,7 +1,7 @@
 ---
 title: The joys of scrum
 date: 2012-10-28T12:24:40+00:00
-lastmod: 2018-09-24T20:43:45+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - software

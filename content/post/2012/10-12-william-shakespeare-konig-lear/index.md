@@ -2,7 +2,7 @@
 title: William Shakespeare -- König Lear
 slug: william-shakespeare-könig-lear
 date: 2012-10-12T21:54:50+00:00
-lastmod: 2018-05-03T22:27:28+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - literatur

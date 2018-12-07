@@ -1,7 +1,7 @@
 ---
 title: I am going slightly mad
 date: 2008-04-10T18:57:00+00:00
-lastmod: 2018-07-11T00:09:45+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - science

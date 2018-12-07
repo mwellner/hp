@@ -2,7 +2,7 @@
 title: James Joyce -- Ulysses
 slug: james-joyce-ulysses
 date: 2005-06-06T11:37:55+00:00
-lastmod: 2018-07-09T23:33:09+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - literature

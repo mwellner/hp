@@ -2,7 +2,7 @@
 title: Denis Diderot -- Paradox über den Schauspieler
 slug: denis-diderot-paradox-schauspieler
 date: 2012-01-22T20:54:24+00:00
-lastmod: 2017-12-18T22:01:57+00:00
+lastmod: 2018-12-07T20:22:24+00:00
 author: Mathias Wellner
 categories:
   - theater

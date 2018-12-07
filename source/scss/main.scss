@@ -81,10 +81,7 @@ dt {
 }
 
 
-/*
- * Blog name and description
- */
-
+/* Blog name and description */
 .blog-title {
   font-weight: bold;
 }
@@ -92,6 +89,10 @@ dt {
 /*
  * Main column and sidebar layout
  */
+
+main.container {
+  min-height: calc(100vh - 162px);
+} 
 
 /* Sidebar modules for boxing content */
 .sidebar-module {

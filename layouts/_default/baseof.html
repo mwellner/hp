@@ -46,28 +46,20 @@
             <li class="nav-item {{ if .IsHome }}active{{ end }}">
               <a class="nav-link" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
             </li>
-            {{ if .Site.Params.custom_navbar }}
-            {{ range .Site.Menus.navbar }}
-            <li class="nav-item {{ if eq $.URL .URL }}active{{ end }}">
-              <a class="nav-link" href="{{.URL | absURL }}">{{ .Name }}</a>
-            </li>
-            {{ end }}
-            {{ else }}
             {{ range where .Site.RegularPages "Type" "!=" "post" }}
             <li class="nav-item {{ if eq $.URL .URL }}active{{ end }}">
               <a class="nav-link" href="{{ .Permalink }}">{{ .Title }}</a>
             </li>
             {{ end }}
-            {{ end }}
             <li class="nav-item">
-              <a class="nav-link" href="https://cse.google.com/cse/publicurl?cx=000227669616995546615:brudp0zzccw">Suche</a>
+              <a class="nav-link" href="https://cse.google.com/cse/publicurl?cx=000227669616995546615:brudp0zzccw">{{ i18n "search" }}</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
 
-    <div class="container">
+    <main class="container">
       <div class="row">
         <div class="col-sm-12 blog-main">
 
@@ -81,7 +73,7 @@
 
       </div> {{ "<!-- /.row -->" | safeHTML }}
      </div> {{ "<!-- /.row -->" | safeHTML }}
-    </div> {{ "<!-- /.container -->" | safeHTML }}
+    </main> {{ "<!-- /.container -->" | safeHTML }}
 
     <footer class="blog-footer bg-dark">
       {{ if .Site.Copyright }}

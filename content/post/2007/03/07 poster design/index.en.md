@@ -1,7 +1,7 @@
 ---
 title: Poster Design
 date: 2007-03-07T19:31:14+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 tags:
   - design

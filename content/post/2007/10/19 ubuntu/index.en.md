@@ -1,7 +1,7 @@
 ---
 title: Ubuntu 7.10 released
 date: 2007-10-19T11:12:30+00:00
-lastmod: 2018-07-10T22:27:44+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - software

@@ -1,7 +1,7 @@
 ---
 title: Was ich den ganzen Tag mache
 date: 2008-05-08T23:23:19+00:00
-lastmod: 2018-01-20T21:55:42+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

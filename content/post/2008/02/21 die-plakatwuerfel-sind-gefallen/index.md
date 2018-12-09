@@ -1,7 +1,7 @@
 ---
 title: Die Plakatwürfel sind gefallen!
 date: 2008-02-21T20:52:12+00:00
-lastmod: 2018-07-28T15:28:53+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 resources:
   - name: motiv

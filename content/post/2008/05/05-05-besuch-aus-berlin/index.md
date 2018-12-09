@@ -1,7 +1,7 @@
 ---
 title: Besuch aus Berlin
 date: 2008-05-05T23:36:14+00:00
-lastmod: 2018-07-28T16:55:07+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 resources:
   - name: kristina

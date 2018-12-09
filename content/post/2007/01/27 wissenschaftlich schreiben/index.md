@@ -1,7 +1,7 @@
 ---
 title: Wissenschaftliches Schreiben
 date: 2007-01-27T23:07:09+00:00
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

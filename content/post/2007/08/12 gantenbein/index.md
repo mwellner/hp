@@ -2,7 +2,7 @@
 title: Max Frisch -- Mein Name sei Gantenbein
 slug: max-frisch-gantenbein
 date: 2007-08-12T23:02:25+00:00
-lastmod: 2017-12-18T20:23:07+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - literatur

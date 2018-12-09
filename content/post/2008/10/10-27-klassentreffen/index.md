@@ -1,7 +1,7 @@
 ---
 title: Klassentreffen
 date: 2008-10-27T01:42:17+00:00
-lastmod: 2018-01-20T22:12:24+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

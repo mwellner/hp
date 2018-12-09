@@ -1,7 +1,7 @@
 ---
 title: Hongkong
 date: 2008-09-27T01:29:57+00:00
-lastmod: 2018-07-28T13:56:49+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 resources:
   - name: escalator

@@ -1,7 +1,7 @@
 ---
 title: Klettern auf den Grossen Mythen
 date: 2008-10-12T22:41:34+00:00
-lastmod: 2018-10-13T11:44:57+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 resources:
   - name: mythen

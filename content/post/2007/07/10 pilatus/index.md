@@ -2,7 +2,7 @@
 title: Das wärs gewesen -- Pilatus
 slug: pilatus
 date: 2007-07-10T23:19:40+00:00
-lastmod: 2017-12-18T20:23:07+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - wandern

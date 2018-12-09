@@ -1,7 +1,7 @@
 ---
 title: Bilder vom China-Urlaub
 date: 2008-10-20T22:07:43+00:00
-lastmod: 2018-10-13T11:40:06+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 resources:
   - name: hongkong

@@ -1,7 +1,7 @@
 ---
 title: Richard Brinsley Sheridan
 date: 2007-02-11T15:38:08+00:00
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 tags: 
   - richard brinsley sheridan

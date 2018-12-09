@@ -1,7 +1,7 @@
 ---
 title: Ball in Wien
 date: 2007-01-20T22:35:39+00:00
-lastmod: 2017-10-31T23:25:44+00:00
+lastmod: 2018-12-09T20:49:10+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

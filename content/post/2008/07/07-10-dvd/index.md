@@ -2,7 +2,7 @@
 title: 'DVD vom Theaterstück &#8220;Da waren&#8217;s nur noch neun&#8221;'
 slug: dvd-da-warens-nur-noch-neun
 date: 2008-07-10T23:53:55+00:00
-lastmod: 2018-01-20T21:58:01+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - theater

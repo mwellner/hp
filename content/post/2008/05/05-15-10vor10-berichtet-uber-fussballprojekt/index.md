@@ -1,7 +1,7 @@
 ---
 title: 10vor10 berichtet über Fussballprojekt
 date: 2008-05-15T08:15:52+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

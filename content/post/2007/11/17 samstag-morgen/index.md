@@ -1,7 +1,7 @@
 ---
 title: Samstag Morgen
 date: 2007-11-17T11:58:26+00:00
-lastmod: 2018-07-10T22:36:17+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

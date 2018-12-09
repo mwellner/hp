@@ -1,7 +1,7 @@
 ---
 title: Fussball und Wissenschaft
 date: 2008-04-12T19:35:29+00:00
-lastmod: 2018-10-13T12:09:34+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

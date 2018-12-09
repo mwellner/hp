@@ -1,7 +1,7 @@
 ---
 title: Skifahren in Davos
 date: 2007-02-19T00:14:39+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - sport

@@ -1,7 +1,7 @@
 ---
 title: Ich bin dann mal weg
 date: 2008-07-21T22:35:39+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - reisen

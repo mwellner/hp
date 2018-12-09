@@ -1,7 +1,7 @@
 ---
 title: Zurück in Zürich
 date: 2008-08-01T22:49:33+00:00
-lastmod: 2018-07-11T00:08:43+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 resources:
   - name: franzi

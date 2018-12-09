@@ -1,7 +1,7 @@
 ---
 title: Friedrich Schiller -- Kabale und Liebe
 date: 2007-10-07T23:38:04+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - theater

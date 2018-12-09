@@ -1,7 +1,7 @@
 ---
 title: Dresden
 date: 2008-03-20T20:41:10+00:00
-lastmod: 2018-07-28T15:35:36+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

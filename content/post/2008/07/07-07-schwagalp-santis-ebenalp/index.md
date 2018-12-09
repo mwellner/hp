@@ -2,7 +2,7 @@
 title: Schwägalp -- Säntis -- Ebenalp
 slug: schwaegalp-saentis-ebenalp
 date: 2008-07-07T21:41:03+00:00
-lastmod: 2018-07-28T17:52:33+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 resources:
   - name: alex

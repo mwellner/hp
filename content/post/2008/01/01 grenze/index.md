@@ -1,7 +1,7 @@
 ---
 title: Grenze
 date: 2008-01-01T17:22:51+00:00
-lastmod: 2018-07-10T22:44:21+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Venice
 date: 2007-09-26T18:59:38+00:00
-lastmod: 2018-07-10T22:15:17+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 resources:
   - name: venedig

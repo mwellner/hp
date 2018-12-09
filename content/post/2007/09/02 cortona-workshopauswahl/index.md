@@ -1,7 +1,7 @@
 ---
 title: Cortona, Workshopauswahl
 date: 2007-09-02T06:50:31+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

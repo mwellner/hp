@@ -1,7 +1,7 @@
 ---
 title: Vorlesen
 date: 2006-12-01T22:06:24+00:00
-lastmod: 2017-09-18T22:33:21+00:00
+lastmod: 2018-12-09T21:23:11+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Vrenelisgärtli
 date: 2011-08-01T22:15:01+00:00
-lastmod: 2017-10-02T13:13:00+00:00
+lastmod: 2018-12-09T21:30:53+00:00
 author: Mathias Wellner
 categories:
   - hiking

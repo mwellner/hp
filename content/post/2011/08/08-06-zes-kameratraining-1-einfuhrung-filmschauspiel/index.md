@@ -1,5 +1,6 @@
 ---
-title: 'ZES-Kameratraining 1 &ndash; Einführung Filmschauspiel'
+title: ZES-Kameratraining 1 -- Einführung Filmschauspiel
+slug: zes-kameratraining-filmschauspiel
 date: 2011-08-06T19:52:38+00:00
 lastmod: 2018-05-23T20:23:46+00:00
 author: Mathias Wellner

@@ -8,27 +8,16 @@ categories:
 tags:
   - max frisch
 ---
-Ein Gespräch auf dem Gipfel nach gemeinsamer Heldentat -- unserem Bergführer macht die _Überfremdung_ Angst. Ich fühle 
-mich damit immer gemeint, wenn nicht 
-sogar angegriffen. Als Deutscher in der Schweiz bin ich ein Fremder, einer von immer mehr. Und es gäbe da jetzt eine 
-deutsche Bergführerschule, welche geringere Löhne zahle und die Preise ruiniere. Was sagt man da? Die Aussicht ist 
-schön hier oben und der Himmel recht blau. 
+Ein Gespräch auf dem Gipfel nach gemeinsamer Heldentat -- unserem Bergführer macht die _Überfremdung_ Angst. Ich fühle mich damit immer gemeint, wenn nicht 
+sogar angegriffen. Als Deutscher in der Schweiz bin ich ein Fremder, einer von immer mehr. Und es gäbe da jetzt eine deutsche Bergführerschule, welche geringere Löhne zahle und die Preise ruiniere. Was sagt man da? Die Aussicht ist schön hier oben und der Himmel recht blau. 
 
-Mir behagt schon der Begriff nicht. _Überfremdung_ hat einen bedrohlichen, ausgrenzenden Klang. Und in unserer 
-Siebener-Seilschaft repräsentierte ich als einziger Deutscher das ominöse Fremde. Als Kunde von Schweizer Bergführern 
-fühlte ich mich durchaus willkommen, aber sobald Zugewanderte in Konkurrenz treten, läuten die Alarmglocken. Die 
-gleiche Diskussion erlebte ich vor einigen Jahren in Sachsen, durch die Osterweiterung der Europäischen Union sahen 
-sich vor allem handwerkliche Betriebe bedroht. Polnische und tschechische Fliesenleger und Bauarbeiter würden schon 
-bald die Preise ruinieren und in einer ohnehin schon strukturschwachen Region zusätzliche Arbeitslosigkeit verursachen. 
-In der Schweiz sind die Deutschen die Polen. 
+Mir behagt schon der Begriff nicht. _Überfremdung_ hat einen bedrohlichen, ausgrenzenden Klang. Und in unserer Siebener-Seilschaft repräsentierte ich als einziger Deutscher das ominöse Fremde. Als Kunde von Schweizer Bergführern fühlte ich mich durchaus willkommen, aber sobald Zugewanderte in Konkurrenz treten, läuten die Alarmglocken. Die gleiche Diskussion erlebte ich vor einigen Jahren in Sachsen, durch die Osterweiterung der Europäischen Union sahen sich vor allem handwerkliche Betriebe bedroht. Polnische und tschechische Fliesenleger und Bauarbeiter würden schon bald die Preise ruinieren und in einer ohnehin schon strukturschwachen Region zusätzliche Arbeitslosigkeit verursachen. In der Schweiz sind die Deutschen die Polen. 
 
-Max Frisch schrieb 1965 einen Text zum Thema Überfremdung. Damals waren es die Italiener, welche in großer Zahl in 
-die Schweiz kamen. 
+Max Frisch schrieb 1965 einen Text zum Thema Überfremdung. Damals waren es die Italiener, welche in großer Zahl in die Schweiz kamen. 
 
-{{<blockquote>}}
+{{<blockquote cite="Max Frisch, Überfremdung I, 1965">}}
 <p>Ein kleines Herrenvolk sieht sich in Gefahr: man hat Arbeitskräfte gerufen, und es kommen Menschen. Sie fressen den Wohlstand nicht auf, im Gegenteil, sie sind für den Wohlstand unerlässlich. Aber sie sind da. Gastarbeiter oder Fremdarbeiter? Ich bin fürs Letztere: sie sind keine Gäste, die man bedient, um an ihnen zu verdienen; sie arbeiten, und zwar in der Fremde, weil sie in ihrem eigenen Land zurzeit auf keinen grünen Zweig kommen. Das kann man ihnen nicht übel nehmen. Sie sprechen eine andere Sprache. Auch das kann man nicht übel nehmen, zumal die Sprache, die sie sprechen, zu den vier Landessprachen gehört. Aber das erschwert vieles. Sie beschweren sich über menschenunwürdige Unterkünfte, verbunden mit Wucher, und sind überhaupt nicht begeistert. Das ist ungewohnt. Aber man braucht sie. Wäre das kleine Herrenvolk nicht bei sich selbst berühmt für seine Humanität und Toleranz und so weiter, der Umgang mit den fremden Arbeitskräften wäre leichter; man könnte sie in ordentlichen Lagern unterbringen, wo sie auch singen dürften, und sie würden nicht das Straßenbild überfremden. Aber das geht nicht; sie sind keine Gefangenen, nicht einmal Flüchtlinge. So stehen sie denn in den Läden und kaufen, und wenn sie einen Arbeitsunfall haben oder krank werden, liegen sie auch noch in den Krankenhäusern. Man fühlt sich überfremdet. Langsam nimmt man es ihnen doch übel. Ausbeutung ist ein verbrauchtes Wort, es sei denn, dass die Arbeitgeber sich ausgebeutet fühlen. Sie sparen, heißt es, jährlich eine Milliarde und schicken sie heim. Das war nicht der Sinn. Sie sparen. Eigentlich kann man ihnen auch das nicht übel nehmen. Aber sie sind einfach da, eine Überfremdung durch Menschen, wo man doch, wie gesagt, nur Arbeitskräfte wollte. Und sie sind nicht nur Menschen, sondern anders: Italiener. Sie stehen Schlange an der Grenze; es ist unheimlich. Man muss das kleine Herrenvolk schon verstehen. Wenn Italien plötzlich seine Grenze sperren würde, wäre es auch unheimlich. Was tun? Es geht nicht ohne strenge Maßnahmen, die keinen Betroffenen entzücken, nicht einmal den betroffenen Arbeitgeber. Es herrscht Konjunktur, aber kein Entzücken im Lande. Die Fremden singen. Zu viert in einem Schlafraum. Der Bundesrat verbittet sich die Einmischung durch einen italienischen Minister, schließlich ist man unabhängig, wenn auch angewiesen auf fremde Tellerwäscher und Maurer und Handlanger und Kellner und so weiter, unabhängig (glaube ich) von Habsburg wie von der EWG.</p>
 <p>Es sind einfach zu viele, nicht auf der Baustelle und nicht in der Fabrik und nicht im Stall und nicht in der Küche, aber am Feierabend, vor allem am Sonntag sind es plötzlich zu viele. Sie fallen auf. Sie sind anders. Sie haben ein Auge auf Mädchen und Frauen, solange sie die ihren nicht in die Fremde nehmen dürfen. Man ist kein Rassist; es ist schließlich eine Tradition, dass man nicht rassistisch ist, und die Tradition hat sich bewährt in der Verurteilung französischer oder amerikanischer oder russischer Allüren, ganz zu schweigen von den Deutschen, die den Begriff von den Hilfsvölkern geprägt haben. Trotzdem sind sie einfach anders. Sie gefährden die Eigenart des kleinen Herrenvolkes, die ungern umschrieben wird, es sei denn im Sinn des Eigenlobs, das die andern nicht interessiert.</p>
- <cite class="blockquote-cite">Max Frisch, Überfremdung I, 1965</cite>
 {{</blockquote>}}
 
 Also ich werde auf jeden Fall den Schweizer Bergführern die Treue halten. Unvorstellbar, dass mir ein Bergführer auf Hochdeutsch erklärte, wie ich den Karabiner einhänge, wie der doppelte Spierenstich funktioniert oder welche Klettertechnik die beste ist. Das passt einfach nicht zusammen.

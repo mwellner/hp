@@ -5,14 +5,12 @@ date: 2011-08-06T19:52:38+00:00
 lastmod: 2018-12-09T21:31:28+00:00
 author: Mathias Wellner
 categories:
-  - theater
+  - schauspiel
 tags:
-  - Film
+  - film
   - kamera
-  - marco hausammann-gilardi
-  - Schauspiel
-  - Training
-  - ZES
+  - schauspiel
+  - zes
 ---
 Heute fand die erste Lektion des [ZES-Kameratrainings](http://www.zes-info.ch/ZES/Kameratraining.html) statt. Ich habe mich für drei Lektionen angemeldet, wir sind zu dritt. Die heutige Auftaktveranstaltung nutzte [Marco Hausammann-Gilardi](http://www.zes-info.ch/ZES/Kursleitung.html) für eine Einführung in das Thema Filmschauspiel. Denn wir alle hatten bisher eher Theatererfahrung gesammelt und die Gesetzmäßigkeiten und Gepflogenheiten der Filmbranche waren für uns neu. 
 

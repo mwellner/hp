@@ -1,7 +1,7 @@
 ---
-title: Die ersten Tage in Züerich
+title: Die ersten Tage in Zürich
 date: 2005-07-03T18:12:26+00:00
-lastmod: 2018-07-10T21:41:52+00:00
+lastmod: 2018-12-09T21:36:37+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

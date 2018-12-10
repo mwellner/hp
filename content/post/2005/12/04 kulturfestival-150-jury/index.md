@@ -1,10 +1,13 @@
 ---
 title: Kulturfestival 150, Jury
 date: 2005-12-04T02:33:38+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2018-12-10T12:23:25+00:00
 author: Mathias Wellner
 categories:
   - tagebuch
+tags:
+  - patrick süskind
+  - der kontrabass
 ---
 Am Freitag hatte ich beim Kulturfestival meinen großen Auftritt, ich las den _Kontrabass_ von Patrick Süskind. Mittlerweile bereite ich mich nicht mehr groß darauf vor, ich lese einfach los. Die Lesungen unterschieden sich lediglich geringfügig in der meist sehr spontanen Auswahl der Passagen. Und in der Umsetzung der vielen Regieanweisungen, diesmal hatte ich sogar einen Techniker, welcher für mich die Musik und Klangeffekte einspielte. In dieser Hinsicht war das schon ein Fortschritt. Leider kamen recht wenige Leute, es war eine recht überschaubare Runde. 
 

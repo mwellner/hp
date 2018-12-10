@@ -1,7 +1,7 @@
 ---
 title: Auf Stellensuche
 date: 2009-10-26T22:23:24+00:00
-lastmod: 2017-10-02T14:45:58+00:00
+lastmod: 2018-12-10T11:56:14+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

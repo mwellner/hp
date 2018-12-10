@@ -1,7 +1,7 @@
 ---
 title: Minarettverbot in der Schweiz
 date: 2009-12-06T11:36:35+00:00
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2018-12-10T12:02:00+00:00
 author: Mathias Wellner
 categories:
   - politik

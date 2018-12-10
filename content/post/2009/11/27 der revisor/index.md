@@ -2,7 +2,7 @@
 title: Nikolaj Gogol -- Der Revisor
 slug: nikolaj-gogol-der-revisor
 date: 2009-11-27T23:12:39+00:00
-lastmod: 2017-10-02T14:48:24+00:00
+lastmod: 2018-12-10T11:59:54+00:00
 author: Mathias Wellner
 categories:
   - theater

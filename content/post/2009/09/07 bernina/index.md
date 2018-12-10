@@ -1,7 +1,7 @@
 ---
 title: Bergtour im Bernina-Gebiet
 date: 2009-09-07T07:40:58+00:00
-lastmod: 2017-10-02T14:44:00+00:00
+lastmod: 2018-12-10T11:54:48+00:00
 author: Mathias Wellner
 categories:
   - wandern

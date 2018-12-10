@@ -1,7 +1,7 @@
 ---
 title: Fear Les Fanz vs. Improsant (Theatersport)
 date: 2009-11-18T23:52:30+00:00
-lastmod: 2017-10-02T14:47:48+00:00
+lastmod: 2018-12-10T12:00:23+00:00
 author: Mathias Wellner
 categories:
   - theater

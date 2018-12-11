@@ -10,12 +10,13 @@
   var staticCacheName = 'static';
   var pagesCacheName = 'pages';
   var imagesCacheName = 'images';
-  var version = 'v1::';
+  var version = 'v2::';
   var staticAssets = [
     '/css/style.css',
     '/js/bootstrap.bundle.min.js',
     '/js/jquery.min.js',
-    '/js/tether.min.js'
+    '/js/tether.min.js',
+    '/images/wmo_stripes.png'
   ];
 
   var updateStaticCache = function () {

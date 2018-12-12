@@ -22,5 +22,6 @@ const cssDest = "static/css";
 gulp.task("css", () => gulp.src(cssFiles)
     .pipe(sass({outputStyle: "compressed"}).on("error", sass.logError))
     .pipe(postcss())
+    .pipe(rename({suffix: "1"}))
     .pipe(gulp.dest(cssDest))
 );

@@ -188,15 +188,10 @@ section + #disqus_thread {
  * Footer
  */
 .blog-footer {
-  padding: 1rem 0;
+  background-image: url(/images/wmo_stripes_dark.png);
+  background-size: cover;
   color: #999;
   text-align: center;
-  a {
-    color: $brand-primary;
-    &:hover {
-      color: lighten($brand-primary, 10%);
-    }
-  }
   p:last-child {
     margin-bottom: 0;
   }  

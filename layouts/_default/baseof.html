@@ -77,14 +77,14 @@
      </div> {{ "<!-- /.row -->" | safeHTML }}
     </main> {{ "<!-- /.container -->" | safeHTML }}
 
-    <footer class="blog-footer bg-dark">
+    <footer class="blog-footer">
       {{ if .Site.Copyright }}
       <p>
       {{ .Site.Copyright | markdownify }}
       </p>
       {{ end }}
       <p>
-        <a href="#">{{ i18n "backToTop" }}</a>
+        <a href="#" class="nav-link">{{ i18n "backToTop" }}</a>
       </p>
     </footer>
   </body>  

@@ -16,7 +16,7 @@
     '/js/bootstrap.bundle.min.js',
     '/js/jquery.min.js',
     '/js/tether.min.js',
-    '/images/wmo_stripes.png'
+    '/images/wmo_stripes_dark.png'
   ];
 
   var updateStaticCache = function () {

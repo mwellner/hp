@@ -4,7 +4,7 @@ $blockquote-font-size: 1rem;
 $blockquote-border-color: #BBB;
 
 /* colors */
-$brand-primary: hsla(48, 80%, 80%, 0.8);
+$brand-primary: hsla(48, 90%, 70%, 0.8);
 $primary: hsla(350, 100%, 25%, 1);
 $theme-colors: ("primary": $primary);
 $link-color: $primary;
@@ -17,3 +17,4 @@ $border-radius-sm: 0.3rem;
 $card-border-radius: 0.5rem;
 $card-inner-border-radius: calc(#{$card-border-radius} - #{$card-border-width});
 $card-columns-count: 2;
+$card-bg: hsla(0, 0%, 100%, 0.8);

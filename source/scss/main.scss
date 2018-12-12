@@ -15,6 +15,8 @@ html {
 body {
   color: #111;
   background-color: #eee;
+  background-image: url(/images/wmo_stripes_bg.png);
+  background-size: 100% 100vh;
   font-family: $font-family-serif;
 }
 
@@ -49,7 +51,6 @@ dt {
     font-family: 'joschmi', sans-serif;
     font-size: 2.7rem;
     line-height: 1.0;
-    mix-blend-mode: difference;
   }
 }
 
@@ -58,7 +59,7 @@ dt {
   position: relative;
   padding: 0.6rem;
   font-weight: 600;
-  color: #eee;
+  color: hsla(0, 0%, 100%, 0.9);
   text-shadow: 1px 1px 4px black;
 }
 .nav-link:hover,
@@ -80,7 +81,6 @@ dt {
 /*
  * Main column and sidebar layout
  */
-
 main.container {
   min-height: calc(100vh - 162px);
 } 
@@ -107,6 +107,10 @@ main.container {
   margin-bottom: 3rem;
   & > .btn {
     border-radius: 0.5rem;
+    background-color: hsla(0, 0%, 100%, 0.4);
+    &:hover {
+      background-color: $primary;
+    }
   }
 }
 
@@ -117,7 +121,7 @@ main.container {
 .blog-post {
   margin-bottom: 1rem;
   padding: 0.75rem 1rem;
-  background-color: #fafafa;
+  background-color: hsla(0, 0%, 100%, 0.8);
   border-radius: 0.3rem;
 }
 .blog-post-title {
@@ -193,9 +197,9 @@ section + #disqus_thread {
       color: lighten($brand-primary, 10%);
     }
   }
-}
-.blog-footer p:last-child {
-  margin-bottom: 0;
+  p:last-child {
+    margin-bottom: 0;
+  }  
 }
 
 .blockquote {

@@ -42,16 +42,15 @@ dt {
 }
 
 .navbar {
+  background-image: url(/images/wmo_stripes_dark.png);
+  background-size: cover;
   .navbar-brand {
     color: $brand-primary;
     font-family: 'joschmi', sans-serif;
-    font-size: 2.5rem;
+    font-size: 2.7rem;
     line-height: 1.0;
-    text-shadow: 2px 2px 5px darken($brand-primary, 60%);
+    mix-blend-mode: difference;
   }
-  position: relative;
-  background-image: url(/images/wmo_stripes.png);
-  background-size: cover;
 }
 
 /* Nav links */
@@ -64,13 +63,13 @@ dt {
 }
 .nav-link:hover,
 .nav-link:focus {
-  color: yellow;
+  color: $brand-primary;
   transition: color 0.7s ease-in-out;
 }
 
 /* Active state gets a caret at the bottom */
 .nav-link.active {
-  color: lightgray;
+  color: $brand-primary;
 }
 
 /* Blog name and description */

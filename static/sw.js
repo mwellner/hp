@@ -12,7 +12,7 @@
   var imagesCacheName = 'images';
   var version = 'v4::';
   var staticAssets = [
-    '/css/style3.css',
+    '/css/style4.css',
     '/js/bootstrap.bundle.min.js',
     '/js/jquery.min.js',
     '/js/tether.min.js',

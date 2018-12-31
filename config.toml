@@ -5,6 +5,7 @@ baseurl = "https://mwellner.de/"
 theme = "hugo-theme-bootstrap4-blog"
 enableRobotsTXT = true
 paginate = 10
+rssLimit = 20
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

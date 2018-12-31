@@ -22,4 +22,4 @@ Während drinnen die Redelisten abgearbeitet wurden, tummelten sich viele Teilne
 
 Am Ende ließ auch die Wortmeldungsmotivation etwas nach, so dass schließlich die Abstimmung beginnen konnte. Auf dem Stimmzettel musste ich mich zwischen Ja, Nein und Enthaltung entscheiden und das Teil schließlich vorn einwerfen in die Urne. Während die Auszählung startete, standen noch ein paar formalere Punkte auf dem Programm, eine Satzungsänderung, Entlastung des Vorstands, Finanzbericht. Leider war die Aufmerksamkeit nicht mehr wirklich vorhanden, so dass der Finanzbericht leider etwas unterging. Am Ende wurde alles genehmigt wie vorgeschlagen, und auch der Koalitionsvertrag wurde mit einem Ergebnis von rund 91% angenommen. 
 
-War eine schöne Veranstaltung, offen, lebendig und zugänglich, auch für Neumitglieder wie mich. 
+War eine schöne Veranstaltung, offen, lebendig und zugänglich, auch für Neumitglieder wie mich. Und die Tagesschau war sogar dabei und hat gefilmt. Im Beitrag gibt es auch eine kurze Kamerafahrt über das Publikum, auf der ich in der fünften Reihe gut zu erkennen bin.

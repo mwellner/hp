@@ -1,7 +1,7 @@
 ---
 title: Hugo
 date: 2017-02-27T22:40:24+01:00
-lastmod: 2018-06-23T19:11:04+00:00
+lastmod: 2019-01-03T16:21:36+00:00
 categories:
   - software
 tags:

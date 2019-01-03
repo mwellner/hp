@@ -1,6 +1,6 @@
 ---
 date: "2017-10-21T23:58:41"
-lastmod: 2018-06-25T23:03:22+00:00
+lastmod: 2019-01-03T16:21:36+00:00
 title: Der Löwe im Winter -- Premiere
 author: Mathias Wellner
 resources:

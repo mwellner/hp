@@ -1,8 +1,10 @@
 ---
 date: "2018-12-22T20:29:12"
-lastmod: 2018-12-29T21:22:08+00:00
+lastmod: 2019-01-03T16:34:06+00:00
 title: Landesmitgliederversammlung
 author: Mathias Wellner
+resources:
+  - { name: abstimmung, src: abstimmung.jpg, title: Abstimmung über den Koalitionsvertrag }
 categories:
   - politik
 tags:
@@ -19,6 +21,8 @@ Für Neulinge gab es wieder eine Einführung, gleich am Eingang der Stadthalle w
 Insgesamt gab es wenige kritische Punkte, nach dem historisch einmaligen Wahlergebnis herrschte ohnehin Feierlaune. Sicher, zwei Tage waren etwas knapp gewesen, um den Vertrag durchzulesen. Und [CETA](http://ec.europa.eu/trade/policy/in-focus/ceta/index_de.htm), das Wirschafts- und Handlesabkommen mit Kanada, wurde auch kritisch gesehen. Aber im Großen überwogen die Freude an der Fortsetzung der bewährten Koalition mit jetzt größerem grünen Gewicht. 
 
 Während drinnen die Redelisten abgearbeitet wurden, tummelten sich viele Teilnehmer auch draußen, aßen ein vegetarisches Essen, kosteten vom Bio-Winzer, tauschten sich aus. Denn eine einheitliche Mittagspause gab es nicht, das hätte den zeitlichen Rahmen arg verlängert.
+
+{{<responsive-image name="abstimmung">}}
 
 Am Ende ließ auch die Wortmeldungsmotivation etwas nach, so dass schließlich die Abstimmung beginnen konnte. Auf dem Stimmzettel musste ich mich zwischen Ja, Nein und Enthaltung entscheiden und das Teil schließlich vorn einwerfen in die Urne. Während die Auszählung startete, standen noch ein paar formalere Punkte auf dem Programm, eine Satzungsänderung, Entlastung des Vorstands, Finanzbericht. Leider war die Aufmerksamkeit nicht mehr wirklich vorhanden, so dass der Finanzbericht leider etwas unterging. Am Ende wurde alles genehmigt wie vorgeschlagen, und auch der Koalitionsvertrag wurde mit einem Ergebnis von rund 91% angenommen. 
 

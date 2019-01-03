@@ -2,7 +2,7 @@
 title: DarmstadtJS Meetup
 description: "Notizen vom Besuch des Meetups DarmstadtJS"
 date: "2017-03-02T23:18:11+01:00"
-lastmod: 2018-06-23T19:12:52+00:00
+lastmod: 2019-01-03T16:21:36+00:00
 categories: 
   - software
 tags: 

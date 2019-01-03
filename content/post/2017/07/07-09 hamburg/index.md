@@ -1,6 +1,6 @@
 ---
 date: "2017-07-09T23:08:31"
-lastmod: 2018-06-24T23:07:16+00:00
+lastmod: 2019-01-03T16:21:36+00:00
 title: Mein persönliches G20-Erlebnis
 author: Mathias Wellner
 categories:

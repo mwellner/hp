@@ -1,7 +1,7 @@
 ---
 title: Probewochenende in Wetzlar
 date: 2017-05-21T21:14:13+01:00
-lastmod: 2018-06-24T22:40:39+00:00
+lastmod: 2019-01-03T16:21:36+00:00
 author: Mathias Wellner
 resources:
   - name: textarbeit

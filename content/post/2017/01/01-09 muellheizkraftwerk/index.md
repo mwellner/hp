@@ -1,7 +1,7 @@
 ---
 title: Darmstadt-Impressionen
 date: 2017-01-09T23:19:09+00:00
-lastmod: 2018-06-23T18:58:59+00:00
+lastmod: 2019-01-03T16:21:36+00:00
 author: Mathias Wellner
 resources:
   - name: kraftwerk

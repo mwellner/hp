@@ -1,7 +1,7 @@
 ---
 title: Zürich-Wochenende
 date: 2017-04-30T23:52:37+01:00
-lastmod: 2018-06-24T22:27:17+00:00
+lastmod: 2019-01-03T16:21:36+00:00
 author: Mathias Wellner
 resources:
   - name: blick

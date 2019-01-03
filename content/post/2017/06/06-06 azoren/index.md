@@ -1,6 +1,6 @@
 ---
 date: "2017-06-06T14:58:12"
-lastmod: 2018-06-24T23:01:57+00:00
+lastmod: 2019-01-03T16:21:36+00:00
 title: Die Azoren
 author: Mathias Wellner
 resources:

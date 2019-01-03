@@ -1,6 +1,6 @@
 ---
 date: "2017-12-11T21:48:41"
-lastmod: 2018-06-25T23:12:37+00:00
+lastmod: 2019-01-03T16:21:36+00:00
 title: Theaterwerkstatt
 author: Mathias Wellner
 categories:

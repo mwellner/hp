@@ -1,7 +1,8 @@
 ---
 date: "2018-12-22T20:29:12"
 lastmod: 2019-01-03T16:34:06+00:00
-title: Landesmitgliederversammlung
+title: LMV
+slug: landesmitgliederversammlung
 author: Mathias Wellner
 resources:
   - { name: abstimmung, src: abstimmung.jpg, title: Abstimmung über den Koalitionsvertrag }

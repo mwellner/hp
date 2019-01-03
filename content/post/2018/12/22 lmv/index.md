@@ -21,7 +21,7 @@ Für Neulinge gab es wieder eine Einführung, gleich am Eingang der Stadthalle w
 
 Insgesamt gab es wenige kritische Punkte, nach dem historisch einmaligen Wahlergebnis herrschte ohnehin Feierlaune. Sicher, zwei Tage waren etwas knapp gewesen, um den Vertrag durchzulesen. Und [CETA](http://ec.europa.eu/trade/policy/in-focus/ceta/index_de.htm), das Wirschafts- und Handlesabkommen mit Kanada, wurde auch kritisch gesehen. Aber im Großen überwogen die Freude an der Fortsetzung der bewährten Koalition mit jetzt größerem grünen Gewicht. 
 
-Während drinnen die Redelisten abgearbeitet wurden, tummelten sich viele Teilnehmer auch draußen, aßen ein vegetarisches Essen, kosteten vom Bio-Winzer, tauschten sich aus. Denn eine einheitliche Mittagspause gab es nicht, das hätte den zeitlichen Rahmen arg verlängert.
+Während drinnen die Redelisten abgearbeitet wurden, tummelten sich viele Teilnehmer auch draußen, aßen ein vegetarisches Essen, kosteten vom Bio-Winzer, tauschten sich aus. Denn eine einheitliche Mittagspause gab es nicht, das hätte deutlich länger gedauert.
 
 {{<responsive-image name="abstimmung">}}
 

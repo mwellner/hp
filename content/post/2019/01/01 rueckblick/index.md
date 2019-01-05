@@ -1,6 +1,6 @@
 ---
 date: "2019-01-01T16:29:12"
-lastmod: 2019-01-03T16:55:23+00:00
+lastmod: 2019-01-05T21:14:08+00:00
 title: Rückblick 2018
 slug: rueckblick-2018
 author: Mathias Wellner
@@ -9,12 +9,14 @@ categories:
 tags:
   - angular
 ---
-Einen kleinen Rückblick auf 2018 möchte auch ich wagen, dieses gerade vergangene Jahr nochmals vorüberziehen lassen. Subjektiv habe ich ja meist den Eindruck, dass nicht viel passiert, dass die Zeit einfach verfliegt. Aber bei genauerem Hinsehen ist da doch eine Menge passiert, viele neue Menschen traten in mein Leben, ein  trauriger Abschied war auch dabei. 
+Einen kleinen Rückblick auf 2018 möchte auch ich wagen, dieses gerade vergangene Jahr nochmals vorüberziehen lassen. Subjektiv habe ich ja meist den Eindruck, dass nicht viel passiert, dass die Zeit einfach verfliegt. Aber bei genauerem Hinsehen ist da doch eine Menge passiert, viele neue Menschen traten in mein Leben, traurige Abschiede waren auch dabei. 
 <!--more-->
 
 #### Familie
 
 Der bewegendste Moment war der Abschied von meinem leider sehr plötzlich verstorbenen Onkel Raimund im September. Er wurde 67, hatte gerade angefangen, sich in Nossen sein Rentnerdasein einzurichten. An diesem sonnigen Tag im September versammelten sich um die 50 Menschen auf dem Friedhof in Mittweida, natürlich Familie, aber auch Bastler-Kollegen aus Nossen, frühere Wegbegleiter aus Mittweida, Studienfreunde. Ich war oft mit ihm klettern gewesen, gern erinnere ich mich, wie er mich zu meinem ersten Vorstieg im Elbsandsteingebirge ermutigte, wodurch ich dann später selbst viele Freunde mit zum Klettern nehmen konnte. 
+
+Ebenso verstarb die Schwester meines Großvaters, Charlotte, sie wurde 99 Jahre alt. Sie war eine gütige Frau, die mich oft unterstützte, so gab es für meinen USA-Aufenthalt 2002 einen großzügigen Beitrag, durch den ich das Ganze sehr entspannt angehen konnte. 
 
 Die Begegnungen mit meinen Verwandten waren mir wichtig, ein fester Anker in meinem durch Umzüge und Umbrüche geprägten Leben. Einige haben mich besucht hier in Darmstadt, wofür ich sehr dankbar bin. 
 

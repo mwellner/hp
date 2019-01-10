@@ -7,6 +7,7 @@ categories:
   - tagebuch
 ---
 Für die bald herauskommende AVETH-News 2007 habe ich zwei Artikel beigesteuert. Es beschäftigte mich ein Rückblick auf unser Vorstandwochenende in Einsiedeln und für den Bereich Kultur hatte ich freie Hand.
+<!--more-->
 
 #### Einkehr in Einsiedeln
 

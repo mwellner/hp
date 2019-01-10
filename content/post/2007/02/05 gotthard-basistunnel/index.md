@@ -7,6 +7,7 @@ categories:
   - tagebuch
 ---
 Momentan beträgt die Zugreisezeit von Zürich nach Mailand reichlich vier Stunden. Haupthindernis auf dem Weg nach Süden sind die Alpen, welche durch den momentan schon vorhandenen Gotthard-Tunnel teilweise durchquert werden können. Dieser liegt aber recht hoch, weshalb an alle Züge zusätzliche Lokomotiven angedockt werden müssen, welche die starke Steigung bewältigen können. Ein zeitaufwändiges Verfahren, noch dazu verringert es auch die möglichen Reisegeschwindigkeiten. Deshalb also die Idee, einen Basistunnel weit unten zu bauen. Mit dem kommt man dann in ungefähr zwei Stunden von Zürich nach Mailand. Zusätzlich erhoffen sich die Erbauer auch eine Verlagerung des Güterverkehrs auf die Schiene, um die Nord-Süd-Autobahnen zu entlasten.
+<!--more-->
 
 Noch ein paar Zahlen zur Dimension des [Alptransit-Projektes](http://www.alptransit.ch). Mit 57 Kilometern wird der weltlängste Tunnel entstehen (momentan hält noch der Ärmelkanal-Tunnel den Rekord). Baukosten sind etwas mehr als 8 Milliarden Franken (reichlich 5 Milliarden Euro), Planungs- und Bauzeit 25 Jahre. Inbetriebnahme wird erst 2016 sein, so dass die schnelle Verbindung nach Mailand noch etwas auf sich warten lässt.
 

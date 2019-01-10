@@ -14,6 +14,7 @@ categories:
   - reisen
 tags:
   - belgien
+  - lüttich
 ---
 Nur zwei ICE-Stunden von Frankfurt entfernt liegt Belgien, zumindest mal Lüttich. Meine belgischen Freunde hatten ein Ferienhaus in den Ardennen organisert, ganz nahe an _Coo_, was für seine [Wasserfälle](https://de.wikipedia.org/wiki/Wasserf%C3%A4lle_von_Coo), den Freizeitpark mit dem klangvollen Namen [PlopsaCoo](http://www.plopsacoo.be/de) und ein Pumpspeicherkraftwerk bekannt ist. Und von Lüttich kommt man auch gut dahin, aller zwei Stunden fährt ein Zug gen Süden. Der nächste Halt ist dann [Trois-Ponts](https://de.wikipedia.org/wiki/Trois-Ponts), wo wir jeden Tag unsere frischen Baguettes und Brötchen kauften. Wir waren im französisch geprägten Süden von Belgien, der [Wallonie](https://de.wikipedia.org/wiki/Wallonische_Region). 
 

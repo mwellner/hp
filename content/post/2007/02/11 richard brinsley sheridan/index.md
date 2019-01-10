@@ -3,10 +3,10 @@ title: Richard Brinsley Sheridan
 date: 2007-02-11T15:38:08+00:00
 lastmod: 2018-12-09T20:49:11+00:00
 author: Mathias Wellner
-tags: 
-  - richard brinsley sheridan
 categories:
   - theater
+tags: 
+  - richard brinsley sheridan
 ---
 Für die Theaterproduktion von Sheridans "Die Lästerschule" (The School for Scandal) lohnt es sich, das Leben des Autors und seine Zeit zu verstehen. Das Stück ist zwar recht zeitlos, dennoch entstand es in einem ganz bestimmten historischen Kontext. Die folgenden (eingerückt dargestellten) Zitate stammen aus der "Kulturgeschichte der Menschheit" (Durant). Dieses immense Werk hat mir mal eine Tante geschenkt, in der Hoffnung, ich könnte diese Bücher gebrauchen. Und gelegentlich ist es echt praktisch, dieses unerschöpfliche Nachschlagewerk zur Verfügung zu haben. Denn sowohl der deutsche wie auch der englische Wikipedia-Artikel sind recht knapp gehalten.
 

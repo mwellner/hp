@@ -7,8 +7,9 @@ categories:
   - software
 tags:
   - graphql
-  - postgresql
+  - postgres
   - angular
+  - sql
 ---
 In an attempt to explore new technologies, I have recently digged into [GraphQL](http://graphql.org/), which may be the future protocol for fetching data with mobile and web applications. In contrast to the current standard (REST APIs), GraphQL fetches exactly the data you need, in one request. This is vital for mobile applications and can also be handy for web applications. 
 

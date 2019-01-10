@@ -6,7 +6,7 @@ author: Mathias Wellner
 categories:
   - literature
 tags:
-  - f scott fitzgerald
+  - fitzgerald
 ---
 The next book we are going to discuss in the **Literaturzirkel der ETH Zürich** is "The Great Gatsby", one of the greatest American novels (see Wikipedias [Modern Library 100 Best Novels](https://en.wikipedia.org/wiki/Modern_Library_List_of_Best_20th-Century_Novels)).
 <!--more-->

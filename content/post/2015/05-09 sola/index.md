@@ -5,7 +5,7 @@ date: 2015-05-09T16:01:46+00:00
 lastmod: 2018-06-30T19:35:20+00:00
 author: Mathias Wellner
 categories:
-  - laufen
+  - sport
 tags:
   - sola
   - comparis

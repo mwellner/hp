@@ -8,7 +8,8 @@ tags:
   - klaus mann
 categories:
   - theater
-  - schauspielhaus dresden
+  - schauspielhaus
+  - dresden
 ---
 Der kulturelle Höhepunkt meines weihnachtlichen Heimaturlaubes war ohne Zweifel das Theaterstück [Mephisto](https://de.wikipedia.org/wiki/Mephisto_%28Roman%29), die Bühnenfassung des gleichnamigen Romans von [Klaus Mann](https://de.wikipedia.org/wiki/Klaus_Mann) durch Birgit Funke, inszeniert in Dresden durch Holk Freytag.
 <!--more-->

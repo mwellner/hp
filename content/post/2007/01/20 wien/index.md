@@ -4,7 +4,7 @@ date: 2007-01-20T22:35:39+00:00
 lastmod: 2018-12-09T20:49:10+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
+  - reisen
 tags:
   - wien
   - österreich

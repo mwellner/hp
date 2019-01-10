@@ -1,5 +1,6 @@
 ---
 title: Strauhof Zürich -- Anna Blume trifft Zuckmayr
+slug: strauhof-zuerich-anna-blume-trifft-zuckmayr
 date: 2006-02-19T21:14:50+00:00
 lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
@@ -10,10 +11,10 @@ tags:
   - christa wolf
   - peter handtke
   - thomas mann
-  - zuerich
   - heinrich böll
 ---
 Die aktuelle Ausstellung des [Strauhof Zürich](http://strauhof.ch/) befasst sich mit Tondokumenten von Dichterstimmen. Da es das noch nicht so lange gibt (technisch bedingt), war die zeitliche Dimension schon mal auf die vergangenen reichlich 100 Jahre beschränkt. Inhaltlich wurden deutschsprachige Autoren genommen, aus Deutschland, Österreich und natürlich der Schweiz. Die Aufteilung des Materials auf Räume wurde nach dem Kontext vorgenommen, so gab es Gespräche, Lesungen, Reden, Darstellungen (bis hin zum Poetry Slam), Rundfunk/TV und andere Kategorien.
+<!--more-->
 
 Das Schöne für mich war, dass ich viele "Bekannte" wiedersah und neue Verbindungen herstellen konnte. Unvergesslich Paul Celans Todesfuge, vorgetragen vom Autor selbst mit sehr starker Betonung, leider unüblich für Lesungen.
 

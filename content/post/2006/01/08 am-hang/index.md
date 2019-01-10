@@ -4,11 +4,12 @@ date: 2006-01-08T22:10:16+00:00
 lastmod: 2017-09-18T22:33:21+00:00
 author: Mathias Wellner
 categories:
-  - tagebuch
+  - sport
 tags:
   - skifahren
 ---
 Vor mir der Abgrund. Oder der Hang, rot markiert an der Seite mit diesen Stäben, welche ganz oben gelb sind, aber unten und zum größeren Teil eine der drei Signalfarben blau, rot, schwarz zeigen. Rot ist die mittlere Stufe, für mich als Skianfänger bedeutet das, dass ich irrsinnig schnell werde und entweder die Kurve kriege oder mich spektakulär hinlege. Letzteres geschah oft, einmal drehte ich mich zwei Mal um die Achse (der untere Ski greift irgendwann und fährt eine Kurve, nur dass ich halt nicht mehr stehe sondern liege). 
+<!--more-->
 
 Warum fahre ich da runter? 
 

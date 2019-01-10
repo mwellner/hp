@@ -8,6 +8,9 @@ categories:
   - tagebuch
 tags:
   - angular
+  - impro
+  - neue bühne
+  - der name der rose
 ---
 Einen kleinen Rückblick auf 2018 möchte auch ich wagen, dieses gerade vergangene Jahr nochmals vorüberziehen lassen. Subjektiv habe ich ja meist den Eindruck, dass nicht viel passiert, dass die Zeit einfach verfliegt. Aber bei genauerem Hinsehen ist da doch eine Menge passiert, viele neue Menschen traten in mein Leben, traurige Abschiede waren auch dabei. 
 <!--more-->

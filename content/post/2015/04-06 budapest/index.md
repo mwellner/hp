@@ -14,7 +14,6 @@ tags:
   - ungarn
 ---
 Ostern in Budapest -- gesagt, getan. Ich hatte kein wirklich klares Bild von dieser Stadt vorher, es sollte schöne Architektur geben, aber sonst war ich bisher nicht wirklich mit der ungarischen Hauptstadt in Kontakt getreten. Meistens bin ich enttäuscht, wenn ich an Orten mit gutem Tourismus-Marketing lande, die Realität kann mit den schönen Katalogbildern oft nicht mithalten. 
-
 <!--more-->
 
 {{< responsive-image name="kirche" >}}

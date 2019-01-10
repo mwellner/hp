@@ -6,9 +6,10 @@ author: Mathias Wellner
 resources:
   - { name: gruppe, src: gruppe.jpg, title: Gruppenbild danach }
 categories:
-  - impro
+  - theater
 tags:
   - hoffart
+  - impro
 ---
 Wieder die Aufregung, die Scheinwerfer, das Publikum -- die Magie des Auftritts. Im Rahmen der Newcomerstage 2018 betrat ich gemeinsam mit acht anderen Teilnehmern die Bühne des HoffART-Theaters im Darmstädter Martinsviertel. 
 <!--more-->

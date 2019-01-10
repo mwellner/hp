@@ -5,10 +5,11 @@ title: Christian Sievers -- Grauzonen
 slug: christian-sievers-grauzonen
 author: Mathias Wellner
 categories:
-  - journalismus
+  - literatur
 tags:
   - christian sievers
   - zdf
+  - journalismus
 ---
 Gern möchte ich euch das Buch [Grauzonen](https://www.rowohlt.de/paperback/christian-sievers-grauzonen.html) von [Christian Sievers](https://twitter.com/chsievers) empfehlen, sicherlich vielen bekannt als Nachrichtenmoderator des ZDF. Es sind viele spannende Einblicke in die Welt der Nachrichten, die auch zeigen, wie schwierig es ist, unter dem Druck sich überstürzender Ereignisse journalistisch korrekt zu berichten. 
 

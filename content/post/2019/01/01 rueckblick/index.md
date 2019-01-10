@@ -1,6 +1,6 @@
 ---
 date: "2019-01-01T16:29:12"
-lastmod: 2019-01-05T21:14:08+00:00
+lastmod: 2019-01-10T21:04:09+00:00
 title: Rückblick 2018
 slug: rueckblick-2018
 author: Mathias Wellner

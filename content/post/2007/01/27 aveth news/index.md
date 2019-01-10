@@ -1,7 +1,7 @@
 ---
 title: AVETH-News 2007, ausgewählte Beiträge
 date: 2007-01-27T23:47:22+00:00
-lastmod: 2018-12-09T20:49:10+00:00
+lastmod: 2019-01-10T21:04:09+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

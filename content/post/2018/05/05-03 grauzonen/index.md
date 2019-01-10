@@ -1,6 +1,6 @@
 ---
 date: "2018-05-03T19:12:12"
-lastmod: 2018-06-23T16:30:06+00:00
+lastmod: 2019-01-10T21:04:09+00:00
 title: Christian Sievers -- Grauzonen
 slug: christian-sievers-grauzonen
 author: Mathias Wellner

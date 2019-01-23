@@ -28,7 +28,7 @@ Anfang 2019 wird es nochmals zehn Aufführungen von _Der Name der Rose_ in der [
 - Sonntag, 10. Februar 2019, 18:00 Uhr
 - Freitag, 22. Februar 2019, 20:00 Uhr
 - Samstag, 23. Februar 2019, 20:00 Uhr
-- Freitag, 8. März 2019, 20:00 Uhr
+- Samstag, 9. März 2019, 20:00 Uhr
 
 <div class="card-columns">
   <div class="card">

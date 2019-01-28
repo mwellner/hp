@@ -10,9 +10,9 @@
   var staticCacheName = 'static';
   var pagesCacheName = 'pages';
   var imagesCacheName = 'images';
-  var version = 'v4::';
+  var version = 'v5::';
   var staticAssets = [
-    '/css/style4.css',
+    '/css/style5.css',
     '/js/bootstrap.bundle.min.js',
     '/js/jquery.min.js',
     '/js/tether.min.js',

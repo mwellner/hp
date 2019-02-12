@@ -38,4 +38,4 @@ Qui salvandos salvas gratis:<br>
 Salva me, fons pietatis.
 {{</blockquote>}}
 
-Und so werde ich die nächsten vier Abend in der Neuen Bühne verbringen, zwei Proben warten auf mich, am Wochenende dann die ersten beiden Aufführungen. Wird sicher schön.
+Und so werde ich die nächsten vier Abende in der Neuen Bühne verbringen, zwei Proben warten auf mich, am Wochenende dann die ersten beiden Aufführungen. Wird sicher schön.

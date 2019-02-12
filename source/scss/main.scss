@@ -2,16 +2,6 @@
  * Globals
  */
 
-html {
-  font-size: 1.05rem;
-} 
-
-@media (min-width: 48em) {
-  html {
-    font-size: 1.2rem;
-  }
-}
-
 body {
   color: #111;
   background-color: #eee;
@@ -35,12 +25,8 @@ h6, .h6 {
   }
 }
 
-dl {
-  font-size: 1rem;
-}
-
 dt {
-  font-size: 0.9rem;
+  @include responsive-font-size(0.9rem);
 }
 
 .navbar {
@@ -127,12 +113,10 @@ main.container {
 }
 .blog-post-title {
   margin-bottom: 0.5rem;
-  font-size: 1.8rem;
 }
 .blog-post-meta {
   color: #777;  
   font-family: $font-family-sans-serif;
-  font-size: 1rem;
   .fa {
     color: #999;
   }

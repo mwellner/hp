@@ -24,8 +24,6 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
 
 Anfang 2019 wird es nochmals zehn Aufführungen von _Der Name der Rose_ in der [Neuen Bühne](https://www.neue-buehne.de) geben. Ich spiele an den folgenden Abenden:
 
-- Samstag, 9. Februar 2019, 20:00 Uhr
-- Sonntag, 10. Februar 2019, 18:00 Uhr
 - Freitag, 22. Februar 2019, 20:00 Uhr
 - Samstag, 23. Februar 2019, 20:00 Uhr
 - Samstag, 9. März 2019, 20:00 Uhr

@@ -1,6 +1,6 @@
 ---
 title: Theater
-date: 2019-02-12T15:23:09+00:00
+date: 2019-02-24T15:23:09+00:00
 author: Mathias Wellner
 resources:
   - { name: rose, src: rose.jpg }
@@ -22,10 +22,8 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
 
 #### Wiederaufnahme "Der Name der Rose"
 
-Anfang 2019 wird es nochmals zehn Aufführungen von _Der Name der Rose_ in der [Neuen Bühne](https://www.neue-buehne.de) geben. Ich spiele an den folgenden Abenden:
+Anfang 2019 wird es nochmals einige Aufführungen von _Der Name der Rose_ in der [Neuen Bühne](https://www.neue-buehne.de) geben. Ich spiele an den folgenden Abenden:
 
-- Freitag, 22. Februar 2019, 20:00 Uhr
-- Samstag, 23. Februar 2019, 20:00 Uhr
 - Samstag, 9. März 2019, 20:00 Uhr
 
 <div class="card-columns">
@@ -33,7 +31,7 @@ Anfang 2019 wird es nochmals zehn Aufführungen von _Der Name der Rose_ in der [
     {{<card-image name="rose">}}
     <div class="card-body">
       <h5 class="card-title">Der Name der Rose</h5>
-      <h6 class="card-subtitle text-muted">Umberto Eco</h6>
+      <h6 class="card-subtitle text-muted">Umberto Eco, Claus Frankl (Bühnenfassung)</h6>
       <p class="card-text">
         <dl>
           <dt>Rolle</dt>
@@ -43,7 +41,7 @@ Anfang 2019 wird es nochmals zehn Aufführungen von _Der Name der Rose_ in der [
           <dt>Produktion</dt>
           <dd><a href="http://www.neue-buehne.de">Neue Bühne Darmstadt</a></dd>
           <dt>Aufführungen</dt>
-          <dd>Mär-Jun 2018 (Darmstadt)</dd>
+          <dd>Mär-Jun 2018, Feb-Mär 2019 (Darmstadt)</dd>
         </dl>
       </p>
     </div>

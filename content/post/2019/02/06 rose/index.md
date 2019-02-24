@@ -1,6 +1,6 @@
 ---
 date: "2019-02-06T22:02:12"
-lastmod: 2019-02-06T16:53:24+00:00
+lastmod: 2019-02-24T14:09:37+00:00
 title: Sing mal wieder
 slug: sing-mal-wieder
 author: Mathias Wellner

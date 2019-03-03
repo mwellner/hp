@@ -1,6 +1,6 @@
 ---
 title: Theater
-date: 2019-02-24T15:23:09+00:00
+date: 2019-03-03T15:23:09+00:00
 author: Mathias Wellner
 resources:
   - { name: rose, src: rose.jpg }
@@ -22,7 +22,7 @@ Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein
 
 #### Wiederaufnahme "Der Name der Rose"
 
-Anfang 2019 wird es nochmals einige Aufführungen von _Der Name der Rose_ in der [Neuen Bühne](https://www.neue-buehne.de) geben. Ich spiele an den folgenden Abenden:
+Anfang 2019 wird es nochmals einige Aufführungen von _Der Name der Rose_ in der [Neuen Bühne](https://www.neue-buehne.de) geben. Letzte Möglichkeit:
 
 - Samstag, 9. März 2019, 20:00 Uhr
 

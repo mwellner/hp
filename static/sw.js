@@ -10,12 +10,9 @@
   var staticCacheName = 'static';
   var pagesCacheName = 'pages';
   var imagesCacheName = 'images';
-  var version = 'v6::';
+  var version = 'v7::';
   var staticAssets = [
-    '/css/style6.css',
-    '/js/bootstrap.bundle.min.js',
-    '/js/jquery.min.js',
-    '/js/tether.min.js',
+    '/css/style7.css',
     '/images/wmo_stripes_dark.png'
   ];
 

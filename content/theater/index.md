@@ -1,6 +1,6 @@
 ---
 title: Theater
-date: 2019-03-03T15:23:09+00:00
+date: 2019-03-09T15:23:09+00:00
 author: Mathias Wellner
 resources:
   - { name: rose, src: rose.jpg }
@@ -19,12 +19,6 @@ resources:
   - { name: laesterschule, src: laesterschule.jpg }
 ---
 Mit Theater beschäftige ich mich intensiver seit 2006. Mittlerweile sind es ein gutes Dutzend Produktionen als Schauspieler und eine als Regisseur. Ich habe von 2010 bis 2013 einige Kurse und Praxisproduktionen am [Zentrum für Entwicklung im Schauspiel](http://www.zes-info.ch) besucht.
-
-#### Wiederaufnahme "Der Name der Rose"
-
-Anfang 2019 wird es nochmals einige Aufführungen von _Der Name der Rose_ in der [Neuen Bühne](https://www.neue-buehne.de) geben. Letzte Möglichkeit:
-
-- Samstag, 9. März 2019, 20:00 Uhr
 
 <div class="card-columns">
   <div class="card">

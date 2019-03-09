@@ -6,7 +6,7 @@ author: Mathias Wellner
 categories:
   - theater
 tags:
-  - improtheater
+  - impro
 ---
 Man nehme 
 

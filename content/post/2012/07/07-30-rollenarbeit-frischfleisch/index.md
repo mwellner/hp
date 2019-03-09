@@ -6,15 +6,7 @@ author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Basketball
-  - Impro
-  - Improvisation
-  - Prozess
-  - Rollenarbeit
-  - selbstgeschrieben
-  - Streetball
-  - Stück
-  - theater
+  - impro
 ---
 Es geht voran in unserem selbsterstellten Stück. Wir versuchen zurzeit, durch Improvisationen Szenen zu erarbeiten. Es sind einige gute Sachen dabei, aber vieles funktioniert auch nicht so wirklich. Unsere Haussitzung hat nur gähnende Langeweile produziert. Es liegt vermutlich daran, dass die meisten in der Gruppe noch nicht viel Impro-Erfahrung haben und die Rollen noch nicht so klar definiert sind. 
 

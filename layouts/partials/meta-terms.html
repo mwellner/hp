@@ -2,7 +2,7 @@
   <i class="fas fa-folder mr-1"></i>
   {{ range $index, $category := .Params.categories }}
     {{ if gt $index 0 }}, {{ end }}
-    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category">{{ . }}</a>
   {{ end }}
 {{ end }}
 

@@ -14,6 +14,7 @@ rssLimit = 20
 [params]
   author = "Mathias Wellner"
   date_format = "02.01.2006"
+  sharingicons = false
 
 [Languages]
 [Languages.de]

@@ -34,8 +34,8 @@ dt {
   background-size: cover;
   .navbar-brand {
     color: $brand-primary;
-    font-family: 'joschmi', sans-serif;
-    font-size: 2.7rem;
+    font-family: "Fira Sans", serif;
+    font-size: 2.0rem;
     line-height: 1.0;
     text-shadow: 1px 1px 4px black;
   }  
@@ -55,7 +55,6 @@ dt {
   transition: color 0.7s ease-in-out;
 }
 
-/* Active state gets a caret at the bottom */
 .nav-link.active {
   color: $brand-primary;
 }
@@ -117,12 +116,6 @@ main.container {
 .blog-post-meta {
   color: #777;  
   font-family: $font-family-sans-serif;
-  .fa {
-    color: #999;
-  }
-  .fa-tag {
-    margin-left: 1rem;
-  }
 }
 
 figure {

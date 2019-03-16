@@ -13,7 +13,8 @@
   var version = 'v8::';
   var staticAssets = [
     '/css/style8.css',
-    '/images/wmo_stripes_dark.png'
+    '/images/wmo_stripes_dark.png',
+    '/images/wmo_stripes_bg.png'
   ];
 
   var updateStaticCache = function () {

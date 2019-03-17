@@ -17,7 +17,7 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "autoprefixer": "^9.3.1",
-    "bootstrap": "^4.3.0",
+    "bootstrap": "^4.3.1",
     "clean-css-cli": "^4.0.0",
     "del": "^3.0.0",
     "gulp": "^4.0.0",

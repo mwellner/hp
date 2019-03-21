@@ -1,11 +1,12 @@
 ---
 title: Prototyp-Basteln
 date: 2017-04-15T15:52:37+01:00
-lastmod: 2019-01-03T16:21:36+00:00
+lastmod: 2019-03-22T00:00:01+00:00
 categories:
   - software
 tags: 
   - prototyp
+  - conweaver
 ---
 In den letzten beiden Wochen war ich dienstlich unterwegs, für zwei Wochen implementierten wir mehrere Prototypen bei einem potenziellen Kunden im Rahmen eines [Hackathons](https://de.wikipedia.org/wiki/Hackathon). Die Bedingungen waren ziemlich einschränkend, die Prototypen sollten auf einem Server in Indien laufen, der schon mal deutlich über 100&thinsp;ms Latenz hatte. Außerdem hatten wir nur zwei Laptops mit Serverzugang zur Verfügung. Noch dazu waren die Anforderungen von unterschiedlicher Qualität und die Daten mit ihren vielfältigen Zusammenhängen nicht so klar dokumentiert. 
 

@@ -1,6 +1,6 @@
 ---
 date: "2019-03-21T22:02:12"
-lastmod: 2019-03-21T21:30:08+00:00
+lastmod: 2019-03-22T10:41:07+00:00
 title: Letzter Tag bei CONWEAVER
 slug: letzter-tag-conweaver
 author: Mathias Wellner
@@ -13,4 +13,4 @@ Nach zwei Jahren und fünf Monaten war heute mein letzter Tag bei [CONWEAVER](ht
 
 Inhaltlich durfte ich ein neues Web-Framework mit [Angular](https://angular.io/) aufbauen. Und ich habe Angular in dieser Zeit wirklich schätzen gelernt, man kann damit sehr schön komponenten-basiert entwickeln und es skaliert auch gut für größere Anwendungen. Mein Werkzeugkasten in dieser Zeit bestand neben Angular selbst aus [Bootstrap](https://getbootstrap.com/), [ng-bootstrap](https://ng-bootstrap.github.io/), [Font Awesome](https://fontawesome.com/), [ngx-translate](http://www.ngx-translate.com/), [ngx-config](https://github.com/fulls1z3/ngx-config), [ngx-charts](https://github.com/swimlane/ngx-charts) und einigen anderen Bibliotheken. 
 
-Viel hat sich getan in diesen reichlich zwei Jahren in der Web-Entwicklung, aber den Internet Explorer 11 gibt es leider immer noch, in Deutschland nutzen ihn derzeit immer noch 2,6%. Aber der Tag wird kommen, wenn diese Kompatibilitätssorgen der Vergangenheit angehören werden. 
+Viel hat sich getan in diesen reichlich zwei Jahren in der Web-Entwicklung, aber den Internet Explorer 11 gibt es leider immer noch, in Deutschland nutzen ihn derzeit 2,6%. Aber der Tag wird kommen, wenn diese Kompatibilitätssorgen der Vergangenheit angehören werden. 

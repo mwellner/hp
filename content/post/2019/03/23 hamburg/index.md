@@ -13,12 +13,12 @@ categories:
 tags:
   - hamburg
 ---
-Ein Familienbesuch brachte mich mal wieder nach Hamburg. Vor sechs Wochen wurde mein Neffe geboren, da freute ich mich sehr, ihn zum ersten Mal persönlich zu sehen. Und da die Sonne schien, konnten wir auch ein wenig spazieren gehen. 
+Ein Familienbesuch brachte mich mal wieder nach Hamburg. Vor sechs Wochen wurde mein Neffe geboren, da freute ich mich sehr, ihn zum ersten Mal persönlich zu sehen. 
 <!--more-->
 
 {{<responsive-image name="hamburg1" class="wide">}}
 
-Immer wieder eindrücklich sind die Hafenkräne, die man vom Altonaer Elbufer gut sehen kann. Dort gibt es einen kleinen Strand, der sogar schon gut besucht war an diesem lauen Frühlingstag. 
+Immer wieder eindrücklich sind die Hafenkräne, die man vom Altonaer Elbufer gut sehen kann. Dort gibt es einen kleinen Strand, der sogar schon gut besucht war an diesem lauen Frühlingstag im März. 
 
 {{<responsive-image name="hamburg2">}}
 

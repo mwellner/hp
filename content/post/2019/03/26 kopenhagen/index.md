@@ -14,7 +14,7 @@ categories:
 tags:
   - kopenhagen
 ---
-Drei Tage verbrachte ich in Kopenhagen, einer sehr schönen Stadt. Es gibt so viel zu entdecken dort, ich beschränkte mich auf einige Sehenswürdigkeiten. Aber zuallererst fielen mir natürlich die Radwege auf, und die vielen Radfahrerinnen und Radfahrer, die da unterwegs waren. Es zeigte mir eindrücklich, dass eine Verlagerung weg vom Autoverkehr möglich ist, und eine lebenswertere Stadt das Resultat ist. 
+Drei Tage verbrachte ich in Kopenhagen, einer sehr schönen Stadt. Es gibt so viel zu entdecken dort, ich beschränkte mich auf einige Sehenswürdigkeiten. Aber zuallererst fielen mir natürlich die Radwege auf, und die vielen Radfahrerinnen und Radfahrer, die da unterwegs waren. Es zeigte mir eindrücklich, dass eine Verlagerung weg vom Autoverkehr möglich ist, und eine lebenswertere Stadt das Resultat. 
 <!--more-->
 
 {{<responsive-image name="amalienborg" class="wide">}}

@@ -1,9 +1,9 @@
 ---
 title: About
-date: 2018-05-22T12:51:00+00:00
+date: 2019-04-22T12:51:00+00:00
 author: Mathias Wellner
 ---
-Ich arbeite als Software-Entwickler für [CONWEAVER](http://www.conweaver.com) in Darmstadt. Ich lebe seit Oktober 2016 in der Stadt.
+Ich arbeite als Software-Entwickler für [wer denkt was](https://werdenktwas.de) in Darmstadt. Ich lebe seit Oktober 2016 in der Stadt.
 
 Privat beschäftige ich mich vor allem mit [Theater](https://mwellner.de/theater), seit 2003 bin ich in verschiedenen Theatergruppen aktiv gewesen. Mittlerweile war ich als Schauspieler in einem guten Dutzend Produktionen dabei und habe im Mai 2014 die Premiere meiner ersten Regiearbeit *Ein idealer Gatte* erlebt. 
 

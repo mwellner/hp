@@ -1,6 +1,6 @@
 ---
 date: "2019-03-21T22:02:12"
-lastmod: 2019-03-22T10:41:07+00:00
+lastmod: 2019-04-24T20:52:31+00:00
 title: Die umweltgerechte Stadt
 slug: umweltgerechte-stadt
 author: Mathias Wellner

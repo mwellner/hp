@@ -1,6 +1,6 @@
 ---
 date: "2019-02-24T10:02:12"
-lastmod: 2019-02-24T14:08:50+00:00
+lastmod: 2019-04-24T20:52:31+00:00
 title: Persönlicher CO2-Fußabdruck
 slug: co2-fussabdruck
 author: Mathias Wellner

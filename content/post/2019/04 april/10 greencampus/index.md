@@ -1,6 +1,6 @@
 ---
 date: "2019-04-10T21:02:12"
-lastmod: 2019-04-10T10:41:07+00:00
+lastmod: 2019-04-24T20:52:31+00:00
 title: Straßenwahlkampf für Anfänger
 slug: strassenwahlkampf
 author: Mathias Wellner

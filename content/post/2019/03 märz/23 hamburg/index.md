@@ -1,6 +1,6 @@
 ---
 date: "2019-03-23T22:02:12"
-lastmod: 2019-03-24T14:09:37+00:00
+lastmod: 2019-04-24T20:52:31+00:00
 title: Hamburg
 slug: hamburg
 author: Mathias Wellner

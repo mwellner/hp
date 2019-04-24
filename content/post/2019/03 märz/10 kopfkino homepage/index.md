@@ -1,6 +1,6 @@
 ---
 date: "2019-03-10T19:02:12"
-lastmod: 2019-03-10T14:08:50+00:00
+lastmod: 2019-04-24T20:52:31+00:00
 title: Homepage für Kopfkino
 slug: homepage-kopfkino
 author: Mathias Wellner

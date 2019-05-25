@@ -8,7 +8,9 @@ resources:
   - { name: feld, src: feld.jpg, title: Am Anfang von Beet 1 }
   - { name: jungpflanzen, src: jungpflanzen.jpg, title: Jungpflanzen zur Lückenbefüllung }
 categories:
-  - tagebuch
+  - gärtnern
+tags:
+  - oberfeld
 ---
 Wie schön wäre es, sein eigenes Gemüse anzubauen? Es aufwachsen zu sehen, vom Unkraut zu befreien, gießen in trockenen Zeiten -- und zu ernten, wenn die Zeit reif dafür ist. Das [Hofgut Oberfeld](https://www.landwirtschaft-oberfeld.de/startseite.html) bietet genau das, für einen gewissen Pachtbetrag erhält man einen [Saisongarten](https://www.landwirtschaft-oberfeld.de/hofgut-saisongarten.html) am Oberfeld, nicht weit von der Rosenhöhe entfernt. Und heute war einer der Einführungstermine, gut 100 Leute strömten zusammen, insgesamt sind es wohl 1000 Saisongärtner. 
 <!--more-->

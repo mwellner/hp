@@ -1,6 +1,6 @@
 ---
 date: "2018-12-22T20:29:12"
-lastmod: 2019-01-03T16:34:06+00:00
+lastmod: 2019-05-25T18:56:32+00:00
 title: LMV
 slug: landesmitgliederversammlung
 author: Mathias Wellner
@@ -9,7 +9,7 @@ resources:
 categories:
   - politik
 tags:
-  - gruene
+  - die grünen
   - hessen
 ---
 Kaum eingetreten bei den Grünen, schon durfte ich auf Landesebene mitbestimmen. Es ging um den Koalistionsvertrag zwischen der CDU und den GRÜNEN in Hessen. Und so war ich eines von ca. 550 Mitgliedern, die sich kurz vor Weihnachten in der Stadthalle von [Hofheim am Taunus](https://www.hofheim.de/) einfanden. 

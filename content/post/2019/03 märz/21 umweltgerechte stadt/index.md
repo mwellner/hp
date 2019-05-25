@@ -1,6 +1,6 @@
 ---
 date: "2019-03-21T22:02:12"
-lastmod: 2019-04-24T20:52:31+00:00
+lastmod: 2019-05-25T18:55:57+00:00
 title: Die umweltgerechte Stadt
 slug: umweltgerechte-stadt
 author: Mathias Wellner
@@ -9,6 +9,7 @@ categories:
 tags:
   - schader-stiftung
   - darmstadt
+  - die grünen
 ---
 Der grüne [Arbeitskreis Umwelt](https://www.gruene-darmstadt.de/kreisverband/showcontent.asp?ThemaID=132) trifft sich normalerweise im Grünen Büro in der Lauteschlägerstraße. Heute trafen wir uns in der [Schader-Stiftung](https://www.schader-stiftung.de), die abends zu zwei Vorträgen zum Thema _Umweltgerechte Stadt_ eingeladen hatte. 
 <!--more-->

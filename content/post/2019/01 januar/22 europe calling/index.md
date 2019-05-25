@@ -1,6 +1,6 @@
 ---
 date: "2019-01-22T16:29:12"
-lastmod: 2019-04-24T20:52:31+00:00
+lastmod: 2019-05-25T18:56:18+00:00
 title: Europe Calling
 slug: europe-calling
 author: Mathias Wellner
@@ -12,6 +12,7 @@ tags:
   - annalena baerbock
   - ska keller
   - europa
+  - die grünen
 ---
 Es ist der erste Neujahrsempfang für mich, zumindest in diesem Jahr. Noch dazu geschieht er online, so dass sich jeder Teilnehmende selbst sein Gläschen Sekt neben den Bildschirm stellen kann. Das Thema ist _Starkes Europa oder Rechtes Europa?_, was auf die anstehenden Europa-Wahlen abzielt. [Sven Giegold](https://sven-giegold.de) moderierte den Abend, außerdem dabei waren [Ska Keller](https://www.skakeller.de), [Michael Kellner](http://michael-kellner.info/) und [Annalena Baerbock](https://www.annalena-baerbock.de/). 
 <!--more-->

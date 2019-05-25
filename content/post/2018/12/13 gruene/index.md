@@ -1,6 +1,6 @@
 ---
 date: "2018-12-13T20:29:12"
-lastmod: 2018-12-13T21:22:08+00:00
+lastmod: 2019-05-25T19:02:27+00:00
 title: Die Grünen Darmstadt
 author: Mathias Wellner
 resources:
@@ -8,7 +8,7 @@ resources:
 categories:
   - tagebuch
 tags:
-  - gruene
+  - die grünen
   - darmstadt
   - hoffart
 ---

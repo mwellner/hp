@@ -1,13 +1,13 @@
 ---
 date: "2019-04-10T21:02:12"
-lastmod: 2019-04-24T20:52:31+00:00
+lastmod: 2019-05-25T18:55:23+00:00
 title: Straßenwahlkampf für Anfänger
 slug: strassenwahlkampf
 author: Mathias Wellner
 categories:
   - politik
 tags:
-  - grüne
+  - die grünen
   - wahlkampf
 ---
 Bald ist es soweit, Wahlkampfzeit. Am 26. Mai wird auf europäischer Ebene gewählt, so dass mein erster Wahlkampf als Parteimitglied ansteht. Aber wie macht man das? Schon komisch die Vorstellung, da an einem Wahlkampfstand zu stehen und Leute anzusprechen. Zum Glück gab es heute einen Wahlkampf-Kurs mit [Matthias Sprekelmeyer](http://sprekelmeyer.de).

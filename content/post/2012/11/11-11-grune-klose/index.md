@@ -1,16 +1,12 @@
 ---
 title: Grüne Klöße
 date: 2012-11-11T23:36:35+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2019-05-25T19:19:56+00:00
 author: Mathias Wellner
 categories:
   - bilder
   - tagebuch
 tags:
-  - Essen
-  - gruene kloesse
-  - kartoffeln
-  - kloesse
   - kochen
   - rezept
 ---

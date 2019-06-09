@@ -3,12 +3,8 @@
   "version": "1.0.0",
   "description": "A modified theme.",
   "scripts": {
-    "build:js": "gulp scripts",
     "build:css": "gulp css",
-    "build:fonts": "cp node_modules/font-awesome/fonts/* static/fonts",
-    "build:generatesri": "node build/sri.js > data/sri.toml",
-    "build": "npm run build:js && npm run build:css && npm run build:fonts && npm run build:generatesri && npm run clean",
-    "clean": "rm static/css/style.css.tmp"
+    "build": "npm run build:css"
   },
   "keywords": [
     "hugo"
@@ -18,22 +14,13 @@
   "devDependencies": {
     "autoprefixer": "^9.3.1",
     "bootstrap": "^4.3.1",
-    "clean-css-cli": "^4.0.0",
     "del": "^3.0.0",
-    "extend": ">=3.0.2",
     "gulp": "^4.0.0",
-    "gulp-clean-css": "^4.0.0",
-    "gulp-concat": "^2.6.1",
     "gulp-postcss": "^8.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
-    "gulp-uglify": "^3.0.1",
-    "jquery": "^3.4.1",
-    "node-sass": "^4.11.0",
-    "ts-node": "^7.0.1",
-    "typescript": "^3.1.6"
+    "node-sass": "^4.11.0"
   },
-  "dependencies": {},
   "browserslist": [
     "last 1 version",
     "> 1%",

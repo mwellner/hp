@@ -1,6 +1,6 @@
 ---
 date: "2019-05-01T21:02:12"
-lastmod: 2019-05-01T21:43:10+00:00
+lastmod: 2019-05-25T20:11:55+00:00
 title: Saisongarten am Oberfeld
 slug: saisongarten-oberfeld
 author: Mathias Wellner

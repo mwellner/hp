@@ -1,6 +1,6 @@
 ---
 date: "2019-05-23T21:02:12"
-lastmod: 2019-05-25T20:22:51+00:00
+lastmod: 2019-06-18T23:53:26+00:00
 title: Kartoffelkäfer
 slug: kartoffelkaefer
 author: Mathias Wellner

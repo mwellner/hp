@@ -14,6 +14,7 @@
     {{ end }}
     <link rel="prefetch" href="{{ .Site.BaseURL }}images/wmo_stripes_dark.png">
     <link rel="prefetch" href="{{ .Site.BaseURL }}images/wmo_stripes_bg.png">
+    <link rel="manifest" href="/manifest.json">
     <link href="{{ .Site.BaseURL }}css/style8.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Spectral|Fira+Sans" rel="stylesheet"> 
     <meta name="google-site-verification" content="qfHfoYPUsYo-Od3gvLagaJ4VT4aQ0CeyKqiQVfpnijM" />
@@ -62,6 +63,7 @@
     <main class="container">
       <div class="row">
         <div class="col-sm-12 blog-main">
+          <button id="install-app-button" class="btn btn-secondary mb-3 d-none">Install as App</button>
 
           {{ block "main" . }}
           <!-- The part of the page that begins to differ between templates -->

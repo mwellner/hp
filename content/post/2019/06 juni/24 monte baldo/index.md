@@ -1,6 +1,6 @@
 ---
 date: "2019-06-24T21:02:12"
-lastmod: 2019-06-25T11:14:19+00:00
+lastmod: 2019-07-06T12:33:16+00:00
 title: Monte Baldo
 slug: monte-baldo
 author: Mathias Wellner

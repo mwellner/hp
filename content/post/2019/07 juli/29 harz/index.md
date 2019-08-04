@@ -15,7 +15,7 @@ tags:
   - deutschland
   - harz
 ---
-Es war ein schöne verlängertes Wochenende mit Dresdner und niederländischen Freunden im Harz. Wir wohnten in einem Ferienhaus in [St. Andreasberg](https://de.wikipedia.org/wiki/Sankt_Andreasberg) im niedersächsischen Teil des Harzes. Wir verbrachten die Tage mit Minigolf, Hochseilgarten und kleinen Wanderungen.
+Es war ein schönes verlängertes Wochenende mit Dresdner und niederländischen Freunden im Harz. Wir wohnten in einem Ferienhaus in [St. Andreasberg](https://de.wikipedia.org/wiki/Sankt_Andreasberg) im niedersächsischen Teil des Harzes. Wir verbrachten die Tage mit Minigolf, Hochseilgarten und kleinen Wanderungen.
 <!--more-->
 
 {{<responsive-image name="ferienhaus">}}

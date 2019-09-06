@@ -1,6 +1,6 @@
 ---
 date: "2019-07-27T21:02:12"
-lastmod: 2019-08-02T12:33:16+00:00
+lastmod: 2019-08-12T22:36:03+00:00
 title: Harzreise
 slug: harz
 author: Mathias Wellner

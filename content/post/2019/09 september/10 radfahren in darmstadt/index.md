@@ -8,7 +8,7 @@ resources:
   - {
       name: radfahren,
       src: radfahren.jpg,
-      title: Plakat für Radfahr-Diskussionsveranstaltung am 10.9.,
+      title: "In Bewegung: Radfahren in Darmstadt am 10. September um 19:00",
     }
 categories:
   - politik

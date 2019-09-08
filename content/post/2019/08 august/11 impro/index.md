@@ -26,6 +26,6 @@ Der Auftritt in Mainz fand wieder im Rahmen eines runden Geburtstages statt, der
 - Sitcom
 - Freeze-Tag
 
-Am Ende kam sogar der Jubilar zum Zuge, er spielte mit einem alten Freund eine kurze Szene. War ein schöner Auftritt!
+Am Ende kam sogar der Jubilar zum Zuge, er spielte mit einem alten Freund eine kurze Szene. Die beiden schlugen sich nicht schlecht.
 
 Der Workshop heute mit [Wayne Götz](https://www.folkwang-uni.de/home/theater/studiengaenge/physical-theatre/studierende/wayne-goetz/) war auch eine tolle Erfahrung, sehr viele Impulse für unser Spiel. Im Zentrum stand vor allem die Entwicklung von Szenen, Emotionalität, über die Grenzen gehen. Hat echt Spaß gemacht und wird uns als Gruppe sicher zu neuen Höhenflügen animieren.

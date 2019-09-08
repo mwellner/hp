@@ -1,22 +1,17 @@
 ---
-title: 'Yasmina Reza &ndash; Kunst (Theater Muntanellas)'
+title: Yasmina Reza -- Kunst
+slug: yasmina-reza-kunst
 date: 2011-05-28T13:13:35+00:00
 lastmod: 2018-05-23T20:23:28+00:00
 author: Mathias Wellner
-excerpt: 'Besprechung des Theaterstücks Kunst von Yasmina Reza, inszeniert von Philipp Lenz mit dem Theater Muntanella. '
 categories:
   - theater
 tags:
-  - Aarau
-  - Inszenierung
-  - Kunst
-  - Muntanellas
-  - Philipp Lenz
-  - Rezension
-  - Stück
-  - theater
-  - Theatertage
-  - Yasmina Reza
+  - muntanellas
+  - philipp lenz
+  - theatertage
+  - aarau
+  - yasmina reza
 ---
 Der erste Höhepunkt bei den [Aarauer Theatertagen](http://www.theatertage.ch) war [Yasmina Reza](https://de.wikipedia.org/wiki/Yasmina_Reza)&#8216;s Stück [Kunst](http://de.wikipedia.org/wiki/Kunst_%28Drama%29). Philipp Lenz inszenierte das Stück mit dem [Theater Muntanellas](http://www.muntanellas.ch/) bereits 2010. 
 

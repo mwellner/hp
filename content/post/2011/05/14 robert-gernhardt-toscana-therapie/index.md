@@ -1,22 +1,15 @@
 ---
 title: Robert Gernhardt – Toscana-​​Therapie
+slug: robert-gernhardt-toscana-therapie
 date: 2011-05-14T13:18:18+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - theater
 tags:
-  - authentisch
-  - Bühne
-  - Gerhard
-  - Karin
-  - Robert Gernhardt
-  - Rolle
-  - Schauspiel
-  - Silvia
-  - theater
-  - Toscana-Therapie
+  - robert gernhardt
+  - toscana-therapie
+  - dramateure
 ---
 <div style="width: 510px" class="wp-caption aligncenter">
   <img src="https://lh4.googleusercontent.com/_k8jzJG4N6uM/Tc5V613mEdI/AAAAAAAAACM/0BE7NYsVBhU/s800/DSC_3202.jpg" height="333" width="500" />

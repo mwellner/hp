@@ -15,4 +15,4 @@ tags:
   4. Montalin (2266&thinsp;m)
   5. Calfreisen (1132&thinsp;m)
 
-Schöne Tour auf wenig begangenen Wegen &ndash; war für mich in erster Linie Training, damit ich wieder fit werde für die Saison. Und der Anstieg machte mir schon zu schaffen, auf den Montalin führt ein blauer Bergwanderweg mit teilweise sehr steilen Abschnitten.
+Schöne Tour auf wenig begangenen Wegen -- war für mich in erster Linie Training, damit ich wieder fit werde für die Saison. Und der Anstieg machte mir schon zu schaffen, auf den Montalin führt ein blauer Bergwanderweg mit teilweise sehr steilen Abschnitten.

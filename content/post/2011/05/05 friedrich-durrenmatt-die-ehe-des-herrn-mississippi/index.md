@@ -1,19 +1,16 @@
 ---
-title: 'Friedrich Dürrenmatt &ndash; Die Ehe des Herrn Mississippi'
+title: Friedrich Dürrenmatt -- Die Ehe des Herrn Mississippi
+slug: friedrich-duerrenmatt-ehe-herrn-mississippi
 date: 2011-05-05T22:44:34+00:00
 lastmod: 2017-09-18T22:28:53+00:00
 author: Mathias Wellner
 categories:
   - theater
 tags:
-  - Die Ehe des Herrn Mississippi
-  - Friedrich Dürrenmatt
-  - Gerechtigkeit
-  - Kommunismus
-  - Lesung
-  - Stück
+  - friedrich dürrenmatt
 ---
 Im Rahmen einer szenischen Lesung lernte ich gemeinsam mit Freunden das frühe Dürrenmatt-Stück [Die Ehe des Herrn Mississippi](http://de.wikipedia.org/wiki/Die_Ehe_des_Herrn_Mississippi) kennen. Insgesamt fand ich das Stück mittelmäßig, aber Dürrenmatt verwendete einige spannende Ansätze und Ideen, die ich gern diskutieren möchte. 
+<!--more-->
 
 Jede Hauptperson im Stück verkörpert eine Idee oder Ideologie. Mississippi steht für biblische Gerechtigkeit, Saint-Claude für Kommunismus, Übelohe für Liebe, Anastasia für Jetztbezogennheit, Diego für Realpolitik und Machtwillen. Die Handlung zwischen den Personen ist demzufolge entweder symbolisch als Auseinandersetzung von Ideen zu verstehen oder dient lediglich als Rahmen.
 

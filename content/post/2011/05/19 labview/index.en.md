@@ -6,12 +6,11 @@ author: Mathias Wellner
 categories:
   - software
 tags:
-  - graphical
-  - Labview @en
-  - language @en
-  - programming @en
+  - labview
+  - programming
 ---
 In the early days of my time as PhD student, I had the forced pleasure to work with [LabVIEW](http://de.wikipedia.org/wiki/LabVIEW). In contrast to text-based programming languages (the vast majority), LabVIEW uses a graphical approach, pleasing the aesthetic mind, but looking extremely crammed and confusing for larger projects. 
+<!--more-->
 
 In my recent project, LabVIEW caught me again. Luckily we use it in combination with a scripting language, which implements the device logic, while LabVIEW is confined to the user interface. This makes it bearable, but very repetitive. And repetitive means mouse clicks and movements &ndash; a lot of mouse clicks and movements. 
 

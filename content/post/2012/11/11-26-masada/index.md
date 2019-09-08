@@ -1,23 +1,17 @@
 ---
 title: Masada
 date: 2012-11-26T23:35:11+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2019-09-07T00:06:12+00:00
 author: Mathias Wellner
 categories:
-  - bilder
   - reisen
 tags:
-  - Berg
-  - Festung
-  - Freiheit
-  - Juden
-  - Jüdischer Krieg
-  - Masada
-  - Römer
-  - Selbstmord
-  - Symbol
+  - israel
 ---
-Unser letzter Ausflug in Israel führte uns in den Südosten des Landes, zur Festung [Masada](http://de.wikipedia.org/wiki/Masada). Hier verschanzten sich im 1. Jahrhundert einige Hundert Juden im [Jüdischen Krieg](http://de.wikipedia.org/wiki/J%C3%BCdischer_Krieg) gegen die Römer. Als die Römer kurz vor der Erstürmung der Festung standen, entschieden die Eingeschlossenen, sich lieber selbst zu töten als in Gefangenschaft zu geraten. Somit ist dieser Ort ein Symbol des jüdischen Freiheitswillens und wird rege besucht. 
+
+Unser letzter Ausflug in Israel führte uns in den Südosten des Landes, zur Festung [Masada](http://de.wikipedia.org/wiki/Masada). Hier verschanzten sich im 1. Jahrhundert einige Hundert Juden im [Jüdischen Krieg](http://de.wikipedia.org/wiki/J%C3%BCdischer_Krieg) gegen die Römer. Als die Römer kurz vor der Erstürmung der Festung standen, entschieden die Eingeschlossenen, sich lieber selbst zu töten als in Gefangenschaft zu geraten. Somit ist dieser Ort ein Symbol des jüdischen Freiheitswillens und wird rege besucht.
+
+<!--more-->
 
 <div style="width: 510px" class="wp-caption aligncenter">
   <img src="https://lh5.googleusercontent.com/-UgkWu-D6zH8/ULHiW4DQ_sI/AAAAAAAAAyg/itM--eOy86w/s800/MW_20121123_3333.jpg" height="335" width="500" />

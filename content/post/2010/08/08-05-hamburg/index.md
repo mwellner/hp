@@ -4,18 +4,10 @@ date: 2010-08-05T23:27:53+00:00
 lastmod: 2018-10-21T13:13:13+00:00
 author: Mathias Wellner
 resources:
-  - name: alster
-    src: alster.jpg
-    title: Segelboot auf der Alster
-  - name: elbphilharmonie
-    src: elbphilharmonie.jpg
-    title: Baustelle der Elbphilharmonie
-  - name: regen
-    src: regen.jpg
-    title: Innenstadt bei Regen
-  - name: unwetter
-    src: unwetter.jpg
-    title: Nahendes Unwetter
+  - { name: alster, src: alster.jpg, title: Segelboot auf der Alster }
+  - { name: elbphilharmonie, src: elbphilharmonie.jpg, title: Baustelle der Elbphilharmonie }
+  - { name: regen, src: regen.jpg, title: Innenstadt bei Regen }
+  - { name: unwetter, src: unwetter.jpg, title: Nahendes Unwetter }
 categories:
   - reisen
 tags:

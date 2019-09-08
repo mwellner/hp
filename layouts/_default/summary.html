@@ -1,7 +1,7 @@
 {{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
 
 <div class="card">
-  {{ $image := .Page.Resources.GetMatch "*" }}  
+  {{ $image := .Page.Resources.GetMatch "*" }}
   {{ if $image }}
   {{ $image320 := $image.Resize "320x" }}
   {{ $image540 := $image.Resize "541x" }}

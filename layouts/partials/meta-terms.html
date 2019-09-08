@@ -9,7 +9,7 @@
 {{ if .Params.tags }}
   <i class="fas fa-tag mr-1 ml-3"></i>
   {{ range $index, $tag := .Params.tags }}
-    {{ if gt $index 0 }}, {{ end }}
+    {{ if gt $index 0 }} / {{ end }}
     <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" rel="tag">{{ . }}</a>
   {{ end }}
 {{ end }}

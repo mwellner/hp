@@ -1,7 +1,7 @@
 ---
 title: Model-View-Controller-Architektur
 date: 2010-04-08T09:27:54+00:00
-lastmod: 2019-09-09T23:50:45+00:00
+lastmod: 2019-09-10T00:00:52+00:00
 author: Mathias Wellner
 categories:
   - software

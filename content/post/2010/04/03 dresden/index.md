@@ -1,7 +1,7 @@
 ---
 title: Dresden-Spaziergang
 date: 2010-04-03T22:00:51+00:00
-lastmod: 2019-09-09T23:49:36+00:00
+lastmod: 2019-09-10T00:00:52+00:00
 author: Mathias Wellner
 resources:
   - name: eingang

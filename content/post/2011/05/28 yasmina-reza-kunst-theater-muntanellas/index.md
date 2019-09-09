@@ -2,7 +2,7 @@
 title: Yasmina Reza -- Kunst
 slug: yasmina-reza-kunst
 date: 2011-05-28T13:13:35+00:00
-lastmod: 2019-09-09T23:48:50+00:00
+lastmod: 2019-09-10T00:00:52+00:00
 author: Mathias Wellner
 categories:
   - theater

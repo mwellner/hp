@@ -1,7 +1,7 @@
 ---
 title: LabVIEW revisited
 date: 2011-05-19T22:01:07+00:00
-lastmod: 2019-09-09T23:48:50+00:00
+lastmod: 2019-09-10T00:00:52+00:00
 author: Mathias Wellner
 categories:
   - software

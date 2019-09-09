@@ -1,7 +1,7 @@
 ---
 title: Peter Brook
 date: 2010-04-06T23:07:56+00:00
-lastmod: 2019-09-09T23:49:13+00:00
+lastmod: 2019-09-10T00:00:52+00:00
 author: Mathias Wellner
 categories:
   - theater

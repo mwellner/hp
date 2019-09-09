@@ -2,7 +2,7 @@
 title: Friedrich Dürrenmatt -- Die Ehe des Herrn Mississippi
 slug: friedrich-duerrenmatt-ehe-herrn-mississippi
 date: 2011-05-05T22:44:34+00:00
-lastmod: 2019-09-09T23:48:50+00:00
+lastmod: 2019-09-10T00:00:52+00:00
 author: Mathias Wellner
 categories:
   - theater

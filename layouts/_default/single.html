@@ -6,7 +6,7 @@
   "@context": "http://schema.org",
   "@type": "BlogPosting",
   {{/* Google recommends the headline be no more than 110 characters */}}
-  "headline": {{ substr .Title 0 110 }},
+  "headline": "{{ substr .Title 0 110 }}",
   {{- with .Params.images -}}{{ range first 1 . }}
   "image": {
     "@type": "ImageObject",
@@ -29,11 +29,11 @@
   {{ end }}
   "author": {
     "@type": "Person",
-    "name": {{ .Params.author | default .Site.Params.author }}
+    "name": "{{ .Params.author | default .Site.Params.author }}"
   }
   {{ if or (.Params.categories) (.Params.tags) }}
   ,
-  "keywords": "{{ with .Params.categories }}{{ range $i, $e := . }}{{ if $i }},{{ end }}{{ $e }}{{ end }},{{ end }}{{ with .Params.tags }}{{ range $i, $e := . }}{{ if $i }},{{ end }}{{ $e }}{{ end }}{{ end }}"
+  "keywords": "{{ with .Params.categories }}{{ range $i, $e := . }}{{ if $i }},{{ end }}{{ $e }}{{ end }},{{ end }}"
   {{ end }}
 
   {{- with .Params.description -}}

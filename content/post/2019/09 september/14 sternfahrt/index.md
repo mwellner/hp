@@ -1,6 +1,6 @@
 ---
 date: "2019-09-14T07:02:12"
-lastmod: 2019-09-12T22:49:18+00:00
+lastmod: 2019-09-16T21:26:21+00:00
 title: Sternfahrt und Demo zur IAA
 slug: sternfahrt-demo-iaa-frankfurt
 author: Mathias Wellner
@@ -33,7 +33,7 @@ Um 10:30 am Louisenplatz in Darmstadt -- hunderte Radfahrer machen sich bereit, 
 
 Es war ein langer Zug von Fahrrädern, der sich erst durch Darmstadt und dann nördlich auf der B3 gemütlich-fröhlich gen Norden schob. Die Bundesstraße hatten wir dann sogar ganz für uns, die entgegenkommenden Autos mussten auf dem Seitenstreifen warten.
 
-Ein Autofahrer, der von rechts auf die Straße fahren wollte und durch einen Ordner daran gehindert wurde, rastete völlig aus, es kam sogar zu einem kleinen Handgemenge, die Polizei eilte hinzu. Ein anderer Autofahrer rief uns zu, wir sollten mal arbeiten, ein älterer Herr stieg sogar aus und diskutierte, der Klimawandel sei nicht existent, die Pflanzen brauchten das CO<sub>2</sub>. Es waren sehr gemischte Reaktionen, aber die meisten hatten ein Lächeln auf den Lippen.
+Ein Autofahrer, der von rechts auf die Straße fahren wollte und durch einen Ordner daran gehindert wurde, rastete völlig aus, es kam sogar zu einem kleinen Handgemenge, die Polizei eilte herbei. Ein anderer Autofahrer rief uns zu, wir sollten mal arbeiten, ein älterer Herr stieg sogar aus und diskutierte, der Klimawandel sei nicht existent, die Pflanzen brauchten das CO<sub>2</sub>. Es waren sehr gemischte Reaktionen, aber die meisten hatten ein Lächeln auf den Lippen.
 
 Höhepunkt der Sternfahrt war dann ein Stück Autobahn in Frankfurt, was wir mit Tausenden Fahrrädern in Besitz nahmen. Das war ein gutes Gefühl, es gibt sehr schöne Drohnenaufnahmen davon.
 

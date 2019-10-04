@@ -13,7 +13,7 @@ categories:
 tags:
   - slowenien
 ---
-Nicht weit vom Bleder See liegt die [Vintgarklamm](https://de.wikipedia.org/wiki/Vintgarklamm). Auch hier waren wir an diesem schönen Sonntag nicht die Einzigen, über Holzstege liefen wir an dieser wunderschönen Klamm entlang. Schöne Farben, kleine Wasserfälle, ich mag auch einfach diese natürliche Klangkulisse. 
+Nicht weit vom Bleder See liegt die [Vintgarklamm](https://de.wikipedia.org/wiki/Vintgarklamm). Auch hier waren wir an diesem schönen Sonntag nicht die Einzigen, über Holzstege liefen wir an dieser malerischen Klamm entlang. Schöne Farben, kleine Wasserfälle, ich mag auch einfach diese natürliche Klangkulisse. 
 <!--more-->
 
 {{<responsive-image name="vintgar1" class="wide">}}
@@ -22,6 +22,6 @@ Ich experimentierte mit einer etwas längeren Belichtungszeit, aufgestützt auf 
 
 {{<responsive-image name="vintgar2">}}
 
-Man läuft bergab, mit den Wasserfällen, hat rückzu jedoch nochmal die Chance, die Klamm aus der anderen Richtung zu durchqueren. 
+Man läuft bergab, mit den Wasserfällen, hat rückzu jedoch nochmal die Chance, die Klamm aus der anderen Richtung zu durchqueren. Lustig waren die Eintrittskarten mit Strich-Code, die man dann unter den Scanner halten durfte. Insgesamt ein netter Ausflug, empfehlenswert sind die Tagesrandzeiten abseits der Busladungen. 
 
 {{<responsive-image name="vintgar3">}}

@@ -16,7 +16,7 @@ tags:
 Nicht weit vom Bleder See liegt die [Vintgarklamm](https://de.wikipedia.org/wiki/Vintgarklamm). Auch hier waren wir an diesem schönen Sonntag nicht die Einzigen, über Holzstege liefen wir an dieser wunderschönen Klamm entlang. Schöne Farben, kleine Wasserfälle, ich mag auch einfach diese natürliche Klangkulisse. 
 <!--more-->
 
-{{<responsive-image name="vintgar1">}}
+{{<responsive-image name="vintgar1" class="wide">}}
 
 Ich experimentierte mit einer etwas längeren Belichtungszeit, aufgestützt auf dem hölzernen Geländer. Aber sobald jemand näher kommt, vibriert das Ganze und das Foto ist verwackelt. Eine Aufnahme ist dann aber doch ganz gut herausgekommen. 
 

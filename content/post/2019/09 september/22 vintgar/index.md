@@ -2,7 +2,7 @@
 title: Vintgarklamm
 slug: vintgarklamm
 date: 2019-09-22T13:18:18+00:00
-lastmod: 2019-09-30T00:00:52+00:00
+lastmod: 2019-10-05T10:26:36+00:00
 author: Mathias Wellner
 resources: 
 - { name: vintgar1, src: vintgar1.jpg, title: Wasserfall in der Vintgarklamm }

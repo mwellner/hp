@@ -2,7 +2,7 @@
 title: Bleder See
 slug: bleder-see
 date: 2019-09-21T13:18:18+00:00
-lastmod: 2019-09-10T00:00:52+00:00
+lastmod: 2019-10-05T10:26:36+00:00
 author: Mathias Wellner
 resources: 
 - { name: ballon, src: ballon.jpg, title: Bleder See am Morgen mit Heißluftballon }

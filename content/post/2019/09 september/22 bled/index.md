@@ -1,5 +1,5 @@
 ---
-title: Bleder See
+title: Bleder See (Blejsko jezero)
 slug: bleder-see
 date: 2019-09-21T13:18:18+00:00
 lastmod: 2019-10-05T10:26:36+00:00

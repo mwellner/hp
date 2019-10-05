@@ -1,5 +1,5 @@
 ---
-title: Vintgarklamm
+title: Vintgarklamm (Blejski vintgar)
 slug: vintgarklamm
 date: 2019-09-22T13:18:18+00:00
 lastmod: 2019-10-05T10:26:36+00:00

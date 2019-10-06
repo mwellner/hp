@@ -13,7 +13,7 @@ categories:
 tags:
   - slowenien
 ---
-Nach Bergseen, Schluchten und Weinbergen war es an der Zeit fürs Mittelmeer, das wir in [Portorož](https://de.wikipedia.org/wiki/Portoro%C5%BE) zu Gesicht bekamen. Der Reiseführer sprach von einem Kilometer Sandstrand, den suchten wir vergeblich. Stattdessen war die Promenade komplett mit Steinplatten versehen, Treppen luden zum Baden im immer noch recht warmen Mittelmeer ein. Aber etwas fehlte -- das Meeresrauschen. Sonst waren aber alle Zutaten vorhanden, Möwen kreisten, Strandgeschäfte boten Sonnenbrillen an, Restaurants und Imbissbuden warteten auf Gäste, welche zu dieser Zeit eher rar waren. 
+Nach Bergseen, Schluchten und Weinbergen war es an der Zeit fürs Mittelmeer, das wir in [Portorož](https://de.wikipedia.org/wiki/Portoro%C5%BE) zu Gesicht bekamen. Der Reiseführer sprach von einem Kilometer Sandstrand, den suchten wir vergeblich. Stattdessen war die Promenade komplett mit Beton und Steinplatten versehen, Treppen luden zum Baden im immer noch recht warmen Mittelmeer ein. Aber etwas fehlte -- das Meeresrauschen. Sonst waren aber alle Zutaten vorhanden, Möwen kreisten, Strandgeschäfte boten Sonnenbrillen an, Restaurants und Imbissbuden warteten auf Gäste, welche zu dieser Zeit eher rar waren. 
 <!--more-->
 
 {{<responsive-image name="abendstimmung">}}

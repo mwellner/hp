@@ -11,7 +11,7 @@ categories:
 tags:
   - slowenien
 ---
-Eine ganz besondere Kirche besichtigten wir auf dem Weg nach Ljubljana. In der alten romanischen Kirche, welche von einer Schutzmauer umgeben ist, befinden sich mittelalterliche Bauernfresken, welche die markantesten Bilder der gesamten Bibel darstellen. Der Künstler hat jede verfügbare Wand- und Deckenfläche genutzt, und so drängt sich dicht an dicht Schöpfung, Vertreibung aus dem Paradies, Brudermord, Jesu Geburt, Kreuzigung, Auferstehung. 
+Eine ganz besondere Kirche besichtigten wir auf dem Weg nach Ljubljana. In der alten romanischen Kirche in [Hrastovlje](https://de.wikipedia.org/wiki/Hrastovlje), welche von einer Schutzmauer umgeben ist, befinden sich mittelalterliche Bauernfresken, welche die markantesten Bilder der gesamten Bibel darstellen. Der Künstler hat jede verfügbare Wand- und Deckenfläche genutzt, und so drängt sich dicht an dicht Schöpfung, Vertreibung aus dem Paradies, Brudermord, Jesu Geburt, Kreuzigung, Auferstehung. 
 <!--more-->
 
 {{<responsive-image name="kirche">}}

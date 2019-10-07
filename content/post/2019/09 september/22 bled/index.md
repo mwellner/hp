@@ -14,7 +14,7 @@ categories:
 tags:
   - slowenien
 ---
-Die erste Station meiner Slowenien-Reise war der [Bleder See](https://de.wikipedia.org/wiki/Bleder_See). Ankunft in Dunkelheit, durch den [Karawanken-Tunnel](https://de.wikipedia.org/wiki/Karawankentunnel_(Autobahn)) durchgekommen, schlecht beleuchtet die Straßen, erst an der falschen Unterkunft gelandet, nochmal quer durch den Ort zu einer netten älteren Dame, keine weiteren Gäste, Küche am Ende des Ganges. 
+Die erste Station der Slowenien-Reise war der [Bleder See](https://de.wikipedia.org/wiki/Bleder_See). Ankunft in Dunkelheit, durch den [Karawanken-Tunnel](https://de.wikipedia.org/wiki/Karawankentunnel_(Autobahn)) durchgekommen, schlecht beleuchtet die Straßen, erst an der falschen Unterkunft gelandet, nochmal quer durch den Ort zu einer netten älteren Dame, keine weiteren Gäste, Küche am Ende des Ganges. 
 
 {{<responsive-image name="ballon">}}
 

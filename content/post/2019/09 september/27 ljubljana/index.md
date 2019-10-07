@@ -6,8 +6,8 @@ lastmod: 2019-10-06T10:26:36+00:00
 author: Mathias Wellner
 resources: 
 - { name: lampe, src: lampe.jpg, title: Abendlicher Aufstieg zur Festung }
-- { name: museum, src: museum.jpg, title: Slowenisches  }
-- { name: turm, src: turm.jpg, title: Abendlicher Aufstieg zur Festung }
+- { name: museum, src: museum.jpg, title: Museum der Neueren Geschichte }
+- { name: turm, src: turm.jpg, title: Festungsturm am Abend }
 categories:
   - reisen
 tags:

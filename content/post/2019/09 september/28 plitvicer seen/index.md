@@ -19,6 +19,8 @@ Der südlichste Punkt der Reise war der [Nationalpark Plitvicer Seen](https://de
 
 {{<responsive-image name="fuss">}}
 
+Wir liefen extra die ganz lange Tour von 18&thinsp;km, was sich im mittleren Abschnitt durchaus positiv bemerkbar machte, da waren deutlich weniger Besucher unterwegs. Doch am Ende ging der Weg wieder auf den Holzstegen an den Seen entlang, da waren es echt sehr viele Leute. Das war in dieser Abfolge schon ein wenig unschön. 
+
 {{<responsive-image name="hauptfall">}}
 
 Die Älteren unter euch erinnern sich vielleicht an [Der Schatz im Silbersee](https://de.wikipedia.org/wiki/Der_Schatz_im_Silbersee_(Film)), eine Verfilmung des Karl-May-Buches. Winnetou und Old Shatterhand sind diesmal einer bösen Bande auf der Spur, die einen Schatz stehlen möchte. So anachronistisch der Film heute wirkt, wurden die letzten Szenen allesamt im Nationalpark gedreht, in der Höhle mit dem Schatz stand ich, den Wasserfall des letzten Kampfes hatten wir gesehen. 

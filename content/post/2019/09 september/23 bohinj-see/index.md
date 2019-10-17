@@ -2,7 +2,7 @@
 title: Wocheiner See (Bohinjsko jezero)
 slug: wocheiner-see
 date: 2019-09-23T13:18:18+00:00
-lastmod: 2019-10-05T00:00:52+00:00
+lastmod: 2019-10-17T23:22:55+00:00
 author: Mathias Wellner
 resources: 
 - { name: see, src: see.jpg, title: Wocheiner See }

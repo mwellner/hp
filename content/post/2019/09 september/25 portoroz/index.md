@@ -2,7 +2,7 @@
 title: Slowenische Riviera
 slug: slowenische-riviera
 date: 2019-09-25T12:18:18+00:00
-lastmod: 2019-10-06T10:26:36+00:00
+lastmod: 2019-10-17T23:22:55+00:00
 author: Mathias Wellner
 resources: 
 - { name: abendstimmung, src: abendstimmung.jpg, title: Abendstimmung in Portorož }

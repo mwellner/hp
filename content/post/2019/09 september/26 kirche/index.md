@@ -2,7 +2,7 @@
 title: Dreifaltigkeitskirche in Hrastovlje
 slug: dreifaltigkeitskirche-hrastovlje
 date: 2019-09-26T12:18:18+00:00
-lastmod: 2019-10-06T10:26:36+00:00
+lastmod: 2019-10-17T23:22:55+00:00
 author: Mathias Wellner
 resources: 
 - { name: kirche, src: kirche.jpg, title: Malereien in der Dreifaltigkeitskirche }

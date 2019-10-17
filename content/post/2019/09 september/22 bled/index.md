@@ -2,7 +2,7 @@
 title: Bleder See (Blejsko jezero)
 slug: bleder-see
 date: 2019-09-21T13:18:18+00:00
-lastmod: 2019-10-05T10:26:36+00:00
+lastmod: 2019-10-17T23:22:55+00:00
 author: Mathias Wellner
 resources: 
 - { name: ballon, src: ballon.jpg, title: Bleder See am Morgen mit Heißluftballon }

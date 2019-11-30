@@ -1,6 +1,6 @@
 ---
 date: "2019-11-22T23:02:12"
-lastmod: 2019-11-22T16:40:35+00:00
+lastmod: 2019-11-30T13:01:03+00:00
 title: Kochabend
 slug: kochabend
 author: Mathias Wellner

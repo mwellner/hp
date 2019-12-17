@@ -32,7 +32,7 @@ tags:
   - arosa
 ---
 
-Eine Woche Urlaub in den schneebedeckten Schweizer Bergen -- da konnte ich nicht widerstehen. Das Angebot von [Frosch Sportreisen](https://www.frosch-sportreisen.de/) war äußerst verlockend, Busan- und abreise ab Frankfurt-Flughafen, Unterkunft, Halbpension, Skiausleihe, Skipass und mehr als 40 Gleichgesinnte im ungefähr gleichen Alter.
+Eine Woche Urlaub in den schneebedeckten Schweizer Bergen -- da konnte ich nicht widerstehen. Das Angebot von [Frosch Sportreisen](https://www.frosch-sportreisen.de/) war äußerst verlockend, Busan- und -abreise ab Frankfurt-Flughafen, Unterkunft, Halbpension, Skiausleihe, Skipass und mehr als 40 Gleichgesinnte im ungefähr gleichen Alter.
 
 <!--more-->
 

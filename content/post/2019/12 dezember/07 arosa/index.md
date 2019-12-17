@@ -1,6 +1,6 @@
 ---
 date: "2019-12-15T10:02:12"
-lastmod: 2019-12-15T13:22:41+00:00
+lastmod: 2019-12-17T22:37:25+00:00
 title: Winterurlaub in Arosa
 slug: winterurlaub-arosa
 author: Mathias Wellner

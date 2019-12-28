@@ -14,6 +14,6 @@ Zum dritten Mal stand ich auf dem höchsten Punkt des vorderen Odenwaldes, dem [
 
 <!--more-->
 
-Ich nutzte [komoot](https://www.komoot.de/) zur Navigation, jedoch ließ mich der Akku kältebedingt beim Abstieg im Stich. So ganz kann man daraus also im Winter nicht vertrauen. Aber es war auch nicht so schwierig, den Abstieg zu finden. An einigen Stellen machte uns Laub zu schaffen, rutschiger Untergrund beim Abstieg, aber nichts allzu Wildes. Eis und Schnee fanden wir nicht vor da oben, aber einige Spaziergänger, Mountain-Biker und Hundebesitzer.
+Ich nutzte [komoot](https://www.komoot.de/) zur Navigation, jedoch ließ mich der Akku kältebedingt beim Abstieg im Stich. So ganz kann man darauf also im Winter nicht vertrauen. Aber es war auch nicht so schwierig, den Abstieg zu finden. An einigen Stellen machte uns Laub zu schaffen, rutschiger Untergrund beim Abstieg, aber nichts allzu Wildes. Eis und Schnee fanden wir nicht vor da oben, aber einige Spaziergänger, Mountain-Biker und Hundebesitzer.
 
 War sehr schön, nach den etwas weniger aktiven Weihnachtstagen mal wieder richtig lange draußen unterwegs zu sein.

@@ -2,7 +2,7 @@
 title: Patrick Süskind -- Der Kontrabass
 slug: patrick-sueskind-der-kontrabass
 date: 2009-01-04T14:47:43+00:00
-lastmod: 2018-12-10T12:09:07+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

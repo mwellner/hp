@@ -2,7 +2,7 @@
 title: Onkel Wanja -- Erste Szenenprobe
 slug: anton-tscheckow-onkel-wanja-szenenprobe
 date: 2012-01-11T23:50:40+00:00
-lastmod: 2018-10-13T11:30:55+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,7 +1,7 @@
 ---
 title: Antigone
 date: 2013-05-26T23:57:26+00:00
-lastmod: 2018-07-02T23:30:13+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

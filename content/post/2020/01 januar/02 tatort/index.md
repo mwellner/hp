@@ -1,7 +1,7 @@
 ---
 title: Tatort-Gala
 date: 2020-01-02T19:22:12+00:00
-lastmod: 2020-01-02T20:23:07+00:00
+lastmod: 2020-01-13T21:38:53+00:00
 author: Mathias Wellner
 categories:
   - film

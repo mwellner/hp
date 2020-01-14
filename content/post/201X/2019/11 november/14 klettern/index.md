@@ -1,6 +1,6 @@
 ---
 date: "2019-11-14T23:02:12"
-lastmod: 2019-11-19T22:53:11+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Hallenklettern
 slug: hallenklettern
 author: Mathias Wellner

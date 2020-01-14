@@ -1,7 +1,7 @@
 ---
 title: Weniger ist mehr
 date: 2016-09-19T22:54:25+00:00
-lastmod: 2018-06-28T00:04:03+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

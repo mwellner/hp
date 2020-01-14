@@ -1,7 +1,7 @@
 ---
 title: Pizol
 date: 2011-09-04T10:45:16+00:00
-lastmod: 2018-01-18T23:01:47+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - wandern

@@ -1,7 +1,7 @@
 ---
 title: Meetup-Wanderung bei Sion
 date: 2014-06-15T21:56:00+00:00
-lastmod: 2018-07-01T22:16:37+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - wandern

@@ -1,7 +1,7 @@
 ---
 title: Alles von Max Frisch (Theater Neumarkt)
 date: 2011-02-20T14:40:11+00:00
-lastmod: 2018-01-15T11:57:40+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

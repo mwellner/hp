@@ -1,7 +1,7 @@
 ---
 title: Darmstadt, Sonnenuntergang
 date: 2017-01-13T16:37:48+00:00
-lastmod: 2019-01-03T16:21:36+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: sunset

@@ -1,7 +1,7 @@
 ---
 title: Ausflug in Perus blutige Vergangenheit
 date: 2013-08-18T03:40:00+00:00
-lastmod: 2018-01-14T15:24:09+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - reisen

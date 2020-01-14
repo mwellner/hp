@@ -1,7 +1,7 @@
 ---
 title: Hüenerchopf
 date: 2014-03-16T23:24:14+00:00
-lastmod: 2018-06-30T22:52:11+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: snowboarder

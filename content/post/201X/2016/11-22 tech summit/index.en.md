@@ -1,7 +1,7 @@
 ---
 title: Technical Summit 2016 in Darmstadt
 date: 2016-11-22T22:33:37+00:00
-lastmod: 2018-10-27T15:42:28+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - software

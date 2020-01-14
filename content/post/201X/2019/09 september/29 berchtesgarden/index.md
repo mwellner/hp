@@ -2,7 +2,7 @@
 title: Berchtesgaden
 slug: berchtesgaden
 date: 2019-09-30T15:18:18+00:00
-lastmod: 2019-10-17T23:22:55+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 author: Mathias Wellner
 resources: 
 - { name: aussicht, src: aussicht.jpg, title: Aussicht über den Königssee }

@@ -1,6 +1,6 @@
 ---
 date: "2018-02-04T21:24:21"
-lastmod: 2018-06-23T16:05:16+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 title: Zürich-Wochenende
 author: Mathias Wellner
 resources:

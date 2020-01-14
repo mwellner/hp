@@ -1,7 +1,7 @@
 ---
 title: Theater Rehearsals
 date: 2002-09-10T18:32:41+00:00
-lastmod: 2018-07-09T23:26:59+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,6 +1,6 @@
 ---
 date: "2018-04-15T12:12:12"
-lastmod: 2018-06-23T16:28:57+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 title: Rolf Dobelli -- Die Kunst des guten Lebens
 slug: rolf-dobelli-kunst-des-guten-lebens
 author: Mathias Wellner

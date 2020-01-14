@@ -1,7 +1,7 @@
 ---
 title: Photographers Site
 date: 2006-04-22T20:24:38+00:00
-lastmod: 2018-07-09T23:20:02+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - diary

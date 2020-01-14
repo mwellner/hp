@@ -1,6 +1,6 @@
 ---
 date: "2018-02-17T18:24:21"
-lastmod: 2018-06-23T16:12:19+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 title: Wandern im Odenwald
 slug: wandern-odenwald
 author: Mathias Wellner

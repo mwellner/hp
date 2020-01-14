@@ -1,7 +1,7 @@
 ---
 title: Val Thorens
 date: 2014-02-18T00:10:24+00:00
-lastmod: 2018-06-30T22:48:33+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: schach

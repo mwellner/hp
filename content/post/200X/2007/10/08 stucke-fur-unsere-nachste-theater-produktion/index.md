@@ -1,7 +1,7 @@
 ---
 title: Stücke für unsere nächste Theater-Produktion
 date: 2007-10-08T22:14:39+00:00
-lastmod: 2018-12-09T20:49:11+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - theater

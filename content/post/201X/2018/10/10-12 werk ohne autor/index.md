@@ -1,6 +1,6 @@
 ---
 date: "2018-10-12T22:29:12"
-lastmod: 2018-10-13T13:32:23+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Werk ohne Autor
 author: Mathias Wellner
 resources:

@@ -1,7 +1,7 @@
 ---
 title: Rigi Hochflue
 date: 2012-08-05T14:32:53+00:00
-lastmod: 2018-01-01T13:14:55+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - wandern

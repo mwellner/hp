@@ -1,7 +1,7 @@
 ---
 title: Fantasie im Theater
 date: 2009-10-16T22:13:42+00:00
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: floating

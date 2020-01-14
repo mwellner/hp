@@ -2,7 +2,7 @@
 title: Strauhof Zürich -- Anna Blume trifft Zuckmayr
 slug: strauhof-zuerich-anna-blume-trifft-zuckmayr
 date: 2006-02-19T21:14:50+00:00
-lastmod: 2019-01-10T21:03:02+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - literatur

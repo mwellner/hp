@@ -1,6 +1,6 @@
 ---
 date: "2019-10-13T21:02:12"
-lastmod: 2019-10-17T23:52:11+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Bernd Ulrich -- Alles wird anders
 slug: bernd-ulrich-alles-wird-anders
 author: Mathias Wellner

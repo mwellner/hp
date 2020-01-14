@@ -1,7 +1,7 @@
 ---
 title: Ade, Cricket-Schläger
 date: 2016-04-16T18:34:21+00:00
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: cricket

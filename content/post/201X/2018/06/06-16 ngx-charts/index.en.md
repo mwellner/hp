@@ -1,6 +1,6 @@
 ---
 date: "2018-06-16T19:16:21"
-lastmod: 2018-06-23T16:31:12+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 title: Using ngx-charts in a grid
 author: Mathias Wellner
 categories:

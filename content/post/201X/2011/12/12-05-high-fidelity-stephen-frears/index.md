@@ -2,7 +2,7 @@
 title: Stephen Frears -- High Fidelity
 slug: stephen-frears-high-fidelity
 date: 2011-12-05T00:00:48+00:00
-lastmod: 2018-01-05T23:00:30+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - film

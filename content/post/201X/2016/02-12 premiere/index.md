@@ -2,7 +2,7 @@
 title: Das einzig Wahre -- Premiere
 slug: tom-stoppard-das-einzig-wahre
 date: 2016-02-12T03:16:00+00:00
-lastmod: 2018-06-28T00:22:00+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: szenenfoto

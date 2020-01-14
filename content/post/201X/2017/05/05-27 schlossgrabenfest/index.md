@@ -1,7 +1,7 @@
 ---
 title: Schlossgrabenfest
 date: 2017-05-28T12:13:49+02:00
-lastmod: 2019-01-03T16:21:36+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 resources:
   - name: gps
     src: glasperlenspiel.jpg

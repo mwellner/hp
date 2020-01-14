@@ -1,7 +1,7 @@
 ---
 title: Bühnenrealität
 date: 2013-02-17T18:16:23+00:00
-lastmod: 2018-07-02T23:11:00+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

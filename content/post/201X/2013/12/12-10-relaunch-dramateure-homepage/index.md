@@ -1,7 +1,7 @@
 ---
 title: Relaunch dramateure-Homepage
 date: 2013-12-10T00:24:41+00:00
-lastmod: 2018-10-27T15:42:28+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

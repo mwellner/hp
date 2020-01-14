@@ -1,7 +1,7 @@
 ---
 title: Onkel Ho
 date: 2014-12-25T22:03:05+00:00
-lastmod: 2018-07-01T23:30:57+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: guide

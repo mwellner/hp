@@ -1,7 +1,7 @@
 ---
 title: Brahms -- Ein deutsches Requiem
 date: 2005-11-21T23:51:39+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -2,7 +2,7 @@
 title: 2009 -- Dissertation und Stanislawski
 slug: 2009-dissertation-stanislawski
 date: 2009-01-02T15:41:13+00:00
-lastmod: 2018-07-28T13:56:49+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: feld

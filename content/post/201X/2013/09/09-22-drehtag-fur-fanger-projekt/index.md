@@ -1,7 +1,7 @@
 ---
 title: Drehtag für Fänger-Projekt
 date: 2013-09-22T22:11:39+00:00
-lastmod: 2018-01-05T23:00:01+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - film

@@ -1,6 +1,6 @@
 ---
 date: "2018-02-11T21:24:21"
-lastmod: 2018-06-23T16:06:34+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 title: SOS Brutalismus
 author: Mathias Wellner
 categories:

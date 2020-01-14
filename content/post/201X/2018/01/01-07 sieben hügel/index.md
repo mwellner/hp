@@ -1,6 +1,6 @@
 ---
 date: "2018-01-07T18:24:21"
-lastmod: 2018-06-23T10:18:18+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 title: Über sieben Hügel musst du gehn
 slug: sieben-huegel-steig
 author: Mathias Wellner

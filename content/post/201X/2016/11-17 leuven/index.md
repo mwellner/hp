@@ -1,7 +1,7 @@
 ---
 title: Leuven
 date: 2016-11-17T21:32:28+00:00
-lastmod: 2018-06-28T00:18:16+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: rathaus

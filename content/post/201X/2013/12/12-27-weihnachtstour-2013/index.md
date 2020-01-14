@@ -1,7 +1,7 @@
 ---
 title: Weihnachtstour 2013
 date: 2013-12-27T00:55:17+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Raketenalarm in Tel Aviv
 date: 2012-11-25T19:39:04+00:00
-lastmod: 2018-05-03T20:33:10+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - reisen

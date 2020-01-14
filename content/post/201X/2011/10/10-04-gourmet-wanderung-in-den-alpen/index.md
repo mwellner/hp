@@ -1,7 +1,7 @@
 ---
 title: Gourmet-Wanderung in den Alpen
 date: 2011-10-04T20:47:45+00:00
-lastmod: 2018-01-01T13:14:46+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - wandern

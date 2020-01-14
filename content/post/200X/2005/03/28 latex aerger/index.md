@@ -1,7 +1,7 @@
 ---
 title: LaTeX-Ärger, ein Punkt zuviel
 date: 2005-03-28T00:00:00+00:00
-lastmod: 2018-12-09T20:56:07+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - latex

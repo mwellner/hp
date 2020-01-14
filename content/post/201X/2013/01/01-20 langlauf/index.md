@@ -1,7 +1,7 @@
 ---
 title: Langlauf am Schwedentritt
 date: 2013-01-20T22:09:11+00:00
-lastmod: 2018-07-02T22:58:40+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: skifahren

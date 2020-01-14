@@ -1,6 +1,6 @@
 ---
 date: "2018-07-23T16:23:12"
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Edinburgh
 author: Mathias Wellner
 resources:

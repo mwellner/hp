@@ -1,7 +1,7 @@
 ---
 title: CSS Blend Modes
 date: 2016-06-01T22:47:06+00:00
-lastmod: 2018-06-28T00:22:00+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - software

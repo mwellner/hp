@@ -1,7 +1,7 @@
 ---
 title: Filmdreh in Andiast
 date: 2014-04-14T23:17:42+00:00
-lastmod: 2018-06-30T22:58:52+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: dreh1

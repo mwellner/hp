@@ -2,7 +2,7 @@
 title: Weingegend Brda
 slug: brda
 date: 2019-09-24T12:18:18+00:00
-lastmod: 2019-10-17T23:22:55+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 author: Mathias Wellner
 resources: 
 - { name: brda, src: brda.jpg, title: Weintraube und Rebstock im Gegenlicht }

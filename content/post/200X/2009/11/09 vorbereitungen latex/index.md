@@ -1,7 +1,7 @@
 ---
 title: Kleine Helferlein für das wissenschaftliche Schreiben mit LaTeX
 date: 2009-11-09T00:03:32+00:00
-lastmod: 2019-01-03T16:56:43+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - latex

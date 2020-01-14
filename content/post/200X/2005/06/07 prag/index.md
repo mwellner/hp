@@ -1,7 +1,7 @@
 ---
 title: Ein Tag in Prag
 date: 2005-06-07T18:55:00+00:00
-lastmod: 2018-07-10T21:44:20+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - reisen

@@ -1,6 +1,6 @@
 ---
 date: "2019-09-14T07:02:12"
-lastmod: 2019-09-16T21:26:21+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Sternfahrt und Demo zur IAA
 slug: sternfahrt-demo-iaa-frankfurt
 author: Mathias Wellner

@@ -1,7 +1,7 @@
 ---
 title: Setting up Docker on Ubuntu 15.10
 date: 2016-04-17T17:02:43+00:00
-lastmod: 2018-06-28T00:22:00+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - software

@@ -1,7 +1,7 @@
 ---
 title: Diplomarbeit, es geht zu Ende
 date: 2005-04-09T21:27:15+00:00
-lastmod: 2018-12-09T21:02:29+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

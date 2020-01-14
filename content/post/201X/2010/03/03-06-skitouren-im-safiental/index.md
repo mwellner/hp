@@ -1,7 +1,7 @@
 ---
 title: Skitouren im Safiental
 date: 2010-03-06T19:49:42+00:00
-lastmod: 2018-10-21T13:13:13+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: landschaft

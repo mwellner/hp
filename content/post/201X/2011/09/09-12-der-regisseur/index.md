@@ -1,7 +1,7 @@
 ---
 title: Der Regisseur
 date: 2011-09-12T21:30:01+00:00
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

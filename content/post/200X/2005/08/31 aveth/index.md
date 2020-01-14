@@ -1,7 +1,7 @@
 ---
 title: AVETH
 date: 2005-08-31T22:24:10+00:00
-lastmod: 2018-07-10T21:33:50+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - politik

@@ -2,7 +2,7 @@
 title: Ich, treu, suche -- Hauptprobe
 slug: ich-treu-suche-hauptprobe
 date: 2013-02-14T00:20:58+00:00
-lastmod: 2018-07-02T23:08:20+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: szenenfoto

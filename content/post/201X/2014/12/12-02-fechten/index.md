@@ -1,7 +1,7 @@
 ---
 title: Fechten
 date: 2014-12-02T23:49:35+00:00
-lastmod: 2018-07-01T23:09:49+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: fechten

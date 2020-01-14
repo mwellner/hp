@@ -1,6 +1,6 @@
 ---
 date: "2018-11-24T23:29:12"
-lastmod: 2018-11-25T00:09:14+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Moby Dick
 author: Mathias Wellner
 resources:

@@ -1,7 +1,7 @@
 ---
 title: Rollenarbeit im Zoo
 date: 2010-06-13T19:04:35+00:00
-lastmod: 2018-10-21T13:13:13+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: affe

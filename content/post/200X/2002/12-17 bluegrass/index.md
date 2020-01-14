@@ -1,7 +1,7 @@
 ---
 title: Semesterende, Bluegrass, Weihnachtliches
 date: 2002-12-17T21:29:08+00:00
-lastmod: 2018-07-09T23:28:57+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,7 +1,7 @@
 ---
 title: Correcting CiteULike when Using with Natbib, sed
 date: 2006-06-18T21:12:47+00:00
-lastmod: 2018-07-09T23:20:02+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - latex

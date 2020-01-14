@@ -1,7 +1,7 @@
 ---
 title: First Steps with Scheme and Git
 date: 2014-03-01T11:17:47+00:00
-lastmod: 2018-06-30T22:29:06+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - software

@@ -1,7 +1,7 @@
 ---
 title: Schlank durch Schokolade?
 date: 2015-06-20T23:51:24+00:00
-lastmod: 2018-06-30T19:57:02+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

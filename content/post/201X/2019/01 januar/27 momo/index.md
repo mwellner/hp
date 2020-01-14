@@ -1,6 +1,6 @@
 ---
 date: "2019-01-27T22:29:12"
-lastmod: 2019-04-24T20:52:31+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Michael Ende -- Momo
 slug: michael-ende-momo
 author: Mathias Wellner

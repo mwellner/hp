@@ -1,7 +1,7 @@
 ---
 title: En garde!
 date: 2014-11-05T00:56:55+00:00
-lastmod: 2018-07-01T23:02:52+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 resources:
   - name: fechten
     src: fechten.jpg

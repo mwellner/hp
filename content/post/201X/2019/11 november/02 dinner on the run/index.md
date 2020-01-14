@@ -1,6 +1,6 @@
 ---
 date: "2019-11-02T23:02:12"
-lastmod: 2019-11-10T16:40:35+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Dinner on the Run
 slug: dinner-on-the-run
 author: Mathias Wellner

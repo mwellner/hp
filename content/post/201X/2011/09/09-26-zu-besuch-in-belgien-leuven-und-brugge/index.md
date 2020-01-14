@@ -1,7 +1,7 @@
 ---
 title: Zu Besuch in Belgien (Leuven und Brügge)
 date: 2011-09-26T22:38:35+00:00
-lastmod: 2018-01-18T23:10:40+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - reisen

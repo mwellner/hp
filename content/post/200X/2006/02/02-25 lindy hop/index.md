@@ -1,7 +1,7 @@
 ---
 title: Lindy Hop zum Zweiten
 date: 2006-02-25T23:03:15+00:00
-lastmod: 2017-09-18T22:33:21+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - tanzen

@@ -1,7 +1,7 @@
 ---
 title: Locarno
 date: 2013-05-07T15:03:13+00:00
-lastmod: 2018-07-02T23:28:19+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: see

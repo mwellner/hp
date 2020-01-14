@@ -1,7 +1,7 @@
 ---
 title: ETH-Einführungsveranstaltung
 date: 2005-07-12T22:40:23+00:00
-lastmod: 2018-07-10T21:41:11+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

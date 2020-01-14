@@ -1,7 +1,7 @@
 ---
 title: Das Ende aller Illusionen
 date: 2005-06-13T20:17:50+00:00
-lastmod: 2018-12-09T21:09:06+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - klettern

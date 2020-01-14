@@ -1,7 +1,7 @@
 ---
 title: Schlaflos in Südtirol
 date: 2012-09-30T20:01:55+00:00
-lastmod: 2018-01-01T13:15:17+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - wandern

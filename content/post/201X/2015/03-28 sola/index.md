@@ -1,7 +1,7 @@
 ---
 title: SOLA-Stafette
 date: 2015-03-28T16:38:55+00:00
-lastmod: 2018-06-30T19:00:42+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - sport

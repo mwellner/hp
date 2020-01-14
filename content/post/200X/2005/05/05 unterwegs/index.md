@@ -1,7 +1,7 @@
 ---
 title: Unterwegs
 date: 2005-05-05T18:41:18+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

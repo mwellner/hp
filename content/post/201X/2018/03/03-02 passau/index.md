@@ -1,6 +1,6 @@
 ---
 date: "2018-03-02T14:51:21"
-lastmod: 2018-06-23T10:26:19+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 title: Passau
 resources:
   - name: gleise

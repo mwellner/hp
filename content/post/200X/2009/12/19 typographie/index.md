@@ -1,7 +1,7 @@
 ---
 title: Typographie
 date: 2009-12-19T15:58:39+00:00
-lastmod: 2017-10-02T14:51:21+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

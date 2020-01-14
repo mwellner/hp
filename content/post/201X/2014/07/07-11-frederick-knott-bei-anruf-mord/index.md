@@ -2,7 +2,7 @@
 title: Frederick Knott -- Bei Anruf Mord
 slug: frederick-knott-bei-anruf-mord
 date: 2014-07-11T21:28:44+00:00
-lastmod: 2018-07-01T22:21:45+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - theater

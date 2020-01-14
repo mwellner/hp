@@ -1,7 +1,7 @@
 ---
 title: Buchhaltung mit ledger
 date: 2011-09-08T22:29:26+00:00
-lastmod: 2018-01-18T23:02:07+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - technik

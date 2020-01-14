@@ -1,7 +1,7 @@
 ---
 title: EU-MIMICS-Projekt
 date: 2008-03-17T17:15:17+00:00
-lastmod: 2018-12-09T20:49:11+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - wissenschaft

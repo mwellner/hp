@@ -1,7 +1,7 @@
 ---
 title: Ich, treu, suche in Konstanz
 date: 2013-03-03T21:54:06+00:00
-lastmod: 2018-07-02T23:13:38+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: szenenfoto

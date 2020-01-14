@@ -1,7 +1,7 @@
 ---
 title: Einer flog über das Kuckucksnest
 date: 2012-05-12T15:45:38+00:00
-lastmod: 2017-12-18T22:17:17+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,7 +1,7 @@
 ---
 title: Paper on Virtual Audience Accepted
 date: 2009-03-30T10:29:58+00:00
-lastmod: 2018-10-21T13:13:13+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - science

@@ -1,7 +1,7 @@
 ---
 title: Globales Erdölfördermaximum
 date: 2010-11-28T14:40:07+00:00
-lastmod: 2018-01-20T22:23:09+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

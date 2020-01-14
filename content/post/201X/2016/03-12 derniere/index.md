@@ -2,7 +2,7 @@
 title: Das einzig Wahre -- Abgesang
 slug: tom-stoppard-das-einzig-wahre
 date: 2016-03-12T11:15:03+00:00
-lastmod: 2018-07-01T23:44:20+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: applaus

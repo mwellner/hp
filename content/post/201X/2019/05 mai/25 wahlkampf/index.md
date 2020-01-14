@@ -1,6 +1,6 @@
 ---
 date: "2019-05-25T15:02:12"
-lastmod: 2019-09-06T23:44:24+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Europa-Wahlkampf
 slug: wahlkampf
 author: Mathias Wellner

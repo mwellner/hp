@@ -2,7 +2,7 @@
 title: Tennessee Williams -- Orpheus steigt herab
 slug: tennessee-williams-orpheus-steigt-herab
 date: 2010-02-05T23:39:01+00:00
-lastmod: 2018-01-20T22:09:16+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

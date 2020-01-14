@@ -1,7 +1,7 @@
 ---
 title: Das grüne Rennrad
 date: 2002-08-25T20:06:14+00:00
-lastmod: 2018-07-09T23:24:57+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

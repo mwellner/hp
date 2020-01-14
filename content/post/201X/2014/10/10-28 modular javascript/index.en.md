@@ -1,7 +1,7 @@
 ---
 title: Modular JavaScript 1
 date: 2014-10-28T23:20:00+00:00
-lastmod: 2018-07-01T22:59:30+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - software

@@ -1,7 +1,7 @@
 ---
 title: Day of Mindfulness
 date: 2002-02-21T09:28:01+00:00
-lastmod: 2018-07-09T23:29:38+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - diary

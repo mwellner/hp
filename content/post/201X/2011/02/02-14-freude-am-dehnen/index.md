@@ -1,7 +1,7 @@
 ---
 title: Freude am Dehnen
 date: 2011-02-14T23:02:03+00:00
-lastmod: 2018-01-01T13:12:02+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

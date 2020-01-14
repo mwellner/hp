@@ -1,7 +1,7 @@
 ---
 title: Besuch in einer Schule
 date: 2014-12-27T10:41:47+00:00
-lastmod: 2018-07-01T23:35:36+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: kinder

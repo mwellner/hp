@@ -1,7 +1,7 @@
 ---
 title: Steve Krug -- Don't Make Me Think
 date: 2015-04-21T22:33:09+00:00
-lastmod: 2019-01-10T21:04:09+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - software

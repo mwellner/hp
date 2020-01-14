@@ -1,6 +1,6 @@
 ---
 date: "2019-11-09T23:02:12"
-lastmod: 2019-11-10T17:30:43+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Mauerfall
 slug: mauerfall
 author: Mathias Wellner

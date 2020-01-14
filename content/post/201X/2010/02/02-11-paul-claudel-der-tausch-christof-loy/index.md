@@ -2,7 +2,7 @@
 title: Paul Claudel -- Der Tausch
 slug: paul-claudel-der-tausch
 date: 2010-02-11T00:06:42+00:00
-lastmod: 2018-01-20T22:10:21+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

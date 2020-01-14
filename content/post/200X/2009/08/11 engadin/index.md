@@ -1,7 +1,7 @@
 ---
 title: Piz Trovat, La Lesgia und Timetrack Muntatsch
 date: 2009-08-11T23:25:56+00:00
-lastmod: 2018-12-10T12:03:29+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: engadin

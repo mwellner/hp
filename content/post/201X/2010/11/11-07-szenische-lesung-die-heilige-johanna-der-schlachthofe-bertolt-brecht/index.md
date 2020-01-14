@@ -2,7 +2,7 @@
 title: 'Szenische Lesung &ndash; Die heilige Johanna der Schlachthöfe (Bertolt Brecht)'
 slug: bertolt-brecht-heilige-johanna
 date: 2010-11-07T14:26:42+00:00
-lastmod: 2018-01-20T22:22:54+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - literatur

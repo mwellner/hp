@@ -1,7 +1,7 @@
 ---
 title: Niederlassungsbewilligung
 date: 2014-12-15T17:12:39+00:00
-lastmod: 2018-07-01T23:12:20+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

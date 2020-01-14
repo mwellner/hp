@@ -1,7 +1,7 @@
 ---
 title: Antal Szerb -- Reise im Mondlicht
 date: 2006-05-16T20:20:35+00:00
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - literatur

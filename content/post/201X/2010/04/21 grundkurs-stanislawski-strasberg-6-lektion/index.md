@@ -1,7 +1,7 @@
 ---
 title: Grundkurs Stanislawski-Strasberg, 6. Lektion
 date: 2010-04-21T23:51:26+00:00
-lastmod: 2019-09-07T00:08:27+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

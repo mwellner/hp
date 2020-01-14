@@ -1,7 +1,7 @@
 ---
 title: Reisenotizen
 date: 2009-09-27T22:09:39+00:00
-lastmod: 2018-10-13T14:48:44+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: burbia

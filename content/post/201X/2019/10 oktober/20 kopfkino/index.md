@@ -1,6 +1,6 @@
 ---
 date: "2019-10-20T15:02:12"
-lastmod: 2019-10-27T21:24:13+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Impro-Auftritt
 slug: impro-auftritt
 author: Mathias Wellner

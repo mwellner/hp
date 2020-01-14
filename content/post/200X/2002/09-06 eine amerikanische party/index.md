@@ -1,7 +1,7 @@
 ---
 title: Eine Amerikanische Party
 date: 2002-09-06T20:18:57+00:00
-lastmod: 2018-07-09T23:26:04+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

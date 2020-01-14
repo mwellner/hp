@@ -1,6 +1,6 @@
 ---
 date: "2018-12-02T22:29:12"
-lastmod: 2019-01-10T21:04:09+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Impro-Newcomerstage 2018
 author: Mathias Wellner
 resources:

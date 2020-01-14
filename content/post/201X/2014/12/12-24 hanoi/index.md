@@ -1,7 +1,7 @@
 ---
 title: Ankunft in Hanoi
 date: 2014-12-24T23:03:36+00:00
-lastmod: 2018-07-01T23:17:33+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: motorroller1

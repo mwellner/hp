@@ -1,6 +1,6 @@
 ---
 date: "2018-05-01T21:12:12"
-lastmod: 2019-01-10T21:04:09+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 title: Exploring GraphQL
 author: Mathias Wellner
 categories:

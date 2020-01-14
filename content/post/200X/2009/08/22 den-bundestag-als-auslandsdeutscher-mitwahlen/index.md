@@ -1,7 +1,7 @@
 ---
 title: Den Bundestag als Auslandsdeutscher mitwählen
 date: 2009-08-22T14:41:50+00:00
-lastmod: 2017-10-02T13:41:27+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - politik

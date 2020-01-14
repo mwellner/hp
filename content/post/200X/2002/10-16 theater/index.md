@@ -1,7 +1,7 @@
 ---
 title: Theater, alles auswendig
 date: 2002-10-16T14:25:21+00:00
-lastmod: 2018-07-09T23:27:49+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - theater

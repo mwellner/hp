@@ -1,7 +1,7 @@
 ---
 title: Weihnachtstour 2015
 date: 2016-01-03T16:32:44+00:00
-lastmod: 2018-06-30T20:47:24+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

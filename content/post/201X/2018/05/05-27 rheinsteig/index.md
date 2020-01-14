@@ -1,6 +1,6 @@
 ---
 date: "2018-05-27T21:29:12"
-lastmod: 2018-06-22T23:51:59+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 title: Rheinsteig
 author: Mathias Wellner
 resources:

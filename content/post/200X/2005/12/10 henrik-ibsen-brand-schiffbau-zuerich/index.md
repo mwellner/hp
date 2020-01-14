@@ -1,7 +1,7 @@
 ---
 title: Henrik Ibsen -- Brand
 date: 2005-12-10T23:51:41+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - theater

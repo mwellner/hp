@@ -1,6 +1,6 @@
 ---
 date: "2019-08-31T21:02:12"
-lastmod: 2019-09-06T23:44:19+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Landesmitgliederversammlung
 slug: landesmitgliederversammlung
 author: Mathias Wellner

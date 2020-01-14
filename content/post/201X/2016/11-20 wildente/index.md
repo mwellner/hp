@@ -1,7 +1,7 @@
 ---
 title: 'Henrik Ibsen &ndash; Die Wildente'
 date: 2016-11-20T23:09:09+00:00
-lastmod: 2018-06-28T00:20:09+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - theater

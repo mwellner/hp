@@ -2,7 +2,7 @@
 title: Robert Gernhardt – Toscana-​​Therapie
 slug: robert-gernhardt-toscana-therapie
 date: 2011-05-14T13:18:18+00:00
-lastmod: 2019-09-10T00:00:52+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources: 
 - { name: fruehstueck, src: fruehstueck.jpg, title: Karin, Viktor und Gerhard beim Frühstück }

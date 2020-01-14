@@ -1,7 +1,7 @@
 ---
 title: Vier-Seen-Wanderung
 date: 2011-06-27T23:27:35+00:00
-lastmod: 2017-09-18T22:28:53+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - bilder

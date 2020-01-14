@@ -1,7 +1,7 @@
 ---
 title: Stockholm
 date: 2014-01-06T21:55:29+00:00
-lastmod: 2018-06-30T22:39:55+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 resources:
   - name: abend

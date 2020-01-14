@@ -1,7 +1,7 @@
 ---
 title: A Hologram for the King
 date: 2016-05-19T23:34:20+00:00
-lastmod: 2018-06-28T00:22:00+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - movies

@@ -1,6 +1,6 @@
 ---
 date: "2018-08-24T21:23:12"
-lastmod: 2018-09-12T00:03:58+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Extending Angular Components
 author: Mathias Wellner
 categories:

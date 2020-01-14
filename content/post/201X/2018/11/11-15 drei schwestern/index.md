@@ -1,6 +1,6 @@
 ---
 date: "2018-11-15T22:29:12"
-lastmod: 2018-11-17T00:09:14+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Blake Morrison -- Wir sind drei Schwestern
 slug: blake-morrison-drei-schwestern
 author: Mathias Wellner

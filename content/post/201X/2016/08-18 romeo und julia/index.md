@@ -2,7 +2,7 @@
 title: Romeo und Julia
 slug: romeo-julia
 date: 2016-08-18T23:02:25+00:00
-lastmod: 2018-06-28T00:22:00+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 resources:
   - name: kampf

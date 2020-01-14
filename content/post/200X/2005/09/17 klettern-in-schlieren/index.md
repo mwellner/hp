@@ -1,7 +1,7 @@
 ---
 title: Klettern in Schlieren
 date: 2005-09-17T11:58:46+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - klettern

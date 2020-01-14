@@ -1,7 +1,7 @@
 ---
 title: SOLA-Stafette, Strecke 8
 date: 2016-05-21T18:39:21+00:00
-lastmod: 2018-06-28T00:22:00+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - sport

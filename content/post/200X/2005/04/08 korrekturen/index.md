@@ -2,7 +2,7 @@
 
 title: Korrekturen -- es nimmt einfach kein Ende
 date: 2005-04-08T15:03:27+00:00
-lastmod: 2017-09-19T23:14:15+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,6 +1,6 @@
 ---
 date: "2019-09-10T07:02:12"
-lastmod: 2019-09-12T22:49:47+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Radfahren in Darmstadt
 slug: radfahren-darmstadt
 author: Mathias Wellner

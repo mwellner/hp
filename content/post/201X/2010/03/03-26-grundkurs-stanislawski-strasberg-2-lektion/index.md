@@ -1,7 +1,7 @@
 ---
 title: Grundkurs Stanislawski-Strasberg, 2. Lektion
 date: 2010-03-26T00:11:10+00:00
-lastmod: 2019-09-07T00:12:35+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

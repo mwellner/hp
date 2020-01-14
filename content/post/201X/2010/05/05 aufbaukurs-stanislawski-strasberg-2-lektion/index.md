@@ -1,7 +1,7 @@
 ---
 title: Aufbaukurs Stanislawski-Strasberg, 2. Lektion
 date: 2010-05-05T23:55:03+00:00
-lastmod: 2017-12-18T20:23:07+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

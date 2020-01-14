@@ -2,7 +2,7 @@
 title: Richard Wagner -- Lohengrin
 slug: richard-wagner-lohengrin
 date: 2014-10-18T23:58:43+00:00
-lastmod: 2018-07-01T22:55:40+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - oper

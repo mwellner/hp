@@ -1,7 +1,7 @@
 ---
 title: Wiesbaden
 date: 2017-03-25T19:45:23+01:00
-lastmod: 2019-01-03T16:21:36+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 resources:
   - name: kirche1
     src: kirche1.jpg

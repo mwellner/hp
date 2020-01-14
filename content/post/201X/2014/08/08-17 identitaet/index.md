@@ -1,7 +1,7 @@
 ---
 title: Identität, Max Frisch, Biografie
 date: 2014-08-17T11:12:02+00:00
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - theater

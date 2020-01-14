@@ -1,7 +1,7 @@
 ---
 title: ZES-Kameratraining
 date: 2011-08-19T22:09:45+00:00
-lastmod: 2019-09-07T00:10:23+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

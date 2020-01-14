@@ -1,7 +1,7 @@
 ---
 title: Richard Avedon
 date: 2014-09-14T22:40:14+00:00
-lastmod: 2018-07-01T22:51:01+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - fotografie

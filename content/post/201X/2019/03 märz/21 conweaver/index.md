@@ -1,6 +1,6 @@
 ---
 date: "2019-03-21T22:02:12"
-lastmod: 2019-04-24T20:52:31+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Letzter Tag bei CONWEAVER
 slug: letzter-tag-conweaver
 author: Mathias Wellner

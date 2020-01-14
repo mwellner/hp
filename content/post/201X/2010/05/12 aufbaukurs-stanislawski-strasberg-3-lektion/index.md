@@ -1,7 +1,7 @@
 ---
 title: Aufbaukurs Stanislawski-Strasberg, 3. Lektion
 date: 2010-05-12T23:13:50+00:00
-lastmod: 2019-09-07T00:09:33+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

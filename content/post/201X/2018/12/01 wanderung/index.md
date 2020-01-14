@@ -1,6 +1,6 @@
 ---
 date: "2018-12-01T19:29:12"
-lastmod: 2018-12-02T23:24:22+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Wanderung im Odenwald
 author: Mathias Wellner
 resources:

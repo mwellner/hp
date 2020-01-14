@@ -1,7 +1,7 @@
 ---
 title: Weihnachten in der Ferne
 date: 2002-12-25T23:47:48+00:00
-lastmod: 2018-07-09T23:29:19+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

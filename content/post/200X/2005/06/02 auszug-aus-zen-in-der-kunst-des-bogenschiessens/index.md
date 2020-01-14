@@ -1,7 +1,7 @@
 ---
 title: 'Auszug aus: Zen in der Kunst des Bogenschießens'
 date: 2005-06-02T12:18:58+00:00
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2020-01-13T21:38:48+00:00
 author: Mathias Wellner
 categories:
   - literatur

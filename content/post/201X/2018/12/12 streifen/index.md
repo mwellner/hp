@@ -1,6 +1,6 @@
 ---
 date: "2018-12-12T15:29:12"
-lastmod: 2018-12-12T22:22:08+00:00
+lastmod: 2020-01-13T21:38:52+00:00
 title: Klimastreifen
 author: Mathias Wellner
 resources:

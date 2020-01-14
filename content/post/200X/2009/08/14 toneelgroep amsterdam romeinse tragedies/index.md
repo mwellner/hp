@@ -2,7 +2,7 @@
 title: 'Toneelgroep Amsterdam -- Romeinse tragedies'
 slug: toneelgroep-amsterdam-romeinse-tragedies
 date: 2009-08-14T23:51:40+00:00
-lastmod: 2018-12-07T20:22:24+00:00
+lastmod: 2020-01-13T21:38:49+00:00
 author: Mathias Wellner
 categories:
   - theater

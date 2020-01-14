@@ -1,6 +1,6 @@
 ---
 date: "2018-07-14T20:29:12"
-lastmod: 2018-07-28T13:56:49+00:00
+lastmod: 2020-01-13T21:38:51+00:00
 title: Dunnottar Castle
 author: Mathias Wellner
 resources:

@@ -1,7 +1,7 @@
 ---
 title: 'Biografie: Ein Spiel'
 date: 2014-09-25T23:35:10+00:00
-lastmod: 2018-07-01T22:52:02+00:00
+lastmod: 2020-01-13T21:38:50+00:00
 author: Mathias Wellner
 categories:
   - theater

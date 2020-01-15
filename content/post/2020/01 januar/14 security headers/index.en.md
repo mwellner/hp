@@ -22,7 +22,7 @@ Finally, the test at [securityheaders.com](https://securityheaders.com/) shows a
 
 #### Apache Config
 
-One tricky thing was how to set the [Content-Security-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) header, which can grow to a quite long line. Luckily, the Apache [headers module](http://httpd.apache.org/docs/current/mod/mod_headers.html) offers quite some directives to add, modify and append to response headers. Especially _append_ helps to split a long header statement on multiple lines. But this alone will not work, as _append_ uses commas to separate the header directives. But the [Content-Security-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) policy directives must be separated by semicolons. And here, another header directive comes to the rescue -- __edit*__ does a RegEx replace for multiple occurrences. 
+One tricky thing was how to set the [Content-Security-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) header, which can grow to a very long statement. Luckily, the Apache [headers module](http://httpd.apache.org/docs/current/mod/mod_headers.html) offers quite some directives to add, modify and append to response headers. _Append_ helps to split a long header statement on multiple lines. But this alone will not work, as _append_ uses commas to separate the header directives. But the [Content-Security-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) policy directives must be separated by semicolons. And here, another header directive comes to the rescue -- __edit*__ does a RegEx replace for multiple occurrences. 
 
 {{<highlight apache "linenos=table">}}
 <VirtualHost *:443>

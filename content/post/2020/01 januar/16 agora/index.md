@@ -25,4 +25,4 @@ Ort
 : [Agora](https://www.agora-eg.de/), Erbacher Str. 89, 64287 Darmstadt
 
 Eintritt
-: frei (Kollekte)
+: frei (Spendenhut)

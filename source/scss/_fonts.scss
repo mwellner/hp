@@ -30,16 +30,14 @@
   font-family: "Spectral";
   font-style: normal;
   font-weight: normal;
-  src: local("Spectral Regular"),
-    url("/fonts/Spectral-Regular.woff") format("woff");
+  src: url("/fonts/Spectral-Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "Spectral";
   font-style: italic;
   font-weight: normal;
-  src: local("Spectral Italic"),
-    url("/fonts/Spectral-Italic.woff") format("woff");
+  src: url("/fonts/Spectral-Italic.woff") format("woff");
 }
 
 @font-face {
@@ -85,37 +83,33 @@
   font-family: "Spectral";
   font-style: italic;
   font-weight: 500;
-  src: local("Spectral Medium Italic"),
-    url("/fonts/Spectral-MediumItalic.woff") format("woff");
+  src: url("/fonts/Spectral-MediumItalic.woff") format("woff");
 }
 
 @font-face {
   font-family: "Spectral";
   font-style: normal;
   font-weight: 600;
-  src: local("Spectral SemiBold"),
-    url("/fonts/Spectral-SemiBold.woff") format("woff");
+  src: url("/fonts/Spectral-SemiBold.woff") format("woff");
 }
 
 @font-face {
   font-family: "Spectral";
   font-style: italic;
   font-weight: 600;
-  src: local("Spectral SemiBold Italic"),
-    url("/fonts/Spectral-SemiBoldItalic.woff") format("woff");
+  src: url("/fonts/Spectral-SemiBoldItalic.woff") format("woff");
 }
 
 @font-face {
   font-family: "Spectral";
   font-style: normal;
   font-weight: bold;
-  src: local("Spectral Bold"), url("/fonts/Spectral-Bold.woff") format("woff");
+  src: url("/fonts/Spectral-Bold.woff") format("woff");
 }
 
 @font-face {
   font-family: "Spectral";
   font-style: italic;
   font-weight: bold;
-  src: local("Spectral Bold Italic"),
-    url("/fonts/Spectral-BoldItalic.woff") format("woff");
+  src: url("/fonts/Spectral-BoldItalic.woff") format("woff");
 }

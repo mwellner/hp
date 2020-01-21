@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Fira Sans";
+  src: url("/fonts/FiraSans-Regular.woff2") format("woff2"),
+    url("/fonts/FiraSans-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("/fonts/FiraSans-Italic.woff2") format("woff2"),
+    url("/fonts/FiraSans-Italic.woff") format("woff");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("/fonts/FiraSans-Bold.woff2") format("woff2"),
+    url("/fonts/FiraSans-Bold.woff") format("woff");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Fira Sans";
+  src: url("/fonts/FiraSans-BoldItalic.woff2") format("woff2"),
+    url("/fonts/FiraSans-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+}

@@ -10,9 +10,9 @@
   var staticCacheName = "static";
   var pagesCacheName = "pages";
   var imagesCacheName = "images";
-  var version = "v8::";
+  var version = "v9::";
   var staticAssets = [
-    "/css/style8.css",
+    "/css/style9.css",
     "/images/wmo_stripes_dark.png",
     "/images/wmo_stripes_bg.png",
     "/js/jquery-3.4.1.slim.min.js",

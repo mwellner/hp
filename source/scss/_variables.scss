@@ -2,7 +2,7 @@
 $font-family-serif: "Spectral", Georgia, "Times New Roman", Times, serif;
 $font-family-sans-serif: "Fira Sans", sans-serif;
 $blockquote-font-size: 1.06rem;
-$blockquote-border-color: #BBB;
+$blockquote-border-color: #bbb;
 $enable-responsive-font-sizes: true;
 $font-size-base: 1.15rem;
 $rfs-font-size-base: 1.15rem;
@@ -16,13 +16,19 @@ $h6-font-size: $font-size-base * 1.21;
 /* colors */
 $brand-primary: hsla(48, 90%, 70%, 0.8);
 $primary: hsla(350, 100%, 25%, 1);
-$theme-colors: ("primary": $primary);
+$theme-colors: (
+  "primary": $primary
+);
 $link-color: $primary;
 
 /* navbar */
 $navbar-dark-color: hsla(0, 0%, 100%, 0.7);
 $navbar-dark-toggler-border-color: hsla(0, 0%, 100%, 0.5);
-$navbar-dark-toggler-icon-bg: str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#{$navbar-dark-color}' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"), "#", "%23");
+$navbar-dark-toggler-icon-bg: str-replace(
+  url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#{$navbar-dark-color}' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"),
+  "#",
+  "%23"
+);
 
 /* borders */
 $border-radius: 0.5rem;

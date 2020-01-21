@@ -25,3 +25,97 @@
   font-weight: bold;
   font-style: italic;
 }
+
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Spectral Regular"),
+    url("/fonts/Spectral-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: italic;
+  font-weight: normal;
+  src: local("Spectral Italic"),
+    url("/fonts/Spectral-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: 200;
+  src: local("Spectral ExtraLight"),
+    url("/fonts/Spectral-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: italic;
+  font-weight: 200;
+  src: local("Spectral ExtraLight Italic"),
+    url("/fonts/Spectral-ExtraLightItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Spectral Light"), url("/fonts/Spectral-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: italic;
+  font-weight: 300;
+  src: local("Spectral Light Italic"),
+    url("/fonts/Spectral-LightItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Spectral Medium"),
+    url("/fonts/Spectral-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: italic;
+  font-weight: 500;
+  src: local("Spectral Medium Italic"),
+    url("/fonts/Spectral-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Spectral SemiBold"),
+    url("/fonts/Spectral-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: italic;
+  font-weight: 600;
+  src: local("Spectral SemiBold Italic"),
+    url("/fonts/Spectral-SemiBoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: normal;
+  font-weight: bold;
+  src: local("Spectral Bold"), url("/fonts/Spectral-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Spectral";
+  font-style: italic;
+  font-weight: bold;
+  src: local("Spectral Bold Italic"),
+    url("/fonts/Spectral-BoldItalic.woff") format("woff");
+}

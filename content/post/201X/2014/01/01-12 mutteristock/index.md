@@ -1,7 +1,7 @@
 ---
 title: Mutteristock
 date: 2014-01-12T23:22:43+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources:
   - name: bergsicht

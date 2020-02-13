@@ -1,7 +1,7 @@
 ---
 title: Wanderung auf den Kleinen Mythen
 date: 2008-06-15T12:25:47+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

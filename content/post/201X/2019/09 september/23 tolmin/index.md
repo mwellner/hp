@@ -2,7 +2,7 @@
 title: Tolminklamm
 slug: tolminklamm
 date: 2019-09-23T13:18:18+00:00
-lastmod: 2020-01-13T21:38:52+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources: 
 - { name: baerenkopf, src: baerenkopf.jpg, title: Bärenkopf }

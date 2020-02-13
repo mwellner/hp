@@ -1,7 +1,7 @@
 ---
 title: Sprache im Theater
 date: 2010-03-07T02:04:42+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - theater

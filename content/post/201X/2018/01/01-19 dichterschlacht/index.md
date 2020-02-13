@@ -1,6 +1,6 @@
 ---
 date: "2018-01-19T23:24:21"
-lastmod: 2020-01-13T21:38:51+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 title: Dichterschlacht Nummer 50
 slug: dichterschlacht
 author: Mathias Wellner

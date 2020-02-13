@@ -1,7 +1,7 @@
 ---
 title: Wasserballett
 date: 2014-12-25T23:59:48+00:00
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources:
   - name: szene

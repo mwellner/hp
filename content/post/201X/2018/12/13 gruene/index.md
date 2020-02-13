@@ -1,6 +1,6 @@
 ---
 date: "2018-12-13T20:29:12"
-lastmod: 2020-01-13T21:38:52+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 title: Die Grünen Darmstadt
 author: Mathias Wellner
 resources:

@@ -1,6 +1,6 @@
 ---
 date: "2018-12-01T22:29:12"
-lastmod: 2020-01-13T21:38:52+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 title: Faust I
 slug: goethe-faust
 author: Mathias Wellner

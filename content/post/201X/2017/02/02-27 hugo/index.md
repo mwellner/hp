@@ -1,7 +1,7 @@
 ---
 title: Hugo
 date: 2017-02-27T22:40:24+01:00
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 categories:
   - software
 tags:

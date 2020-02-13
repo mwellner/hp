@@ -2,7 +2,7 @@
 title: Ljubljana
 slug: ljubljana
 date: 2019-09-27T22:18:18+00:00
-lastmod: 2020-01-13T21:38:52+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources: 
 - { name: lampe, src: lampe.jpg, title: Abendlicher Aufstieg zur Festung }

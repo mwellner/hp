@@ -1,7 +1,7 @@
 ---
 title: WordPress and og:image
 date: 2015-10-24T11:50:25+00:00
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - software

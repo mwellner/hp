@@ -2,7 +2,7 @@
 title: Samuel Beckett -- Warten auf Godot
 slug: samule-beckett-godot
 date: 2007-06-25T22:34:45+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - theater

@@ -1,7 +1,7 @@
 ---
 title: EUMETSAT
 date: 2017-05-05T18:32:30+01:00
-lastmod: 2020-01-13T21:38:51+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources:
   - name: meteosat

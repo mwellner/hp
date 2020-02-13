@@ -1,7 +1,7 @@
 ---
 title: Henry und seine Gitarre
 date: 2016-02-17T22:42:54+00:00
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources:
   - name: gitarre

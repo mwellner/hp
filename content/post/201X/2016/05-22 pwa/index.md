@@ -1,7 +1,7 @@
 ---
 title: Progressive Web Apps
 date: 2016-05-22T23:04:24+00:00
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - software

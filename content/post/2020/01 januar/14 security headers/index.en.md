@@ -1,7 +1,7 @@
 ---
 title: Security Headers
 date: 2020-01-14T19:22:12+00:00
-lastmod: 2020-01-14T20:23:07+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - software

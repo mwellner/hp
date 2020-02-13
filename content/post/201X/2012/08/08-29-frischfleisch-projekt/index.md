@@ -1,7 +1,7 @@
 ---
 title: Frischfleisch-Projekt
 date: 2012-08-29T23:11:25+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - theater

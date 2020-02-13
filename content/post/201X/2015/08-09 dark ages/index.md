@@ -2,7 +2,7 @@
 title: Milo Rau -- The Dark Ages
 slug: milo-rau-dark-ages
 date: 2015-08-09T15:05:12+00:00
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - theater

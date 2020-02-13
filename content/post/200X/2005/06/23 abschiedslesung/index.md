@@ -1,7 +1,7 @@
 ---
 title: Abschiedslesung, der Morgen danach
 date: 2005-06-23T06:15:55+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - tagebuch

@@ -1,6 +1,6 @@
 ---
 date: "2017-10-13T23:38:41"
-lastmod: 2020-01-13T21:38:51+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 title: Der Löwe im Winter -- Personenkonstellation
 slug: loewe-im-winter-figuren
 author: Mathias Wellner

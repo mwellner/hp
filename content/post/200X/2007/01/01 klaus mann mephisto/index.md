@@ -2,7 +2,7 @@
 title: Klaus Mann -- Mephisto
 slug: klaus-mann-mephisto
 date: 2007-01-01T15:31:13+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 tags:
   - klaus mann

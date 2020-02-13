@@ -2,7 +2,7 @@
 title: Top Dogs -- Premiere
 slug: top-dogs-premiere
 date: 2010-10-10T12:49:54+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources:
   - name: paradeplatz

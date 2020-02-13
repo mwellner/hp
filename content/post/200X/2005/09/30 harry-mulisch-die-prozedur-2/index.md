@@ -1,7 +1,7 @@
 ---
 title: Harry Mulisch -- Die Prozedur
 date: 2005-09-30T20:09:46+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - literatur

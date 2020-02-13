@@ -1,6 +1,6 @@
 ---
 date: "2018-01-14T11:24:21"
-lastmod: 2020-01-13T21:38:51+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 title: Anton Tschechow -- Der Bär
 slug: anton-tschechow-der-baer
 author: Mathias Wellner

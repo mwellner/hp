@@ -1,6 +1,6 @@
 ---
 date: "2019-12-22T23:02:12"
-lastmod: 2020-01-13T21:38:53+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 title: Art Night
 slug: art-night
 author: Mathias Wellner

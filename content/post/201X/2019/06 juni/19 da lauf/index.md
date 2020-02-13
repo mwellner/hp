@@ -1,6 +1,6 @@
 ---
 date: "2019-06-19T21:02:12"
-lastmod: 2020-01-13T21:38:52+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 title: Darmstädter Stadtlauf
 slug: darmstadt-lauf
 author: Mathias Wellner

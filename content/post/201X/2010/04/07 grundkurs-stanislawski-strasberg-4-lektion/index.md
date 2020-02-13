@@ -1,7 +1,7 @@
 ---
 title: Grundkurs Stanislawski-Strasberg, 4. Lektion
 date: 2010-04-07T23:58:36+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 aliases: 
   - /2010/04/07/grundkurs-stanislawski-strasberg-4-lektion/

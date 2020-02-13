@@ -2,7 +2,7 @@
 title: Hamlet -- The Denmark Corporation
 slug: hamlet-denmark-corporation
 date: 2007-08-12T11:59:00+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - theater

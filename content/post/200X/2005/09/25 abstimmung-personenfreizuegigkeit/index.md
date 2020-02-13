@@ -1,7 +1,7 @@
 ---
 title: Abstimmung Personenfreizügigkeit
 date: 2005-09-25T12:39:34+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - politik

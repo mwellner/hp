@@ -1,7 +1,7 @@
 ---
 title: Als ich schlief
 date: 2008-07-01T23:19:33+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - literatur

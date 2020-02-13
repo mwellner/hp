@@ -1,7 +1,7 @@
 ---
 title: Dresden zu Ostern
 date: 2011-04-25T23:57:19+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - reisen

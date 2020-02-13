@@ -1,7 +1,7 @@
 ---
 title: Elias Canetti
 date: 2005-05-01T19:34:23+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - literature

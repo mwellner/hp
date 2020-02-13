@@ -2,7 +2,7 @@
 title: Dresden -- I still love you
 slug: dresden-i-still-love-you
 date: 2013-12-28T12:49:33+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources:
   - name: hofkirche

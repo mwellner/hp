@@ -2,7 +2,7 @@
 title: Friedrich Dürrenmatt -- Die Panne
 slug: friedrich-duerrenmatt-die-panne
 date: 2010-11-05T23:41:33+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - theater

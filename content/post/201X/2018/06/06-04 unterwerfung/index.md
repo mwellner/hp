@@ -1,6 +1,6 @@
 ---
 date: "2018-06-04T21:12:12"
-lastmod: 2020-01-13T21:38:51+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 title: Michel Houellebecq -- Unterwerfung
 slug: michel-houellebecq-unterwerfung
 author: Mathias Wellner

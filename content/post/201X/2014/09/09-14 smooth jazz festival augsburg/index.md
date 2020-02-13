@@ -1,7 +1,7 @@
 ---
 title: Smooth Jazz Festival Augsburg
 date: 2014-09-14T00:00:35+00:00
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - reisen

@@ -1,7 +1,7 @@
 ---
 title: Mannheim und Heidelberg
 date: 2014-10-26T23:01:25+00:00
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources:
   - name: wasserturm

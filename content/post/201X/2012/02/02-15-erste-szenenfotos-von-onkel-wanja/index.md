@@ -2,7 +2,7 @@
 title: Onkel Wanja -- Szenenfotos
 slug: anton-tschechow-onkel-wanja
 date: 2012-02-15T23:19:34+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - theater

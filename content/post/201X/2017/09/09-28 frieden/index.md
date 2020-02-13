@@ -1,6 +1,6 @@
 ---
 date: "2017-09-28T22:08:41"
-lastmod: 2020-01-13T21:38:51+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 title: Ein bisschen Frieden
 author: Mathias Wellner
 resources:

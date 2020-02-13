@@ -2,7 +2,7 @@
 title: Jonathan Safran Foer -- Tiere essen
 slug: jonathan-safran-foer-tiere-essen
 date: 2011-01-17T23:53:25+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - literatur

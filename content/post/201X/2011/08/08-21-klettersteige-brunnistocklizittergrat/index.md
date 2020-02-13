@@ -1,7 +1,7 @@
 ---
 title: Klettersteige Brunnistöckli/Zittergrat
 date: 2011-08-21T21:33:52+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - klettern

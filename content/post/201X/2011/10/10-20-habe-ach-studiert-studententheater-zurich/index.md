@@ -2,7 +2,7 @@
 title: Habe ach! studiert
 slug: habe-ach-studiert
 date: 2011-10-20T23:18:38+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 categories:
   - theater

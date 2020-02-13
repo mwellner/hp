@@ -1,6 +1,6 @@
 ---
 date: "2019-06-21T21:02:12"
-lastmod: 2020-01-13T21:38:52+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 title: Gardasee
 slug: gardasee
 author: Mathias Wellner

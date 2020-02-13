@@ -2,7 +2,7 @@
 title: Ich, treu, suche -- Mühlhofen
 slug: ich-treu-suche-muehlhofen
 date: 2013-11-17T12:57:58+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources:
   - name: szenenbild

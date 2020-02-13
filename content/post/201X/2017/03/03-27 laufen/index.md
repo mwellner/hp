@@ -1,7 +1,7 @@
 ---
 title: Laufen in Darmstadt-Nord
 date: 2017-03-27T08:32:34+01:00
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 resources:
   - name: waldspirale
     src: waldspirale.jpg

@@ -2,7 +2,7 @@
 title: Kopfkino-Auftritt im Agora
 slug: kopfkino-agora
 date: 2020-01-16T19:22:12+00:00
-lastmod: 2020-01-16T20:23:07+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 author: Mathias Wellner
 resources:
   - { name: agora, src: agora.jpg, title: Szenenfoto vom Auftritt in Arheilgen }

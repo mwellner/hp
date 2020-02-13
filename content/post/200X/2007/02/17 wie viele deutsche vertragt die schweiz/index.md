@@ -1,7 +1,7 @@
 ---
 title: Wie viele Deutsche verträgt die Schweiz?
 date: 2007-02-17T23:34:36+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - politik

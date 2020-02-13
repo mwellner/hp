@@ -1,7 +1,7 @@
 ---
 title: Der Löwe im Winter
 date: "2017-03-07T20:32:34+01:00"
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 resources:
   - name: geschwister
     src: geschwister.jpg

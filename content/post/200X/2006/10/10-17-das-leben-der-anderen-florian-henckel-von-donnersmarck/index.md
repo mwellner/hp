@@ -1,7 +1,7 @@
 ---
 title: Das Leben der Anderen
 date: 2006-10-17T00:22:22+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - film

@@ -1,7 +1,7 @@
 ---
 title: How to add logos to all your pages with LaTeX
 date: 2008-01-18T17:11:04+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - science

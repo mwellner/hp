@@ -2,7 +2,7 @@
 title: Die Brücke
 slug: die-bruecke
 date: 1999-03-30T21:18:11+00:00
-lastmod: 2020-01-13T21:38:48+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - schreiben

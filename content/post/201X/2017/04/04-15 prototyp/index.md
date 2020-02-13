@@ -1,7 +1,7 @@
 ---
 title: Prototyp-Basteln
 date: 2017-04-15T15:52:37+01:00
-lastmod: 2020-01-13T21:38:50+00:00
+lastmod: 2020-02-14T00:14:09+00:00
 categories:
   - software
 tags: 

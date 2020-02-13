@@ -1,7 +1,7 @@
 ---
 title: Heinrich Harrer -- Sieben Jahre in Tibet
 date: 2009-07-22T11:12:03+00:00
-lastmod: 2020-01-13T21:38:49+00:00
+lastmod: 2020-02-14T00:14:08+00:00
 author: Mathias Wellner
 categories:
   - literatur

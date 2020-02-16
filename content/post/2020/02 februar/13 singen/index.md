@@ -2,10 +2,10 @@
 title: Sing mal wieder
 slug: sing-mal-wieder
 date: 2020-02-13T19:22:12+00:00
-lastmod: 2020-02-14T00:14:09+00:00
+lastmod: 2020-02-16T21:15:34+00:00
 author: Mathias Wellner
 categories:
-  - singen
+  - tagebuch
 ---
 
 Ich singe gerne, bin damit aufgewachsen im Gottesdienst, Notenkunde im Gesangsbuch, langsame Melodien mit der Orgel, die Kraft der vielen Stimmen. Und auch bei Familienfeiern singen wir regelmäßig, eine sehr spezielle Zusammenstellung von Liedern. Deshalb kam der Vorschlag einer Bekannten wie gerufen, eine Schnupperstunde Gesangsunterricht bei [Pamela Fay-Küper](https://jedermenschkannsingen.de/).

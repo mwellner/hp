@@ -8,7 +8,9 @@
   <a href="{{ .Permalink }}">
     <img class="card-img-top"
       src="{{$image320.RelPermalink}}" 
-      srcset="{{$image320.RelPermalink}} 320w, {{$image540.RelPermalink}} 540w">
+      srcset="{{$image320.RelPermalink}} 320w, {{$image540.RelPermalink}} 540w"
+      loading="lazy"
+    >
   </a>
   {{ end }}
   <div class="card-body">

@@ -2,7 +2,6 @@
 {{ $image320 := $image.Resize "320x" }}
 {{ $image640 := $image.Resize "640x" }}
 
-<img class="card-img-top mt-0" 
-    src="{{ $image320.RelPermalink }}" 
-    srcset="{{ $image320.RelPermalink }} 320w, {{ $image640.RelPermalink }} 640w" 
-    {{ with $image.Title }} alt="{{.}}" {{ end }}>
+<img class="card-img-top mt-0" src="{{ $image320.RelPermalink }}"
+  srcset="{{ $image320.RelPermalink }} 320w, {{ $image640.RelPermalink }} 640w" {{ with $image.Title }} alt="{{.}}"
+  {{ end }} loading="lazy" />

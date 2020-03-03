@@ -1,6 +1,6 @@
 ---
 date: "2018-10-30T19:16:21"
-lastmod: 2020-02-16T22:00:52+00:00
+lastmod: 2020-03-03T23:04:43+00:00
 title: Image Handling with Hugo
 author: Mathias Wellner
 categories:

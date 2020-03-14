@@ -14,11 +14,13 @@ tags:
 I still remember when I heard [PostgreSQL](https://www.postgresql.org/) for the first time. It was around 2001, when my former room mate mentioned that he was a maintainer for _PostgreSQL_ on Debian. At that time, I was still studying electrical engineering, so database systems were no concern to me. But I knew something was there and even used _PostgreSQL_ for some projects, professional and private. Today I held a presentation for my fellow developers at [wer denkt was](https://werdenktwas.de/), comparing _PostgreSQL_ with [MySQL](https://www.mysql.com/de/). 
 <!--more-->
 
-### Introduction
+## Introduction
 
 Over the last years, both systems have added lots of functionality and became much closer with respect to features. The [Dumper Blog](https://blog.dumper.io/) did a [comparison of MySQL 8 and PostgreSQL 10](https://blog.dumper.io/showdown-mysql-8-vs-postgresql-10/) in 2018. While _MySQL_ added [common table expressions](https://www.postgresql.org/docs/9.1/queries-with.html) and [window functions](https://www.postgresql.org/docs/9.1/tutorial-window.html) and improved JSON support and geospatial features, _PostgreSQL_ introduced [logical replication](https://www.postgresql.org/docs/10/logical-replication.html), semi-synchronous replication and declarative partitioning. 
 
 In this blog, I will highlight the remaining differences between the two most widely used open-source SQL implementations. 
+
+## Comparison
 
 #### Table inheritance
 
@@ -115,6 +117,6 @@ So I was running a sample bounding-box query on all available jobs, using a boun
 
 There is ample discussion about performance, most favoring _MySQL_ for read-heavy loads and _PostgreSQL_ for read/write-heavy applications. So this depends very much on the application in question. 
 
-#### Conclusion
+## Conclusion
 
 After all, I hoped to show that _PostgreSQL_ is a viable alternative to _MySQL_ with more advanced features. 

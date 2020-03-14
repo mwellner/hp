@@ -1,7 +1,7 @@
 ---
 title: PostgreSQL revisited
 date: 2020-03-11T19:22:12+00:00
-lastmod: 2020-02-14T00:13:59+00:00
+lastmod: 2020-03-11T23:59:06+00:00
 author: Mathias Wellner
 categories:
   - software
@@ -52,6 +52,53 @@ CREATE MATERIALIZED VIEW all_city_matview AS SELECT * FROM city;
 
 -- refresh materialized view
 REFRESH MATERIALIZED VIEW all_city_matview;
+{{</highlight>}}
+
+#### Full outer joins
+
+A [full outer join](https://www.w3resource.com/sql/joins/perform-a-full-outer-join.php) can also be useful for some special kind of queries. _MySQL_ does not support this, while _PostgreSQL_ does. 
+
+{{<highlight postgresql "linenos=table">}}
+-- first table
+CREATE TABLE departments (
+  department_id serial PRIMARY KEY,
+  department_name varchar(255) NOT NULL
+);
+
+-- second table
+CREATE TABLE employees (
+  employee_id serial PRIMARY KEY,
+  employee_name varchar(255),
+  department_id integer
+);
+
+-- add data to tables
+INSERT INTO
+  departments (department_name)
+VALUES
+  ('Sales'),
+  ('Marketing'),
+  ('HR'),
+  ('IT'),
+  ('Production');
+
+INSERT INTO
+  employees (employee_name, department_id)
+VALUES
+  ('Bette Nicholson', 1),
+  ('Christian Gable', 1),
+  ('Joe Swank', 2),
+  ('Fred Costner', 3),
+  ('Sandra Kilmer', 4),
+  ('Julia Mcqueen', NULL);
+
+-- perform full outer join
+SELECT
+  employee_name,
+  department_name
+FROM
+  employees e
+  FULL OUTER JOIN departments d ON d.department_id = e.department_id;
 {{</highlight>}}
 
 #### Data types

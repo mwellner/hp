@@ -1,93 +1,98 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
-  <head>
-    {{ partial "head-meta.html" . }}
 
-    {{ block "schema-dot-org" . }}
-      <!-- schema.org metadata differs for Nodes and Pages -->
-    {{ end }}
-    <link rel="canonical" href="{{ .Permalink }}">
-    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
-    {{ if .RSSLink }}
-    {{ "<!-- RSS 2.0 feed -->" | safeHTML }}
-    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    {{ end }}
-    <link rel="prefetch" href="{{ .Site.BaseURL }}images/wmo_stripes_dark.png">
-    <link rel="prefetch" href="{{ .Site.BaseURL }}images/wmo_stripes_bg.png">
+<head>
+  {{ partial "head-meta.html" . }}
 
-    <link rel="manifest" href="/manifest.json">
-    <link rel="apple-touch-icon" href="images/icon-192.png">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  {{ block "schema-dot-org" . }}
+  <!-- schema.org metadata differs for Nodes and Pages -->
+  {{ end }}
+  <link rel="canonical" href="{{ .Permalink }}">
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  {{ if .RSSLink }}
+  {{ "<!-- RSS 2.0 feed -->" | safeHTML }}
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ end }}
+  <link rel="prefetch" href="{{ .Site.BaseURL }}images/wmo_stripes_dark.png">
+  <link rel="prefetch" href="{{ .Site.BaseURL }}images/wmo_stripes_bg.png">
 
-    <link href="{{ .Site.BaseURL }}css/style9.css" rel="stylesheet">
-    <meta name="google-site-verification" content="qfHfoYPUsYo-Od3gvLagaJ4VT4aQ0CeyKqiQVfpnijM" />
-    <script defer src="/js/jquery-3.4.1.slim.min.js"></script>
-    <script defer src="/js/popper.min.js"></script>
-    <script defer src="/js/bootstrap.min.js"></script>
-    <script defer src="/js/solid.min.js"></script>
-    <script defer src="/js/fontawesome.min.js"></script>    
-    <script defer>
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function() {
-          navigator.serviceWorker.register('/sw.js').then(
-            function(registration) {},
-            function(err) { console.log('ServiceWorker registration failed: ', err); });
-        });
-      }
-    </script>
-  </head>
+  <link rel="manifest" href="/manifest.json">
+  <link rel="apple-touch-icon" href="images/icon-192.png">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-  <body>    
-    <nav class="navbar navbar-expand-lg navbar-dark">
-      <div class="container">
-        <a class="navbar-brand" href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title | safeHTML }}</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+  <link href="{{ .Site.BaseURL }}css/style10.css" rel="stylesheet">
+  <meta name="google-site-verification" content="qfHfoYPUsYo-Od3gvLagaJ4VT4aQ0CeyKqiQVfpnijM" />
+  <script defer src="/js/jquery-3.4.1.slim.min.js"></script>
+  <script defer src="/js/popper.min.js"></script>
+  <script defer src="/js/bootstrap.min.js"></script>
+  <script defer src="/js/solid.min.js"></script>
+  <script defer src="/js/fontawesome.min.js"></script>
+  <script defer>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('/sw.js').then(
+          function (registration) { },
+          function (err) { console.log('ServiceWorker registration failed: ', err); });
+      });
+    }
+  </script>
+</head>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item">
-              <a class="nav-link {{ if .IsHome }} active {{ end }}" href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
-            </li>
-            {{ range where .Site.RegularPages "Type" "!=" "post" }}
-            <li class="nav-item">
-              <a class="nav-link {{ if eq $.URL .URL }} active {{ end }}" href="{{ .Permalink }}">{{ .Title }}</a>
-            </li>
-            {{ end }}
-            <li class="nav-item">
-              <a class="nav-link" href="https://cse.google.com/cse/publicurl?cx=000227669616995546615:brudp0zzccw">{{ i18n "search" }}</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+      <a class="navbar-brand" href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title | safeHTML }}</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-    <main class="container">
-      <div class="row">
-        <div class="col-sm-12 blog-main">
-          
-          {{ block "main" . }}
-          <!-- The part of the page that begins to differ between templates -->
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link {{ if .IsHome }} active {{ end }}"
+              href="{{ .Site.BaseURL | absLangURL }}">{{ i18n "home" }}</a>
+          </li>
+          {{ range where .Site.RegularPages "Type" "!=" "post" }}
+          <li class="nav-item">
+            <a class="nav-link {{ if eq $.URL .URL }} active {{ end }}" href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
           {{ end }}
+          <li class="nav-item">
+            <a class="nav-link"
+              href="https://cse.google.com/cse/publicurl?cx=000227669616995546615:brudp0zzccw">{{ i18n "search" }}</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
-        </div> {{ "<!-- /.blog-main -->" | safeHTML }}
+  <main class="container">
+    <div class="row">
+      <div class="col-sm-12 blog-main">
 
-        {{ partial "sidebar.html" . }}
+        {{ block "main" . }}
+        <!-- The part of the page that begins to differ between templates -->
+        {{ end }}
 
-      </div> {{ "<!-- /.row -->" | safeHTML }}
-     </div> {{ "<!-- /.row -->" | safeHTML }}
-    </main> {{ "<!-- /.container -->" | safeHTML }}
+      </div> {{ "<!-- /.blog-main -->" | safeHTML }}
 
-    <footer class="blog-footer">
-      {{ if .Site.Copyright }}
-      <p>
+      {{ partial "sidebar.html" . }}
+
+    </div> {{ "<!-- /.row -->" | safeHTML }}
+    </div> {{ "<!-- /.row -->" | safeHTML }}
+  </main> {{ "<!-- /.container -->" | safeHTML }}
+
+  <footer class="blog-footer">
+    {{ if .Site.Copyright }}
+    <p>
       {{ .Site.Copyright | markdownify }}
-      </p>
-      {{ end }}
-      <p>
-        <a href="#" class="nav-link">{{ i18n "backToTop" }}</a>
-      </p>
-    </footer>
-  </body>  
+    </p>
+    {{ end }}
+    <p>
+      <a href="#" class="nav-link">{{ i18n "backToTop" }}</a>
+    </p>
+  </footer>
+</body>
+
 </html>

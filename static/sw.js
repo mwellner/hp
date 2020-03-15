@@ -1,6 +1,6 @@
 "use strict";
 
-(function() {
+(function () {
   var isLocalhost = Boolean(self.location.hostname === "localhost");
   if (isLocalhost) {
     console.log("Detected localhost, service worker does not cache requests");
@@ -10,9 +10,9 @@
   var staticCacheName = "static";
   var pagesCacheName = "pages";
   var imagesCacheName = "images";
-  var version = "v9::";
+  var version = "v10::";
   var staticAssets = [
-    "/css/style9.css",
+    "/css/style10.css",
     "/images/wmo_stripes_dark.png",
     "/images/wmo_stripes_bg.png",
     "/js/jquery-3.4.1.slim.min.js",
@@ -22,21 +22,21 @@
     "/js/solid.min.js"
   ];
 
-  var updateStaticCache = function() {
-    return caches.open(version + staticCacheName).then(function(cache) {
+  var updateStaticCache = function () {
+    return caches.open(version + staticCacheName).then(function (cache) {
       return cache.addAll(staticAssets);
     });
   };
 
-  var stashInCache = function(cacheName, request, response) {
-    caches.open(cacheName).then(function(cache) {
+  var stashInCache = function (cacheName, request, response) {
+    caches.open(cacheName).then(function (cache) {
       cache.put(request, response);
     });
   };
 
-  var trimCache = function(cacheName, maxItems) {
-    caches.open(cacheName).then(function(cache) {
-      cache.keys().then(function(keys) {
+  var trimCache = function (cacheName, maxItems) {
+    caches.open(cacheName).then(function (cache) {
+      cache.keys().then(function (keys) {
         if (keys.length > maxItems) {
           cache.delete(keys[0]).then(trimCache(cacheName, maxItems));
         }
@@ -44,52 +44,52 @@
     });
   };
 
-  var clearOldCaches = function() {
-    return caches.keys().then(function(keys) {
+  var clearOldCaches = function () {
+    return caches.keys().then(function (keys) {
       return Promise.all(
         keys
-          .filter(function(key) {
+          .filter(function (key) {
             return key.indexOf(version) !== 0;
           })
-          .map(function(key) {
+          .map(function (key) {
             return caches.delete(key);
           })
       );
     });
   };
 
-  var isImageUrl = function(url) {
+  var isImageUrl = function (url) {
     return url.indexOf(".jpg") !== -1 || url.indexOf(".png") !== -1;
   };
 
-  self.addEventListener("install", function(event) {
+  self.addEventListener("install", function (event) {
     event.waitUntil(
-      updateStaticCache().then(function() {
+      updateStaticCache().then(function () {
         return self.skipWaiting();
       })
     );
   });
 
-  self.addEventListener("activate", function(event) {
+  self.addEventListener("activate", function (event) {
     event.waitUntil(
-      clearOldCaches().then(function() {
+      clearOldCaches().then(function () {
         return self.clients.claim();
       })
     );
   });
-  self.addEventListener("message", function(event) {
+  self.addEventListener("message", function (event) {
     if (event.data.command == "trimCaches") {
       trimCache(version + pagesCacheName, 35);
       trimCache(version + imagesCacheName, 20);
     }
   });
 
-  self.addEventListener("fetch", function(event) {
+  self.addEventListener("fetch", function (event) {
     var request = event.request;
     // For non-GET requests, try the network first, fall back to the index page
     if (request.method !== "GET") {
       event.respondWith(
-        fetch(request).catch(function() {
+        fetch(request).catch(function () {
           return caches.match("/");
         })
       );
@@ -110,7 +110,7 @@
       }
       event.respondWith(
         fetch(request)
-          .then(function(response) {
+          .then(function (response) {
             // NETWORK
             // Stash a copy of this page in the pages cache
             var copy = response.clone();
@@ -118,9 +118,9 @@
             stashInCache(cacheName, request, copy);
             return response;
           })
-          .catch(function() {
+          .catch(function () {
             // CACHE or FALLBACK
-            return caches.match(request).then(function(response) {
+            return caches.match(request).then(function (response) {
               return response || caches.match("/");
             });
           })
@@ -130,12 +130,12 @@
 
     // For non-HTML requests, look in the cache first, fall back to the network
     event.respondWith(
-      caches.match(request).then(function(response) {
+      caches.match(request).then(function (response) {
         // CACHE
         return (
           response ||
           fetch(request)
-            .then(function(response) {
+            .then(function (response) {
               // NETWORK
               // If the request is for an image, stash a copy of this image in the images cache
               if (isImageUrl(request.url)) {
@@ -145,7 +145,7 @@
               }
               return response;
             })
-            .catch(function() {
+            .catch(function () {
               // OFFLINE
               // If the request is for an image, show an offline placeholder
               if (isImageUrl(request.url)) {

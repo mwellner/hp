@@ -10,6 +10,6 @@ gulp.task("css", () =>
     .src(cssFiles)
     .pipe(sass({ outputStyle: "compressed" }).on("error", sass.logError))
     .pipe(postcss())
-    .pipe(rename({ suffix: "9" }))
+    .pipe(rename({ suffix: "10" }))
     .pipe(gulp.dest(cssDest))
 );

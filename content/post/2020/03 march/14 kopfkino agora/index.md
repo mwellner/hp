@@ -2,7 +2,7 @@
 title: Kopfkino-Auftritt
 slug: kopfkino-agora
 date: 2020-03-14T19:22:12+00:00
-lastmod: 2020-03-15T09:02:17+00:00
+lastmod: 2020-03-16T22:54:47+00:00
 author: Mathias Wellner
 resources:
   - { name: szenenfoto, src: szenenfoto.jpg, title: Szenenfoto "Dutch Square" }

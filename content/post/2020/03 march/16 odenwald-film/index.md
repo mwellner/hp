@@ -14,4 +14,4 @@ Im letzten August war ich in zwei kleinen Rollen an einem historischen Dreh im O
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wFHZlSt8z9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Die öffentliche Vorführung in Darmstadt am 27. März wird natürlich angesichts der Corona-Pandemie nicht stattfinden. 
+Die öffentliche Vorführung in Darmstadt am 27. März wird natürlich angesichts der [COVID-19-Pandemie](https://de.wikipedia.org/wiki/COVID-19-Pandemie) nicht stattfinden. 

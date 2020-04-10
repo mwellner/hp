@@ -1,6 +1,6 @@
 ---
 date: "2020-03-29T10:02:12"
-lastmod: 2020-03-29T13:05:58+00:00
+lastmod: 2020-04-10T10:58:14+00:00
 title: Pikieren
 slug: pikieren
 author: Mathias Wellner

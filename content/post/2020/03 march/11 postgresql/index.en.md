@@ -1,7 +1,7 @@
 ---
 title: PostgreSQL revisited
 date: 2020-03-11T19:22:12+00:00
-lastmod: 2020-03-16T23:06:49+00:00
+lastmod: 2020-04-10T11:21:44+00:00
 author: Mathias Wellner
 categories:
   - software

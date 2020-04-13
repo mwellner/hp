@@ -1,8 +1,8 @@
 ---
 date: "2020-04-11T19:02:12"
-lastmod: 2020-04-12T11:27:50+00:00
+lastmod: 2020-04-13T11:20:43+00:00
 title: "Fasten: 2. Tag"
-slug: fasten-tag1
+slug: fasten-tag2
 author: Mathias Wellner
 categories:
   - tagebuch

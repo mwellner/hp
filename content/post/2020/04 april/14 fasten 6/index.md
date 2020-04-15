@@ -1,6 +1,6 @@
 ---
 date: "2020-04-14T18:02:12"
-lastmod: 2020-04-13T11:48:33+00:00
+lastmod: 2020-04-15T22:18:58+00:00
 title: "Fasten: 5. Tag"
 slug: fasten-tag5
 author: Mathias Wellner
